@@ -195,4 +195,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.35,
     reasoning: 'The Queen of Hearts is an antagonist figure who orders executions and puts Alice on trial, but she is more absurd parody of authority than genuine evil — her orders are never actually carried out, and no one in Wonderland takes her seriously. The real conflict is Alice navigating a nonsensical world where logic doesn\'t apply, struggling with identity ("Who are you?") and trying to find her way home. Resolution comes by waking from a dream — the entire conflict, villain included, was literally imagined. Scored above Ferdinand (0.15) because there is a threatening authority figure, but well below Cinderella (0.85) because the antagonist is comedic, the core conflict is existential rather than villain-driven, and the resolution negates the reality of all threats.',
   },
+  {
+    title: 'Peter Pan',
+    releaseYear: 1953,
+    decade: '1950s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.85,
+    reasoning: 'Captain Hook is a genuine, iconic villain — a murderous pirate who kidnaps children, forces them to walk the plank, shoots his own crew, and plants a bomb to kill Peter Pan. The stakes are life-and-death throughout and the conflict is entirely external and villain-driven. Resolution comes through direct physical confrontation: Peter Pan sword-fights Hook and defeats him, sending him fleeing from the crocodile. Scored at 0.85 alongside Cinderella because while the hero personally confronts and defeats the villain (unlike Cinderella), Hook\'s comedic elements (bumbling crocodile fear, buffoonish moments) and the film\'s swashbuckling adventure tone temper the dramatic weight compared to Snow White (0.95) or Pinocchio (0.90).',
+  },
 ]

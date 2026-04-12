@@ -339,4 +339,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.80,
     reasoning: 'The Horned King is an unambiguously evil villain — a skeletal, demonic warlord who seeks the Black Cauldron to raise an invincible army of undead Cauldron-Born warriors and conquer the world. Stakes are life-and-death throughout: characters are captured, threatened with execution, and the Cauldron-Born kill on screen. Resolution comes through direct confrontation — Gurgi sacrifices himself by leaping into the Cauldron to destroy its power, causing the Cauldron-Born to collapse and the Horned King to be sucked into the Cauldron and destroyed. Scored at 0.80 because the villain is genuinely terrifying with no moral ambiguity and is defeated through confrontation, but the protagonist Taran does not personally vanquish the villain — it is Gurgi\'s self-sacrifice that saves the day, and Taran\'s arc is partly about learning humility rather than heroic triumph.',
   },
+  {
+    title: 'An American Tail',
+    releaseYear: 1986,
+    decade: '1980s',
+    studio: 'Sullivan Bluth Studios',
+    conflictScore: 0.70,
+    reasoning: 'Warren T. Rat is a genuine villain — a cat disguised as a rat who exploits immigrant mice, runs a sweatshop racket, and leads the Mott Street Maulers cat gang that terrorizes the mouse community. The climax is a direct confrontation: the mice build the Giant Mouse of Minsk and use it to drive the cats off the pier into the harbor, defeating Warren T. decisively. However, the film\'s emotional core is about immigration, family separation, and belonging — young Fievel\'s journey is about finding his family in a strange new country, and the ending is a tearful reunion rather than a victory celebration. Scored at 0.70 because the villain is real and defeated through collective confrontation, but the dominant narrative is a child\'s immigrant experience and the ache of separation, placing it below films where villain-defeat is the emotional climax.',
+  },
 ]

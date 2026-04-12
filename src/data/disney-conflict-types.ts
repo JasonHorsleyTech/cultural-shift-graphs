@@ -467,4 +467,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.90,
     reasoning: 'Scar is one of Disney\'s most iconic villains — a scheming, fratricidal uncle who murders Mufasa by throwing him into a wildebeest stampede, gaslights the young Simba into believing he caused his father\'s death, and seizes the throne of Pride Rock, ruling it into ruin with his hyena enforcers. The climax is a direct physical confrontation: Simba returns, exposes Scar\'s treachery before the pride, and battles him atop a burning Pride Rock before Scar is killed by his own hyena allies. Scored at 0.90 because Scar is unambiguously evil, the stakes are life-and-death across the entire film, and the resolution comes through confrontation and defeating the villain. Held slightly below 1.0 because Simba\'s internal arc — overcoming guilt, reclaiming his identity, and accepting responsibility — is a significant secondary thread that enriches the story beyond pure villain-defeat.',
   },
+  {
+    title: 'The Swan Princess',
+    releaseYear: 1994,
+    decade: '1990s',
+    studio: 'Nest Entertainment',
+    conflictScore: 0.80,
+    reasoning: 'Lord Rothbart is an unambiguous villain — an evil enchanter who murders King William, kidnaps Princess Odette, and curses her into swan form each day to coerce her into marriage so he can legally seize the kingdom. He uses dark magic, deception (sending a disguised impostor to trick Prince Derek), and ultimately transforms into a monstrous "Great Animal" for the final confrontation. Derek defeats Rothbart by shooting him with an arrow, breaking the curse. Scored at 0.80 because Rothbart is genuinely evil, the stakes are life-and-death, and the resolution is direct physical confrontation — but a meaningful secondary thread involves Derek having to prove his love for Odette goes beyond her beauty ("What else is there?"), adding a layer of personal growth and emotional maturity alongside the villain-defeat arc.',
+  },
 ]

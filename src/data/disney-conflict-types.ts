@@ -403,4 +403,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.15,
     reasoning: 'There is no villain in this film. Kiki is a young witch who moves to a new city and starts a flying delivery service as part of a coming-of-age tradition. The central conflict is entirely internal — she loses her magical powers due to self-doubt and a crisis of identity, and regains them through renewed self-belief when she must rescue her friend Tombo from a crashing dirigible. Scored at 0.15 — slightly above Totoro (0.10) because the climax has genuine physical danger and urgency, but the conflict is fundamentally about personal growth and self-understanding with zero antagonism or villainy.',
   },
+  {
+    title: 'The Little Mermaid',
+    releaseYear: 1989,
+    decade: '1980s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.90,
+    reasoning: 'Ursula is one of Disney\'s most iconic villains — a power-hungry sea witch who tricks Ariel into a Faustian bargain (trading her voice for human legs) with the hidden goal of using Ariel as a pawn to overthrow King Triton. Ursula actively sabotages Ariel\'s chance at true love by transforming into "Vanessa" to bewitch Prince Eric, then seizes Triton\'s trident to become a giant, all-powerful tyrant. The climax is a direct physical confrontation: Eric rams a ship\'s bowsprit through Ursula, destroying her. Scored at 0.90 because Ursula is unambiguously evil, drives the entire plot through manipulation and force, and is defeated through direct physical confrontation — a textbook real-villain, real-stakes narrative. Held slightly below 1.0 because Ariel\'s own desire for the human world (an internal longing) is what makes her vulnerable to Ursula in the first place, adding a layer of personal growth alongside the villain conflict.',
+  },
 ]

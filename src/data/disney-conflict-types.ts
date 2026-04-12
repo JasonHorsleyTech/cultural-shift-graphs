@@ -75,4 +75,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.80,
     reasoning: 'The giant is a genuine physical antagonist terrorizing the kingdom, and Mickey (the tailor) must defeat him through direct confrontation. The conflict is entirely external with real stakes — the giant is destructive and dangerous. Mickey defeats him through clever trickery (tying him up) rather than brute force, but it is still a clear victory-over-villain resolution. Scored slightly below Three Little Pigs because the hero\'s quest originates from a comical misunderstanding (killing "seven at one blow" referred to flies, not giants).',
   },
+  {
+    title: 'Ferdinand the Bull',
+    releaseYear: 1938,
+    decade: '1930s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.15,
+    reasoning: 'No real villain — the matador and the men selecting bulls are not malicious, just operating within their cultural system. The core conflict is a misunderstanding: Ferdinand\'s bee-sting reaction is mistaken for ferocity. Resolution comes entirely through Ferdinand\'s peaceful self-expression — he simply refuses to fight and sits smelling flowers until he\'s sent home. Remarkably close to the "modern" pattern of conflict-as-misunderstanding resolved through staying true to oneself.',
+  },
 ]

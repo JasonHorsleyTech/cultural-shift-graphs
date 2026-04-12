@@ -451,4 +451,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.70,
     reasoning: 'Hexxus is an unambiguously evil villain — an ancient spirit of destruction and pollution (voiced with menacing relish by Tim Curry) who feeds on toxic waste and seeks to annihilate the rainforest. He manipulates the logging machine into becoming his vessel and grows into a monstrous form for a direct climactic confrontation. However, the fairies defeat him not through combat but by channeling nature\'s growth magic to re-imprison him inside a tree, and the film\'s emotional core is Zak\'s transformation from an oblivious logger into someone who empathizes with the forest and its inhabitants. Scored at 0.70 because a genuine, menacing villain exists and is confronted head-on, but the resolution blends confrontation with themes of environmental empathy, collective magical cooperation, and a human character\'s internal growth toward understanding nature.',
   },
+  {
+    title: 'Batman: Mask of the Phantasm',
+    releaseYear: 1993,
+    decade: '1990s',
+    studio: 'Warner Bros.',
+    conflictScore: 0.85,
+    reasoning: 'The Joker is an unambiguously evil antagonist — a former hitman who murdered Andrea Beaumont\'s father and serves as the final physical threat in an explosive amusement-park showdown with Batman. The Phantasm (Andrea) is a morally gray vigilante systematically killing mob bosses, providing a secondary layer of real, violent conflict. The climax is resolved through direct physical confrontation: Batman battles the Joker while Andrea chooses vengeance, dragging the Joker into an explosion. Scored at 0.85 because the villains are genuine, the stakes are life-and-death, and resolution comes through combat — but Bruce Wayne\'s internal struggle between his vow to fight crime and his desire for a normal life with Andrea adds a significant emotional thread that tempers the pure villain-vs-hero dynamic.',
+  },
 ]

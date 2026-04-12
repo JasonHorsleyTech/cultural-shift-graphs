@@ -211,4 +211,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.55,
     reasoning: 'The film has real antagonists — the rat that invades the baby\'s nursery is a genuine physical villain defeated through direct confrontation (Tramp fights and kills it), and the Siamese cats Si and Am are deliberate troublemakers who frame Lady. However, the primary narrative is a romance where most conflicts stem from social misunderstanding and class prejudice: Aunt Sarah misjudges dogs and muzzles Lady unfairly, Tramp is sent to the pound based on misunderstanding, and the central love story is about bridging the gap between a sheltered uptown dog and a streetwise stray. Scored in the mid-range because the climax involves a genuine villain-confrontation (rat scene), but the overall conflict pattern is driven more by misunderstanding and social prejudice than by villainy.',
   },
+  {
+    title: 'Sleeping Beauty',
+    releaseYear: 1959,
+    decade: '1950s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.95,
+    reasoning: 'Maleficent is one of Disney\'s most purely evil villains — the self-proclaimed "Mistress of All Evil" who curses an infant princess to die out of spite for not being invited to a christening, then hunts Aurora for sixteen years and captures Prince Phillip to prevent the curse\'s undoing. The climax is a dramatic direct confrontation: Maleficent transforms into a dragon and Phillip slays her with the Sword of Truth. Scored at 0.95 alongside Snow White because both feature unambiguously evil female villains with life-and-death stakes defeated through confrontation, but the title character (Aurora) is entirely passive — asleep for the climax — and the good fairies provide critical magical aid to Phillip.',
+  },
 ]

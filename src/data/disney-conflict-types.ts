@@ -323,4 +323,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.70,
     reasoning: 'Jenner is a genuine villain — a power-hungry rat who murders Nicodemus by sabotaging the pulley system and attempts to kill Mrs. Brisby and Justin to seize the amulet and control of the colony. The stakes are life-and-death throughout (Timothy\'s illness, the farmer\'s plow, Jenner\'s murders). However, Mrs. Brisby is not a warrior — she is a timid mouse-mother whose arc is about finding courage, and the climactic resolution comes from the magical amulet activated by her love and bravery rather than defeating Jenner (who is killed by Sullivan and Justin). Scored at 0.70 because the villain is real and defeated through confrontation, but the film\'s emotional core is maternal courage and self-sacrifice, placing it below The Rescuers (0.80) and Watership Down (0.85) where protagonists more directly drive the villain\'s defeat.',
   },
+  {
+    title: 'Nausicaä of the Valley of the Wind',
+    releaseYear: 1984,
+    decade: '1980s',
+    studio: 'Topcraft',
+    conflictScore: 0.35,
+    reasoning: 'Princess Kushana and the Tolmekian military are genuine antagonists who invade the Valley of the Wind, kill Nausicaä\'s father, and plan to use an ancient Giant Warrior weapon to burn the toxic jungle — real military stakes with casualties. However, the film\'s central conflict is a profound misunderstanding: humanity sees the toxic jungle and its giant Ohmu insects as existential threats, when in fact the jungle is purifying the earth\'s pollution. Nausicaä resolves the conflict not by defeating Kushana but through empathy and self-sacrifice — she throws herself before a rampaging Ohmu herd to stop them, and they revive her with their healing power. Scored at 0.35 because while military antagonists and life-and-death stakes exist, the core message is quintessential Miyazaki: the perceived enemy is a misunderstanding, and resolution comes through compassion and understanding nature rather than defeating a villain.',
+  },
 ]

@@ -115,4 +115,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.90,
     reasoning: 'Multiple genuine villains — Stromboli imprisons Pinocchio and threatens to chop him into firewood, the Coachman traffics boys to Pleasure Island where they are transformed into donkeys (one of Disney\'s most disturbing villain schemes), and Monstro the whale is a deadly force of nature. Stakes are life-and-death throughout, and Pinocchio ultimately dies saving Geppetto from Monstro before being resurrected. Scored slightly below Snow White (0.95) because some conflicts arise from Pinocchio\'s own naivety and moral failings rather than purely villain-driven action, and the ultimate resolution (becoming a real boy) rewards moral growth alongside confrontation.',
   },
+  {
+    title: 'Dumbo',
+    releaseYear: 1941,
+    decade: '1940s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.30,
+    reasoning: 'No true villain — the gossiping elephants, taunting circus boys, and the ringmaster are cruel but not evil antagonists. The core conflict is being different and misunderstood: Dumbo\'s oversized ears make him a target for ridicule, and his mother is imprisoned for protecting him (an injustice, not villainy). Resolution comes entirely through self-discovery — Dumbo learns his "flaw" is actually a gift when he discovers he can fly — rather than through defeating any antagonist. The emotional stakes are genuine (mother-child separation, social ostracism) but the conflict pattern is remarkably close to modern "misunderstanding resolved through self-acceptance."',
+  },
 ]

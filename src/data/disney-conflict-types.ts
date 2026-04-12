@@ -259,4 +259,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.25,
     reasoning: 'No villain — the Zuckerman family and farmer Lurvy are not evil, they are simply farmers who plan to slaughter Wilbur because that is what farmers do with pigs. The life-and-death stakes are real (Wilbur will be butchered), but the threat is systemic rather than personal. Charlotte resolves the conflict entirely through communication — weaving words into her web ("Some Pig," "Terrific," "Radiant," "Humble") to change the humans\' perception and spare Wilbur\'s life. Scored at 0.25 because the stakes are genuinely lethal (above Ferdinand at 0.15), but the complete absence of a villain and the resolution through cleverness, friendship, and changing minds rather than confrontation place it well below any film with a personal antagonist.',
   },
+  {
+    title: 'Robin Hood',
+    releaseYear: 1973,
+    decade: '1970s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.75,
+    reasoning: 'Prince John is a genuine villain — a greedy usurper who taxes the people of Nottingham into poverty and imprisons those who cannot pay, while the Sheriff of Nottingham cruelly enforces his decrees. Robin Hood directly confronts the villains throughout: disguising himself at the archery tournament, raiding Prince John\'s treasury, and breaking into the castle to free imprisoned townspeople in a climax with life-and-death stakes (Robin nearly dies in a fire). However, Prince John is notably comedic and buffoonish (thumb-sucking tantrums, outwitted repeatedly), and the ultimate resolution comes through King Richard\'s return rather than Robin Hood personally defeating the tyrant. Scored at 0.75 — matching The Jungle Book — because the villains are real and directly confronted by an active hero, but the comedic tone and external-authority resolution temper the dramatic weight below films like Peter Pan (0.85) where the hero personally vanquishes the villain.',
+  },
 ]

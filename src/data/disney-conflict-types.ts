@@ -123,4 +123,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.30,
     reasoning: 'No true villain — the gossiping elephants, taunting circus boys, and the ringmaster are cruel but not evil antagonists. The core conflict is being different and misunderstood: Dumbo\'s oversized ears make him a target for ridicule, and his mother is imprisoned for protecting him (an injustice, not villainy). Resolution comes entirely through self-discovery — Dumbo learns his "flaw" is actually a gift when he discovers he can fly — rather than through defeating any antagonist. The emotional stakes are genuine (mother-child separation, social ostracism) but the conflict pattern is remarkably close to modern "misunderstanding resolved through self-acceptance."',
   },
+  {
+    title: 'Bambi',
+    releaseYear: 1942,
+    decade: '1940s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.65,
+    reasoning: 'Man is a genuine villain — an unseen but lethal force who kills Bambi\'s mother (one of cinema\'s most iconic deaths) and later sets the forest ablaze, creating real life-and-death stakes. However, Man is never seen on screen and Bambi never confronts or defeats him. The resolution comes through survival, maturation, and the continuation of the natural cycle — Bambi grows up, finds a mate, and becomes the Great Prince of the Forest. Scored in the mid-range because the villain is real and the stakes are deadly, but the conflict is resolved through endurance and growth rather than confrontation.',
+  },
 ]

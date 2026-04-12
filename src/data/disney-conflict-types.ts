@@ -331,4 +331,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.35,
     reasoning: 'Princess Kushana and the Tolmekian military are genuine antagonists who invade the Valley of the Wind, kill Nausicaä\'s father, and plan to use an ancient Giant Warrior weapon to burn the toxic jungle — real military stakes with casualties. However, the film\'s central conflict is a profound misunderstanding: humanity sees the toxic jungle and its giant Ohmu insects as existential threats, when in fact the jungle is purifying the earth\'s pollution. Nausicaä resolves the conflict not by defeating Kushana but through empathy and self-sacrifice — she throws herself before a rampaging Ohmu herd to stop them, and they revive her with their healing power. Scored at 0.35 because while military antagonists and life-and-death stakes exist, the core message is quintessential Miyazaki: the perceived enemy is a misunderstanding, and resolution comes through compassion and understanding nature rather than defeating a villain.',
   },
+  {
+    title: 'The Black Cauldron',
+    releaseYear: 1985,
+    decade: '1980s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.80,
+    reasoning: 'The Horned King is an unambiguously evil villain — a skeletal, demonic warlord who seeks the Black Cauldron to raise an invincible army of undead Cauldron-Born warriors and conquer the world. Stakes are life-and-death throughout: characters are captured, threatened with execution, and the Cauldron-Born kill on screen. Resolution comes through direct confrontation — Gurgi sacrifices himself by leaping into the Cauldron to destroy its power, causing the Cauldron-Born to collapse and the Horned King to be sucked into the Cauldron and destroyed. Scored at 0.80 because the villain is genuinely terrifying with no moral ambiguity and is defeated through confrontation, but the protagonist Taran does not personally vanquish the villain — it is Gurgi\'s self-sacrifice that saves the day, and Taran\'s arc is partly about learning humility rather than heroic triumph.',
+  },
 ]

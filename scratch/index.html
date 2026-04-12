@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>cultural-shift-graphs — infra test</title>
+    <style>
+      body {
+        font-family: -apple-system, system-ui, sans-serif;
+        max-width: 40rem;
+        margin: 4rem auto;
+        padding: 0 1rem;
+        line-height: 1.5;
+        color: #111;
+      }
+      h1 { font-size: 1.5rem; }
+      code { background: #f2f2f2; padding: 0 0.25rem; border-radius: 3px; }
+      .tag {
+        display: inline-block;
+        background: #111;
+        color: #fff;
+        padding: 0.1rem 0.5rem;
+        border-radius: 3px;
+        font-size: 0.75rem;
+        letter-spacing: 0.05em;
+      }
+    </style>
+  </head>
+  <body>
+    <span class="tag">INFRA TEST</span>
+    <h1>cultural-shift-graphs</h1>
+    <p>
+      If you're reading this, the dumbest possible end-to-end deploy pipeline
+      works: a static HTML file living in an S3 bucket, routed via a Route 53
+      alias at <code>test.surgicalsledgehammer.com</code>.
+    </p>
+    <p>
+      This is a throwaway smoke test for the Ralph Wiggum Loop + chief setup.
+      It will be replaced with real content once the build pipeline
+      (Vite → multi-page static HTML → S3) is wired up.
+    </p>
+  </body>
+</html>

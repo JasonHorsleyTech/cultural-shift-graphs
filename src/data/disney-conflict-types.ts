@@ -371,4 +371,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.10,
     reasoning: 'There is no villain whatsoever — the film follows two young sisters, Satsuki and Mei, adjusting to rural life while their mother recovers from illness in a hospital. The magical creatures (Totoro, Catbus, soot sprites) are entirely benevolent. The only real tension comes when Mei goes missing trying to walk to the hospital alone, and this is resolved when Catbus magically transports Satsuki to find her. Scored at 0.10 — on par with Winnie the Pooh — because the film contains zero antagonism, zero confrontation, and every conflict is resolved through family love, patience, and gentle magical assistance. This is Miyazaki\'s purest expression of the idea that wonder and kindness are sufficient to carry a story.',
   },
+  {
+    title: 'Oliver & Company',
+    releaseYear: 1988,
+    decade: '1980s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.80,
+    reasoning: 'Bill Sykes is a genuinely menacing villain — a brutal loan shark who threatens Fagin with death over unpaid debts, sends his vicious Dobermans Roscoe and DeSoto to intimidate, and kidnaps the child Jenny as ransom. The climax is a direct physical confrontation: a car chase through New York City onto the Brooklyn Bridge subway tracks, ending when Sykes is killed by an oncoming train and his dogs are electrocuted on the third rail. Scored at 0.80 because Sykes is unambiguously evil and defeated through confrontation, but the film\'s emotional core is equally about Oliver finding a home and the theme of belonging — the first act focuses on street survival and friendship with Dodger\'s gang rather than villain conflict, tempering the score slightly below purely villain-driven films like The Great Mouse Detective (0.85).',
+  },
 ]

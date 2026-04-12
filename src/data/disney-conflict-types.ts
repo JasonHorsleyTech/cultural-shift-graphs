@@ -187,4 +187,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.85,
     reasoning: 'Lady Tremaine is a deliberate, malicious villain — she psychologically abuses Cinderella, forces her into servitude, destroys her dress, and locks her in the attic to prevent her from trying the glass slipper. The conflict is entirely external and villain-driven with real stakes (lifelong enslavement). Resolution comes through overcoming the villain\'s schemes via the Fairy Godmother\'s magic, the mice freeing Cinderella, and proving her identity with the slipper. Scored below Snow White (0.95) because Cinderella never directly confronts or defeats Lady Tremaine — she prevails through magical aid and allies rather than personal action against the villain.',
   },
+  {
+    title: 'Alice in Wonderland',
+    releaseYear: 1951,
+    decade: '1950s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.35,
+    reasoning: 'The Queen of Hearts is an antagonist figure who orders executions and puts Alice on trial, but she is more absurd parody of authority than genuine evil — her orders are never actually carried out, and no one in Wonderland takes her seriously. The real conflict is Alice navigating a nonsensical world where logic doesn\'t apply, struggling with identity ("Who are you?") and trying to find her way home. Resolution comes by waking from a dream — the entire conflict, villain included, was literally imagined. Scored above Ferdinand (0.15) because there is a threatening authority figure, but well below Cinderella (0.85) because the antagonist is comedic, the core conflict is existential rather than villain-driven, and the resolution negates the reality of all threats.',
+  },
 ]

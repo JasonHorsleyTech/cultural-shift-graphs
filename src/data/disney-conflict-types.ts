@@ -483,4 +483,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.55,
     reasoning: 'Multiple antagonists drive the conflict — Grundel the toad kidnaps Thumbelina by force to marry her, Berkeley Beetle exploits her for show business, and Ms. Fieldmouse pressures her into marrying the wealthy Mr. Mole — but none are traditionally evil; they are motivated by selfishness, obsession, or social pressure rather than malice. The climax does involve a physical confrontation: Prince Cornelius battles Grundel and both plunge into an abyss (Cornelius survives via fairy magic). Scored at 0.55 because real antagonists exist and the resolution includes direct confrontation, but the villains are more greedy/controlling than evil, and the thematic core is about Thumbelina staying true to her heart and identity despite constant manipulation by others who want to claim her for themselves.',
   },
+  {
+    title: 'Balto',
+    releaseYear: 1995,
+    decade: '1990s',
+    studio: 'Universal Pictures',
+    conflictScore: 0.45,
+    reasoning: 'Steele is a genuine antagonist — a jealous champion sled dog who sabotages the medicine relay by rearranging trail markers so that Balto and the team become lost in the blizzard, purely to protect his own glory. However, Steele is driven by ego and jealousy rather than true malice or evil, and the climax is not a direct confrontation with him. The real conflict is Balto versus the blizzard (nature) and versus his own self-doubt about being a wolf-dog hybrid. Resolution comes through Balto embracing his wolf instincts to navigate through the storm and deliver the diphtheria antitoxin to Nome\'s sick children. Steele is simply exposed as a liar and shunned by the other dogs. Scored at 0.45 because a real antagonist exists and creates genuine stakes, but the thematic core is about self-acceptance and perseverance rather than defeating a villain.',
+  },
 ]

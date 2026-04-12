@@ -99,4 +99,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.15,
     reasoning: 'No real villain — the mother duck and barnyard birds reject the duckling for looking different, but out of ignorance rather than malice. The core conflict is a misunderstanding of identity: the duckling is actually a swan, not an ugly duck. Resolution comes through acceptance and recognition when the duckling finds a swan family, and the duck family realizes their mistake. A cat briefly threatens the duckling, but the central conflict is entirely about misidentification resolved through belonging and self-discovery.',
   },
+  {
+    title: 'Fantasia',
+    releaseYear: 1940,
+    decade: '1940s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.40,
+    reasoning: 'An anthology of eight segments set to classical music, most with no narrative conflict at all. The "Night on Bald Mountain" segment features Chernabog — a genuinely menacing demon — but he is vanquished by dawn and sacred music rather than hero confrontation. "The Sorcerer\'s Apprentice" conflict is entirely self-inflicted by Mickey\'s hubris, resolved when the Sorcerer intervenes. The vast majority of the film\'s runtime is abstract or pastoral with no antagonist, pulling the overall score well below films with central villains.',
+  },
 ]

@@ -267,4 +267,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.75,
     reasoning: 'Prince John is a genuine villain — a greedy usurper who taxes the people of Nottingham into poverty and imprisons those who cannot pay, while the Sheriff of Nottingham cruelly enforces his decrees. Robin Hood directly confronts the villains throughout: disguising himself at the archery tournament, raiding Prince John\'s treasury, and breaking into the castle to free imprisoned townspeople in a climax with life-and-death stakes (Robin nearly dies in a fire). However, Prince John is notably comedic and buffoonish (thumb-sucking tantrums, outwitted repeatedly), and the ultimate resolution comes through King Richard\'s return rather than Robin Hood personally defeating the tyrant. Scored at 0.75 — matching The Jungle Book — because the villains are real and directly confronted by an active hero, but the comedic tone and external-authority resolution temper the dramatic weight below films like Peter Pan (0.85) where the hero personally vanquishes the villain.',
   },
+  {
+    title: 'The Hobbit',
+    releaseYear: 1977,
+    decade: '1970s',
+    studio: 'Rankin/Bass Productions',
+    conflictScore: 0.80,
+    reasoning: 'Multiple genuine villains with life-and-death stakes — Smaug the dragon conquered the Lonely Mountain and threatens all nearby civilizations, the Goblin King captures the company underground, giant spiders attack in Mirkwood, and goblins and wargs wage war in the Battle of Five Armies. Smaug is killed by Bard the Bowman in direct confrontation after Bilbo discovers his weak spot, and the goblins are defeated through military combat by an alliance of dwarves, elves, men, and eagles. However, Bilbo himself is a burglar who relies on cleverness, stealth, and the magic ring rather than combat — he never personally slays a major villain. Additionally, Thorin\'s greed over the Arkenstone creates a secondary conflict resolved through deathbed reconciliation and forgiveness rather than confrontation. Scored at 0.80 because the villains are unambiguously evil and defeated through direct confrontation, but the protagonist\'s non-warrior role and the meaningful empathy-driven Thorin resolution temper the score below films like Peter Pan (0.85) where the hero personally vanquishes the villain.',
+  },
 ]

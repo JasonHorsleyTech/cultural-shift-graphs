@@ -411,4 +411,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.90,
     reasoning: 'Ursula is one of Disney\'s most iconic villains — a power-hungry sea witch who tricks Ariel into a Faustian bargain (trading her voice for human legs) with the hidden goal of using Ariel as a pawn to overthrow King Triton. Ursula actively sabotages Ariel\'s chance at true love by transforming into "Vanessa" to bewitch Prince Eric, then seizes Triton\'s trident to become a giant, all-powerful tyrant. The climax is a direct physical confrontation: Eric rams a ship\'s bowsprit through Ursula, destroying her. Scored at 0.90 because Ursula is unambiguously evil, drives the entire plot through manipulation and force, and is defeated through direct physical confrontation — a textbook real-villain, real-stakes narrative. Held slightly below 1.0 because Ariel\'s own desire for the human world (an internal longing) is what makes her vulnerable to Ursula in the first place, adding a layer of personal growth alongside the villain conflict.',
   },
+  {
+    title: 'The Rescuers Down Under',
+    releaseYear: 1990,
+    decade: '1990s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.85,
+    reasoning: 'Percival C. McLeach is an unambiguously evil poacher who kidnaps the boy Cody to exploit his knowledge of the rare golden eagle Marahute, intending to capture and kill the bird for profit. McLeach is physically menacing — he imprisons Cody, lies that Marahute is dead to manipulate him, and ultimately tries to feed Cody to crocodiles at Crocodile Falls. The climax is a direct confrontation: Bernard rescues Cody and Marahute while McLeach falls over the waterfall to his death. Scored at 0.85 because the villain is genuinely threatening and defeated through confrontation, but the protagonist Bernard\'s arc also involves overcoming personal timidity and finding the courage to propose to Bianca, adding a secondary internal-growth thread alongside the villain conflict.',
+  },
 ]

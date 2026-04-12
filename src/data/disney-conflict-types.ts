@@ -299,4 +299,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.85,
     reasoning: 'General Woundwort is a genuinely terrifying villain — a dictatorial rabbit who rules Efrafa through fear, violence, and totalitarian control, and who leads a military assault on Watership Down to recapture escapees and destroy the warren. The stakes are life-and-death throughout: rabbits are killed on screen, Bigwig nearly dies defending the burrow, and the film depicts predation, snaring, and warren destruction with unusual graphic intensity for animation. Resolution comes through direct confrontation — Bigwig fights Woundwort in the tunnels while Hazel releases the Nuthanger Farm dog to rout the Efrafan army. Scored at 0.85 because the villain is unambiguously evil and defeated through confrontation, but the protagonists rely on an external weapon (the dog) rather than personally vanquishing Woundwort, and the film carries strong thematic undercurrents about freedom, community, and finding home that add depth beyond pure good-vs-evil.',
   },
+  {
+    title: 'The Fox and the Hound',
+    releaseYear: 1981,
+    decade: '1980s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.45,
+    reasoning: 'Amos Slade is an antagonist who hunts Tod with genuine lethal intent, and a bear attack in the climax creates real life-and-death stakes. However, Slade is not truly evil — he is a hunter with a legitimate grievance after Tod causes Chief\'s injury — and the bear is a force of nature, not a villain. The core conflict is societal: a fox and a hound whose childhood friendship is torn apart because their natures make them "supposed to be" enemies. Resolution comes through empathy — Copper stands between Slade\'s gun and the wounded Tod, refusing to let his friend be killed, and Slade lowers the gun. Scored at 0.45 because the physical stakes are real but the central conflict is about whether cross-nature friendship can survive societal expectations, resolved through loyalty and compassion rather than defeating any antagonist.',
+  },
 ]

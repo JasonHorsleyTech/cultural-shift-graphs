@@ -179,4 +179,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.65,
     reasoning: 'A two-segment package film with genuine antagonists in both halves. In "The Wind in the Willows," the weasels and Mr. Winkie are real villains who trick Mr. Toad, steal his deed to Toad Hall, and frame him for car theft — resolved through a classic confrontation when Toad and friends storm Toad Hall to recapture the deed. In "The Legend of Sleepy Hollow," the Headless Horseman delivers one of Disney\'s most terrifying chase sequences, but the villainy is famously ambiguous — it may be Brom Bones in disguise playing a prank to eliminate his romantic rival. Ichabod vanishes and never triumphs. Scored at 0.65 because the Mr. Toad segment has clear villains defeated through confrontation, but the Ichabod segment\'s antagonist is ambiguously real-or-imagined and the protagonist loses rather than wins.',
   },
+  {
+    title: 'Cinderella',
+    releaseYear: 1950,
+    decade: '1950s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.85,
+    reasoning: 'Lady Tremaine is a deliberate, malicious villain — she psychologically abuses Cinderella, forces her into servitude, destroys her dress, and locks her in the attic to prevent her from trying the glass slipper. The conflict is entirely external and villain-driven with real stakes (lifelong enslavement). Resolution comes through overcoming the villain\'s schemes via the Fairy Godmother\'s magic, the mice freeing Cinderella, and proving her identity with the slipper. Scored below Snow White (0.95) because Cinderella never directly confronts or defeats Lady Tremaine — she prevails through magical aid and allies rather than personal action against the villain.',
+  },
 ]

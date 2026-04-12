@@ -291,4 +291,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.80,
     reasoning: 'Madame Medusa is a genuine villain — she kidnaps Penny, a young orphan girl, and forces her into a dangerous tide-flooded cave to retrieve the Devil\'s Eye diamond, with life-and-death stakes throughout. Her henchman Mr. Snoops and pet alligators Brutus and Nero enforce her scheme. Resolution comes through direct confrontation: Bernard, Bianca, and the bayou animals fight the alligators and outsmart Medusa, enabling Penny\'s escape with the diamond. Scored at 0.80 because the villain is unambiguously evil with deadly stakes resolved through confrontation, but the protagonists are helper-mice rather than the endangered hero acting alone, Medusa has comedic-bumbling elements, and she is left stranded rather than dramatically defeated.',
   },
+  {
+    title: 'Watership Down',
+    releaseYear: 1978,
+    decade: '1970s',
+    studio: 'Nepenthe Productions',
+    conflictScore: 0.85,
+    reasoning: 'General Woundwort is a genuinely terrifying villain — a dictatorial rabbit who rules Efrafa through fear, violence, and totalitarian control, and who leads a military assault on Watership Down to recapture escapees and destroy the warren. The stakes are life-and-death throughout: rabbits are killed on screen, Bigwig nearly dies defending the burrow, and the film depicts predation, snaring, and warren destruction with unusual graphic intensity for animation. Resolution comes through direct confrontation — Bigwig fights Woundwort in the tunnels while Hazel releases the Nuthanger Farm dog to rout the Efrafan army. Scored at 0.85 because the villain is unambiguously evil and defeated through confrontation, but the protagonists rely on an external weapon (the dog) rather than personally vanquishing Woundwort, and the film carries strong thematic undercurrents about freedom, community, and finding home that add depth beyond pure good-vs-evil.',
+  },
 ]

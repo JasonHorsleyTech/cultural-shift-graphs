@@ -363,4 +363,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.85,
     reasoning: 'Professor Ratigan is one of Disney\'s most theatrical villains — a criminal mastermind who feeds disloyal henchmen to his cat, kidnaps a toymaker to build a robot replica of the Mouse Queen, and plots to seize control of all mousedom. The stakes are life-and-death throughout: Olivia\'s father is held hostage, Basil and Dawson are placed in a Rube Goldberg death trap, and the climax is a brutal one-on-one fight atop Big Ben where Ratigan transforms from suave schemer into feral beast before falling to his death. Scored at 0.85 because the villain is unambiguously evil, the protagonist (Basil) actively drives the investigation and personally confronts Ratigan in the climax, and the resolution is entirely through defeating the villain — but the detective-story framing and Ratigan\'s theatrical comedic moments in the first two acts temper it slightly below Sleeping Beauty (0.95) or Pinocchio (0.90).',
   },
+  {
+    title: 'My Neighbor Totoro',
+    releaseYear: 1988,
+    decade: '1980s',
+    studio: 'Studio Ghibli',
+    conflictScore: 0.10,
+    reasoning: 'There is no villain whatsoever — the film follows two young sisters, Satsuki and Mei, adjusting to rural life while their mother recovers from illness in a hospital. The magical creatures (Totoro, Catbus, soot sprites) are entirely benevolent. The only real tension comes when Mei goes missing trying to walk to the hospital alone, and this is resolved when Catbus magically transports Satsuki to find her. Scored at 0.10 — on par with Winnie the Pooh — because the film contains zero antagonism, zero confrontation, and every conflict is resolved through family love, patience, and gentle magical assistance. This is Miyazaki\'s purest expression of the idea that wonder and kindness are sufficient to carry a story.',
+  },
 ]

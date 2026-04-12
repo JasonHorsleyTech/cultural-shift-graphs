@@ -34,4 +34,13 @@ export type ConflictEntry = {
   reasoning: string
 }
 
-export const conflictData: ConflictEntry[] = []
+export const conflictData: ConflictEntry[] = [
+  {
+    title: 'Steamboat Willie',
+    releaseYear: 1928,
+    decade: '1920s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.75,
+    reasoning: 'Pete is a clear physical antagonist — an abusive steamboat captain who bullies Mickey with brute force. The conflict is entirely external and resolved through endurance rather than empathy. Scored below 1.0 because the short is primarily a musical showcase and the conflict is simple rather than a dramatic good-vs-evil confrontation.',
+  },
+]

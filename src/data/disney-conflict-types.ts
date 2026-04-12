@@ -107,4 +107,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.40,
     reasoning: 'An anthology of eight segments set to classical music, most with no narrative conflict at all. The "Night on Bald Mountain" segment features Chernabog — a genuinely menacing demon — but he is vanquished by dawn and sacred music rather than hero confrontation. "The Sorcerer\'s Apprentice" conflict is entirely self-inflicted by Mickey\'s hubris, resolved when the Sorcerer intervenes. The vast majority of the film\'s runtime is abstract or pastoral with no antagonist, pulling the overall score well below films with central villains.',
   },
+  {
+    title: 'Pinocchio',
+    releaseYear: 1940,
+    decade: '1940s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.90,
+    reasoning: 'Multiple genuine villains — Stromboli imprisons Pinocchio and threatens to chop him into firewood, the Coachman traffics boys to Pleasure Island where they are transformed into donkeys (one of Disney\'s most disturbing villain schemes), and Monstro the whale is a deadly force of nature. Stakes are life-and-death throughout, and Pinocchio ultimately dies saving Geppetto from Monstro before being resurrected. Scored slightly below Snow White (0.95) because some conflicts arise from Pinocchio\'s own naivety and moral failings rather than purely villain-driven action, and the ultimate resolution (becoming a real boy) rewards moral growth alongside confrontation.',
+  },
 ]

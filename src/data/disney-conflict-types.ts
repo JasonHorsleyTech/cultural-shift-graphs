@@ -283,4 +283,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.10,
     reasoning: 'No villain whatsoever — the film compiles three featurettes where conflicts are entirely gentle and internal. Pooh gets stuck in Rabbit\'s door from overeating (self-inflicted), a windstorm and flood threaten the Hundred Acre Wood (nature, resolved through friendship), and Tigger\'s bounciness annoys his friends (social friction resolved through acceptance). The Heffalumps and Woozles are literally imagined threats in a nightmare sequence. Every resolution comes through patience, friendship, and accepting others\' differences. Scored below Ferdinand (0.15) because even the systemic tension of a bullfighting arena is absent here — the Hundred Acre Wood contains no real threats at all.',
   },
+  {
+    title: 'The Rescuers',
+    releaseYear: 1977,
+    decade: '1970s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.80,
+    reasoning: 'Madame Medusa is a genuine villain — she kidnaps Penny, a young orphan girl, and forces her into a dangerous tide-flooded cave to retrieve the Devil\'s Eye diamond, with life-and-death stakes throughout. Her henchman Mr. Snoops and pet alligators Brutus and Nero enforce her scheme. Resolution comes through direct confrontation: Bernard, Bianca, and the bayou animals fight the alligators and outsmart Medusa, enabling Penny\'s escape with the diamond. Scored at 0.80 because the villain is unambiguously evil with deadly stakes resolved through confrontation, but the protagonists are helper-mice rather than the endangered hero acting alone, Medusa has comedic-bumbling elements, and she is left stranded rather than dramatically defeated.',
+  },
 ]

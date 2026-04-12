@@ -355,4 +355,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.75,
     reasoning: 'Colonel Muska is a genuine villain — a power-hungry government agent who seeks the floating castle Laputa to use its ancient weapons for world domination, murdering soldiers and holding Sheeta hostage. The climax is a direct confrontation: Sheeta and Pazu recite the spell of destruction to destroy Laputa\'s weapon systems, and Muska falls to his death as the fortress crumbles. However, the resolution is as much about rejecting destructive technology as defeating the villain — the natural tree of life survives while the weapon layer is destroyed — and the Dola pirates shift from antagonists to allies, reflecting Miyazaki\'s characteristic moral complexity. Scored at 0.75 because the villain is unambiguously evil and defeated through confrontation, but the thematic resolution extends well beyond villain-defeat into anti-militarist and environmental territory.',
   },
+  {
+    title: 'The Great Mouse Detective',
+    releaseYear: 1986,
+    decade: '1980s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.85,
+    reasoning: 'Professor Ratigan is one of Disney\'s most theatrical villains — a criminal mastermind who feeds disloyal henchmen to his cat, kidnaps a toymaker to build a robot replica of the Mouse Queen, and plots to seize control of all mousedom. The stakes are life-and-death throughout: Olivia\'s father is held hostage, Basil and Dawson are placed in a Rube Goldberg death trap, and the climax is a brutal one-on-one fight atop Big Ben where Ratigan transforms from suave schemer into feral beast before falling to his death. Scored at 0.85 because the villain is unambiguously evil, the protagonist (Basil) actively drives the investigation and personally confronts Ratigan in the climax, and the resolution is entirely through defeating the villain — but the detective-story framing and Ratigan\'s theatrical comedic moments in the first two acts temper it slightly below Sleeping Beauty (0.95) or Pinocchio (0.90).',
+  },
 ]

@@ -155,4 +155,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.35,
     reasoning: 'A ten-segment package film set to popular music. "Peter and the Wolf" features a genuine predator-villain (the Wolf) defeated through direct confrontation — Peter captures him with a rope. However, "The Whale Who Wanted to Sing at the Met" is a tragic misunderstanding: impresario Tetti-Tatti harpoons Willie believing he swallowed a singer, when Willie\'s talent was real. "The Martins and the Coys" depicts a violent family feud resolved through love. The remaining seven segments have little or no narrative conflict. Scored above Saludos Amigos/Three Caballeros (0.20) for having genuine villain and stakes segments, but below Fantasia (0.40) because the conflict-bearing segments are less dramatically weighty and Willie\'s tragedy is driven by misunderstanding rather than villainy.',
   },
+  {
+    title: 'Fun and Fancy Free',
+    releaseYear: 1947,
+    decade: '1940s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.70,
+    reasoning: 'A two-segment package film where both segments feature genuine antagonists resolved through confrontation. In "Bongo," the circus bear must physically fight Lumpjaw — a bullying rival — to win Lulubelle\'s affection. In "Mickey and the Beanstalk," Willie the Giant is a real villain who stole the Golden Harp and caused famine; Mickey, Donald, and Goofy must outsmart and defeat him to restore Happy Valley. Scored well above other 1940s package films (Make Mine Music 0.35, Saludos Amigos 0.20) because both segments are villain-driven, but below full features like Brave Little Tailor (0.80) because the package format and comedic tone reduce the dramatic stakes.',
+  },
 ]

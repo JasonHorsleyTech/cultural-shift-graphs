@@ -491,4 +491,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.45,
     reasoning: 'Steele is a genuine antagonist — a jealous champion sled dog who sabotages the medicine relay by rearranging trail markers so that Balto and the team become lost in the blizzard, purely to protect his own glory. However, Steele is driven by ego and jealousy rather than true malice or evil, and the climax is not a direct confrontation with him. The real conflict is Balto versus the blizzard (nature) and versus his own self-doubt about being a wolf-dog hybrid. Resolution comes through Balto embracing his wolf instincts to navigate through the storm and deliver the diphtheria antitoxin to Nome\'s sick children. Steele is simply exposed as a liar and shunned by the other dogs. Scored at 0.45 because a real antagonist exists and creates genuine stakes, but the thematic core is about self-acceptance and perseverance rather than defeating a villain.',
   },
+  {
+    title: 'Pocahontas',
+    releaseYear: 1995,
+    decade: '1990s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.50,
+    reasoning: 'Governor Ratcliffe is a genuine villain — greedy, bigoted, and willing to wage war against the Powhatan people to plunder gold he believes is hidden in the land. However, the film\'s central conflict is cultural misunderstanding and prejudice between the English settlers and the Native Americans, not a hero-vs-villain confrontation. Pocahontas resolves the climax by throwing herself over John Smith to prevent his execution, an act of empathy and sacrifice that shames both sides into standing down. Ratcliffe is restrained by his own men after recklessly shooting John Smith, not defeated through combat. Scored at 0.50 because a real villain with real malice exists and drives external stakes, but the thematic core is about overcoming prejudice through love, communication, and understanding — placing it squarely between the two poles of the spectrum.',
+  },
 ]

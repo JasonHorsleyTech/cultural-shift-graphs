@@ -347,4 +347,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.70,
     reasoning: 'Warren T. Rat is a genuine villain — a cat disguised as a rat who exploits immigrant mice, runs a sweatshop racket, and leads the Mott Street Maulers cat gang that terrorizes the mouse community. The climax is a direct confrontation: the mice build the Giant Mouse of Minsk and use it to drive the cats off the pier into the harbor, defeating Warren T. decisively. However, the film\'s emotional core is about immigration, family separation, and belonging — young Fievel\'s journey is about finding his family in a strange new country, and the ending is a tearful reunion rather than a victory celebration. Scored at 0.70 because the villain is real and defeated through collective confrontation, but the dominant narrative is a child\'s immigrant experience and the ache of separation, placing it below films where villain-defeat is the emotional climax.',
   },
+  {
+    title: 'Castle in the Sky',
+    releaseYear: 1986,
+    decade: '1980s',
+    studio: 'Studio Ghibli',
+    conflictScore: 0.75,
+    reasoning: 'Colonel Muska is a genuine villain — a power-hungry government agent who seeks the floating castle Laputa to use its ancient weapons for world domination, murdering soldiers and holding Sheeta hostage. The climax is a direct confrontation: Sheeta and Pazu recite the spell of destruction to destroy Laputa\'s weapon systems, and Muska falls to his death as the fortress crumbles. However, the resolution is as much about rejecting destructive technology as defeating the villain — the natural tree of life survives while the weapon layer is destroyed — and the Dola pirates shift from antagonists to allies, reflecting Miyazaki\'s characteristic moral complexity. Scored at 0.75 because the villain is unambiguously evil and defeated through confrontation, but the thematic resolution extends well beyond villain-defeat into anti-militarist and environmental territory.',
+  },
 ]

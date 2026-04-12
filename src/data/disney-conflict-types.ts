@@ -139,4 +139,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.20,
     reasoning: 'A four-segment package film made as wartime cultural diplomacy — none of the segments have a real villain. The closest to conflict is the Pedro segment, where a small mail plane braves the Andes and a personified Mount Aconcagua, but this is man-vs-nature resolved through perseverance. The Donald Duck segments are comedic tourism mishaps and Goofy\'s gaucho segment is pure slapstick. The film is essentially a travelogue with minimal narrative conflict, let alone villain-driven stakes.',
   },
+  {
+    title: 'The Three Caballeros',
+    releaseYear: 1945,
+    decade: '1940s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.20,
+    reasoning: 'A wartime package film and sequel to Saludos Amigos — no villain in any segment. "The Cold-Blooded Penguin" follows Pablo escaping Antarctica (man-vs-nature, self-motivated). "The Flying Gauchito" is a lighthearted race with a flying donkey. The main segments are Donald Duck touring Mexico and Brazil with José Carioca and Panchito, featuring musical numbers and live-action/animation blending with no narrative conflict. Like its predecessor, the film is cultural diplomacy and entertainment showcase rather than storytelling.',
+  },
 ]

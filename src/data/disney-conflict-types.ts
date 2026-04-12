@@ -379,4 +379,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.80,
     reasoning: 'Bill Sykes is a genuinely menacing villain — a brutal loan shark who threatens Fagin with death over unpaid debts, sends his vicious Dobermans Roscoe and DeSoto to intimidate, and kidnaps the child Jenny as ransom. The climax is a direct physical confrontation: a car chase through New York City onto the Brooklyn Bridge subway tracks, ending when Sykes is killed by an oncoming train and his dogs are electrocuted on the third rail. Scored at 0.80 because Sykes is unambiguously evil and defeated through confrontation, but the film\'s emotional core is equally about Oliver finding a home and the theme of belonging — the first act focuses on street survival and friendship with Dodger\'s gang rather than villain conflict, tempering the score slightly below purely villain-driven films like The Great Mouse Detective (0.85).',
   },
+  {
+    title: 'The Land Before Time',
+    releaseYear: 1988,
+    decade: '1980s',
+    studio: 'Sullivan Bluth Studios',
+    conflictScore: 0.85,
+    reasoning: 'Sharptooth is a terrifying, relentless Tyrannosaurus rex who kills Littlefoot\'s mother in a brutal early attack and stalks the young dinosaurs throughout their journey to the Great Valley. The climax is a direct physical confrontation — the children lure Sharptooth to a cliff edge and topple a boulder onto him, sending him plunging into deep water. Scored at 0.85 because Sharptooth is an unambiguous, deadly villain whose threat drives the entire plot, and the resolution is pure confrontation. Slightly below 0.90 because important secondary themes — grief over a parent\'s death, cooperation across species prejudice, and the emotional journey of growing up — add depth beyond a simple good-vs-evil arc.',
+  },
 ]

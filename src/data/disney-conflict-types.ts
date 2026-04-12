@@ -83,4 +83,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.15,
     reasoning: 'No real villain — the matador and the men selecting bulls are not malicious, just operating within their cultural system. The core conflict is a misunderstanding: Ferdinand\'s bee-sting reaction is mistaken for ferocity. Resolution comes entirely through Ferdinand\'s peaceful self-expression — he simply refuses to fight and sits smelling flowers until he\'s sent home. Remarkably close to the "modern" pattern of conflict-as-misunderstanding resolved through staying true to oneself.',
   },
+  {
+    title: 'Gulliver\'s Travels',
+    releaseYear: 1939,
+    decade: '1930s',
+    studio: 'Fleischer Studios',
+    conflictScore: 0.40,
+    reasoning: 'The war between Lilliput and Blefuscu originates from a trivial misunderstanding — the two kings cannot agree on which song to play at a royal wedding. While the conflict escalates to a real naval attack and Blefuscu employs scheming spies, there is no true evil villain — both kings are equally stubborn. Gulliver resolves the conflict through physical intervention (stopping the fleet) combined with diplomacy, making this notably "modern" in its conflict-as-misunderstanding pattern for a 1939 film.',
+  },
 ]

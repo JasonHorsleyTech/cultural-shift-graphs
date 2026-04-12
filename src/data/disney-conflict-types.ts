@@ -51,4 +51,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.85,
     reasoning: 'The Big Bad Wolf is an iconic, unambiguous villain — a predator who physically threatens the pigs by blowing down their houses with intent to eat them. The entire plot centers on external conflict resolved through preparation and direct confrontation (the brick house withstands the attack, and the wolf is scalded trying the chimney). Scored below 0.9 because it is still a short film without the dramatic scope of a full-length feature.',
   },
+  {
+    title: 'The Tortoise and the Hare',
+    releaseYear: 1935,
+    decade: '1930s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.3,
+    reasoning: 'No real villain — Max Hare is an arrogant rival, not a malicious antagonist. The conflict is a race driven by the Hare\'s overconfidence versus the Tortoise\'s perseverance. Resolution comes through steady effort and the Hare\'s own hubris, not through confrontation or defeating evil. The moral is about character virtues (humility, persistence) rather than good triumphing over villainy.',
+  },
 ]

@@ -147,4 +147,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.20,
     reasoning: 'A wartime package film and sequel to Saludos Amigos — no villain in any segment. "The Cold-Blooded Penguin" follows Pablo escaping Antarctica (man-vs-nature, self-motivated). "The Flying Gauchito" is a lighthearted race with a flying donkey. The main segments are Donald Duck touring Mexico and Brazil with José Carioca and Panchito, featuring musical numbers and live-action/animation blending with no narrative conflict. Like its predecessor, the film is cultural diplomacy and entertainment showcase rather than storytelling.',
   },
+  {
+    title: 'Make Mine Music',
+    releaseYear: 1946,
+    decade: '1940s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.35,
+    reasoning: 'A ten-segment package film set to popular music. "Peter and the Wolf" features a genuine predator-villain (the Wolf) defeated through direct confrontation — Peter captures him with a rope. However, "The Whale Who Wanted to Sing at the Met" is a tragic misunderstanding: impresario Tetti-Tatti harpoons Willie believing he swallowed a singer, when Willie\'s talent was real. "The Martins and the Coys" depicts a violent family feud resolved through love. The remaining seven segments have little or no narrative conflict. Scored above Saludos Amigos/Three Caballeros (0.20) for having genuine villain and stakes segments, but below Fantasia (0.40) because the conflict-bearing segments are less dramatically weighty and Willie\'s tragedy is driven by misunderstanding rather than villainy.',
+  },
 ]

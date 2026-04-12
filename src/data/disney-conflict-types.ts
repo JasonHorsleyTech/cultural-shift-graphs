@@ -67,4 +67,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.95,
     reasoning: 'The Evil Queen is one of animation\'s most iconic villains — driven by jealous vanity, she orders Snow White\'s assassination and later personally attempts to murder her with a poisoned apple. The stakes are life-and-death, the conflict is entirely external, and the Queen is defeated through direct confrontation (the dwarfs chase her to a cliff where she falls to her death). Scored just below 1.0 because Snow White herself is passive in the resolution rather than confronting the villain directly.',
   },
+  {
+    title: 'Brave Little Tailor',
+    releaseYear: 1938,
+    decade: '1930s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.80,
+    reasoning: 'The giant is a genuine physical antagonist terrorizing the kingdom, and Mickey (the tailor) must defeat him through direct confrontation. The conflict is entirely external with real stakes — the giant is destructive and dangerous. Mickey defeats him through clever trickery (tying him up) rather than brute force, but it is still a clear victory-over-villain resolution. Scored slightly below Three Little Pigs because the hero\'s quest originates from a comical misunderstanding (killing "seven at one blow" referred to flies, not giants).',
+  },
 ]

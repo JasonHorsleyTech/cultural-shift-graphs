@@ -275,4 +275,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.80,
     reasoning: 'Multiple genuine villains with life-and-death stakes — Smaug the dragon conquered the Lonely Mountain and threatens all nearby civilizations, the Goblin King captures the company underground, giant spiders attack in Mirkwood, and goblins and wargs wage war in the Battle of Five Armies. Smaug is killed by Bard the Bowman in direct confrontation after Bilbo discovers his weak spot, and the goblins are defeated through military combat by an alliance of dwarves, elves, men, and eagles. However, Bilbo himself is a burglar who relies on cleverness, stealth, and the magic ring rather than combat — he never personally slays a major villain. Additionally, Thorin\'s greed over the Arkenstone creates a secondary conflict resolved through deathbed reconciliation and forgiveness rather than confrontation. Scored at 0.80 because the villains are unambiguously evil and defeated through direct confrontation, but the protagonist\'s non-warrior role and the meaningful empathy-driven Thorin resolution temper the score below films like Peter Pan (0.85) where the hero personally vanquishes the villain.',
   },
+  {
+    title: 'The Many Adventures of Winnie the Pooh',
+    releaseYear: 1977,
+    decade: '1970s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.10,
+    reasoning: 'No villain whatsoever — the film compiles three featurettes where conflicts are entirely gentle and internal. Pooh gets stuck in Rabbit\'s door from overeating (self-inflicted), a windstorm and flood threaten the Hundred Acre Wood (nature, resolved through friendship), and Tigger\'s bounciness annoys his friends (social friction resolved through acceptance). The Heffalumps and Woozles are literally imagined threats in a nightmare sequence. Every resolution comes through patience, friendship, and accepting others\' differences. Scored below Ferdinand (0.15) because even the systemic tension of a bullfighting arena is absent here — the Hundred Acre Wood contains no real threats at all.',
+  },
 ]

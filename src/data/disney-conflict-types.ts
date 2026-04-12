@@ -251,4 +251,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.60,
     reasoning: 'Edgar the butler is a genuine villain with a deliberate scheme — upon learning Madame Bonfamille\'s fortune will pass to her cats before him, he drugs and kidnaps Duchess and her kittens, abandoning them in the countryside and later attempting to ship them to Timbuktu permanently. The resolution is a direct confrontation: the cats and their animal allies (Thomas O\'Malley, Scat Cat\'s band, the farm animals) physically overpower Edgar and trap him in the very trunk he intended for the cats. However, Edgar is a comedic, bumbling villain whose schemes repeatedly backfire, and much of the film is a lighthearted Parisian romance between Duchess and O\'Malley punctuated by jazz musical numbers. Scored at 0.60 because the villain is real and directly defeated through confrontation, but the comedic tone, bumbling antagonist, and romance-driven narrative reduce the dramatic weight well below films with menacing villains like The Jungle Book (0.75).',
   },
+  {
+    title: 'Charlotte\'s Web',
+    releaseYear: 1973,
+    decade: '1970s',
+    studio: 'Hanna-Barbera Productions',
+    conflictScore: 0.25,
+    reasoning: 'No villain — the Zuckerman family and farmer Lurvy are not evil, they are simply farmers who plan to slaughter Wilbur because that is what farmers do with pigs. The life-and-death stakes are real (Wilbur will be butchered), but the threat is systemic rather than personal. Charlotte resolves the conflict entirely through communication — weaving words into her web ("Some Pig," "Terrific," "Radiant," "Humble") to change the humans\' perception and spare Wilbur\'s life. Scored at 0.25 because the stakes are genuinely lethal (above Ferdinand at 0.15), but the complete absence of a villain and the resolution through cleverness, friendship, and changing minds rather than confrontation place it well below any film with a personal antagonist.',
+  },
 ]

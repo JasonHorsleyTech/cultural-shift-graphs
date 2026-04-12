@@ -443,4 +443,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.85,
     reasoning: 'Jafar is one of Disney\'s most iconic villains — a power-hungry royal vizier who uses sorcery, manipulation, and brute force to seize control of Agrabah. He hypnotizes the Sultan, attempts to forcibly marry Jasmine, and transforms himself into a giant serpent to kill Aladdin in direct physical combat. The climax is a confrontation resolved through Aladdin\'s cleverness: he tricks Jafar into wishing himself into a genie, trapping him in a lamp forever. Scored at 0.85 because Jafar is unambiguously evil and defeated through direct confrontation, though a secondary thread involves Aladdin\'s internal struggle with honesty and identity — he only wins Jasmine\'s love by accepting who he really is rather than pretending to be a prince.',
   },
+  {
+    title: 'FernGully: The Last Rainforest',
+    releaseYear: 1992,
+    decade: '1990s',
+    studio: '20th Century Fox',
+    conflictScore: 0.70,
+    reasoning: 'Hexxus is an unambiguously evil villain — an ancient spirit of destruction and pollution (voiced with menacing relish by Tim Curry) who feeds on toxic waste and seeks to annihilate the rainforest. He manipulates the logging machine into becoming his vessel and grows into a monstrous form for a direct climactic confrontation. However, the fairies defeat him not through combat but by channeling nature\'s growth magic to re-imprison him inside a tree, and the film\'s emotional core is Zak\'s transformation from an oblivious logger into someone who empathizes with the forest and its inhabitants. Scored at 0.70 because a genuine, menacing villain exists and is confronted head-on, but the resolution blends confrontation with themes of environmental empathy, collective magical cooperation, and a human character\'s internal growth toward understanding nature.',
+  },
 ]

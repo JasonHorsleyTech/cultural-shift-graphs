@@ -219,4 +219,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.95,
     reasoning: 'Maleficent is one of Disney\'s most purely evil villains — the self-proclaimed "Mistress of All Evil" who curses an infant princess to die out of spite for not being invited to a christening, then hunts Aurora for sixteen years and captures Prince Phillip to prevent the curse\'s undoing. The climax is a dramatic direct confrontation: Maleficent transforms into a dragon and Phillip slays her with the Sword of Truth. Scored at 0.95 alongside Snow White because both feature unambiguously evil female villains with life-and-death stakes defeated through confrontation, but the title character (Aurora) is entirely passive — asleep for the climax — and the good fairies provide critical magical aid to Phillip.',
   },
+  {
+    title: 'One Hundred and One Dalmatians',
+    releaseYear: 1961,
+    decade: '1960s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.90,
+    reasoning: 'Cruella de Vil is one of Disney\'s most iconic villains — she wants to steal and skin 99 Dalmatian puppies to make a fur coat, a scheme that is unambiguously evil with life-and-death stakes for the protagonists\' children. Her henchmen Jasper and Horace kidnap the puppies and hold them at Hell Hall. Resolution comes through direct action: Pongo and Perdita physically fight the henchmen to rescue the puppies, then the dogs use clever disguises and teamwork to evade Cruella during an extended chase that ends with her car crashing. Scored at 0.90 because the villain is genuinely evil, the stakes are deadly, and the protagonists are active agents who confront and defeat the villain\'s scheme — more directly than Cinderella or Snow White — but slightly below 0.95 because Cruella is foiled rather than destroyed and the henchmen provide comedic buffoonery that lightens the tone.',
+  },
 ]

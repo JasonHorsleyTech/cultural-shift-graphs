@@ -315,4 +315,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.75,
     reasoning: 'King Haggard is a genuine villain who used the Red Bull to drive all unicorns into the sea out of selfish desire to keep their beauty for himself, and the Red Bull is a terrifying enforcer with life-and-death stakes. The climax is a direct confrontation — the Unicorn faces the Red Bull and drives it into the sea, freeing the other unicorns, while Haggard\'s castle crumbles and kills him. However, much of the film is a melancholic journey focused on identity and mortality (the Unicorn transformed into mortal Amalthea fears losing herself), and the resolution is triggered by Prince Lír\'s self-sacrifice and love rather than martial victory. Scored at 0.75 because the villain is real and defeated through confrontation, but the film\'s dominant emotional register is internal struggle and the cost of feeling, placing it below straightforward hero-defeats-evil narratives.',
   },
+  {
+    title: 'The Secret of NIMH',
+    releaseYear: 1982,
+    decade: '1980s',
+    studio: 'Aurora Productions',
+    conflictScore: 0.70,
+    reasoning: 'Jenner is a genuine villain — a power-hungry rat who murders Nicodemus by sabotaging the pulley system and attempts to kill Mrs. Brisby and Justin to seize the amulet and control of the colony. The stakes are life-and-death throughout (Timothy\'s illness, the farmer\'s plow, Jenner\'s murders). However, Mrs. Brisby is not a warrior — she is a timid mouse-mother whose arc is about finding courage, and the climactic resolution comes from the magical amulet activated by her love and bravery rather than defeating Jenner (who is killed by Sullivan and Justin). Scored at 0.70 because the villain is real and defeated through confrontation, but the film\'s emotional core is maternal courage and self-sacrifice, placing it below The Rescuers (0.80) and Watership Down (0.85) where protagonists more directly drive the villain\'s defeat.',
+  },
 ]

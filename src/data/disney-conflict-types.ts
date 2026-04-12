@@ -475,4 +475,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.80,
     reasoning: 'Lord Rothbart is an unambiguous villain — an evil enchanter who murders King William, kidnaps Princess Odette, and curses her into swan form each day to coerce her into marriage so he can legally seize the kingdom. He uses dark magic, deception (sending a disguised impostor to trick Prince Derek), and ultimately transforms into a monstrous "Great Animal" for the final confrontation. Derek defeats Rothbart by shooting him with an arrow, breaking the curse. Scored at 0.80 because Rothbart is genuinely evil, the stakes are life-and-death, and the resolution is direct physical confrontation — but a meaningful secondary thread involves Derek having to prove his love for Odette goes beyond her beauty ("What else is there?"), adding a layer of personal growth and emotional maturity alongside the villain-defeat arc.',
   },
+  {
+    title: 'Thumbelina',
+    releaseYear: 1994,
+    decade: '1990s',
+    studio: 'Don Bluth Entertainment',
+    conflictScore: 0.55,
+    reasoning: 'Multiple antagonists drive the conflict — Grundel the toad kidnaps Thumbelina by force to marry her, Berkeley Beetle exploits her for show business, and Ms. Fieldmouse pressures her into marrying the wealthy Mr. Mole — but none are traditionally evil; they are motivated by selfishness, obsession, or social pressure rather than malice. The climax does involve a physical confrontation: Prince Cornelius battles Grundel and both plunge into an abyss (Cornelius survives via fairy magic). Scored at 0.55 because real antagonists exist and the resolution includes direct confrontation, but the villains are more greedy/controlling than evil, and the thematic core is about Thumbelina staying true to her heart and identity despite constant manipulation by others who want to claim her for themselves.',
+  },
 ]

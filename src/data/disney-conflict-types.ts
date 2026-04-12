@@ -499,4 +499,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.50,
     reasoning: 'Governor Ratcliffe is a genuine villain — greedy, bigoted, and willing to wage war against the Powhatan people to plunder gold he believes is hidden in the land. However, the film\'s central conflict is cultural misunderstanding and prejudice between the English settlers and the Native Americans, not a hero-vs-villain confrontation. Pocahontas resolves the climax by throwing herself over John Smith to prevent his execution, an act of empathy and sacrifice that shames both sides into standing down. Ratcliffe is restrained by his own men after recklessly shooting John Smith, not defeated through combat. Scored at 0.50 because a real villain with real malice exists and drives external stakes, but the thematic core is about overcoming prejudice through love, communication, and understanding — placing it squarely between the two poles of the spectrum.',
   },
+  {
+    title: 'Toy Story',
+    releaseYear: 1995,
+    decade: '1990s',
+    studio: 'Pixar',
+    conflictScore: 0.40,
+    reasoning: 'The central conflict is not a villain but Woody\'s jealousy of Buzz Lightyear — an internal, character-driven struggle over status and identity. Sid Phillips serves as a genuine external threat in the third act (a destructive kid who tortures and dismembers toys), but he is not the emotional core of the story. Resolution comes through Woody and Buzz overcoming their rivalry to cooperate, and Sid is scared off when the toys collectively reveal themselves — clever teamwork rather than combat. Scored at 0.40 because a real antagonist exists and creates genuine danger, but the thematic heart is about jealousy, insecurity, and learning to share — resolved through empathy and cooperation rather than defeating evil.',
+  },
 ]

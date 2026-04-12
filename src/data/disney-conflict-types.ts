@@ -171,4 +171,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.30,
     reasoning: 'A seven-segment package film set to popular music, mostly gentle showcases. "Pecos Bill" is the most conflict-heavy segment — he physically defeats outlaws, tames the wild horse Widowmaker, and lassos a tornado, but the central story is a tall-tale romance ending in loss rather than a villain-defeat arc. "Little Toot" involves a mischievous tugboat who causes an accident and redeems himself by rescuing an ocean liner in a storm — self-inflicted conflict resolved through heroism. "Johnny Appleseed" is a gentle frontier folk tale with man-vs-nature stakes. The remaining segments (Once Upon a Wintertime, Bumble Boogie, Trees, Blame It on the Samba) have minimal or no narrative conflict. Scored below Make Mine Music (0.35) because no segment has a clear predator-villain like Peter and the Wolf, but above the pure-travelogue package films (Saludos Amigos/Three Caballeros at 0.20) because Pecos Bill and Little Toot have genuine physical stakes.',
   },
+  {
+    title: 'The Adventures of Ichabod and Mr. Toad',
+    releaseYear: 1949,
+    decade: '1940s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.65,
+    reasoning: 'A two-segment package film with genuine antagonists in both halves. In "The Wind in the Willows," the weasels and Mr. Winkie are real villains who trick Mr. Toad, steal his deed to Toad Hall, and frame him for car theft — resolved through a classic confrontation when Toad and friends storm Toad Hall to recapture the deed. In "The Legend of Sleepy Hollow," the Headless Horseman delivers one of Disney\'s most terrifying chase sequences, but the villainy is famously ambiguous — it may be Brom Bones in disguise playing a prank to eliminate his romantic rival. Ichabod vanishes and never triumphs. Scored at 0.65 because the Mr. Toad segment has clear villains defeated through confrontation, but the Ichabod segment\'s antagonist is ambiguously real-or-imagined and the protagonist loses rather than wins.',
+  },
 ]

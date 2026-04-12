@@ -459,4 +459,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.85,
     reasoning: 'The Joker is an unambiguously evil antagonist — a former hitman who murdered Andrea Beaumont\'s father and serves as the final physical threat in an explosive amusement-park showdown with Batman. The Phantasm (Andrea) is a morally gray vigilante systematically killing mob bosses, providing a secondary layer of real, violent conflict. The climax is resolved through direct physical confrontation: Batman battles the Joker while Andrea chooses vengeance, dragging the Joker into an explosion. Scored at 0.85 because the villains are genuine, the stakes are life-and-death, and resolution comes through combat — but Bruce Wayne\'s internal struggle between his vow to fight crime and his desire for a normal life with Andrea adds a significant emotional thread that tempers the pure villain-vs-hero dynamic.',
   },
+  {
+    title: 'The Lion King',
+    releaseYear: 1994,
+    decade: '1990s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.90,
+    reasoning: 'Scar is one of Disney\'s most iconic villains — a scheming, fratricidal uncle who murders Mufasa by throwing him into a wildebeest stampede, gaslights the young Simba into believing he caused his father\'s death, and seizes the throne of Pride Rock, ruling it into ruin with his hyena enforcers. The climax is a direct physical confrontation: Simba returns, exposes Scar\'s treachery before the pride, and battles him atop a burning Pride Rock before Scar is killed by his own hyena allies. Scored at 0.90 because Scar is unambiguously evil, the stakes are life-and-death across the entire film, and the resolution comes through confrontation and defeating the villain. Held slightly below 1.0 because Simba\'s internal arc — overcoming guilt, reclaiming his identity, and accepting responsibility — is a significant secondary thread that enriches the story beyond pure villain-defeat.',
+  },
 ]

@@ -203,4 +203,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.85,
     reasoning: 'Captain Hook is a genuine, iconic villain — a murderous pirate who kidnaps children, forces them to walk the plank, shoots his own crew, and plants a bomb to kill Peter Pan. The stakes are life-and-death throughout and the conflict is entirely external and villain-driven. Resolution comes through direct physical confrontation: Peter Pan sword-fights Hook and defeats him, sending him fleeing from the crocodile. Scored at 0.85 alongside Cinderella because while the hero personally confronts and defeats the villain (unlike Cinderella), Hook\'s comedic elements (bumbling crocodile fear, buffoonish moments) and the film\'s swashbuckling adventure tone temper the dramatic weight compared to Snow White (0.95) or Pinocchio (0.90).',
   },
+  {
+    title: 'Lady and the Tramp',
+    releaseYear: 1955,
+    decade: '1950s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.55,
+    reasoning: 'The film has real antagonists — the rat that invades the baby\'s nursery is a genuine physical villain defeated through direct confrontation (Tramp fights and kills it), and the Siamese cats Si and Am are deliberate troublemakers who frame Lady. However, the primary narrative is a romance where most conflicts stem from social misunderstanding and class prejudice: Aunt Sarah misjudges dogs and muzzles Lady unfairly, Tramp is sent to the pound based on misunderstanding, and the central love story is about bridging the gap between a sheltered uptown dog and a streetwise stray. Scored in the mid-range because the climax involves a genuine villain-confrontation (rat scene), but the overall conflict pattern is driven more by misunderstanding and social prejudice than by villainy.',
+  },
 ]

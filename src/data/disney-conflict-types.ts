@@ -235,4 +235,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.35,
     reasoning: 'Madam Mim is a genuine villain who tries to kill Arthur and cheats during her Wizards\' Duel with Merlin, but she only appears in one brief sequence near the film\'s end. The primary narrative follows young Arthur\'s education through magical transformations — conflicts are learning experiences (being chased as a fish, pursued as a squirrel) rather than villain-driven stakes. Sir Ector and Sir Kay are dismissive and sometimes cruel but not true villains. The overarching resolution — Arthur pulling the Sword from the Stone to become King — is about destiny and self-discovery, not defeating evil. Scored at 0.35 because the film contains a genuine villain-confrontation scene but the overall conflict pattern is episodic education and the climax is identity-based rather than villain-driven.',
   },
+  {
+    title: 'The Jungle Book',
+    releaseYear: 1967,
+    decade: '1960s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.75,
+    reasoning: 'Shere Khan is a genuine, menacing villain — a tiger who has vowed to kill Mowgli simply because he is human, creating real life-and-death stakes. The climax features a direct confrontation where Mowgli ties a burning branch to Shere Khan\'s tail, exploiting the tiger\'s fear of fire to defeat him. Kaa the snake also attempts to eat Mowgli twice. However, Shere Khan doesn\'t appear until the second half, and most of the film is episodic and lighthearted — Baloo\'s "Bare Necessities," King Louie\'s jazz number, the elephant patrol. The ultimate resolution extends beyond villain-defeat into coming-of-age identity: Mowgli voluntarily leaves the jungle to join the human village after seeing a girl. Scored at 0.75 because the villain is real and directly defeated, but the overall film is more episodic comedy than villain-driven drama, and the ending is about where Mowgli belongs rather than the triumph of good over evil.',
+  },
 ]

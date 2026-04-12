@@ -435,4 +435,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.70,
     reasoning: 'The Grand Duke of Owls is a genuine villain — a malevolent owl sorcerer who wants to plunge the world into permanent darkness so his owl army can hunt freely. He transforms the boy Edmond into a kitten and sends his nephew Hunch and owl minions to stop the heroes from bringing Chanticleer home. The climax is a direct confrontation: Chanticleer\'s crowing summons the sun, and the Grand Duke is shrunk into a tiny, powerless owl by the sunlight. Scored at 0.70 because the villain is unambiguously evil with real magical stakes and is defeated through confrontation, but the resolution also hinges on Chanticleer overcoming his crisis of self-confidence — he only crows again because the farm animals and Edmond believe in him — blending villain-defeat with a theme of self-belief and community support.',
   },
+  {
+    title: 'Aladdin',
+    releaseYear: 1992,
+    decade: '1990s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.85,
+    reasoning: 'Jafar is one of Disney\'s most iconic villains — a power-hungry royal vizier who uses sorcery, manipulation, and brute force to seize control of Agrabah. He hypnotizes the Sultan, attempts to forcibly marry Jasmine, and transforms himself into a giant serpent to kill Aladdin in direct physical combat. The climax is a confrontation resolved through Aladdin\'s cleverness: he tricks Jafar into wishing himself into a genie, trapping him in a lamp forever. Scored at 0.85 because Jafar is unambiguously evil and defeated through direct confrontation, though a secondary thread involves Aladdin\'s internal struggle with honesty and identity — he only wins Jasmine\'s love by accepting who he really is rather than pretending to be a prince.',
+  },
 ]

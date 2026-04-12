@@ -243,4 +243,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.75,
     reasoning: 'Shere Khan is a genuine, menacing villain — a tiger who has vowed to kill Mowgli simply because he is human, creating real life-and-death stakes. The climax features a direct confrontation where Mowgli ties a burning branch to Shere Khan\'s tail, exploiting the tiger\'s fear of fire to defeat him. Kaa the snake also attempts to eat Mowgli twice. However, Shere Khan doesn\'t appear until the second half, and most of the film is episodic and lighthearted — Baloo\'s "Bare Necessities," King Louie\'s jazz number, the elephant patrol. The ultimate resolution extends beyond villain-defeat into coming-of-age identity: Mowgli voluntarily leaves the jungle to join the human village after seeing a girl. Scored at 0.75 because the villain is real and directly defeated, but the overall film is more episodic comedy than villain-driven drama, and the ending is about where Mowgli belongs rather than the triumph of good over evil.',
   },
+  {
+    title: 'The Aristocats',
+    releaseYear: 1970,
+    decade: '1970s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.60,
+    reasoning: 'Edgar the butler is a genuine villain with a deliberate scheme — upon learning Madame Bonfamille\'s fortune will pass to her cats before him, he drugs and kidnaps Duchess and her kittens, abandoning them in the countryside and later attempting to ship them to Timbuktu permanently. The resolution is a direct confrontation: the cats and their animal allies (Thomas O\'Malley, Scat Cat\'s band, the farm animals) physically overpower Edgar and trap him in the very trunk he intended for the cats. However, Edgar is a comedic, bumbling villain whose schemes repeatedly backfire, and much of the film is a lighthearted Parisian romance between Duchess and O\'Malley punctuated by jazz musical numbers. Scored at 0.60 because the villain is real and directly defeated through confrontation, but the comedic tone, bumbling antagonist, and romance-driven narrative reduce the dramatic weight well below films with menacing villains like The Jungle Book (0.75).',
+  },
 ]

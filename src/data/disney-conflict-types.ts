@@ -395,4 +395,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.70,
     reasoning: 'Carface Carruthers is an unambiguous villain — a crime boss who murders his partner Charlie B. Barkin to seize control of their gambling operation, then repeatedly tries to kill him again after Charlie returns from the dead. The climax involves a direct physical confrontation at Carface\'s lair amid fire and flooding. Scored at 0.70 because while Carface is genuinely evil and the stakes are life-and-death, the resolution hinges on Charlie\'s internal moral transformation — he starts out selfish and exploitative (using orphan Anne-Marie\'s gift for gambling profit) and ultimately sacrifices his life to save her, earning redemption. The film resolves through self-sacrifice and spiritual growth rather than simply defeating the villain.',
   },
+  {
+    title: 'Kiki\'s Delivery Service',
+    releaseYear: 1989,
+    decade: '1980s',
+    studio: 'Studio Ghibli',
+    conflictScore: 0.15,
+    reasoning: 'There is no villain in this film. Kiki is a young witch who moves to a new city and starts a flying delivery service as part of a coming-of-age tradition. The central conflict is entirely internal — she loses her magical powers due to self-doubt and a crisis of identity, and regains them through renewed self-belief when she must rescue her friend Tombo from a crashing dirigible. Scored at 0.15 — slightly above Totoro (0.10) because the climax has genuine physical danger and urgency, but the conflict is fundamentally about personal growth and self-understanding with zero antagonism or villainy.',
+  },
 ]

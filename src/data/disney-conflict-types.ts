@@ -163,4 +163,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.70,
     reasoning: 'A two-segment package film where both segments feature genuine antagonists resolved through confrontation. In "Bongo," the circus bear must physically fight Lumpjaw — a bullying rival — to win Lulubelle\'s affection. In "Mickey and the Beanstalk," Willie the Giant is a real villain who stole the Golden Harp and caused famine; Mickey, Donald, and Goofy must outsmart and defeat him to restore Happy Valley. Scored well above other 1940s package films (Make Mine Music 0.35, Saludos Amigos 0.20) because both segments are villain-driven, but below full features like Brave Little Tailor (0.80) because the package format and comedic tone reduce the dramatic stakes.',
   },
+  {
+    title: 'Melody Time',
+    releaseYear: 1948,
+    decade: '1940s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.30,
+    reasoning: 'A seven-segment package film set to popular music, mostly gentle showcases. "Pecos Bill" is the most conflict-heavy segment — he physically defeats outlaws, tames the wild horse Widowmaker, and lassos a tornado, but the central story is a tall-tale romance ending in loss rather than a villain-defeat arc. "Little Toot" involves a mischievous tugboat who causes an accident and redeems himself by rescuing an ocean liner in a storm — self-inflicted conflict resolved through heroism. "Johnny Appleseed" is a gentle frontier folk tale with man-vs-nature stakes. The remaining segments (Once Upon a Wintertime, Bumble Boogie, Trees, Blame It on the Samba) have minimal or no narrative conflict. Scored below Make Mine Music (0.35) because no segment has a clear predator-villain like Peter and the Wolf, but above the pure-travelogue package films (Saludos Amigos/Three Caballeros at 0.20) because Pecos Bill and Little Toot have genuine physical stakes.',
+  },
 ]

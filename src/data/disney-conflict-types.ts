@@ -307,4 +307,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.45,
     reasoning: 'Amos Slade is an antagonist who hunts Tod with genuine lethal intent, and a bear attack in the climax creates real life-and-death stakes. However, Slade is not truly evil — he is a hunter with a legitimate grievance after Tod causes Chief\'s injury — and the bear is a force of nature, not a villain. The core conflict is societal: a fox and a hound whose childhood friendship is torn apart because their natures make them "supposed to be" enemies. Resolution comes through empathy — Copper stands between Slade\'s gun and the wounded Tod, refusing to let his friend be killed, and Slade lowers the gun. Scored at 0.45 because the physical stakes are real but the central conflict is about whether cross-nature friendship can survive societal expectations, resolved through loyalty and compassion rather than defeating any antagonist.',
   },
+  {
+    title: 'The Last Unicorn',
+    releaseYear: 1982,
+    decade: '1980s',
+    studio: 'Rankin/Bass Productions',
+    conflictScore: 0.75,
+    reasoning: 'King Haggard is a genuine villain who used the Red Bull to drive all unicorns into the sea out of selfish desire to keep their beauty for himself, and the Red Bull is a terrifying enforcer with life-and-death stakes. The climax is a direct confrontation — the Unicorn faces the Red Bull and drives it into the sea, freeing the other unicorns, while Haggard\'s castle crumbles and kills him. However, much of the film is a melancholic journey focused on identity and mortality (the Unicorn transformed into mortal Amalthea fears losing herself), and the resolution is triggered by Prince Lír\'s self-sacrifice and love rather than martial victory. Scored at 0.75 because the villain is real and defeated through confrontation, but the film\'s dominant emotional register is internal struggle and the cost of feeling, placing it below straightforward hero-defeats-evil narratives.',
+  },
 ]

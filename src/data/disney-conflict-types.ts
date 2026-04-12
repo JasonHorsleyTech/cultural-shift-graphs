@@ -419,4 +419,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.85,
     reasoning: 'Percival C. McLeach is an unambiguously evil poacher who kidnaps the boy Cody to exploit his knowledge of the rare golden eagle Marahute, intending to capture and kill the bird for profit. McLeach is physically menacing — he imprisons Cody, lies that Marahute is dead to manipulate him, and ultimately tries to feed Cody to crocodiles at Crocodile Falls. The climax is a direct confrontation: Bernard rescues Cody and Marahute while McLeach falls over the waterfall to his death. Scored at 0.85 because the villain is genuinely threatening and defeated through confrontation, but the protagonist Bernard\'s arc also involves overcoming personal timidity and finding the courage to propose to Bianca, adding a secondary internal-growth thread alongside the villain conflict.',
   },
+  {
+    title: 'Beauty and the Beast',
+    releaseYear: 1991,
+    decade: '1990s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.65,
+    reasoning: 'Gaston is a genuine villain — a narcissistic hunter who whips the townspeople into a mob, storms the Beast\'s castle, and ultimately stabs the Beast before falling to his death from the castle roof in direct physical confrontation. However, the central conflict of the film is not truly about defeating Gaston — it is about Belle seeing past the Beast\'s frightening exterior to find compassion and love, which breaks the enchantress\'s curse. The resolution is fundamentally rooted in empathy and understanding rather than combat. Scored at 0.65 because a real villain exists and is defeated through confrontation, but the emotional and thematic core resolves through love and transformation, marking an early shift toward internal/empathy-driven resolution in Disney\'s Renaissance era.',
+  },
 ]

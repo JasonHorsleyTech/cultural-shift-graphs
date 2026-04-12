@@ -91,4 +91,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.40,
     reasoning: 'The war between Lilliput and Blefuscu originates from a trivial misunderstanding — the two kings cannot agree on which song to play at a royal wedding. While the conflict escalates to a real naval attack and Blefuscu employs scheming spies, there is no true evil villain — both kings are equally stubborn. Gulliver resolves the conflict through physical intervention (stopping the fleet) combined with diplomacy, making this notably "modern" in its conflict-as-misunderstanding pattern for a 1939 film.',
   },
+  {
+    title: 'The Ugly Duckling',
+    releaseYear: 1939,
+    decade: '1930s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.15,
+    reasoning: 'No real villain — the mother duck and barnyard birds reject the duckling for looking different, but out of ignorance rather than malice. The core conflict is a misunderstanding of identity: the duckling is actually a swan, not an ugly duck. Resolution comes through acceptance and recognition when the duckling finds a swan family, and the duck family realizes their mistake. A cat briefly threatens the duckling, but the central conflict is entirely about misidentification resolved through belonging and self-discovery.',
+  },
 ]

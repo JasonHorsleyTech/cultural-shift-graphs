@@ -131,4 +131,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.65,
     reasoning: 'Man is a genuine villain — an unseen but lethal force who kills Bambi\'s mother (one of cinema\'s most iconic deaths) and later sets the forest ablaze, creating real life-and-death stakes. However, Man is never seen on screen and Bambi never confronts or defeats him. The resolution comes through survival, maturation, and the continuation of the natural cycle — Bambi grows up, finds a mate, and becomes the Great Prince of the Forest. Scored in the mid-range because the villain is real and the stakes are deadly, but the conflict is resolved through endurance and growth rather than confrontation.',
   },
+  {
+    title: 'Saludos Amigos',
+    releaseYear: 1943,
+    decade: '1940s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.20,
+    reasoning: 'A four-segment package film made as wartime cultural diplomacy — none of the segments have a real villain. The closest to conflict is the Pedro segment, where a small mail plane braves the Andes and a personified Mount Aconcagua, but this is man-vs-nature resolved through perseverance. The Donald Duck segments are comedic tourism mishaps and Goofy\'s gaucho segment is pure slapstick. The film is essentially a travelogue with minimal narrative conflict, let alone villain-driven stakes.',
+  },
 ]

@@ -387,4 +387,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.85,
     reasoning: 'Sharptooth is a terrifying, relentless Tyrannosaurus rex who kills Littlefoot\'s mother in a brutal early attack and stalks the young dinosaurs throughout their journey to the Great Valley. The climax is a direct physical confrontation — the children lure Sharptooth to a cliff edge and topple a boulder onto him, sending him plunging into deep water. Scored at 0.85 because Sharptooth is an unambiguous, deadly villain whose threat drives the entire plot, and the resolution is pure confrontation. Slightly below 0.90 because important secondary themes — grief over a parent\'s death, cooperation across species prejudice, and the emotional journey of growing up — add depth beyond a simple good-vs-evil arc.',
   },
+  {
+    title: 'All Dogs Go to Heaven',
+    releaseYear: 1989,
+    decade: '1980s',
+    studio: 'Sullivan Bluth Studios',
+    conflictScore: 0.70,
+    reasoning: 'Carface Carruthers is an unambiguous villain — a crime boss who murders his partner Charlie B. Barkin to seize control of their gambling operation, then repeatedly tries to kill him again after Charlie returns from the dead. The climax involves a direct physical confrontation at Carface\'s lair amid fire and flooding. Scored at 0.70 because while Carface is genuinely evil and the stakes are life-and-death, the resolution hinges on Charlie\'s internal moral transformation — he starts out selfish and exploitative (using orphan Anne-Marie\'s gift for gambling profit) and ultimately sacrifices his life to save her, earning redemption. The film resolves through self-sacrifice and spiritual growth rather than simply defeating the villain.',
+  },
 ]

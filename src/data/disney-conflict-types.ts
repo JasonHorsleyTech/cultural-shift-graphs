@@ -59,4 +59,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.3,
     reasoning: 'No real villain — Max Hare is an arrogant rival, not a malicious antagonist. The conflict is a race driven by the Hare\'s overconfidence versus the Tortoise\'s perseverance. Resolution comes through steady effort and the Hare\'s own hubris, not through confrontation or defeating evil. The moral is about character virtues (humility, persistence) rather than good triumphing over villainy.',
   },
+  {
+    title: 'Snow White and the Seven Dwarfs',
+    releaseYear: 1937,
+    decade: '1930s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.95,
+    reasoning: 'The Evil Queen is one of animation\'s most iconic villains — driven by jealous vanity, she orders Snow White\'s assassination and later personally attempts to murder her with a poisoned apple. The stakes are life-and-death, the conflict is entirely external, and the Queen is defeated through direct confrontation (the dwarfs chase her to a cliff where she falls to her death). Scored just below 1.0 because Snow White herself is passive in the resolution rather than confronting the villain directly.',
+  },
 ]

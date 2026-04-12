@@ -507,4 +507,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.40,
     reasoning: 'The central conflict is not a villain but Woody\'s jealousy of Buzz Lightyear — an internal, character-driven struggle over status and identity. Sid Phillips serves as a genuine external threat in the third act (a destructive kid who tortures and dismembers toys), but he is not the emotional core of the story. Resolution comes through Woody and Buzz overcoming their rivalry to cooperate, and Sid is scared off when the toys collectively reveal themselves — clever teamwork rather than combat. Scored at 0.40 because a real antagonist exists and creates genuine danger, but the thematic heart is about jealousy, insecurity, and learning to share — resolved through empathy and cooperation rather than defeating evil.',
   },
+  {
+    title: 'The Hunchback of Notre Dame',
+    releaseYear: 1996,
+    decade: '1990s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.90,
+    reasoning: 'Judge Claude Frollo is one of Disney\'s most unambiguously evil villains — a genocidal fanatic who burns Paris to find Esmeralda, attempts to drown the infant Quasimodo, and ultimately tries to murder both protagonists while declaring himself righteous. The conflict is entirely external and life-or-death: Frollo\'s oppression of the Romani people and his obsessive pursuit of Esmeralda drive the plot. Resolution comes through direct confrontation — Quasimodo physically defies Frollo, the citizens of Paris rise up against his soldiers, and Frollo falls to his death from Notre Dame\'s cathedral while trying to kill Quasimodo. Scored at 0.90 because the villain is genuinely menacing with real genocidal stakes, and is defeated through physical confrontation, though Quasimodo\'s arc also involves themes of self-acceptance and finding where he belongs.',
+  },
 ]

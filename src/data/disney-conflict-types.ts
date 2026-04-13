@@ -1195,4 +1195,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.70,
     reasoning: 'El Macho is an unambiguously evil villain — he kidnaps Gru\'s minions, mutates them into indestructible purple monsters using the stolen PX-41 serum, and plans world domination. The climax is a direct physical confrontation: Gru storms El Macho\'s lair, fights him after he injects himself with PX-41, and the mutant minions are cured with an antidote. However, the film\'s emotional core is Gru\'s personal growth — learning to open himself to romance with Lucy and navigating fatherhood — giving the villain plot a somewhat secondary feel. Scored at 0.70 because while the villain is genuine and defeated through direct confrontation with real stakes, the heart of the story is Gru\'s personal life, and the overall tone is comedic rather than dramatically high-stakes.',
   },
+  {
+    title: 'Epic',
+    releaseYear: 2013,
+    decade: '2010s',
+    studio: 'Blue Sky Studios',
+    conflictScore: 0.70,
+    reasoning: 'Mandrake is a genuine, menacing villain — the leader of the Boggans, dark creatures of decay who seek to destroy the forest. He personally kills Queen Tara and wages war to prevent the succession pod from blooming, which would restore life to the forest. The climax is a direct physical battle between the Leafmen and the Boggans, resolved when MK and the Leafmen ensure the pod blooms in moonlight, defeating Mandrake\'s forces. However, MK\'s personal arc — being shrunk into this hidden world and reconnecting with her estranged, eccentric father — adds a meaningful internal dimension. Scored at 0.70 because the conflict is primarily a classic good-vs-evil war with a lethal villain defeated through confrontation, but MK\'s journey of understanding her father and the broader nature-vs-decay thematic framework temper the score below the most purely villain-driven films.',
+  },
 ]

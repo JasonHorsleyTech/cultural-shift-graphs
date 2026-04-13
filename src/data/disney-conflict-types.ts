@@ -1907,4 +1907,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.55,
     reasoning: 'The Chameleon is a genuine villain — a shapeshifting sorceress who steals kung fu warriors\' abilities and plots to summon all previous villains from the Spirit Realm to absorb their chi. She is defeated through direct physical confrontation when Po and Zhen work together to stop her. However, the emotional core is Po\'s identity crisis: he must accept transitioning from Dragon Warrior to Spiritual Leader of the Valley of Peace and learn to trust Zhen, a street thief, as his potential successor. Scored mid-range because a real villain with real stakes is defeated through confrontation, but the thematic weight falls on Po\'s personal growth, letting go of his identity, and learning to mentor the next generation.',
   },
+  {
+    title: 'Moana 2',
+    releaseYear: 2024,
+    decade: '2020s',
+    studio: 'Walt Disney Animation Studios',
+    conflictScore: 0.55,
+    reasoning: 'The god Nalo is a genuine antagonistic force who cursed the island of Motufetu and raised a deadly storm barrier to isolate the peoples of the Pacific. Moana must physically confront the supernatural storm to break the curse, and the stakes are real — shipwrecks, mortal danger, and the separation of entire civilizations. However, Nalo functions more as an abstract elemental force than a traditional face-to-face villain, and the film\'s emotional core centers on Moana learning to trust her new crew and lead collaboratively rather than shouldering the burden alone. Scored mid-range because the external threat is genuine and resolved through direct confrontation, but the thematic weight tilts toward community, connection, and personal growth.',
+  },
 ]

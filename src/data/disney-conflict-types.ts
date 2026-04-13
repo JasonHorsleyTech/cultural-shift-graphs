@@ -1171,4 +1171,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.55,
     reasoning: 'Queen Victoria is a genuine villain — she runs a secret exotic animal dining society, hunts pirates, and schemes to steal Polly the dodo. The climax is a physical confrontation at Buckingham Palace where the pirates battle her forces to rescue Polly. However, the Pirate Captain\'s central conflict is internal: his obsession with winning Pirate of the Year leads him to betray his crew\'s trust by trading Polly for a trophy. Resolution depends equally on his learning that loyalty to his crew matters more than personal glory. Scored at 0.55 because while a real villain is defeated through confrontation, the film gives equal weight to the Captain\'s internal growth and the theme that friendship outweighs ambition.',
   },
+  {
+    title: 'Wreck-It Ralph',
+    releaseYear: 2012,
+    decade: '2010s',
+    studio: 'Walt Disney Animation Studios',
+    conflictScore: 0.65,
+    reasoning: 'King Candy (secretly Turbo) is a genuinely malicious villain who invaded Sugar Rush, usurped its throne, and deliberately turned Vanellope into a glitch to protect his stolen power. The climax is a physical confrontation — Ralph battles Turbo-fused-with-a-Cy-Bug and sacrifices himself by plunging into a volcano to create a beacon that destroys the swarm. However, the film\'s emotional core is Ralph\'s internal identity crisis: he learns that being cast as the "bad guy" in his game doesn\'t define his worth, and that his friendship with Vanellope matters more than medals or recognition. Scored at 0.65 because while a real villain is defeated through direct physical confrontation with life-or-death stakes, the film gives substantial weight to Ralph\'s self-acceptance arc and the theme that your role doesn\'t determine who you are.',
+  },
 ]

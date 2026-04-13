@@ -1667,4 +1667,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.10,
     reasoning: 'There is no villain — Terry, the cosmic accountant chasing Joe\'s soul, is a bureaucratic nuisance rather than a malicious antagonist. The entire conflict is internal and existential: Joe Gardner\'s single-minded obsession with his jazz dream blinds him to the everyday beauty of being alive, and 22\'s refusal to go to Earth stems from a deep fear of not being enough. Resolution comes through self-understanding and empathy — Joe realizes his "spark" was never about jazz but about appreciating life itself, and he helps 22 find her own reason to embrace living. Scored near the floor because the film is a meditation on purpose and meaning with zero villainy or confrontation.',
   },
+  {
+    title: 'The Croods: A New Age',
+    releaseYear: 2020,
+    decade: '2020s',
+    studio: 'DreamWorks Animation',
+    conflictScore: 0.20,
+    reasoning: 'There is no real villain — the Bettermans are antagonistic but driven by cultural snobbery and parental possessiveness, not malice. Phil Betterman schemes to separate the Croods from Guy, but his motivation is protecting his daughter and fearing the "primitive" family. The late-film punch-monkeys and giant spider-monkey are environmental threats, not conscious villains. Resolution comes through the two families learning mutual acceptance and working together, with parents on both sides learning to let go. Scored low because the core conflict is a cultural misunderstanding resolved through empathy and cooperation.',
+  },
 ]

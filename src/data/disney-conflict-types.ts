@@ -667,4 +667,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.55,
     reasoning: 'Lord Farquaad is a genuine villain — he forcibly exiles fairytale creatures from his kingdom, tortures the Gingerbread Man for information, and schemes to marry Princess Fiona purely for political power. He is ultimately eaten by Dragon in a direct confrontation. However, the film\'s emotional core is about overcoming prejudice and self-acceptance: Shrek is feared and isolated because people assume ogres are monsters, and Fiona hides her ogre curse out of shame. The true resolution comes through Shrek and Fiona accepting themselves and each other for who they really are. Scored at 0.55 because a real villain exists and is physically defeated, but the deeper conflict is internal and societal — judging by appearances — resolved through love, empathy, and self-acceptance rather than heroic confrontation.',
   },
+  {
+    title: 'Spirited Away',
+    releaseYear: 2001,
+    decade: '2000s',
+    studio: 'Studio Ghibli',
+    conflictScore: 0.20,
+    reasoning: 'Yubaba is an intimidating authority figure who traps Chihiro\'s parents as pigs and steals Chihiro\'s name, but she is never defeated in combat — she is an obstacle to navigate, not a villain to vanquish. No-Face becomes a rampaging threat but is calmed through Chihiro\'s compassion and patience, not confrontation. The entire conflict is resolved through personal growth, hard work, kindness, and acts of remembering (Haku\'s true name, recognizing her parents). Scored very low because there is no real villainy to defeat — every challenge is overcome through empathy, courage, and self-discovery rather than confrontation.',
+  },
 ]

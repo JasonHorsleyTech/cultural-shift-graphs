@@ -1235,4 +1235,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.35,
     reasoning: 'Guy Gagné, the champion racer Turbo idolizes, becomes a genuine physical threat — he deliberately tries to crush Turbo during the Indy 500 finale and taunts him about his impossible dream. However, the core conflict is fundamentally internal and aspirational: a garden snail dares to dream of speed despite everyone (especially his overprotective brother Chet) insisting it\'s impossible. The resolution comes through perseverance and self-belief — Turbo loses his superpowers in the final lap but wins by tucking into his shell and rolling across the finish line through sheer determination. Scored at 0.35 because while a real antagonist exists who physically endangers the hero, the film\'s thesis is about pursuing impossible dreams and fraternal reconciliation, resolved through grit and self-belief rather than defeating evil.',
   },
+  {
+    title: 'Big Hero 6',
+    releaseYear: 2014,
+    decade: '2010s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.55,
+    reasoning: 'Professor Callaghan (Yokai) is a genuine villain — he fakes his death, steals Hiro\'s microbots, and endangers lives in a revenge plot against Alistair Krei. The climax involves direct physical confrontation as the superhero team battles Yokai. However, the film\'s emotional core is Hiro\'s grief over losing his brother Tadashi and his journey from vengeful rage to compassion, guided by Baymax\'s care-driven programming. The pivotal moment is Hiro choosing not to kill Callaghan and Baymax sacrificing himself to rescue Callaghan\'s daughter from the portal. Scored at 0.55 because while a real villain is defeated through confrontation, the film gives equal weight to processing grief, rejecting revenge, and the healing power of friendship — the emotional resolution is empathy-driven rather than violence-driven.',
+  },
 ]

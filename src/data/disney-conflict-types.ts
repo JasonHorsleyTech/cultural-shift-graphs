@@ -715,4 +715,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.20,
     reasoning: 'There is no real villain — the conflict is a tragic cycle of revenge born from grief and misunderstanding. Kenai kills a bear to avenge his brother Sitka, only to be transformed into a bear himself and discover the bear he killed was Koda\'s mother. Denahi hunts Kenai-as-bear with lethal intent, but he is a grieving brother, not a villain. The climax resolves entirely through empathy: Kenai confesses his guilt to Koda, the Great Spirits intervene, and Kenai chooses to remain a bear to become Koda\'s family. Scored very low because every antagonist is motivated by grief rather than malice, and resolution comes through understanding, love, and self-sacrifice rather than defeating evil.',
   },
+  {
+    title: 'Finding Nemo',
+    releaseYear: 2003,
+    decade: '2000s',
+    studio: 'Pixar',
+    conflictScore: 0.25,
+    reasoning: 'There is no real villain — the film\'s threats (barracuda, sharks, jellyfish, anglerfish) are environmental hazards, not antagonists with intent. The dentist who captures Nemo is oblivious, not malicious, and the sharks are actively trying not to eat fish. The true conflict is entirely internal: Marlin\'s paralyzing overprotectiveness born from trauma versus Nemo\'s need for independence. Resolution comes through personal growth and trust — Marlin learns to let go, Nemo proves his capability, and father and son reach mutual understanding. Scored very low because the story is fundamentally about a parent overcoming fear through empathy and trust, not about defeating evil.',
+  },
 ]

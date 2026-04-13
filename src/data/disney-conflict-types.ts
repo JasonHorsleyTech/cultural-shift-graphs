@@ -50,6 +50,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.75,
     reasoning: 'Pete is a clear physical antagonist — an abusive steamboat captain who bullies Mickey with brute force. The conflict is entirely external and resolved through endurance rather than empathy. Scored below 1.0 because the short is primarily a musical showcase and the conflict is simple rather than a dramatic good-vs-evil confrontation.',
+    culturalReachPct: 40,
+    reachReasoning: 'Estimated. As the debut of Mickey Mouse with synchronized sound, Steamboat Willie is one of the most historically significant animated shorts ever made. It played before features in theaters across America in 1928–1929 and reached huge audiences in its era. However, as a 7-minute short from 1928, relatively few modern American children have actually sat down and watched it — its cultural footprint far exceeds its direct viewership. The short has been widely excerpted in documentaries and retrospectives, and Mickey Mouse himself is universally recognized, but the short itself is more "known about" than "watched" by children.',
   },
   {
     title: 'Three Little Pigs',
@@ -58,6 +60,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.85,
     reasoning: 'The Big Bad Wolf is an iconic, unambiguous villain — a predator who physically threatens the pigs by blowing down their houses with intent to eat them. The entire plot centers on external conflict resolved through preparation and direct confrontation (the brick house withstands the attack, and the wolf is scalded trying the chimney). Scored below 0.9 because it is still a short film without the dramatic scope of a full-length feature.',
+    culturalReachPct: 55,
+    reachReasoning: 'Estimated. The most famous Silly Symphony ever made — "Who\'s Afraid of the Big Bad Wolf?" became a Depression-era anthem and cultural phenomenon. The short played before features in virtually every US theater in 1933 and was re-released multiple times. It was widely broadcast on TV (including the Wonderful World of Disney) and included on home video compilations. The story and characters remain universally recognized. However, as a 1933 short, direct viewership among modern children is limited compared to feature-length classics.',
   },
   {
     title: 'The Tortoise and the Hare',
@@ -66,6 +70,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.3,
     reasoning: 'No real villain — Max Hare is an arrogant rival, not a malicious antagonist. The conflict is a race driven by the Hare\'s overconfidence versus the Tortoise\'s perseverance. Resolution comes through steady effort and the Hare\'s own hubris, not through confrontation or defeating evil. The moral is about character virtues (humility, persistence) rather than good triumphing over villainy.',
+    culturalReachPct: 25,
+    reachReasoning: 'Estimated. Won the Academy Award for Best Animated Short in 1935 and played before features in theaters. The Aesop fable itself is universally known, but this specific Disney adaptation is much less iconic than Three Little Pigs. It appeared on some TV compilations and home video collections but was never a major standalone release. Most American children know the tortoise-and-hare story but few have seen this particular short.',
   },
   {
     title: 'Snow White and the Seven Dwarfs',
@@ -74,6 +80,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.95,
     reasoning: 'The Evil Queen is one of animation\'s most iconic villains — driven by jealous vanity, she orders Snow White\'s assassination and later personally attempts to murder her with a poisoned apple. The stakes are life-and-death, the conflict is entirely external, and the Queen is defeated through direct confrontation (the dwarfs chase her to a cliff where she falls to her death). Scored just below 1.0 because Snow White herself is passive in the resolution rather than confronting the villain directly.',
+    culturalReachPct: 85,
+    reachReasoning: 'The first full-length cel-animated feature in US cinema history. Massive theatrical success in 1937 (earned $8M against a $1.5M budget — equivalent to hundreds of millions today). Re-released theatrically at least 7 times between 1944 and 1993, each time reaching a new generation. The 1994 VHS release sold over 27 million copies. Theme park presence (rides, character meet-and-greets) kept it culturally omnipresent. A generational touchstone for American children across multiple decades — one of the most-seen animated films ever made.',
   },
   {
     title: 'Brave Little Tailor',
@@ -82,6 +90,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.80,
     reasoning: 'The giant is a genuine physical antagonist terrorizing the kingdom, and Mickey (the tailor) must defeat him through direct confrontation. The conflict is entirely external with real stakes — the giant is destructive and dangerous. Mickey defeats him through clever trickery (tying him up) rather than brute force, but it is still a clear victory-over-villain resolution. Scored slightly below Three Little Pigs because the hero\'s quest originates from a comical misunderstanding (killing "seven at one blow" referred to flies, not giants).',
+    culturalReachPct: 15,
+    reachReasoning: 'Estimated. Nominated for the Academy Award for Best Animated Short in 1938 and played before features in theaters. A well-regarded Mickey Mouse cartoon but far less iconic than Steamboat Willie or the Silly Symphonies. Appeared on some home video compilations but never achieved standalone recognition. Most American children have not seen this specific short.',
   },
   {
     title: 'Ferdinand the Bull',
@@ -90,6 +100,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.15,
     reasoning: 'No real villain — the matador and the men selecting bulls are not malicious, just operating within their cultural system. The core conflict is a misunderstanding: Ferdinand\'s bee-sting reaction is mistaken for ferocity. Resolution comes entirely through Ferdinand\'s peaceful self-expression — he simply refuses to fight and sits smelling flowers until he\'s sent home. Remarkably close to the "modern" pattern of conflict-as-misunderstanding resolved through staying true to oneself.',
+    culturalReachPct: 30,
+    reachReasoning: 'Estimated. Won the Academy Award for Best Animated Short in 1938. Based on the hugely popular 1936 children\'s book by Munro Leaf, which was a bestseller and cultural phenomenon (seen as an anti-war parable). The short was widely shown in theaters and later appeared on TV and home video compilations. The source book\'s fame gives the story broad cultural recognition, though the specific Disney short is less remembered than the book itself. The 2017 Blue Sky feature film revival renewed some awareness.',
   },
   {
     title: 'Gulliver\'s Travels',
@@ -98,6 +110,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Fleischer Studios',
     conflictScore: 0.40,
     reasoning: 'The war between Lilliput and Blefuscu originates from a trivial misunderstanding — the two kings cannot agree on which song to play at a royal wedding. While the conflict escalates to a real naval attack and Blefuscu employs scheming spies, there is no true evil villain — both kings are equally stubborn. Gulliver resolves the conflict through physical intervention (stopping the fleet) combined with diplomacy, making this notably "modern" in its conflict-as-misunderstanding pattern for a 1939 film.',
+    culturalReachPct: 20,
+    reachReasoning: 'Estimated. The second full-length animated feature film ever (after Snow White), produced by Fleischer Studios. It was a box office success in 1939, ranking among the top-grossing films of the year. However, unlike Disney features it was never theatrically re-released on a regular cycle and had limited home video presence. The Gulliver\'s Travels story is well-known but this specific adaptation is largely forgotten by modern audiences. Paramount\'s lack of a "vault" re-release strategy (unlike Disney) severely limited its multi-generational reach.',
   },
   {
     title: 'The Ugly Duckling',
@@ -106,6 +120,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.15,
     reasoning: 'No real villain — the mother duck and barnyard birds reject the duckling for looking different, but out of ignorance rather than malice. The core conflict is a misunderstanding of identity: the duckling is actually a swan, not an ugly duck. Resolution comes through acceptance and recognition when the duckling finds a swan family, and the duck family realizes their mistake. A cat briefly threatens the duckling, but the central conflict is entirely about misidentification resolved through belonging and self-discovery.',
+    culturalReachPct: 20,
+    reachReasoning: 'Estimated. Won the Academy Award for Best Animated Short in 1939. The Hans Christian Andersen fairy tale is universally known, which gives the story itself enormous cultural recognition. The Disney short was shown in theaters and appeared on TV compilations, but like most Silly Symphonies, the specific animated version is far less remembered than the story it adapts. Modest home video presence on anthology collections.',
   },
   {
     title: 'Fantasia',
@@ -114,6 +130,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.40,
     reasoning: 'An anthology of eight segments set to classical music, most with no narrative conflict at all. The "Night on Bald Mountain" segment features Chernabog — a genuinely menacing demon — but he is vanquished by dawn and sacred music rather than hero confrontation. "The Sorcerer\'s Apprentice" conflict is entirely self-inflicted by Mickey\'s hubris, resolved when the Sorcerer intervenes. The vast majority of the film\'s runtime is abstract or pastoral with no antagonist, pulling the overall score well below films with central villains.',
+    culturalReachPct: 60,
+    reachReasoning: 'Fantasia was a box office disappointment in its original 1940 roadshow release due to WWII and the expensive Fantasound system. However, it was re-released theatrically multiple times (1946, 1956, 1963, 1969 — the 1969 counterculture reissue was a surprise hit — 1977, 1982, 1990). The 1991 VHS release sold over 14 million copies, making it one of the best-selling home videos of its time. "The Sorcerer\'s Apprentice" is one of Disney\'s most iconic sequences. Despite this, the film\'s length and abstract nature means many children started it but did not finish — its cultural awareness far exceeds its full-viewership rate.',
   },
   {
     title: 'Pinocchio',
@@ -122,6 +140,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.90,
     reasoning: 'Multiple genuine villains — Stromboli imprisons Pinocchio and threatens to chop him into firewood, the Coachman traffics boys to Pleasure Island where they are transformed into donkeys (one of Disney\'s most disturbing villain schemes), and Monstro the whale is a deadly force of nature. Stakes are life-and-death throughout, and Pinocchio ultimately dies saving Geppetto from Monstro before being resurrected. Scored slightly below Snow White (0.95) because some conflicts arise from Pinocchio\'s own naivety and moral failings rather than purely villain-driven action, and the ultimate resolution (becoming a real boy) rewards moral growth alongside confrontation.',
+    culturalReachPct: 75,
+    reachReasoning: 'A box office disappointment in 1940 due to WWII cutting off European markets, but became a classic through re-releases (1945, 1954, 1962, 1971, 1978, 1984, 1992). The 1993 VHS release was a major seller. "When You Wish Upon a Star" became Disney\'s corporate anthem and one of the most recognized songs in American culture. Theme park presence (rides at multiple Disney parks). Slightly below Snow White in reach because its darker tone and complex morality made it less of a universal "comfort" rewatch for very young children.',
   },
   {
     title: 'Dumbo',
@@ -130,6 +150,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.30,
     reasoning: 'No true villain — the gossiping elephants, taunting circus boys, and the ringmaster are cruel but not evil antagonists. The core conflict is being different and misunderstood: Dumbo\'s oversized ears make him a target for ridicule, and his mother is imprisoned for protecting him (an injustice, not villainy). Resolution comes entirely through self-discovery — Dumbo learns his "flaw" is actually a gift when he discovers he can fly — rather than through defeating any antagonist. The emotional stakes are genuine (mother-child separation, social ostracism) but the conflict pattern is remarkably close to modern "misunderstanding resolved through self-acceptance."',
+    culturalReachPct: 75,
+    reachReasoning: 'Dumbo was Disney\'s most commercially successful film of the early 1940s — short, cheap to produce, and a hit at the box office. Re-released theatrically multiple times (1949, 1959, 1972, 1976). The 1981 VHS release was among Disney\'s earliest home video offerings, and it sold strongly throughout the VHS/DVD era. "Baby Mine" is one of Disney\'s most emotionally iconic scenes. Dumbo the Flying Elephant ride is a staple at Disney parks worldwide. Its simple story and short runtime made it especially accessible to very young children.',
   },
   {
     title: 'Bambi',
@@ -138,6 +160,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.65,
     reasoning: 'Man is a genuine villain — an unseen but lethal force who kills Bambi\'s mother (one of cinema\'s most iconic deaths) and later sets the forest ablaze, creating real life-and-death stakes. However, Man is never seen on screen and Bambi never confronts or defeats him. The resolution comes through survival, maturation, and the continuation of the natural cycle — Bambi grows up, finds a mate, and becomes the Great Prince of the Forest. Scored in the mid-range because the villain is real and the stakes are deadly, but the conflict is resolved through endurance and growth rather than confrontation.',
+    culturalReachPct: 80,
+    reachReasoning: 'A major box office success in 1942 and one of Disney\'s most emotionally impactful films. Re-released theatrically 6+ times (1947, 1957, 1966, 1975, 1982, 1988). The 1989 VHS release sold over 10 million copies in its first offering. "Bambi\'s mother dies" is one of the most universally referenced scenes in American cinema — a shared cultural trauma for generations of children. The film\'s pastoral beauty and emotional power made it a staple of childhood viewing. Slightly below Snow White (85) only because its slower pace and lack of a traditional narrative arc made some parents less likely to introduce it to very young children.',
   },
   {
     title: 'Saludos Amigos',
@@ -146,6 +170,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.20,
     reasoning: 'A four-segment package film made as wartime cultural diplomacy — none of the segments have a real villain. The closest to conflict is the Pedro segment, where a small mail plane braves the Andes and a personified Mount Aconcagua, but this is man-vs-nature resolved through perseverance. The Donald Duck segments are comedic tourism mishaps and Goofy\'s gaucho segment is pure slapstick. The film is essentially a travelogue with minimal narrative conflict, let alone villain-driven stakes.',
+    culturalReachPct: 5,
+    reachReasoning: 'Estimated. A 42-minute wartime package film produced as US–Latin American goodwill propaganda. It had a modest theatrical run in 1943 and was never theatrically re-released by Disney. It received a limited home video release but was never part of the Disney "vault" marketing pushes. Virtually unknown to American children outside of Disney completists. Even among Disney fans, it is one of the most obscure entries in the canon.',
   },
   {
     title: 'The Three Caballeros',
@@ -154,6 +180,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.20,
     reasoning: 'A wartime package film and sequel to Saludos Amigos — no villain in any segment. "The Cold-Blooded Penguin" follows Pablo escaping Antarctica (man-vs-nature, self-motivated). "The Flying Gauchito" is a lighthearted race with a flying donkey. The main segments are Donald Duck touring Mexico and Brazil with José Carioca and Panchito, featuring musical numbers and live-action/animation blending with no narrative conflict. Like its predecessor, the film is cultural diplomacy and entertainment showcase rather than storytelling.',
+    culturalReachPct: 10,
+    reachReasoning: 'Estimated. Slightly better known than Saludos Amigos thanks to the Three Caballeros characters (Donald Duck, José Carioca, Panchito) who appear in Disney theme parks and merchandise. The film had a theatrical run in 1945 and appeared on home video. However, it remains one of Disney\'s most obscure animated canon entries among American children. The characters\' theme park presence gives it a small edge over Saludos Amigos.',
   },
   {
     title: 'Make Mine Music',
@@ -162,6 +190,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.35,
     reasoning: 'A ten-segment package film set to popular music. "Peter and the Wolf" features a genuine predator-villain (the Wolf) defeated through direct confrontation — Peter captures him with a rope. However, "The Whale Who Wanted to Sing at the Met" is a tragic misunderstanding: impresario Tetti-Tatti harpoons Willie believing he swallowed a singer, when Willie\'s talent was real. "The Martins and the Coys" depicts a violent family feud resolved through love. The remaining seven segments have little or no narrative conflict. Scored above Saludos Amigos/Three Caballeros (0.20) for having genuine villain and stakes segments, but below Fantasia (0.40) because the conflict-bearing segments are less dramatically weighty and Willie\'s tragedy is driven by misunderstanding rather than villainy.',
+    culturalReachPct: 5,
+    reachReasoning: 'Estimated. One of Disney\'s wartime-era package films with minimal cultural footprint. It had a modest theatrical run in 1946 and was never theatrically re-released. The "Peter and the Wolf" segment is the most recognizable, but most children encounter Prokofiev\'s piece through other adaptations rather than this film. Limited home video release. Virtually unknown to modern American children.',
   },
   {
     title: 'Fun and Fancy Free',
@@ -170,6 +200,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.70,
     reasoning: 'A two-segment package film where both segments feature genuine antagonists resolved through confrontation. In "Bongo," the circus bear must physically fight Lumpjaw — a bullying rival — to win Lulubelle\'s affection. In "Mickey and the Beanstalk," Willie the Giant is a real villain who stole the Golden Harp and caused famine; Mickey, Donald, and Goofy must outsmart and defeat him to restore Happy Valley. Scored well above other 1940s package films (Make Mine Music 0.35, Saludos Amigos 0.20) because both segments are villain-driven, but below full features like Brave Little Tailor (0.80) because the package format and comedic tone reduce the dramatic stakes.',
+    culturalReachPct: 15,
+    reachReasoning: 'Estimated. The "Mickey and the Beanstalk" segment is moderately well-known — it was broadcast separately on TV (including on the Mickey Mouse Club and Disney Channel) and appeared on home video compilations. This segment alone has decent reach among Disney fans. However, the full Fun and Fancy Free film is obscure — the "Bongo" segment is rarely seen, and the live-action framing with Edgar Bergen is dated. The film as a complete package had limited home video presence.',
   },
   {
     title: 'Melody Time',
@@ -178,6 +210,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.30,
     reasoning: 'A seven-segment package film set to popular music, mostly gentle showcases. "Pecos Bill" is the most conflict-heavy segment — he physically defeats outlaws, tames the wild horse Widowmaker, and lassos a tornado, but the central story is a tall-tale romance ending in loss rather than a villain-defeat arc. "Little Toot" involves a mischievous tugboat who causes an accident and redeems himself by rescuing an ocean liner in a storm — self-inflicted conflict resolved through heroism. "Johnny Appleseed" is a gentle frontier folk tale with man-vs-nature stakes. The remaining segments (Once Upon a Wintertime, Bumble Boogie, Trees, Blame It on the Samba) have minimal or no narrative conflict. Scored below Make Mine Music (0.35) because no segment has a clear predator-villain like Peter and the Wolf, but above the pure-travelogue package films (Saludos Amigos/Three Caballeros at 0.20) because Pecos Bill and Little Toot have genuine physical stakes.',
+    culturalReachPct: 5,
+    reachReasoning: 'Estimated. One of Disney\'s least-known package films. It had a modest theatrical run in 1948 and was never theatrically re-released. The "Pecos Bill" segment achieved some independent recognition through TV airings and compilations, but the film as a whole is virtually unknown. Limited and late home video release. Even among Disney enthusiasts, Melody Time is considered deep-cut material.',
   },
   {
     title: 'The Adventures of Ichabod and Mr. Toad',
@@ -186,6 +220,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.65,
     reasoning: 'A two-segment package film with genuine antagonists in both halves. In "The Wind in the Willows," the weasels and Mr. Winkie are real villains who trick Mr. Toad, steal his deed to Toad Hall, and frame him for car theft — resolved through a classic confrontation when Toad and friends storm Toad Hall to recapture the deed. In "The Legend of Sleepy Hollow," the Headless Horseman delivers one of Disney\'s most terrifying chase sequences, but the villainy is famously ambiguous — it may be Brom Bones in disguise playing a prank to eliminate his romantic rival. Ichabod vanishes and never triumphs. Scored at 0.65 because the Mr. Toad segment has clear villains defeated through confrontation, but the Ichabod segment\'s antagonist is ambiguously real-or-imagined and the protagonist loses rather than wins.',
+    culturalReachPct: 25,
+    reachReasoning: 'Estimated. Significantly better known than other 1940s package films thanks to the "Legend of Sleepy Hollow" segment, which became a Halloween perennial on TV — Disney Channel and ABC broadcast it annually for decades. Mr. Toad\'s Wild Ride became a beloved attraction at Disneyland (1955–present) and Magic Kingdom (1971–1998), giving the Mr. Toad half theme-park-level visibility. The film appeared on home video and the segments were sometimes released separately. However, the full combined film is less well-known than either segment alone.',
   },
   {
     title: 'Cinderella',
@@ -194,6 +230,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.85,
     reasoning: 'Lady Tremaine is a deliberate, malicious villain — she psychologically abuses Cinderella, forces her into servitude, destroys her dress, and locks her in the attic to prevent her from trying the glass slipper. The conflict is entirely external and villain-driven with real stakes (lifelong enslavement). Resolution comes through overcoming the villain\'s schemes via the Fairy Godmother\'s magic, the mice freeing Cinderella, and proving her identity with the slipper. Scored below Snow White (0.95) because Cinderella never directly confronts or defeats Lady Tremaine — she prevails through magical aid and allies rather than personal action against the villain.',
+    culturalReachPct: 90,
+    reachReasoning: 'One of Disney\'s biggest cultural touchstones. The 1950 theatrical release saved Disney from post-war financial ruin, grossing $85M+ adjusted. Re-released theatrically 6+ times (1957, 1965, 1973, 1981, 1987). The 1988 VHS release and subsequent home video editions sold massively. Cinderella Castle is the literal centerpiece of Walt Disney World\'s Magic Kingdom and Tokyo Disneyland. The "Bibbidi-Bobbidi-Boo" transformation scene is one of the most iconic moments in animation. Cinderella is one of Disney\'s most merchandised princesses. Near-universal reach among American children across every generation since 1950.',
   },
   {
     title: 'Alice in Wonderland',
@@ -202,6 +240,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.35,
     reasoning: 'The Queen of Hearts is an antagonist figure who orders executions and puts Alice on trial, but she is more absurd parody of authority than genuine evil — her orders are never actually carried out, and no one in Wonderland takes her seriously. The real conflict is Alice navigating a nonsensical world where logic doesn\'t apply, struggling with identity ("Who are you?") and trying to find her way home. Resolution comes by waking from a dream — the entire conflict, villain included, was literally imagined. Scored above Ferdinand (0.15) because there is a threatening authority figure, but well below Cinderella (0.85) because the antagonist is comedic, the core conflict is existential rather than villain-driven, and the resolution negates the reality of all threats.',
+    culturalReachPct: 70,
+    reachReasoning: 'Initially a box office disappointment in 1951 — critics and audiences found it too strange compared to Disney\'s earlier narratives. However, it became a cult favorite through TV broadcasts starting in 1954 (one of the first Disney films shown on television) and found enormous popularity with the counterculture of the 1960s–70s. Re-released theatrically in 1974 and 1981. The VHS release sold very well. The Mad Tea Party ride is a classic at Disney parks. Alice\'s imagery is deeply embedded in American pop culture. Strong cumulative reach across generations, though not quite at the Cinderella/Snow White tier because it took time to find its audience.',
   },
   {
     title: 'Peter Pan',
@@ -210,6 +250,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.85,
     reasoning: 'Captain Hook is a genuine, iconic villain — a murderous pirate who kidnaps children, forces them to walk the plank, shoots his own crew, and plants a bomb to kill Peter Pan. The stakes are life-and-death throughout and the conflict is entirely external and villain-driven. Resolution comes through direct physical confrontation: Peter Pan sword-fights Hook and defeats him, sending him fleeing from the crocodile. Scored at 0.85 alongside Cinderella because while the hero personally confronts and defeats the villain (unlike Cinderella), Hook\'s comedic elements (bumbling crocodile fear, buffoonish moments) and the film\'s swashbuckling adventure tone temper the dramatic weight compared to Snow White (0.95) or Pinocchio (0.90).',
+    culturalReachPct: 75,
+    reachReasoning: 'A strong box office performer in 1953. Re-released theatrically multiple times (1958, 1969, 1976, 1982, 1989). The 1990 VHS release was a major seller. Peter Pan\'s Flight is one of the most popular rides at Disneyland and Magic Kingdom. Captain Hook and Tinker Bell are among Disney\'s most iconic characters, with Tinker Bell becoming the face of Disney\'s home video brand for years. However, some elements of the film (particularly the portrayal of Native Americans) have limited its modern promotion, slightly reducing its reach with the most recent generation compared to other Disney classics of the era.',
   },
   {
     title: 'Lady and the Tramp',
@@ -218,6 +260,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.55,
     reasoning: 'The film has real antagonists — the rat that invades the baby\'s nursery is a genuine physical villain defeated through direct confrontation (Tramp fights and kills it), and the Siamese cats Si and Am are deliberate troublemakers who frame Lady. However, the primary narrative is a romance where most conflicts stem from social misunderstanding and class prejudice: Aunt Sarah misjudges dogs and muzzles Lady unfairly, Tramp is sent to the pound based on misunderstanding, and the central love story is about bridging the gap between a sheltered uptown dog and a streetwise stray. Scored in the mid-range because the climax involves a genuine villain-confrontation (rat scene), but the overall conflict pattern is driven more by misunderstanding and social prejudice than by villainy.',
+    culturalReachPct: 70,
+    reachReasoning: 'The highest-grossing film of 1955 and Disney\'s first CinemaScope animated feature. Re-released theatrically multiple times (1962, 1971, 1980, 1986). The 1987 VHS release was among the early Disney home video bestsellers. The spaghetti dinner scene is one of the most iconic romantic moments in animation history — widely parodied and referenced across all media. Strong home video sales throughout the VHS/DVD era. Slightly below the top tier of Disney classics because it lacks a marquee Disney princess or a major theme park ride.',
   },
   {
     title: 'Sleeping Beauty',
@@ -226,6 +270,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.95,
     reasoning: 'Maleficent is one of Disney\'s most purely evil villains — the self-proclaimed "Mistress of All Evil" who curses an infant princess to die out of spite for not being invited to a christening, then hunts Aurora for sixteen years and captures Prince Phillip to prevent the curse\'s undoing. The climax is a dramatic direct confrontation: Maleficent transforms into a dragon and Phillip slays her with the Sword of Truth. Scored at 0.95 alongside Snow White because both feature unambiguously evil female villains with life-and-death stakes defeated through confrontation, but the title character (Aurora) is entirely passive — asleep for the climax — and the good fairies provide critical magical aid to Phillip.',
+    culturalReachPct: 75,
+    reachReasoning: 'A box office disappointment in 1959 — its $5.3M production cost (enormous for the time) was not recouped on initial release. However, it became a major classic through re-releases (1970, 1979, 1986) and especially through home video — the 1986 VHS was a strong seller, and subsequent releases continued to perform well. Maleficent is consistently ranked among the greatest Disney villains and became the basis for a live-action franchise (2014, 2019). Sleeping Beauty Castle is the centerpiece of Disneyland. Aurora is a core Disney Princess. Slightly below Cinderella (90) because the film took longer to achieve classic status and Aurora\'s minimal screen time makes the film less character-driven.',
   },
   {
     title: 'One Hundred and One Dalmatians',
@@ -234,6 +280,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.90,
     reasoning: 'Cruella de Vil is one of Disney\'s most iconic villains — she wants to steal and skin 99 Dalmatian puppies to make a fur coat, a scheme that is unambiguously evil with life-and-death stakes for the protagonists\' children. Her henchmen Jasper and Horace kidnap the puppies and hold them at Hell Hall. Resolution comes through direct action: Pongo and Perdita physically fight the henchmen to rescue the puppies, then the dogs use clever disguises and teamwork to evade Cruella during an extended chase that ends with her car crashing. Scored at 0.90 because the villain is genuinely evil, the stakes are deadly, and the protagonists are active agents who confront and defeat the villain\'s scheme — more directly than Cinderella or Snow White — but slightly below 0.95 because Cruella is foiled rather than destroyed and the henchmen provide comedic buffoonery that lightens the tone.',
+    culturalReachPct: 75,
+    reachReasoning: 'A major box office hit in 1961, rescuing Disney after Sleeping Beauty\'s financial struggles. Its Xerox-based animation process made it cheaper to produce. Re-released theatrically multiple times (1969, 1979, 1985, 1991). The 1992 VHS release sold over 20 million copies. Cruella de Vil is one of Disney\'s most recognizable villains (the "Cruella De Vil" song is iconic) and spawned a live-action franchise (1996, 2000, 2021). The film\'s puppy-rescue adventure is irresistible to children. Strong cumulative reach, though slightly below Cinderella/Snow White because it lacks a Disney Princess and a signature theme park attraction.',
   },
   {
     title: 'The Sword in the Stone',

@@ -987,4 +987,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.80,
     reasoning: 'Dr. Facilier (the Shadow Man) is a genuine, menacing Disney villain — a voodoo sorcerer who makes a deal with dark spirits ("Friends on the Other Side"), transforms Prince Naveen into a frog, and schemes to deliver the souls of New Orleans to his shadow demon allies. The conflict is external with real stakes, and Facilier is defeated through direct action when Tiana destroys his talisman, causing his own dark patrons to drag him into the spirit world. Scored at 0.80 because this is a classic villain-driven conflict resolved through confrontation, but Tiana\'s significant internal arc — learning that love and relationships matter alongside relentless ambition — and the romantic resolution temper the score below the most purely villain-centric Disney films.',
   },
+  {
+    title: 'The Secret of Kells',
+    releaseYear: 2009,
+    decade: '2000s',
+    studio: 'Cartoon Saloon',
+    conflictScore: 0.55,
+    reasoning: 'The film has real external threats — Vikings who physically attack and destroy the Abbey of Kells, and Crom Cruach, a dark pagan serpent deity whom Brendan must directly confront and overcome to obtain the crystal eye. However, the central conflict is between Brendan and his overprotective uncle Abbot Cellach, whose fear-driven authoritarianism is rooted in trauma rather than villainy. The thematic resolution emphasizes the enduring power of art and knowledge over violence — the completed Book of Kells outlasts the destruction — rather than the defeat of an antagonist. Scored at 0.55 because genuine threats and a direct monster confrontation pull the score above the midpoint, but the core conflict is relational and the resolution is about creation triumphing over destruction.',
+  },
 ]

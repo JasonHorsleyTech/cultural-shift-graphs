@@ -1083,4 +1083,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.50,
     reasoning: 'Jack and Jill are genuine outlaws with violent intent, and the Great Terror poses a massive physical threat to San Ricardo. However, the true antagonist is Humpty Alexander Dumpty — Puss\'s childhood best friend who orchestrated the entire heist as an elaborate revenge scheme after feeling abandoned and betrayed by Puss years earlier. The central conflict is rooted in a broken friendship and mutual guilt, not good versus evil. Humpty ultimately redeems himself by sacrificing his life to save the town, and Puss\'s arc is about learning to trust again and confronting his own past failures. Scored at 0.50 because while real villains and physical danger exist, the film\'s emotional core is a fractured friendship resolved through redemption, self-sacrifice, and forgiveness rather than defeating evil.',
   },
+  {
+    title: 'Rango',
+    releaseYear: 2011,
+    decade: '2010s',
+    studio: 'Paramount Pictures',
+    conflictScore: 0.70,
+    reasoning: 'Tortoise John (the Mayor) is a genuine villain who secretly diverts the town\'s water supply for a corrupt land-grab scheme, and Rattlesnake Jake is a terrifying enforcer who murders and intimidates townsfolk. The stakes are life-and-death — the entire town of Dirt faces extinction from drought. The climax is a classic Western showdown where Rango returns to confront the Mayor and expose his scheme, and Jake turns on his former master. Scored at 0.70 because while the villain is real, the stakes are high, and resolution comes through direct confrontation, Rango\'s arc is equally about an identity crisis — a sheltered pet who must discover genuine courage rather than performing a fictional persona — adding a significant internal-growth dimension to the external conflict.',
+  },
 ]

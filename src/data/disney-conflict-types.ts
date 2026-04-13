@@ -1947,4 +1947,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.60,
     reasoning: 'Kitty Kat (the Phantom Bandit) is a genuine villain — a ruthless snow leopard who blackmails the reformed Bad Guys into helping her execute a space-station heist involving the world\'s most powerful magnet. She is defeated through direct confrontation: Wolf outsmarts her by pickpocketing her smartwatch to destroy the magnet, and Diane physically defeats her, sending her to prison. However, the film\'s thematic core centers on redemption and societal acceptance — whether reformed criminals can earn trust and find their place — giving significant emotional weight to identity and belonging alongside the real villain conflict.',
   },
+  {
+    title: 'Zootopia 2',
+    releaseYear: 2025,
+    decade: '2020s',
+    studio: 'Walt Disney Animation Studios',
+    conflictScore: 0.55,
+    reasoning: 'Milton Lynxley is a genuine villain who orders the heroes killed to cover up his family\'s historical crimes — stealing credit for Zootopia\'s founding from Gary De\'Snake\'s ancestor. The stakes are real (assassination attempts, conspiracy). However, the film\'s thematic weight falls on species-based prejudice, historical injustice, and repairing relationships: the seeming antagonist Gary turns out to be a victim seeking justice, and Judy and Nick must overcome their own partnership strain. Resolution comes through exposing the truth and confronting systemic prejudice as much as defeating the villain directly.',
+  },
 ]

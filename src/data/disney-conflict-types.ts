@@ -1379,4 +1379,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.15,
     reasoning: 'There is no villain — the conflict is entirely driven by Dory\'s short-term memory loss and her longing to find her parents. Hank the septopus is initially reluctant but becomes an ally, and the Marine Life Institute staff are well-meaning, not antagonistic. Resolution comes through Dory learning to trust herself despite her disability, emotionally reconnecting with her parents, and relying on the empathy and loyalty of her found family. Scored at 0.15 because there is zero malicious antagonist, and the conflict resolves entirely through self-acceptance, emotional bonds, and community support.',
   },
+  {
+    title: 'Ice Age: Collision Course',
+    releaseYear: 2016,
+    decade: '2010s',
+    studio: 'Blue Sky Studios',
+    conflictScore: 0.25,
+    reasoning: 'The primary threat is an asteroid accidentally launched by Scrat — an impersonal cosmic event, not a villain. The dromaeosaur family (Gavin, Gertie, and Roger) serve as minor antagonists who physically oppose the herd but ultimately reform and help save everyone through a change of heart. The deeper conflict is Manny learning to accept his daughter Peaches growing up and marrying Julian. Resolution combines teamwork against a natural disaster with emotional acceptance and family bonding. Scored at 0.25 because while physical antagonists exist, they reform through empathy, the central threat is non-villainous, and the emotional core resolves through acceptance and letting go.',
+  },
 ]

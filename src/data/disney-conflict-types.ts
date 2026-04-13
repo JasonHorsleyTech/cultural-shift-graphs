@@ -1283,4 +1283,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.15,
     reasoning: 'Macha the owl witch is the nominal antagonist, but her motivation is protective — she removes emotions from fairy creatures because she believes suppressing feelings prevents suffering. The core conflicts are internal: Ben\'s resentment toward his sister Saoirse, the family\'s unprocessed grief over their mother, and the broader theme that painful emotions must be felt rather than suppressed. Resolution comes entirely through emotional expression — Saoirse singing the Song of the Sea frees all suppressed emotions, and Macha herself is released rather than defeated. Scored at 0.15 because there is no real villain, no confrontation, and the resolution is through empathy, grief processing, and acceptance.',
   },
+  {
+    title: 'The Book of Life',
+    releaseYear: 2014,
+    decade: '2010s',
+    studio: 'Reel FX Creative Studios',
+    conflictScore: 0.45,
+    reasoning: 'Xibalba is a genuine supernatural antagonist who cheats in a divine wager and kills Manolo with a snake bite, while Chakal is a straightforward bandit warlord who attacks the town. However, the film\'s key resolutions emphasize compassion over force: Manolo refuses to kill the giant bull and instead sings to it, winning through empathy rather than violence. Xibalba reforms and reconciles with La Muerte rather than being destroyed. Scored at 0.45 because while real antagonists with lethal stakes exist, the thematic resolution centers on being true to oneself, love, and self-sacrifice rather than defeating evil through confrontation.',
+  },
 ]

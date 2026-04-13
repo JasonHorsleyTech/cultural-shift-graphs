@@ -1443,4 +1443,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.55,
     reasoning: 'Snowball is a genuine villain — an abandoned rabbit leading a sewer army of "Flushed Pets" who actively tries to kill Max and Duke with real physical menace. However, the emotional core of the film is the Max/Duke rivalry, which is a misunderstanding resolved through bonding and mutual acceptance after they share vulnerable moments (Duke\'s abandoned former owner). Snowball himself is ultimately redeemed when a little girl adopts him, undermining his villainy. Scored at 0.55 because the film splits evenly between a real villain driving action-adventure stakes and an internal jealousy/acceptance arc driving the emotional resolution.',
   },
+  {
+    title: 'Trolls',
+    releaseYear: 2016,
+    decade: '2010s',
+    studio: 'DreamWorks Animation',
+    conflictScore: 0.25,
+    reasoning: 'Chef is technically a villain, but the core conflict is a misunderstanding — the Bergens believe eating Trolls is the only way to feel happiness. Resolution comes entirely through empathy: Poppy teaches Bridget and the Bergens that happiness comes from within through love, friendship, and music, not from consuming others. Creek is a traitor motivated by self-preservation rather than malice. The film is a quintessential "conflict-as-false-belief resolved through empathy and connection" story, scored low because the real antagonist is ignorance, not evil.',
+  },
 ]

@@ -899,4 +899,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.25,
     reasoning: 'Tank Evans is an arrogant bully and rival surfer, not a villain with any evil intent — he is simply a competitive jerk. The real conflict is entirely internal: Cody Maverick must learn through his mentor Big Z that surfing is about joy and friendship, not winning trophies. In the climax, Cody abandons the final race to rescue his friend Chicken Joe and then surfs purely for fun — Tank actually wins the competition, but the film treats this as irrelevant. Scored at 0.25 because there is no villain to defeat, and the resolution comes entirely through mentorship, internal growth, and the protagonist redefining what matters to him.',
   },
+  {
+    title: 'Bolt',
+    releaseYear: 2008,
+    decade: '2000s',
+    studio: 'Walt Disney Animation Studios',
+    conflictScore: 0.25,
+    reasoning: 'The film\'s only "villain" — Dr. Calico — exists solely within the fictional TV show and poses no real threat. The closest real-world antagonist is Penny\'s greedy agent, who is self-interested but not menacing or evil. The entire conflict is internal: Bolt believes he has superpowers and must come to terms with being an ordinary dog. Resolution comes through his cross-country journey with Mittens and Rhino, where he learns that love and loyalty matter more than fictional powers, and he reunites with Penny through genuine devotion rather than defeating any enemy. Scored at 0.25 because there is no real villain to confront, and the story is fundamentally about identity, misunderstanding, and the bond between a pet and its owner.',
+  },
 ]

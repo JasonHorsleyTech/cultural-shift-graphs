@@ -907,4 +907,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.25,
     reasoning: 'The film\'s only "villain" — Dr. Calico — exists solely within the fictional TV show and poses no real threat. The closest real-world antagonist is Penny\'s greedy agent, who is self-interested but not menacing or evil. The entire conflict is internal: Bolt believes he has superpowers and must come to terms with being an ordinary dog. Resolution comes through his cross-country journey with Mittens and Rhino, where he learns that love and loyalty matter more than fictional powers, and he reunites with Penny through genuine devotion rather than defeating any enemy. Scored at 0.25 because there is no real villain to confront, and the story is fundamentally about identity, misunderstanding, and the bond between a pet and its owner.',
   },
+  {
+    title: 'Horton Hears a Who!',
+    releaseYear: 2008,
+    decade: '2000s',
+    studio: 'Blue Sky Studios',
+    conflictScore: 0.40,
+    reasoning: 'The Sour Kangaroo is a real antagonist who actively tries to destroy the clover carrying Whoville, enlisting the Wickersham Brothers and Vlad the vulture. However, her motivation is disbelief and social conformity rather than malice — she genuinely does not believe the Whos exist and sees Horton as a destabilizing influence. The conflict is fundamentally a misunderstanding resolved through communication and proof: the Whos make enough noise to be heard, vindicating Horton without any physical defeat of the Kangaroo. Scored at 0.40 because while there is a concrete antagonist taking harmful actions, the core conflict is about proving existence through persistence and collective voice rather than confronting evil.',
+  },
 ]

@@ -1651,4 +1651,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.15,
     reasoning: 'There is no real villain — the climactic dragon is a mindless curse construct, not a conscious antagonist. The entire conflict is internal and emotional: Ian\'s grief over never knowing his deceased father, his insecurity, and his longing for a paternal bond. Resolution comes through self-understanding — Ian realizes Barley has been his father figure all along and selflessly gives up his chance to meet his dad so Barley can say goodbye. Scored very low because the film has no villainy to defeat; its core is about processing loss, gratitude, and brotherly love.',
   },
+  {
+    title: 'Scoob!',
+    releaseYear: 2020,
+    decade: '2020s',
+    studio: 'Warner Animation Group',
+    conflictScore: 0.55,
+    reasoning: 'Dick Dastardly is an unambiguous villain with a deliberate scheme — he kidnaps Scooby-Doo, deploys robot minions, and plans to open the gates of the Underworld to release Cerberus. The heroes defeat him through direct confrontation and teamwork (Blue Falcon and the Scooby gang physically stop his plan). However, Dastardly\'s motivation is ultimately sympathetic — he just wants to reunite with his trapped dog Muttley — and the film\'s emotional core is the Shaggy-Scooby friendship being tested and reaffirmed through loyalty rather than combat. Scored in the middle because a real villain with real stakes is confronted and defeated, but the heart of the story is about friendship and the antagonist is driven by love, not malice.',
+  },
 ]

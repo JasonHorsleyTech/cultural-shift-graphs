@@ -1795,4 +1795,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.60,
     reasoning: 'Death (the Wolf) is a genuinely terrifying villain — literally the embodiment of death hunting Puss for squandering his nine lives — and "Big" Jack Horner is an unambiguously evil antagonist destroyed by the Wishing Star\'s magic. The climax features a direct sword fight between Puss and Death. However, Death is not defeated through force — he withdraws because Puss demonstrates he will fight for his last life with genuine conviction rather than reckless bravado. Scored mid-range because real villains with life-and-death stakes drive the plot and physical confrontation occurs, but the thematic resolution centers on Puss\'s internal growth: accepting mortality, overcoming fear, and learning to value his one remaining life.',
   },
+  {
+    title: 'Strange World',
+    releaseYear: 2022,
+    decade: '2020s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.10,
+    reasoning: 'There is no villain — the central conflict is intergenerational family dysfunction between Jaeger, Searcher, and Ethan Clade, each clashing over identity and values. The twist reveals Avalonia sits atop a giant living creature and their energy source Pando is a parasite killing it; the "hostile" creatures in the strange world are the organism\'s immune system, not enemies. Resolution comes entirely through understanding — the family reconciles through empathy and communication, and collectively sacrifices Pando to save the living world. Scored near the floor because every layer of conflict (familial, environmental, even the monster encounters) resolves through correcting misunderstandings rather than confrontation.',
+  },
 ]

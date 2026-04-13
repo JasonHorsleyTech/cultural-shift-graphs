@@ -947,4 +947,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.40,
     reasoning: 'AUTO, the Axiom\'s autopilot, is a genuine antagonist who tasers WALL-E, ejects him and EVE into space, and physically fights Captain McCrea to prevent humanity\'s return to Earth. However, AUTO is not evil — he is faithfully executing a corporate directive (A113) and has no malice or personal agenda. The climax includes a real physical confrontation (McCrea wrestles AUTO and manually overrides him), but the film\'s emotional core is WALL-E\'s love for EVE and humanity\'s internal journey from complacent consumerism to choosing responsibility. Scored at 0.40 because a real antagonist exists and is physically defeated, but the villain acts from programming rather than malice, and the deeper resolution is about love, connection, and humanity rediscovering what makes life worth living.',
   },
+  {
+    title: 'Cloudy with a Chance of Meatballs',
+    releaseYear: 2009,
+    decade: '2000s',
+    studio: 'Sony Pictures Animation',
+    conflictScore: 0.45,
+    reasoning: 'Mayor Shelbourne is a genuine antagonist — greedy, manipulative, and deliberately ignoring Flint\'s warnings about the FLDSMDFR\'s instability to exploit the food machine for tourism and personal glory. However, the mayor is a secondary threat; the true "villain" is the out-of-control machine, which is a consequence of Flint\'s own need for approval. The climax involves a physical mission to destroy the machine, but the emotional core is Flint\'s internal growth — learning to take responsibility, listen to others (Sam, his father), and stop seeking validation through spectacle. Scored at 0.45 because a real antagonist exists and real physical stakes escalate to global scale, but the deeper conflict is about the protagonist\'s own flaws and the resolution hinges on father-son reconciliation and personal accountability rather than defeating evil.',
+  },
 ]

@@ -1730,6 +1730,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Blue Sky Studios',
     conflictScore: 0.25,
     reasoning: 'The primary threat is an asteroid accidentally launched by Scrat — an impersonal cosmic event, not a villain. The dromaeosaur family (Gavin, Gertie, and Roger) serve as minor antagonists who physically oppose the herd but ultimately reform and help save everyone through a change of heart. The deeper conflict is Manny learning to accept his daughter Peaches growing up and marrying Julian. Resolution combines teamwork against a natural disaster with emotional acceptance and family bonding. Scored at 0.25 because while physical antagonists exist, they reform through empathy, the central threat is non-villainous, and the emotional core resolves through acceptance and letting go.',
+    culturalReachPct: 55,
+    reachReasoning: '$64M domestic (~7.4M admissions) — the worst domestic performance in the Ice Age franchise by far, down from $196M for the original. The franchise was in steep decline domestically though still strong internationally ($408M worldwide). The Ice Age characters (Scrat, Manny, Sid) remained broadly recognized from earlier entries, but this specific installment was largely forgettable and signaled the end of the franchise\'s theatrical viability. Blue Sky Studios would close entirely in 2021. Scored at 55 for accumulated franchise recognition rather than this film\'s standalone impact.',
   },
   {
     title: 'Kubo and the Two Strings',
@@ -1738,6 +1740,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Laika',
     conflictScore: 0.60,
     reasoning: 'The Moon King and the Sisters are genuine, menacing villains with lethal intent — the Moon King stole one of Kubo\'s eyes and wants the other, and the Sisters kill both Monkey and Beetle (Kubo\'s parents\' spirits). Stakes are life-and-death with real loss. However, the climactic resolution is not through defeating evil by force — Kubo plays his shamisen with three strings representing family bonds, transforming the Moon King into a memoryless mortal whom the villagers choose to treat with compassion. Scored at 0.60 because real villains and physical confrontation exist, but the ultimate resolution is through the power of memory, love, and communal empathy rather than violent defeat.',
+    culturalReachPct: 15,
+    reachReasoning: '$48M domestic (~5.5M admissions) — critically acclaimed (97% RT) but a commercial underperformer typical of Laika\'s pattern. Won the Annie Award for Best Animated Feature but lost the Oscar to Zootopia. Laika films consistently score 15–22 in cultural reach: beloved by animation enthusiasts and critics but limited mainstream kid audience. The stop-motion Japanese folklore setting, while artistically stunning, narrowed its family appeal compared to CGI competitors.',
   },
   {
     title: 'Kung Fu Panda 3',
@@ -1746,6 +1750,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'DreamWorks Animation',
     conflictScore: 0.65,
     reasoning: 'Kai is a genuine supernatural villain who steals the chi of kung fu masters, collecting them as jade amulets, and poses a mortal threat to all of China. The conflict is external with life-and-death stakes, and Po ultimately defeats Kai through direct confrontation in the Spirit Realm. However, Po\'s power comes from self-discovery (mastering chi, embracing his panda identity) and communal support (the pandas channeling chi together). Scored at 0.65 because there is a clear villain defeated through confrontation, but the source of victory is inner peace and community rather than pure martial force.',
+    culturalReachPct: 68,
+    reachReasoning: '$143M domestic (~16.5M admissions) — solid third-franchise entry but showing diminishing returns from the original\'s $215M and the sequel\'s $165M. The Kung Fu Panda franchise was well-established with kids, and Jack Black\'s Po remained a recognizable character. However, third-film fatigue and increasing competition from Illumination, Disney, and Pixar limited its cultural footprint compared to the 2008 original. Strong international performance ($521M worldwide) driven by China.',
   },
   {
     title: 'Moana',
@@ -1754,6 +1760,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.30,
     reasoning: 'The apparent villain Te Kā is actually Te Fiti — a benevolent creator goddess corrupted after Maui stole her heart. Te Kā presents real physical danger with life-threatening lava attacks, but the "villainy" is a misunderstanding: she is wounded and lashing out, not evil. Maui\'s attempts to defeat Te Kā through physical confrontation all fail; resolution comes only when Moana walks toward Te Kā with compassion, recognizes her true identity, and restores the heart through empathy. Scored at 0.30 because while genuine physical stakes exist, the core conflict is a misunderstanding resolved entirely through empathy and emotional recognition rather than defeating a villain.',
+    culturalReachPct: 88,
+    reachReasoning: '$248M domestic (~28.7M admissions) — a major Disney tentpole that became one of the defining animated films of the decade. "How Far I\'ll Go" was a massive hit and Lin-Manuel Miranda\'s involvement (fresh off Hamilton) was a cultural multiplier. "You\'re Welcome" became equally ubiquitous. Moana entered the Disney Princess pantheon immediately. Enormous Disney+ streaming presence — one of the platform\'s most-watched titles. The 2024 sequel confirmed its franchise status. Scored at 88 alongside Coco as the era\'s Disney/Pixar ceiling below the all-time generational touchstones.',
   },
   {
     title: 'Sing',
@@ -1762,6 +1770,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Illumination Entertainment',
     conflictScore: 0.15,
     reasoning: 'There is no real villain — conflicts are almost entirely internal and personal. Buster Moon faces financial ruin from his own deception, Ash deals with a dismissive boyfriend, Johnny defies his criminal father\'s expectations, Meena battles stage fright, and Rosita struggles to be seen beyond her role as a mother. The theater literally collapses, but resolution comes through self-expression, mutual support, and community rather than defeating any antagonist. Scored at 0.15 because the negligible external threats (bears chasing Mike, Johnny\'s father\'s gang) are peripheral subplots, and the core message is that personal courage and creative passion overcome self-doubt.',
+    culturalReachPct: 72,
+    reachReasoning: '$270M domestic (~31.2M admissions) — one of the biggest animated hits of 2016 and Illumination\'s proof that original IP could compete with sequels. The use of popular licensed music gave it broad family appeal. Spawned Sing 2 (2021). The concept — anthropomorphic animals performing pop songs — was accessible and widely enjoyed but didn\'t create the kind of iconic characters or cultural moments that push into the 80+ tier. Solid franchise performer rather than a cultural phenomenon.',
   },
   {
     title: 'Storks',
@@ -1770,6 +1780,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Warner Animation Group',
     conflictScore: 0.45,
     reasoning: 'Hunter is a genuine villain — Junior\'s boss who wants to destroy the unauthorized baby and suppress evidence to protect his package-delivery empire. He poses real physical threats and there is a climactic confrontation on the rooftop. However, Hunter is ultimately defeated not through combat but when all the storks collectively remember their original purpose and choose to deliver babies again. The resolution is driven by themes of found family, belonging, and communal rediscovery of purpose. Scored at 0.45 because a real villain with selfish motives exists, but the heart of the story and its resolution center on love, family bonds, and community rather than vanquishing evil.',
+    culturalReachPct: 30,
+    reachReasoning: '$72M domestic (~8.3M admissions) — a modest performer in a crowded 2016 animated landscape. Warner Animation Group was still establishing itself (this was their second film after The Lego Movie). The film came and went without creating memorable characters or cultural moments, overshadowed by Moana, Zootopia, Finding Dory, and Secret Life of Pets in the same year.',
   },
   {
     title: 'The Angry Birds Movie',
@@ -1778,6 +1790,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Rovio Animation',
     conflictScore: 0.85,
     reasoning: 'Leonard (King Mudbeard) and the pigs are unambiguous villains who arrive under false pretenses of friendship, deceive the entire bird community, and steal all their eggs to eat them. The conflict is entirely external with life-or-death stakes for the birds\' children. Resolution comes through a massive physical assault on the pigs\' city — the birds launch themselves via slingshot to destroy the fortress and rescue the eggs. The film even validates Red\'s anger as righteous, framing confrontation and justified aggression as heroic. Scored at 0.85 because this is a thoroughly traditional villain-confrontation story with real stakes resolved entirely through force, notable for a 2016 film.',
+    culturalReachPct: 50,
+    reachReasoning: '$107M domestic (~12.4M admissions) — benefited enormously from the Angry Birds mobile game IP, which was one of the most downloaded apps in history. However, the game\'s cultural peak was 2011–2013, and by 2016 the brand had faded significantly. The film performed adequately but didn\'t revitalize the IP or create lasting film-based cultural moments. Spawned a sequel (2019) that performed worse. The game\'s residual ubiquity among kids pushes it above what its box office alone would suggest.',
   },
   {
     title: 'The Secret Life of Pets',
@@ -1786,6 +1800,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Illumination Entertainment',
     conflictScore: 0.55,
     reasoning: 'Snowball is a genuine villain — an abandoned rabbit leading a sewer army of "Flushed Pets" who actively tries to kill Max and Duke with real physical menace. However, the emotional core of the film is the Max/Duke rivalry, which is a misunderstanding resolved through bonding and mutual acceptance after they share vulnerable moments (Duke\'s abandoned former owner). Snowball himself is ultimately redeemed when a little girl adopts him, undermining his villainy. Scored at 0.55 because the film splits evenly between a real villain driving action-adventure stakes and an internal jealousy/acceptance arc driving the emotional resolution.',
+    culturalReachPct: 78,
+    reachReasoning: '$368M domestic (~42.5M admissions) — one of the biggest animated openings ever ($104M opening weekend) and the #1 original animated IP launch at the time. The "what do pets do when we leave" premise was universally relatable and broadly appealing. Spawned a sequel and a Universal Parks attraction (Secret Life of Pets ride at Universal Studios). Illumination\'s marketing machine maximized awareness. The massive domestic gross places it firmly in the "most kids saw it" tier.',
   },
   {
     title: 'Trolls',
@@ -1794,6 +1810,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'DreamWorks Animation',
     conflictScore: 0.25,
     reasoning: 'Chef is technically a villain, but the core conflict is a misunderstanding — the Bergens believe eating Trolls is the only way to feel happiness. Resolution comes entirely through empathy: Poppy teaches Bridget and the Bergens that happiness comes from within through love, friendship, and music, not from consuming others. Creek is a traitor motivated by self-preservation rather than malice. The film is a quintessential "conflict-as-false-belief resolved through empathy and connection" story, scored low because the real antagonist is ignorance, not evil.',
+    culturalReachPct: 72,
+    reachReasoning: '$154M domestic (~17.8M admissions) — solid performer, but the real cultural multiplier was Justin Timberlake\'s "Can\'t Stop the Feeling," which hit #1 on the Billboard Hot 100 and was inescapable in 2016. The colorful, music-driven brand spawned a successful franchise: Trolls World Tour (2020) was a landmark streaming-era release (PVOD during COVID) and Trolls Band Together (2023) continued the series. The Trolls dolls/merchandise line kept the IP visible in toy aisles. The song alone pushed this into household-name territory.',
   },
   {
     title: 'Zootopia',
@@ -1802,6 +1820,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.55,
     reasoning: 'Bellwether is a real villain with a calculated conspiracy — she weaponizes a toxic serum to make predators go savage, exploiting societal prejudice for political power, and personally attempts to murder Judy and Nick. However, the film\'s emotional core is about overcoming bias: Judy herself harbors unconscious prejudice against predators that she must confront and apologize for, and the resolution emphasizes understanding across social divides. Scored at 0.55 because while a genuine villain with lethal stakes drives the plot, the deeper conflict is systemic prejudice resolved through empathy, self-awareness, and cross-group trust.',
+    culturalReachPct: 85,
+    reachReasoning: '$341M domestic (~39.4M admissions) — a massive hit that crossed $1B worldwide. Won Best Animated Feature Oscar. "Try Everything" by Shakira was a hit single. The film became a cultural touchpoint for discussions about prejudice and bias, giving it relevance beyond entertainment. Judy Hopps and Nick Wilde became iconic Disney characters. Enormous Disney+ streaming presence. The 2025 sequel confirms its franchise status. Scored at 85 — one of Disney\'s biggest animated hits of the decade, just below the all-time generational touchstone tier.',
   },
   {
     title: 'Captain Underpants: The First Epic Movie',
@@ -1810,6 +1830,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'DreamWorks Animation',
     conflictScore: 0.60,
     reasoning: 'Professor Poopypants is a genuine villain who builds a giant robot and attempts to eliminate laughter from all children as revenge for people mocking his name. The climax involves a direct physical confrontation to stop his machine. However, the film\'s emotional core is the friendship between George and Harold — their bond and creativity are what ultimately save the day. Mr. Krupp, the secondary antagonist, is bitter and lonely rather than evil, and his transformation into Captain Underpants adds comedic empathy. Scored at 0.60 because the villain is real with destructive stakes and a confrontation-based resolution, but the deeper theme celebrates friendship, imagination, and humor over brute force.',
+    culturalReachPct: 42,
+    reachReasoning: '$73M domestic (~8.1M admissions) — modest theatrical performance for a DreamWorks release. However, the Captain Underpants book series by Dav Pilkey sold 80M+ copies and was one of the most popular children\'s book series of the 2000s, giving the IP significant pre-existing kid awareness. The film didn\'t fully convert that print audience into theatrical turnout. A Netflix series (The Epic Tales of Captain Underpants) extended the IP\'s screen presence. Scored at 42 — the book brand\'s reach exceeds the film\'s box office, but the movie itself was a mid-tier performer.',
   },
   {
     title: 'Cars 3',
@@ -1818,6 +1840,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Pixar',
     conflictScore: 0.20,
     reasoning: 'There is no real villain — Jackson Storm is simply a younger, faster competitor, not malicious, and Sterling is a corporate sponsor who wants to retire McQueen as a brand ambassador rather than an antagonist with evil intent. The core conflict is entirely internal: McQueen\'s struggle with aging, relevance, and identity. Resolution comes through mentorship and self-understanding when McQueen passes the torch to Cruz Ramirez, realizing his legacy is about lifting others up rather than winning himself. Scored low because the film is a quintessential "conflict resolved through growth and empathy" story with no villainy to defeat.',
+    culturalReachPct: 60,
+    reachReasoning: '$152M domestic (~16.9M admissions) — a step up from Cars 2\'s critical reception but commercially similar. The Cars franchise\'s real power remains merchandise ($10B+ lifetime), which keeps Lightning McQueen ubiquitous in toy aisles and boys\' bedrooms regardless of individual film performance. Cars Land at Disney California Adventure is a major theme park draw. The film itself was a modest critical improvement but didn\'t reignite franchise excitement. Scored at 60 — merchandise-driven brand recognition inflates reach beyond what the film\'s theatrical performance alone would suggest.',
   },
   {
     title: 'Coco',
@@ -1826,6 +1850,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Pixar',
     conflictScore: 0.40,
     reasoning: 'Ernesto de la Cruz is a genuine villain — he murdered Héctor by poisoning him to steal his songs and attempts to kill Miguel to protect his secret. However, the film\'s emotional core is a generational family misunderstanding: the Riveras banned music believing Héctor abandoned them, when he was actually murdered trying to come home. Resolution comes through empathy, memory, and love — Miguel helps Mama Coco remember her father, healing decades of family pain. Scored at 0.40 because while a real villain with lethal stakes exists, the deeper conflict is a family misunderstanding resolved through connection and remembrance, not by defeating the villain.',
+    culturalReachPct: 88,
+    reachReasoning: '$210M domestic (~23.4M admissions), $807M worldwide. Won both Best Animated Feature and Best Original Song ("Remember Me") at the Oscars. "Remember Me" became a cultural standard — one of the most emotionally powerful songs in Pixar\'s history. The film had outsized cultural impact in Hispanic/Latino communities and became a perennial Día de los Muertos tradition, giving it a recurring annual viewing cycle similar to Christmas films. Enormous Disney+ streaming presence. Widely regarded as one of Pixar\'s finest films alongside Up, Inside Out, and WALL-E.',
   },
   {
     title: 'Despicable Me 3',
@@ -1834,6 +1860,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Illumination Entertainment',
     conflictScore: 0.70,
     reasoning: 'Balthazar Bratt is a genuine supervillain — a former child star seeking revenge on Hollywood for cancelling his show, wielding 80s-themed weaponry and a giant robot with real destructive intent. The main conflict is resolved through direct physical confrontation as Gru defeats Bratt and saves Hollywood. Scored at 0.70 rather than higher because significant screen time is devoted to Gru\'s internal and family conflicts — his identity crisis after being fired, bonding with his twin brother Dru, and the Minions\' temporary departure — giving the film a substantial empathy-and-growth layer alongside its traditional villain plot.',
+    culturalReachPct: 78,
+    reachReasoning: '$264M domestic (~29.4M admissions), $1.035B worldwide — the franchise\'s third billion-dollar entry. The Despicable Me/Minions brand remained one of the most commercially dominant animated properties in the world. Minions merchandise was still ubiquitous. However, the franchise was past peak cultural novelty — the Minions phenomenon had peaked with the 2015 standalone film, and DM3 felt like franchise maintenance rather than a cultural event. Scored at 78 — still massive reach but a step below the original\'s 90.',
   },
   {
     title: 'Ferdinand',
@@ -1842,6 +1870,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Blue Sky Studios',
     conflictScore: 0.15,
     reasoning: 'There is no real villain — the matador El Primero wants to fight Ferdinand in the ring, but he is pursuing glory rather than acting out of malice. The entire conflict is a misunderstanding: Ferdinand is a gentle, flower-loving bull repeatedly mistaken for a fierce beast because of his enormous size. Resolution comes through peaceful self-expression and empathy — Ferdinand refuses to fight in the arena, winning over the crowd and proving his true nature. Scored very low because the film is a quintessential "imagined villain, conflict-as-misunderstanding" story resolved entirely through gentleness rather than confrontation.',
+    culturalReachPct: 30,
+    reachReasoning: '$84M domestic (~9.4M admissions) — a modest performer that underperformed Blue Sky\'s expectations. Based on the classic 1936 children\'s book (and the 1938 Oscar-winning Disney short), which gave it some brand recognition, but the film itself didn\'t create new cultural moments or a lasting franchise. Released in December 2017, it was overshadowed by Coco. Blue Sky\'s declining theatrical fortunes continued the pattern seen with Ice Age: Collision Course.',
   },
   {
     title: 'The Boss Baby',
@@ -1850,6 +1880,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'DreamWorks Animation',
     conflictScore: 0.35,
     reasoning: 'Francis E. Francis is a genuine villain with a real scheme to eliminate babies by making puppies irresistibly cute, but the film\'s core conflict is a sibling rivalry misunderstanding — Tim believes Boss Baby is stealing his parents\' love, when Boss Baby is actually on a corporate mission. Resolution comes through empathy and brotherly love as Tim and Boss Baby learn to cooperate and become a real family. Scored at 0.35 because while a villain exists, the emotional heart is the misunderstanding between brothers resolved through connection, not confrontation.',
+    culturalReachPct: 65,
+    reachReasoning: '$175M domestic (~19.5M admissions) — a surprisingly large commercial hit driven by the instantly memorable concept of a suit-wearing, briefcase-carrying baby (voiced by Alec Baldwin). The Netflix series "The Boss Baby: Back in Business" (2018–2021) and the theatrical sequel Boss Baby: Family Business (2021) kept the IP in heavy rotation with young kids. The concept was inherently meme-worthy and broadly recognizable. Scored at 65 — commercially successful and franchise-sustaining, but not a cultural phenomenon.',
   },
   {
     title: 'The Lego Batman Movie',
@@ -1858,6 +1890,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Warner Animation Group',
     conflictScore: 0.40,
     reasoning: 'The Joker is a real villain with a real scheme — he surrenders to the Phantom Zone, frees its supervillains, and attacks Gotham — but his core motivation is emotional: he wants Batman to acknowledge him as his greatest enemy, making the villain\'s arc essentially about a relationship misunderstanding. The film\'s true conflict is entirely internal — Batman\'s fear of family and refusal to let anyone in after losing his parents. Resolution comes through Batman\'s emotional growth, accepting Robin, Barbara, and Alfred as family and working as a team, not through defeating the Joker in combat.',
+    culturalReachPct: 68,
+    reachReasoning: '$176M domestic (~19.6M admissions) — commercially strong, leveraging two of the most recognizable IPs in entertainment (Lego and Batman). Benefited from The Lego Movie\'s goodwill and the enduring appeal of Batman to kids. However, it didn\'t achieve the cultural phenomenon status of The Lego Movie (2014), and the Lego film franchise would decline rapidly after this (Lego Ninjago flopped later in 2017). The "I only work in black, and sometimes very very dark gray" sensibility was quotable but didn\'t penetrate culture the way "Everything Is Awesome" did.',
   },
   {
     title: 'Dr. Seuss\' The Grinch',
@@ -1866,6 +1900,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Illumination Entertainment',
     conflictScore: 0.10,
     reasoning: 'There is no real villain — the Grinch himself is the protagonist whose hatred of Christmas stems from childhood loneliness and orphanhood, not malice. The entire conflict is an internal misunderstanding: he believes Christmas is about noise and spectacle when it is really about community and love. Resolution comes through pure empathy — the Whos sing joyfully despite having nothing, the Grinch\'s heart literally grows, and he is welcomed into the community through compassion and inclusion rather than confrontation.',
+    culturalReachPct: 82,
+    reachReasoning: '$271M domestic (~29.7M admissions) — a massive commercial success and Illumination\'s second-biggest domestic hit. The Grinch is one of the most iconic Christmas characters in American culture, and this adaptation benefited from the IP\'s perennial status — every Christmas season drives renewed viewership. The Jim Carrey 2000 version and the original 1966 TV special were already deeply embedded, and this kept the property current for a new generation. Benedict Cumberbatch\'s Grinch has become a fixture of the holiday streaming rotation. Scored at 82 — IP ubiquity and annual rewatchability are powerful reach multipliers.',
   },
   {
     title: 'Early Man',
@@ -1874,6 +1910,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Aardman Animations',
     conflictScore: 0.70,
     reasoning: 'Lord Nooth is a genuine villain — a greedy Bronze Age governor who forcibly displaces Dug\'s Stone Age tribe from their valley to mine it for ore. The stakes are real (loss of homeland) and the conflict is entirely external. Resolution comes through competitive confrontation: the cavemen challenge the Bronze Age city to a football match and win back their valley. Scored at 0.70 because while the villain and stakes are real, Lord Nooth is comedically buffoonish rather than menacing, and the confrontation is a sports match rather than physical combat.',
+    culturalReachPct: 5,
+    reachReasoning: '$8M domestic (~0.9M admissions) — Aardman\'s worst US theatrical performance and one of the biggest flops of 2018. The claymation/British comedy style continued its pattern of extremely limited American appeal. A football (soccer) plot had even less traction in the US market than Aardman\'s usual fare. Essentially invisible to American children despite decent UK performance. Follows the consistent Aardman US pattern: Arthur Christmas (18), Pirates! (10), and now Early Man (5) — a declining trajectory.',
   },
   {
     title: 'Hotel Transylvania 3: Summer Vacation',
@@ -1882,6 +1920,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Sony Pictures Animation',
     conflictScore: 0.45,
     reasoning: 'Abraham Van Helsing is a genuine villain with centuries-long hatred of monsters and a real scheme to destroy them using an ancient weapon (the Instrument of Destruction). However, the major subplot — Ericka Van Helsing\'s mission to kill Dracula — resolves entirely through love and empathy as she falls for him and rejects her great-grandfather\'s prejudice. The final confrontation is defeated through music and dancing rather than combat. Scored at 0.45 because while a real villain with real stakes exists, the film\'s core message is about overcoming hatred through love, and both the Ericka arc and the climax favor empathy and absurd comedy over genuine confrontation.',
+    culturalReachPct: 62,
+    reachReasoning: '$167M domestic (~18.3M admissions), $528M worldwide — the franchise\'s strongest worldwide performance. Hotel Transylvania was a reliably popular franchise with kids (Adam Sandler\'s Dracula, the ensemble monster cast) and consistent commercial returns across all three entries. However, it never reached the highest tier of cultural impact — no breakout songs, catchphrases, or merchandise phenomenon. The franchise\'s appeal was solid and broad without being a cultural event. A fourth entry went direct-to-streaming (Amazon Prime) in 2022, signaling the ceiling.',
   },
   {
     title: 'Incredibles 2',
@@ -1890,6 +1930,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Pixar Animation Studios',
     conflictScore: 0.80,
     reasoning: 'Evelyn Deavor is a genuine villain with a calculated scheme — she poses as an ally while secretly using mind-control technology to hypnotize superheroes and stage a disaster to turn the public permanently against them. The stakes are real and the conflict is resolved through direct physical confrontation: Elastigirl fights Evelyn, the Parr family battles mind-controlled supers, and the villain is arrested. Scored at 0.80 rather than higher because Evelyn\'s motivation is rooted in sympathetic trauma (her father died because he called superheroes instead of hiding), lending a misunderstanding element, and a significant subplot involves Bob\'s internal struggle with parenting and jealousy.',
+    culturalReachPct: 90,
+    reachReasoning: '$609M domestic (~66.8M admissions) — the highest-grossing animated film domestically at the time, with a record-breaking $183M opening weekend. The 14-year gap since The Incredibles (2004) created enormous pent-up demand, and the Parr family had remained culturally embedded throughout (Edna Mode\'s "no capes" was a persistent meme). The superhero genre\'s mainstream dominance in the MCU era made a Pixar superhero family even more commercially potent. Massive Disney+ streaming catalog title. Scored at 90 — the record-breaking domestic numbers place it firmly in the generational touchstone tier.',
   },
   {
     title: 'Ralph Breaks the Internet',
@@ -1898,6 +1940,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Animation Studios',
     conflictScore: 0.15,
     reasoning: 'There is no external villain — the central conflict is Ralph\'s insecurity and fear of losing Vanellope as his best friend, which leads him to sabotage her dream of racing in Slaughter Race. His neediness literally manifests as a giant virus-Ralph monster in the climax. Resolution comes entirely through emotional growth: Ralph must accept that true friendship means letting go and supporting someone\'s independence. Scored at 0.15 because the conflict is entirely internal/relational with no real antagonist, and the resolution is pure empathy and self-understanding.',
+    culturalReachPct: 68,
+    reachReasoning: '$201M domestic (~22.1M admissions), $529M worldwide — solid commercial performance for a Disney sequel. The "Disney Princesses in casual clothes" scene went viral and became one of the most widely shared animated film clips of the decade, generating memes and merchandise. However, the film\'s internet-culture premise felt more of-the-moment than timeless compared to the original Wreck-It Ralph. The video-game nostalgia that drove the first film\'s adult appeal was replaced with social media commentary that aged faster. Scored at 68 — the viral Princess scene alone is a significant cultural contribution, but the overall impact was below the original.',
   },
   {
     title: 'Smallfoot',
@@ -1906,6 +1950,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Warner Animation Group',
     conflictScore: 0.15,
     reasoning: 'There is no real villain — the Stonekeeper suppresses knowledge of humans to protect the Yeti village from historical persecution, making him a well-intentioned authority figure rather than an antagonist. The central conflict is a misunderstanding between species rooted in mutual fear and ignorance. Resolution comes through communication, transparency, and empathy as Migo brings Yetis and humans together, choosing truth over comfortable lies. Scored at 0.15 because the conflict is entirely about overcoming fear and misinformation with no villainy or confrontation.',
+    culturalReachPct: 25,
+    reachReasoning: '$83M domestic (~9.1M admissions) — a modest performer from Warner Animation Group in a crowded 2018 animated landscape. Despite a strong voice cast (Channing Tatum, Zendaya, James Corden) and decent reviews, it was overshadowed by Incredibles 2, The Grinch, Ralph Breaks the Internet, and Spider-Verse. Didn\'t create memorable characters or cultural moments. Warner Animation\'s non-Lego output consistently struggled to break through — Storks (2016) and Smallfoot followed the same pattern of adequate but forgettable.',
   },
   {
     title: 'Spider-Man: Into the Spider-Verse',
@@ -1914,6 +1960,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Sony Pictures Animation',
     conflictScore: 0.80,
     reasoning: 'Kingpin (Wilson Fisk) is a genuine villain who kills the original Spider-Man, builds a super-collider that threatens to destroy Brooklyn and multiple dimensions, and must be defeated in direct physical combat by Miles Morales. The stakes are real and the conflict is resolved through confrontation. Scored at 0.80 rather than higher because Miles\'s arc has a significant internal growth component — overcoming self-doubt and taking the "leap of faith" to become Spider-Man — and Kingpin\'s motivation is sympathetically rooted in grief over losing his wife and son.',
+    culturalReachPct: 82,
+    reachReasoning: '$190M domestic (~20.9M admissions), $376M worldwide — commercially strong but not record-breaking. The cultural impact, however, was outsized relative to box office: won Best Animated Feature Oscar, revolutionized animation aesthetics (the comic-book/mixed-media style has been widely imitated), introduced Miles Morales to mainstream audiences, and is widely considered one of the greatest animated films ever made. The sequel Across the Spider-Verse (2023, $381M domestic) confirmed and amplified its franchise status. Scored at 82 — its influence on animation and superhero storytelling elevates it well beyond what its initial theatrical numbers alone would suggest.',
   },
   {
     title: 'Abominable',

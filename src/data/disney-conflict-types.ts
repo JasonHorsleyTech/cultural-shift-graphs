@@ -651,4 +651,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.70,
     reasoning: 'King Goobot and the Yolkians are real villains who abduct every parent in Retroville to sacrifice them to Poultra, a monstrous chicken god — the stakes are genuinely life-or-death. The climax is a direct confrontation: Jimmy and friends fly to the Yolkian planet, battle Poultra, and outsmart Goobot to rescue the parents. Scored at 0.70 because the villain and confrontation are real, but the emotional core is Jimmy\'s internal arc — he wished his parents would disappear and must learn to appreciate them — and the comedic, bumbling tone of the villains softens the menace considerably.',
   },
+  {
+    title: 'Monsters, Inc.',
+    releaseYear: 2001,
+    decade: '2000s',
+    studio: 'Pixar Animation Studios',
+    conflictScore: 0.50,
+    reasoning: 'Randall Boggs and CEO Waternoose are real villains — Randall builds a scream extractor to forcibly harvest children\'s screams, and Waternoose conspires to kidnap Boo to keep the company profitable. Both are defeated through direct confrontation: Randall is banished through a door and Waternoose is tricked into a confession and arrested. However, the film\'s deeper conflict is a systemic misunderstanding — monsters believe children are toxic and terrifying when they are not — resolved through Sulley\'s empathetic bond with Boo, ultimately transforming the entire industry from fear-based to laughter-based. Scored at 0.50 because real villainy and confrontation coexist equally with a thematic arc about overcoming fear through understanding and connection.',
+  },
 ]

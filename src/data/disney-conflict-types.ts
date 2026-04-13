@@ -1435,4 +1435,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.85,
     reasoning: 'Leonard (King Mudbeard) and the pigs are unambiguous villains who arrive under false pretenses of friendship, deceive the entire bird community, and steal all their eggs to eat them. The conflict is entirely external with life-or-death stakes for the birds\' children. Resolution comes through a massive physical assault on the pigs\' city — the birds launch themselves via slingshot to destroy the fortress and rescue the eggs. The film even validates Red\'s anger as righteous, framing confrontation and justified aggression as heroic. Scored at 0.85 because this is a thoroughly traditional villain-confrontation story with real stakes resolved entirely through force, notable for a 2016 film.',
   },
+  {
+    title: 'The Secret Life of Pets',
+    releaseYear: 2016,
+    decade: '2010s',
+    studio: 'Illumination Entertainment',
+    conflictScore: 0.55,
+    reasoning: 'Snowball is a genuine villain — an abandoned rabbit leading a sewer army of "Flushed Pets" who actively tries to kill Max and Duke with real physical menace. However, the emotional core of the film is the Max/Duke rivalry, which is a misunderstanding resolved through bonding and mutual acceptance after they share vulnerable moments (Duke\'s abandoned former owner). Snowball himself is ultimately redeemed when a little girl adopts him, undermining his villainy. Scored at 0.55 because the film splits evenly between a real villain driving action-adventure stakes and an internal jealousy/acceptance arc driving the emotional resolution.',
+  },
 ]

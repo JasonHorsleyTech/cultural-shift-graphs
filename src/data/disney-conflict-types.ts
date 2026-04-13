@@ -1595,4 +1595,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.55,
     reasoning: 'Grimmel the Grisly is an unambiguous villain — a calculating dragon hunter who uses traps, drugged dragons, and manipulation to target Toothless, and he is defeated in a climactic aerial confrontation (falling to his death). However, the film\'s emotional core is Hiccup\'s internal journey of learning to let go, culminating in selflessly releasing Toothless to the Hidden World. Scored at 0.55 because the real-villain/confrontation plotline is fully present but serves a deeper story about growth, love, and saying goodbye.',
   },
+  {
+    title: 'Missing Link',
+    releaseYear: 2019,
+    decade: '2010s',
+    studio: 'Laika',
+    conflictScore: 0.55,
+    reasoning: 'Lord Piggot-Dunceby is a genuine villain — a xenophobic elitist who hires mercenary Willard Stenk to kill Frost and Mr. Link, and he ultimately falls to his death in a climactic confrontation at Shangri-La. However, the emotional core is Mr. Link\'s search for belonging: the Yeti Elder rejects him as an outsider, and he ultimately finds family in his friends rather than his biological relatives. Scored at 0.55 because real villains with lethal intent are defeated through confrontation, but the deeper arc is about acceptance, chosen family, and overcoming loneliness.',
+  },
 ]

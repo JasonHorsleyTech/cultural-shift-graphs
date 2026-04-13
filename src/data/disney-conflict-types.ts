@@ -515,4 +515,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.90,
     reasoning: 'Judge Claude Frollo is one of Disney\'s most unambiguously evil villains — a genocidal fanatic who burns Paris to find Esmeralda, attempts to drown the infant Quasimodo, and ultimately tries to murder both protagonists while declaring himself righteous. The conflict is entirely external and life-or-death: Frollo\'s oppression of the Romani people and his obsessive pursuit of Esmeralda drive the plot. Resolution comes through direct confrontation — Quasimodo physically defies Frollo, the citizens of Paris rise up against his soldiers, and Frollo falls to his death from Notre Dame\'s cathedral while trying to kill Quasimodo. Scored at 0.90 because the villain is genuinely menacing with real genocidal stakes, and is defeated through physical confrontation, though Quasimodo\'s arc also involves themes of self-acceptance and finding where he belongs.',
   },
+  {
+    title: 'Anastasia',
+    releaseYear: 1997,
+    decade: '1990s',
+    studio: 'Fox Animation Studios',
+    conflictScore: 0.80,
+    reasoning: 'Rasputin is a genuine supernatural villain — an undead sorcerer who cursed the Romanov family, caused their downfall, and is single-mindedly obsessed with killing the last surviving Romanov. He uses a dark reliquary to send demonic minions after Anastasia throughout the film. The climax is a direct physical confrontation on a bridge in Paris where Anastasia destroys Rasputin\'s reliquary, causing him to disintegrate. Scored at 0.80 because the villain is unambiguously evil with murderous supernatural stakes and is defeated through direct confrontation, but a significant portion of the film\'s emotional core is about identity discovery (Anya piecing together who she is) and Dimitri\'s redemption arc from con man to genuine love interest — blending classic villain-driven conflict with themes of self-discovery and belonging.',
+  },
 ]

@@ -1939,4 +1939,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.20,
     reasoning: 'There is no real villain — Elio is a socially awkward boy who gets accidentally beamed up to an intergalactic community and mistaken for Earth\'s ambassador. The central conflict is built entirely on misidentification and Elio\'s own insecurity about whether he belongs or can represent humanity. Ambassador Questa and the Communiverse present obstacles but function as skeptics testing Earth\'s worthiness, not evil antagonists. Resolution comes through Elio finding his voice, connecting with alien species through genuine empathy and curiosity, and proving that authentic human connection transcends the misunderstanding — not through defeating anyone.',
   },
+  {
+    title: 'The Bad Guys 2',
+    releaseYear: 2025,
+    decade: '2020s',
+    studio: 'DreamWorks Animation',
+    conflictScore: 0.60,
+    reasoning: 'Kitty Kat (the Phantom Bandit) is a genuine villain — a ruthless snow leopard who blackmails the reformed Bad Guys into helping her execute a space-station heist involving the world\'s most powerful magnet. She is defeated through direct confrontation: Wolf outsmarts her by pickpocketing her smartwatch to destroy the magnet, and Diane physically defeats her, sending her to prison. However, the film\'s thematic core centers on redemption and societal acceptance — whether reformed criminals can earn trust and find their place — giving significant emotional weight to identity and belonging alongside the real villain conflict.',
+  },
 ]

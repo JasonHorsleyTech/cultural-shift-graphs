@@ -1211,4 +1211,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.25,
     reasoning: 'The central conflict is a misunderstanding — Elsa is feared as a monster but is not a villain; she flees out of self-imposed isolation after accidentally revealing her powers. The real antagonist, Prince Hans, is a late-act twist villain whose defeat is secondary to the emotional resolution. The climax is resolved not through confrontation but through Anna\'s act of true love (sacrificing herself for Elsa), which thaws the frozen kingdom and teaches Elsa that love controls her powers. Scored at 0.25 because the story is fundamentally about sisterly love overcoming fear and misunderstanding, with the nominal villain serving as a plot device rather than the core conflict.',
   },
+  {
+    title: 'Monsters University',
+    releaseYear: 2013,
+    decade: '2010s',
+    studio: 'Pixar',
+    conflictScore: 0.15,
+    reasoning: 'There is no villain — Dean Hardscrabble is a strict but fair authority figure, not an antagonist. The core conflict is entirely internal: Mike must accept that he is not naturally scary despite his passion, and Sulley must overcome arrogance and learn humility. The climax resolves through self-acceptance and honesty (Mike acknowledging his limitations, Sulley confessing he cheated), not through defeating any enemy. Scored at 0.15 because the film is fundamentally about personal growth, finding your true strengths, and the power of teamwork, with zero villain-driven conflict.',
+  },
 ]

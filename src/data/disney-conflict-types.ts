@@ -1539,4 +1539,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.45,
     reasoning: 'Abraham Van Helsing is a genuine villain with centuries-long hatred of monsters and a real scheme to destroy them using an ancient weapon (the Instrument of Destruction). However, the major subplot — Ericka Van Helsing\'s mission to kill Dracula — resolves entirely through love and empathy as she falls for him and rejects her great-grandfather\'s prejudice. The final confrontation is defeated through music and dancing rather than combat. Scored at 0.45 because while a real villain with real stakes exists, the film\'s core message is about overcoming hatred through love, and both the Ericka arc and the climax favor empathy and absurd comedy over genuine confrontation.',
   },
+  {
+    title: 'Incredibles 2',
+    releaseYear: 2018,
+    decade: '2010s',
+    studio: 'Pixar Animation Studios',
+    conflictScore: 0.80,
+    reasoning: 'Evelyn Deavor is a genuine villain with a calculated scheme — she poses as an ally while secretly using mind-control technology to hypnotize superheroes and stage a disaster to turn the public permanently against them. The stakes are real and the conflict is resolved through direct physical confrontation: Elastigirl fights Evelyn, the Parr family battles mind-controlled supers, and the villain is arrested. Scored at 0.80 rather than higher because Evelyn\'s motivation is rooted in sympathetic trauma (her father died because he called superheroes instead of hiding), lending a misunderstanding element, and a significant subplot involves Bob\'s internal struggle with parenting and jealousy.',
+  },
 ]

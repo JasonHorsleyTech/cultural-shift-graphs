@@ -1347,4 +1347,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.75,
     reasoning: 'Scarlet Overkill is a genuine villain with clear malicious intent — she seeks to steal the British crown and threatens the Minions with death when she believes they\'ve betrayed her. The conflict is external and resolved through direct physical confrontation as the Minions battle Scarlet and her husband Herb across London. Scored at 0.75 rather than higher because the Minions themselves are amoral creatures seeking a villain to serve (subverting the traditional hero-vs-villain dynamic), and much of the film is comedic slapstick adventure rather than dramatic good-vs-evil stakes.',
   },
+  {
+    title: 'Shaun the Sheep Movie',
+    releaseYear: 2015,
+    decade: '2010s',
+    studio: 'Aardman Animations',
+    conflictScore: 0.55,
+    reasoning: 'Trumper, the animal containment officer, is a genuine antagonist who obsessively hunts the sheep with escalating menace and is ultimately defeated through direct physical confrontation. However, the core conflict is not good-vs-evil but rather the consequence of Shaun\'s prank gone wrong — the Farmer ends up in the Big City with amnesia, and the flock must find him and restore his memory. The emotional resolution comes through the Farmer\'s bond with his animals, not through defeating the villain. Scored at 0.55 because a real antagonist with physical stakes exists, but the heart of the story is about fixing a mistake and restoring family bonds through loyalty and emotional connection.',
+  },
 ]

@@ -859,4 +859,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.55,
     reasoning: 'The film has multiple antagonists — Vincent the bear threatens to eat RJ unless he replaces a stolen food stash, Gladys Sharp (the HOA president) wages war on the animals, and Dwayne the Verminator is hired to exterminate them. The climax involves direct physical confrontation where the animals outwit and defeat all three villains. However, the emotional core is RJ\'s internal arc from selfish con artist to genuine friend: he deceives and manipulates the woodland family for his own survival before ultimately confessing and risking his life to save them. Scored at 0.55 because real villains with lethal stakes exist and are defeated through confrontation, but RJ\'s moral transformation and the theme of found-family-over-self-interest carry equal narrative weight.',
   },
+  {
+    title: 'Bee Movie',
+    releaseYear: 2007,
+    decade: '2000s',
+    studio: 'DreamWorks Animation',
+    conflictScore: 0.2,
+    reasoning: 'There is no real villain — opposing lawyer Layton T. Montgomery is simply doing his job defending the honey industry, not acting out of malice. The central conflict is a systemic misunderstanding: Barry sues humanity for stealing honey, wins, and bees stop working, which causes flowers worldwide to die. Resolution comes entirely through Barry\'s own growth and realization that the ecosystem is interdependent, not through defeating an enemy. The film is fundamentally about a character learning he was wrong and fixing his mistake through empathy and cooperation. Scored at 0.20 because the conflict is almost entirely internal/misunderstanding-based with no antagonist to defeat.',
+  },
 ]

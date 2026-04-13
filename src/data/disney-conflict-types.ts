@@ -1339,4 +1339,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.10,
     reasoning: 'There is no villain whatsoever — the conflict is entirely internal and psychological. Joy\'s inability to accept Sadness as a necessary emotion causes both to get lost in Riley\'s long-term memory, leading Riley toward emotional shutdown. Resolution comes through Joy\'s realization that Sadness is essential to empathy and emotional processing, allowing Riley to open up to her parents. Scored at 0.10 because every conflict is internal, there is no external antagonist, and resolution is achieved purely through emotional growth and understanding.',
   },
+  {
+    title: 'Minions',
+    releaseYear: 2015,
+    decade: '2010s',
+    studio: 'Illumination Entertainment',
+    conflictScore: 0.75,
+    reasoning: 'Scarlet Overkill is a genuine villain with clear malicious intent — she seeks to steal the British crown and threatens the Minions with death when she believes they\'ve betrayed her. The conflict is external and resolved through direct physical confrontation as the Minions battle Scarlet and her husband Herb across London. Scored at 0.75 rather than higher because the Minions themselves are amoral creatures seeking a villain to serve (subverting the traditional hero-vs-villain dynamic), and much of the film is comedic slapstick adventure rather than dramatic good-vs-evil stakes.',
+  },
 ]

@@ -683,4 +683,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.65,
     reasoning: 'Soto is a genuine villain — a saber-toothed tiger pack leader who plans to kill and eat a human baby as revenge for humans hunting his pack. The climax is a direct physical confrontation where Diego turns against Soto and Manny fights him, ending with Soto\'s death by falling icicles. However, the film\'s emotional core is the found-family bond between Manny, Sid, and Diego — three misfits who learn to care for each other. Diego\'s arc is resolved through empathy (his growing attachment to the baby and the group overrides his predatory mission), and Manny\'s grief over his lost family is healed through connection, not combat. Scored at 0.65 because a real villain with lethal stakes is defeated through confrontation, but the deeper resolution is about trust, friendship, and chosen family.',
   },
+  {
+    title: 'Lilo & Stitch',
+    releaseYear: 2002,
+    decade: '2000s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.30,
+    reasoning: 'Captain Gantu and the Galactic Federation serve as antagonists, but they are institutional enforcers rather than true villains — Gantu is following orders, and the Grand Councilwoman ultimately relents. Dr. Jumba hunts Stitch but eventually joins the family. The film\'s real conflict is entirely emotional: Lilo is a lonely, grieving girl at risk of being taken from her sister Nani by social services, and Stitch is a creature engineered for destruction who has no concept of family. Resolution comes through love, belonging, and the concept of ohana — Stitch chooses family over his destructive programming, and the found-family unit convinces even the aliens to let them stay together. Scored low because the conflict is fundamentally about loneliness and belonging, resolved through empathy and connection rather than defeating evil.',
+  },
 ]

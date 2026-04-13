@@ -707,4 +707,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.60,
     reasoning: 'John Silver is a genuine villain — a cyborg pirate who orchestrates a mutiny, threatens the crew, and is willing to kill to reach Treasure Planet\'s hoard. The climax involves real confrontation as Jim and the loyalists fight the pirate crew. However, Silver also becomes Jim\'s surrogate father, filling the void left by Jim\'s absent dad, and the emotional core of the film is their bond. Silver ultimately saves Jim\'s life instead of taking the treasure, choosing love over greed — his arc resolves through empathy, not defeat. Jim\'s own arc is deeply internal: a troubled teen transforming into a confident young man through mentorship. Scored at 0.60 because real villainy and physical stakes drive the plot, but the resolution hinges on a father-son bond and the villain\'s redemption rather than his destruction.',
   },
+  {
+    title: 'Brother Bear',
+    releaseYear: 2003,
+    decade: '2000s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.20,
+    reasoning: 'There is no real villain — the conflict is a tragic cycle of revenge born from grief and misunderstanding. Kenai kills a bear to avenge his brother Sitka, only to be transformed into a bear himself and discover the bear he killed was Koda\'s mother. Denahi hunts Kenai-as-bear with lethal intent, but he is a grieving brother, not a villain. The climax resolves entirely through empathy: Kenai confesses his guilt to Koda, the Great Spirits intervene, and Kenai chooses to remain a bear to become Koda\'s family. Scored very low because every antagonist is motivated by grief rather than malice, and resolution comes through understanding, love, and self-sacrifice rather than defeating evil.',
+  },
 ]

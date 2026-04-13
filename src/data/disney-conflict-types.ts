@@ -851,4 +851,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.65,
     reasoning: 'Shaw is a genuine villain — a fanatical hunter who actively tries to kill Boog and the other forest animals, escalating from poaching to full-blown assault with increasingly dangerous weapons. The climax is a direct physical confrontation where the woodland creatures band together to fight off Shaw and the hunters, driving them out of the forest. However, the emotional core is Boog\'s internal journey from pampered domesticated bear to independent wild animal: he must overcome his dependence on ranger Beth, learn to survive in the forest, and form real friendships (especially with Elliot). Scored at 0.65 because Shaw is a lethal antagonist defeated through group confrontation, but the film\'s heart is Boog\'s personal growth and the community bonds that make the confrontation possible.',
   },
+  {
+    title: 'Over the Hedge',
+    releaseYear: 2006,
+    decade: '2000s',
+    studio: 'DreamWorks Animation',
+    conflictScore: 0.55,
+    reasoning: 'The film has multiple antagonists — Vincent the bear threatens to eat RJ unless he replaces a stolen food stash, Gladys Sharp (the HOA president) wages war on the animals, and Dwayne the Verminator is hired to exterminate them. The climax involves direct physical confrontation where the animals outwit and defeat all three villains. However, the emotional core is RJ\'s internal arc from selfish con artist to genuine friend: he deceives and manipulates the woodland family for his own survival before ultimately confessing and risking his life to save them. Scored at 0.55 because real villains with lethal stakes exist and are defeated through confrontation, but RJ\'s moral transformation and the theme of found-family-over-self-interest carry equal narrative weight.',
+  },
 ]

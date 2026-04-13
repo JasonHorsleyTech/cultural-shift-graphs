@@ -1459,4 +1459,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.55,
     reasoning: 'Bellwether is a real villain with a calculated conspiracy — she weaponizes a toxic serum to make predators go savage, exploiting societal prejudice for political power, and personally attempts to murder Judy and Nick. However, the film\'s emotional core is about overcoming bias: Judy herself harbors unconscious prejudice against predators that she must confront and apologize for, and the resolution emphasizes understanding across social divides. Scored at 0.55 because while a genuine villain with lethal stakes drives the plot, the deeper conflict is systemic prejudice resolved through empathy, self-awareness, and cross-group trust.',
   },
+  {
+    title: 'Captain Underpants: The First Epic Movie',
+    releaseYear: 2017,
+    decade: '2010s',
+    studio: 'DreamWorks Animation',
+    conflictScore: 0.60,
+    reasoning: 'Professor Poopypants is a genuine villain who builds a giant robot and attempts to eliminate laughter from all children as revenge for people mocking his name. The climax involves a direct physical confrontation to stop his machine. However, the film\'s emotional core is the friendship between George and Harold — their bond and creativity are what ultimately save the day. Mr. Krupp, the secondary antagonist, is bitter and lonely rather than evil, and his transformation into Captain Underpants adds comedic empathy. Scored at 0.60 because the villain is real with destructive stakes and a confrontation-based resolution, but the deeper theme celebrates friendship, imagination, and humor over brute force.',
+  },
 ]

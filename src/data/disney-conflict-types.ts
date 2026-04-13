@@ -1899,4 +1899,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.10,
     reasoning: 'There is no external villain — Anxiety is a personified part of Riley\'s own psyche who takes over headquarters out of fear that Riley won\'t fit in at hockey camp. The conflict is entirely internal: an identity crisis during puberty as new emotions suppress the originals and try to reshape Riley\'s sense of self. Resolution comes through self-acceptance and emotional integration — Joy and the new emotions learn to coexist, and Riley embraces a complex, sometimes contradictory identity. This is as far toward the "no villain, internal conflict resolved through growth" end of the spectrum as an animated film gets.',
   },
+  {
+    title: 'Kung Fu Panda 4',
+    releaseYear: 2024,
+    decade: '2020s',
+    studio: 'DreamWorks Animation',
+    conflictScore: 0.55,
+    reasoning: 'The Chameleon is a genuine villain — a shapeshifting sorceress who steals kung fu warriors\' abilities and plots to summon all previous villains from the Spirit Realm to absorb their chi. She is defeated through direct physical confrontation when Po and Zhen work together to stop her. However, the emotional core is Po\'s identity crisis: he must accept transitioning from Dragon Warrior to Spiritual Leader of the Valley of Peace and learn to trust Zhen, a street thief, as his potential successor. Scored mid-range because a real villain with real stakes is defeated through confrontation, but the thematic weight falls on Po\'s personal growth, letting go of his identity, and learning to mentor the next generation.',
+  },
 ]

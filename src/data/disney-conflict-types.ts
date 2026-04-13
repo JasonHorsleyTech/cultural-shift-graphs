@@ -747,4 +747,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.25,
     reasoning: 'The Witch of the Waste begins as a clear villain — she curses Sophie into an old woman out of jealousy — but is systematically stripped of her power and becomes a sympathetic, doddering old woman who joins the household. Madame Suliman serves as a secondary antagonist representing institutional authority and warmongering, but she is pragmatic rather than evil. The background war is portrayed as faceless, senseless destruction with no villain behind it. The true conflict is internal: Sophie\'s struggle with self-worth and Howl\'s fear of losing his humanity. Resolution comes entirely through love and empathy — Sophie breaks Howl\'s curse through her emotional bond with him, and the war simply ends. Scored low because the film deliberately subverts villainy at every turn, transforming antagonists into sympathetic figures and resolving all conflict through compassion rather than confrontation.',
   },
+  {
+    title: 'Shark Tale',
+    releaseYear: 2004,
+    decade: '2000s',
+    studio: 'DreamWorks Animation',
+    conflictScore: 0.40,
+    reasoning: 'Don Lino is a shark mob boss who runs an organized crime family and poses a genuine physical threat — he orders hits, intimidates the reef, and pursues Oscar with lethal intent when he believes Oscar killed his son Frankie. However, Frankie\'s death was an accident (killed by a falling anchor), and Oscar\'s entire hero status is a lie he fabricated for fame. The real conflict is internal: Oscar\'s obsession with status and his web of deception, plus Lenny\'s struggle to be accepted as a vegetarian shark by his mafia father. Resolution comes through confession and acceptance — Oscar publicly admits his lies, Lenny comes out to Don Lino, and the mob boss ultimately accepts his son for who he is. Scored at 0.40 because while the shark mafia provides genuine external menace, the resolution is entirely about honesty, self-acceptance, and a father embracing his son rather than defeating a villain.',
+  },
 ]

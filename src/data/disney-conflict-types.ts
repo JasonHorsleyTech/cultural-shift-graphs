@@ -1355,4 +1355,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.55,
     reasoning: 'Trumper, the animal containment officer, is a genuine antagonist who obsessively hunts the sheep with escalating menace and is ultimately defeated through direct physical confrontation. However, the core conflict is not good-vs-evil but rather the consequence of Shaun\'s prank gone wrong — the Farmer ends up in the Big City with amnesia, and the flock must find him and restore his memory. The emotional resolution comes through the Farmer\'s bond with his animals, not through defeating the villain. Scored at 0.55 because a real antagonist with physical stakes exists, but the heart of the story is about fixing a mistake and restoring family bonds through loyalty and emotional connection.',
   },
+  {
+    title: 'The Good Dinosaur',
+    releaseYear: 2015,
+    decade: '2010s',
+    studio: 'Pixar',
+    conflictScore: 0.40,
+    reasoning: 'Thunderclap and his pterodactyl gang are genuine predatory villains who try to take and eat Spot, and Arlo physically confronts them in the climax. However, the central conflict is Arlo\'s internal struggle with paralyzing fear following his father\'s death. Resolution blends confrontation (fighting pterodactyls) with emotional growth — Arlo overcomes his fear and selflessly lets Spot go to join a human family. Scored at 0.40 because while real antagonists with physical stakes exist, the core arc is about conquering internal fear and forming bonds resolved through empathy and self-discovery.',
+  },
 ]

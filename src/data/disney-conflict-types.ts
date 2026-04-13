@@ -611,4 +611,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.85,
     reasoning: 'Mrs. Tweedy is an unambiguous villain who plans to slaughter every chicken on the farm by converting to automated pie production — the stakes are literally life or death. The entire plot is a Great Escape-style breakout driven by external conflict, culminating in a direct physical confrontation where Mrs. Tweedy attacks the escaping chickens with an axe and is ultimately defeated when flung into her own pie machine. Scored at 0.85 because the villain is central, menacing, and defeated through confrontation, with only minimal internal conflict (Ginger\'s brief crisis of confidence).',
   },
+  {
+    title: 'Dinosaur',
+    releaseYear: 2000,
+    decade: '2000s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.65,
+    reasoning: 'Kron is a real antagonist — a brutal herd leader who enforces survival of the fittest, abandoning the weak to die, and the Carnotaurs are genuine predatory threats with life-or-death stakes. The climax features direct physical confrontation: Aladar fights Kron, and the herd unites to push the Carnotaurus off a cliff. However, the film\'s core theme is empathy vs. ruthlessness — Aladar\'s arc is about convincing others to care for the vulnerable rather than simply defeating evil. Scored at 0.65 because real villains and physical confrontation are present, but the dominant resolution is compassion and community triumphing over brutal individualism.',
+  },
 ]

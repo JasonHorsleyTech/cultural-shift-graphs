@@ -1755,4 +1755,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.50,
     reasoning: 'Dr. Erwin Armstrong is a genuine villain with a real scheme — he plans to use a mind-control app to turn all parents into babies so children can take over. He is defeated through direct confrontation when Tim and Ted foil his plan. However, the film\'s emotional core is entirely internal: Tim and Ted\'s strained adult sibling relationship, Tim\'s fear of losing his daughter Tabitha as she grows up, and the brothers learning to appreciate each other again. Scored mid-range because while a real antagonist with real stakes drives the plot and is defeated through confrontation, the narrative weight and resolution center on family reconciliation and emotional growth.',
   },
+  {
+    title: 'DC League of Super-Pets',
+    releaseYear: 2022,
+    decade: '2020s',
+    studio: 'Warner Bros. Animation',
+    conflictScore: 0.60,
+    reasoning: 'Lulu the guinea pig is a genuine villain — a power-hungry former pet of Lex Luthor who gains orange kryptonite powers and captures the entire Justice League to prove her worth. She is defeated through direct physical confrontation by Krypto and the super-pets. However, the film\'s emotional throughline is Krypto\'s possessiveness over Superman and his inability to trust others, resolved through learning friendship and teamwork with Ace and the shelter pets. Scored slightly above mid-range because the villain is real and defeated through confrontation, but the narrative emphasizes Krypto\'s personal growth and learning to open his heart over the external threat.',
+  },
 ]

@@ -643,4 +643,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.75,
     reasoning: 'Commander Rourke is a genuine villain — a mercenary who betrays the expedition team and plans to steal the Heart of Atlantis for profit, which would destroy the Atlantean civilization and kill Kida. The climax features direct physical confrontation: Milo rallies Atlantean warriors and the loyal crew against Rourke\'s mercenaries in an aerial battle, and Rourke is crystallized and shattered. Scored at 0.75 because the villain is real with life-or-death stakes and defeat comes through confrontation, but Milo\'s arc is fundamentally about cultural understanding and scholarly curiosity, and the ultimate resolution relies on the spiritual power of the Heart of Atlantis as much as on combat.',
   },
+  {
+    title: 'Jimmy Neutron: Boy Genius',
+    releaseYear: 2001,
+    decade: '2000s',
+    studio: 'Nickelodeon Movies / DNA Productions',
+    conflictScore: 0.70,
+    reasoning: 'King Goobot and the Yolkians are real villains who abduct every parent in Retroville to sacrifice them to Poultra, a monstrous chicken god — the stakes are genuinely life-or-death. The climax is a direct confrontation: Jimmy and friends fly to the Yolkian planet, battle Poultra, and outsmart Goobot to rescue the parents. Scored at 0.70 because the villain and confrontation are real, but the emotional core is Jimmy\'s internal arc — he wished his parents would disappear and must learn to appreciate them — and the comedic, bumbling tone of the villains softens the menace considerably.',
+  },
 ]

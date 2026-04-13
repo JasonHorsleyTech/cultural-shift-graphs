@@ -1875,4 +1875,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.55,
     reasoning: 'Velvet and Veneer are genuine villains — talentless pop-star siblings who kidnap Floyd and other BroZone members to literally siphon their musical talent, nearly killing Floyd in the process. They are defeated through a concert showdown where the reunited BroZone brothers overpower them and expose their fraud. However, the emotional core is Branch\'s journey to reconcile with his estranged brothers after years of abandonment and guilt over their childhood breakup. Scored mid-range because real villains with real stakes are defeated through confrontation, but the narrative weight falls on family reunion, forgiveness, and overcoming emotional wounds.',
   },
+  {
+    title: 'Wish',
+    releaseYear: 2023,
+    decade: '2020s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.70,
+    reasoning: 'King Magnifico is a genuine villain — he hoards his subjects\' wishes under the guise of protection, then turns to dark magic and becomes an increasingly tyrannical sorcerer when teenager Asha questions his authority. He is defeated through direct confrontation: Asha and the citizens of Rosas unite their collective wish-power to overwhelm and trap him inside his own magic staff. Scored at 0.70 because while the villain is real with genuine stakes and is defeated through confrontation, the thematic core emphasizes collective empowerment and the idea that people should fight for their own dreams rather than surrender them to authority — blending classic villain-defeat with a modern self-determination message.',
+  },
 ]

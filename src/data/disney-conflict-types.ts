@@ -571,4 +571,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.25,
     reasoning: 'There is no real villain — the core conflict is Tommy\'s jealousy and frustration with his demanding new baby brother Dil. External threats (escaped circus monkeys, a wolf pack) serve as environmental hazards rather than motivated antagonists. The emotional climax comes when Tommy nearly abandons Dil to the monkeys but instead chooses to protect him, resolving the conflict entirely through empathy, self-sacrifice, and accepting his role as a big brother. Scored at 0.25 because the film is fundamentally about sibling rivalry resolved through love and personal growth, with only incidental external danger.',
   },
+  {
+    title: 'Fantasia 2000',
+    releaseYear: 1999,
+    decade: '1990s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.20,
+    reasoning: 'An anthology of eight animated segments set to classical music, most with no villain at all. Only the Steadfast Tin Soldier segment has a clear antagonist (a jack-in-the-box rival), while the Firebird Suite features a destructive natural force rather than a motivated villain. The Sorcerer\'s Apprentice (returning from the original) centers on Mickey\'s own hubris causing chaos. The film is overwhelmingly about artistic wonder, beauty, and renewal rather than conflict — scored at 0.20 because villain-driven confrontation is marginal across the anthology.',
+  },
 ]

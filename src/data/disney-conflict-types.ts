@@ -563,4 +563,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.65,
     reasoning: 'Rameses II is the primary antagonist — a Pharaoh who enslaves the Hebrews, orders infanticide, and refuses to free Moses\' people despite devastating plagues. The stakes are genuinely life-and-death (slavery, plague, death of firstborns, the Red Sea pursuit). However, Rameses is portrayed sympathetically as Moses\' adopted brother, torn between his duty as Pharaoh and his love for Moses, making him a tragic figure rather than pure evil. Resolution comes through divine intervention (the plagues and parting of the Red Sea) rather than hero-defeats-villain combat, and Moses\' internal journey — his identity crisis as a Hebrew raised Egyptian and his reluctant acceptance of his prophetic role — is central to the film. Scored at 0.65 because the external conflict is real and severe, but the sympathetic antagonist, divine rather than heroic resolution, and prominent internal-identity arc pull the score well below a straightforward villain-defeat narrative.',
   },
+  {
+    title: 'The Rugrats Movie',
+    releaseYear: 1998,
+    decade: '1990s',
+    studio: 'Nickelodeon Movies',
+    conflictScore: 0.25,
+    reasoning: 'There is no real villain — the core conflict is Tommy\'s jealousy and frustration with his demanding new baby brother Dil. External threats (escaped circus monkeys, a wolf pack) serve as environmental hazards rather than motivated antagonists. The emotional climax comes when Tommy nearly abandons Dil to the monkeys but instead chooses to protect him, resolving the conflict entirely through empathy, self-sacrifice, and accepting his role as a big brother. Scored at 0.25 because the film is fundamentally about sibling rivalry resolved through love and personal growth, with only incidental external danger.',
+  },
 ]

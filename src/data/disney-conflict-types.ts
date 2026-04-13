@@ -1787,4 +1787,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.70,
     reasoning: 'The Vicious 6 are genuine supervillains — led by Belle Bottom, they actively hunt and try to kill 11-year-old Gru after he steals the Zodiac Stone. The climax is a direct physical battle where the Minions gain kung-fu powers and defeat the villains through confrontation. There is a secondary emotional thread about Gru\'s desire for belonging and his bond with Wild Knuckles as a mentor/father figure, but the narrative is overwhelmingly action-driven. Scored at 0.70 because the villains are real and defeated through confrontation, but the comedic slapstick tone reduces the weight of the stakes.',
   },
+  {
+    title: 'Puss in Boots: The Last Wish',
+    releaseYear: 2022,
+    decade: '2020s',
+    studio: 'DreamWorks Animation',
+    conflictScore: 0.60,
+    reasoning: 'Death (the Wolf) is a genuinely terrifying villain — literally the embodiment of death hunting Puss for squandering his nine lives — and "Big" Jack Horner is an unambiguously evil antagonist destroyed by the Wishing Star\'s magic. The climax features a direct sword fight between Puss and Death. However, Death is not defeated through force — he withdraws because Puss demonstrates he will fight for his last life with genuine conviction rather than reckless bravado. Scored mid-range because real villains with life-and-death stakes drive the plot and physical confrontation occurs, but the thematic resolution centers on Puss\'s internal growth: accepting mortality, overcoming fear, and learning to value his one remaining life.',
+  },
 ]

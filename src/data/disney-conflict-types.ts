@@ -1867,4 +1867,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.80,
     reasoning: 'Bowser is an unambiguous villain — a fire-breathing tyrant who conquers the Penguin Kingdom, captures Luigi, and threatens to destroy the Mushroom Kingdom unless Princess Peach marries him. The conflict is entirely external and resolved through direct physical confrontation: Mario uses a Super Star to battle Bowser and ultimately defeats him with a Mini Mushroom. Scored at 0.80 because while the villain is real with genuine life-and-death stakes and is defeated through force, the film\'s comedic tone and a minor emotional thread about Mario proving himself and his bond with Luigi slightly temper the dramatic weight.',
   },
+  {
+    title: 'Trolls Band Together',
+    releaseYear: 2023,
+    decade: '2020s',
+    studio: 'DreamWorks Animation',
+    conflictScore: 0.55,
+    reasoning: 'Velvet and Veneer are genuine villains — talentless pop-star siblings who kidnap Floyd and other BroZone members to literally siphon their musical talent, nearly killing Floyd in the process. They are defeated through a concert showdown where the reunited BroZone brothers overpower them and expose their fraud. However, the emotional core is Branch\'s journey to reconcile with his estranged brothers after years of abandonment and guilt over their childhood breakup. Scored mid-range because real villains with real stakes are defeated through confrontation, but the narrative weight falls on family reunion, forgiveness, and overcoming emotional wounds.',
+  },
 ]

@@ -755,4 +755,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.40,
     reasoning: 'Don Lino is a shark mob boss who runs an organized crime family and poses a genuine physical threat — he orders hits, intimidates the reef, and pursues Oscar with lethal intent when he believes Oscar killed his son Frankie. However, Frankie\'s death was an accident (killed by a falling anchor), and Oscar\'s entire hero status is a lie he fabricated for fame. The real conflict is internal: Oscar\'s obsession with status and his web of deception, plus Lenny\'s struggle to be accepted as a vegetarian shark by his mafia father. Resolution comes through confession and acceptance — Oscar publicly admits his lies, Lenny comes out to Don Lino, and the mob boss ultimately accepts his son for who he is. Scored at 0.40 because while the shark mafia provides genuine external menace, the resolution is entirely about honesty, self-acceptance, and a father embracing his son rather than defeating a villain.',
   },
+  {
+    title: 'Shrek 2',
+    releaseYear: 2004,
+    decade: '2000s',
+    studio: 'DreamWorks Animation',
+    conflictScore: 0.55,
+    reasoning: 'The Fairy Godmother is a genuine villain — she manipulates King Harold through blackmail, conspires to replace Shrek with Prince Charming, and attempts to use a love potion to force Fiona into a false marriage. She is ultimately destroyed when King Harold reflects her magic bolt back at her, a direct confrontation. However, much of the film\'s conflict is internal: Shrek\'s deep insecurity about being good enough for Fiona, and King Harold\'s struggle between his deal with the Fairy Godmother and his love for his daughter. The emotional resolution comes through acceptance — Fiona chooses ogre Shrek, and Harold learns to accept him. Scored at 0.55 because the villain is real and defeated by force, but approximately half the film\'s conflict is rooted in self-doubt, family tension, and misunderstanding resolved through love and acceptance rather than confrontation.',
+  },
 ]

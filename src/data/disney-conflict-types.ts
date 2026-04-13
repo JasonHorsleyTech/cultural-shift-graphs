@@ -1259,4 +1259,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.25,
     reasoning: 'Ms. Grunion is a misguided child services agent, not a true villain — her opposition stems from conventional thinking that a dog cannot be a good parent, not from malice. The time-travel complications arise from Sherman\'s mistakes, not villainy. The resolution comes through the community recognizing Peabody\'s genuine love for Sherman and accepting their unconventional family. Scored at 0.25 because the central conflict is fundamentally a misunderstanding about parenthood resolved through empathy and acceptance rather than confrontation.',
   },
+  {
+    title: 'Penguins of Madagascar',
+    releaseYear: 2014,
+    decade: '2010s',
+    studio: 'DreamWorks Animation',
+    conflictScore: 0.55,
+    reasoning: 'Dave (Dr. Octavius Brine) is a real villain with a concrete evil plan — an octopus who builds a Medusa Serum to transform all penguins into hideous monsters out of jealousy that penguins always stole the spotlight from him at every zoo. The conflict is external and resolved through direct confrontation: the penguins and North Wind battle Dave\'s forces, and Private sacrifices himself to reverse the serum. Scored at 0.55 because while there is a genuine villain defeated through action, Dave\'s motivation is sympathetic (feeling overlooked and unloved), the tone is broadly comedic rather than dramatic, and Private\'s arc centers on proving his worth through self-sacrifice rather than pure force.',
+  },
 ]

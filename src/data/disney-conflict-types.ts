@@ -1219,4 +1219,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.15,
     reasoning: 'There is no villain — Dean Hardscrabble is a strict but fair authority figure, not an antagonist. The core conflict is entirely internal: Mike must accept that he is not naturally scary despite his passion, and Sulley must overcome arrogance and learn humility. The climax resolves through self-acceptance and honesty (Mike acknowledging his limitations, Sulley confessing he cheated), not through defeating any enemy. Scored at 0.15 because the film is fundamentally about personal growth, finding your true strengths, and the power of teamwork, with zero villain-driven conflict.',
   },
+  {
+    title: 'The Croods',
+    releaseYear: 2013,
+    decade: '2010s',
+    studio: 'DreamWorks Animation',
+    conflictScore: 0.20,
+    reasoning: 'There is no villain — the external threat is an impersonal geological cataclysm (the continental shift destroying their world), not a malicious antagonist. The real conflict is internal: patriarch Grug\'s paralyzing fear of change and the unknown clashes with his daughter Eep\'s desire for exploration and Guy\'s progressive thinking. The climax resolves through Grug\'s personal growth — he overcomes his fear, embraces new ideas, and selflessly sacrifices to save his family, then survives through ingenuity. Scored at 0.20 because the story is fundamentally about a family learning to move past fear and embrace change, with no villain to defeat and resolution driven entirely by empathy, trust, and personal transformation.',
+  },
 ]

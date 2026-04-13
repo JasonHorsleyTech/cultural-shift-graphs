@@ -1099,4 +1099,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.60,
     reasoning: 'Nigel is a genuine villain — a deranged cockatoo who works with a bird-smuggling ring led by Marcel, capturing rare macaws for the black market. The stakes are real: Blu and Jewel are kidnapped, chained together, and face being sold. The climax involves direct confrontation — Blu and his friends battle Nigel on a smuggler\'s plane, and Nigel is defeated when sucked into a propeller. However, the film\'s emotional core is Blu\'s internal journey: a domesticated macaw from Minnesota who can\'t fly, fears the wild, and must overcome that fear to save Jewel. The defining moment is Blu learning to fly mid-freefall — an act of love and self-discovery, not combat. Scored at 0.60 because while the villain is unambiguous and defeated physically, the film gives equal or greater weight to Blu\'s personal growth (overcoming domestication and fear) and the romance with Jewel as the true resolution.',
   },
+  {
+    title: 'Winnie the Pooh',
+    releaseYear: 2011,
+    decade: '2010s',
+    studio: 'Walt Disney Animation Studios',
+    conflictScore: 0.10,
+    reasoning: 'There is no villain whatsoever. The central conflict is a pure misunderstanding — the gang misreads Christopher Robin\'s note ("Gone out, busy, back soon") as a warning about a fearsome creature called the "Backson" who has supposedly kidnapped him. The Backson does not exist; it is entirely imagined. The secondary plot — finding a replacement for Eeyore\'s lost tail — is a gentle communal quest with no antagonist. Resolution comes from simply realizing the mistake. Scored at 0.10 because this is a near-perfect example of conflict-as-misunderstanding resolved through friendship and gentle humor, with zero confrontation or external threat.',
+  },
 ]

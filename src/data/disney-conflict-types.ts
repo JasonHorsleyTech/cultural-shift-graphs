@@ -595,4 +595,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.50,
     reasoning: 'Kent Mansley is a real antagonist — a paranoid government agent who lies, manipulates, and ultimately calls a nuclear strike on his own town to destroy the Giant. The military threat creates genuine life-or-death stakes. However, the film\'s emotional core is the Giant\'s internal identity arc: designed as a weapon, it chooses instead to be a hero ("I am not a gun"), inspired by Superman. Resolution comes through the Giant\'s self-sacrifice — flying into the nuclear missile to save the town — rather than defeating the villain through confrontation. Mansley is undone by his own cowardice, not by the heroes. Scored at 0.50 because the real antagonist and extreme external stakes are balanced equally by the dominant themes of identity, choice, empathy, and sacrifice over violence.',
   },
+  {
+    title: 'Toy Story 2',
+    releaseYear: 1999,
+    decade: '1990s',
+    studio: 'Pixar',
+    conflictScore: 0.55,
+    reasoning: 'Al McWhiggin is a greedy toy collector who steals Woody, but the true antagonist is Stinky Pete the Prospector, who manipulates and physically prevents Woody from leaving to preserve his own chance at the museum. The climax features a direct physical rescue and confrontation at the airport where Pete is defeated. However, the film\'s emotional core is Woody\'s internal dilemma — choosing the impermanent love of a child over immortality in a museum — resolved through self-understanding and acceptance of mortality. Scored at 0.55 because the real villain and action-driven rescue are balanced by the dominant internal theme of identity, impermanence, and choosing love over security.',
+  },
 ]

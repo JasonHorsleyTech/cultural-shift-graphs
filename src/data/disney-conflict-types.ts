@@ -827,4 +827,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.20,
     reasoning: 'There is no real villain — Chick Hicks is a dirty rival racer but functions as a minor antagonist, not the engine of the story. The central conflict is entirely internal: Lightning McQueen\'s arrogance and obsession with winning blind him to what matters. Stranded in Radiator Springs, he gradually bonds with the community (Sally, Mater, Doc Hudson) and undergoes a genuine change of heart. In the climactic race, McQueen stops short of the finish line to help the injured Strip Weathers finish his final race with dignity — choosing empathy and sportsmanship over personal glory. Scored at 0.20 because the conflict is overwhelmingly internal and relational, resolved through personal growth and compassion rather than defeating any antagonist.',
   },
+  {
+    title: 'Flushed Away',
+    releaseYear: 2006,
+    decade: '2000s',
+    studio: 'Aardman Animations',
+    conflictScore: 0.70,
+    reasoning: 'The Toad is an unambiguous villain with a genuine doomsday plan — he intends to open the floodgates during the World Cup halftime flush to drown all the rats in Ratropolis and reclaim the sewers for amphibians. He kidnaps Rita\'s family, deploys henchmen (Spike, Whitey, Le Frog), and the climax is a direct physical confrontation where Roddy and Rita must stop the floodgates and defeat the Toad. However, Roddy\'s personal arc is significant: he begins as a pampered, lonely pet mouse and must choose to return to the sewers and risk his life for others rather than escape to his comfortable Kensington home. Scored at 0.70 because the film has a real villain with lethal stakes resolved through confrontation, but the hero\'s internal growth from selfish loner to selfless partner provides a meaningful secondary layer.',
+  },
 ]

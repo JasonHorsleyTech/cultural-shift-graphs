@@ -1715,4 +1715,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.55,
     reasoning: 'Mayor Humdinger is a genuine villain — a vain, reckless mayor whose dangerous schemes (a malfunctioning cloud-catcher, a fireworks disaster) threaten Adventure City, and he is defeated and arrested rather than redeemed. However, the film\'s emotional core is Chase\'s internal arc: he was abandoned on Adventure City\'s streets as a puppy and must overcome fear, self-doubt, and trauma to save the day. Scored mid-range because the external villain provides real stakes resolved through confrontation, but the narrative weight falls on internal growth and self-belief.',
   },
+  {
+    title: 'Raya and the Last Dragon',
+    releaseYear: 2021,
+    decade: '2020s',
+    studio: 'Walt Disney Animation Studios',
+    conflictScore: 0.30,
+    reasoning: 'There is no true villain — Namaari is an antagonist driven by survival and loyalty to her tribe, not malice, and she is redeemed rather than defeated. The Druun is a mindless existential threat (a plague that turns people to stone) but has no agency or villainy. The entire film is explicitly about learning to trust again after betrayal: Raya\'s arc moves from suspicion to vulnerability, and the climax is resolved when she sacrifices herself as an act of faith in Namaari, inspiring the warring factions to reunite. Scored low because despite real physical stakes and action sequences, the resolution is purely through trust and empathy, not confrontation.',
+  },
 ]

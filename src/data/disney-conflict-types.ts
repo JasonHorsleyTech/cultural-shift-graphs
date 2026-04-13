@@ -1243,4 +1243,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.55,
     reasoning: 'Professor Callaghan (Yokai) is a genuine villain — he fakes his death, steals Hiro\'s microbots, and endangers lives in a revenge plot against Alistair Krei. The climax involves direct physical confrontation as the superhero team battles Yokai. However, the film\'s emotional core is Hiro\'s grief over losing his brother Tadashi and his journey from vengeful rage to compassion, guided by Baymax\'s care-driven programming. The pivotal moment is Hiro choosing not to kill Callaghan and Baymax sacrificing himself to rescue Callaghan\'s daughter from the portal. Scored at 0.55 because while a real villain is defeated through confrontation, the film gives equal weight to processing grief, rejecting revenge, and the healing power of friendship — the emotional resolution is empathy-driven rather than violence-driven.',
   },
+  {
+    title: 'How to Train Your Dragon 2',
+    releaseYear: 2014,
+    decade: '2010s',
+    studio: 'DreamWorks Animation',
+    conflictScore: 0.75,
+    reasoning: 'Drago Bludvist is an unambiguous villain — a ruthless warlord who enslaves dragons through fear and brute force, kills Stoick the Vast by mind-controlling Toothless, and wages open war against Berk. The climax is a direct confrontation: Toothless breaks free of the Alpha\'s mind control through his bond with Hiccup, challenges Drago\'s Bewilderbeast, and defeats the villain\'s army. Scored at 0.75 because while the villain is real and defeated through confrontation with genuine death stakes, the film heavily invests in Hiccup\'s identity journey, the reunion with his mother Valka, and the dragon-rider loyalty bond — and the decisive moment is Toothless overcoming mind control through love and trust rather than pure force.',
+  },
 ]

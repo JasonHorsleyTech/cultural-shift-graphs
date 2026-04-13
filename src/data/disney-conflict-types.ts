@@ -1043,4 +1043,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.70,
     reasoning: 'Mother Gothel is an unambiguous villain — she kidnapped baby Rapunzel to exploit her magical hair\'s youth-restoring power, then imprisoned her for 18 years using psychological manipulation and gaslighting ("Mother Knows Best"). The stakes escalate to life-and-death when Gothel fatally stabs Eugene, and she is defeated through direct action: Eugene cuts Rapunzel\'s hair, destroying the magic Gothel depends on, causing her to age rapidly and fall to her death. However, the film places significant weight on Rapunzel\'s internal journey — overcoming years of conditioned fear and emotional abuse, gaining self-confidence, and discovering her true identity as the lost princess. Scored at 0.70 because a real villain with lethal stakes exists and is physically destroyed, but the film\'s emotional core is Rapunzel\'s psychological liberation and the love story with Eugene, giving substantial space to internal conflict alongside the external threat.',
   },
+  {
+    title: 'Toy Story 3',
+    releaseYear: 2010,
+    decade: '2010s',
+    studio: 'Pixar Animation Studios',
+    conflictScore: 0.55,
+    reasoning: 'Lotso is a genuine villain — a tyrannical teddy bear who runs Sunnyside Daycare like a prison, manipulating other toys through fear and deception. The stakes are life-and-death: Lotso deliberately betrays the toys at the dump incinerator, refusing to press the emergency stop and leaving them to die. However, the film\'s emotional core is overwhelmingly about growing up, abandonment, and letting go. Lotso himself is a dark mirror of what bitterness over being outgrown can produce. The resolution that defines the film is not defeating Lotso but Andy choosing to give his toys to Bonnie — an act of acceptance and emotional maturity. Scored at 0.55 because a real villain with lethal stakes exists and is punished, but the film\'s thesis is about the pain of being outgrown and finding new purpose, resolved through love and letting go rather than heroic confrontation.',
+  },
 ]

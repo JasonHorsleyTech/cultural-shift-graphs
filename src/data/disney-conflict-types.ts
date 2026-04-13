@@ -587,4 +587,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.75,
     reasoning: 'Clayton is a genuine villain — a greedy hunter who deceives the Porters and Tarzan to locate the gorillas, then reveals his true intent to capture them for profit. He kills Kerchak and the climax is a direct physical confrontation in the treetops ending in Clayton\'s death. However, Tarzan\'s internal identity conflict — torn between the human world and his gorilla family, seeking acceptance from Kerchak — is a major throughline that resolves through self-understanding and choosing where he belongs. Scored at 0.75 because the villain and physical confrontation are central, but the prominent identity/belonging arc tempers the score.',
   },
+  {
+    title: 'The Iron Giant',
+    releaseYear: 1999,
+    decade: '1990s',
+    studio: 'Warner Bros. Feature Animation',
+    conflictScore: 0.50,
+    reasoning: 'Kent Mansley is a real antagonist — a paranoid government agent who lies, manipulates, and ultimately calls a nuclear strike on his own town to destroy the Giant. The military threat creates genuine life-or-death stakes. However, the film\'s emotional core is the Giant\'s internal identity arc: designed as a weapon, it chooses instead to be a hero ("I am not a gun"), inspired by Superman. Resolution comes through the Giant\'s self-sacrifice — flying into the nuclear missile to save the town — rather than defeating the villain through confrontation. Mansley is undone by his own cowardice, not by the heroes. Scored at 0.50 because the real antagonist and extreme external stakes are balanced equally by the dominant themes of identity, choice, empathy, and sacrifice over violence.',
+  },
 ]

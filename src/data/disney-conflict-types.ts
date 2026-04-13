@@ -1115,4 +1115,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.25,
     reasoning: 'The central conflict is entirely relational — Princess Merida clashes with her mother Queen Elinor over an arranged marriage, and her reckless wish to a witch transforms Elinor into a bear. Mor\'du (a cursed prince turned monstrous bear) provides a secondary physical threat, but he serves mainly as a cautionary parallel, not as the driving antagonist. The resolution is explicitly about empathy and communication: Merida must "mend the bond torn by pride" — literally repairing a torn tapestry while reconciling with her mother — to break the curse. Scored at 0.25 because while real physical danger exists (Mor\'du, the threat of permanent transformation, a climactic bear fight), the film\'s thesis is that the true conflict is prideful miscommunication between mother and daughter, resolved through mutual understanding and emotional growth rather than defeating a villain.',
   },
+  {
+    title: 'Hotel Transylvania',
+    releaseYear: 2012,
+    decade: '2010s',
+    studio: 'Sony Pictures Animation',
+    conflictScore: 0.15,
+    reasoning: 'There is no real villain. The central conflict is Dracula\'s overprotective fear of humans — rooted in his wife\'s death at the hands of an angry mob — which leads him to isolate his daughter Mavis in a monsters-only hotel and try to drive away the human backpacker Jonathan. Quasimodo the chef provides minor comedic menace (wanting to cook Jonathan) but is played entirely for laughs. The resolution is Dracula realizing his prejudice is outdated, that humans have changed, and racing to reunite Mavis with Jonathan — an act of empathy and personal growth. Scored at 0.15 because the conflict is almost entirely a misunderstanding based on fear and prejudice, resolved through acceptance and love rather than any confrontation with evil.',
+  },
 ]

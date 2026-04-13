@@ -803,4 +803,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.30,
     reasoning: 'The fossa are genuine predators who terrorize the lemurs and pose a real physical threat, but they are minor antagonists — not the engine of the story. The central conflict is internal: Alex the lion discovers his predatory instincts emerging in the wild, turning him into a danger to his best friend Marty. The friends\' core disagreement (Marty\'s longing for freedom vs. Alex\'s attachment to zoo life) is relational, not villain-driven. Resolution comes through self-understanding and friendship — Alex overcomes his instincts because his bond with Marty matters more, and the group reconciles. The fossa are briefly scared off by Alex in the climax, but this is a footnote, not the emotional payoff. Scored at 0.30 because the film\'s conflict is overwhelmingly internal and relational, resolved through empathy and self-acceptance rather than defeating evil.',
   },
+  {
+    title: 'Robots',
+    releaseYear: 2005,
+    decade: '2000s',
+    studio: 'Blue Sky Studios',
+    conflictScore: 0.65,
+    reasoning: 'Ratchet is an unambiguous corporate villain who seizes control of Bigweld Industries and eliminates spare parts so older robots are forced into expensive upgrades or sent to his mother Madame Gasket\'s Chop Shop to be melted down — real life-and-death stakes. The climax is a large-scale physical battle at the Chop Shop where Ratchet and Gasket are defeated through direct confrontation. Scored at 0.65 rather than higher because the villain\'s motivation is systemic greed (planned obsolescence) rather than pure malice, and the film carries a strong "believe in yourself" and "see a need, fill a need" inspirational undercurrent alongside the external conflict.',
+  },
 ]

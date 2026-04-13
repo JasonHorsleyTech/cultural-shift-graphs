@@ -1627,4 +1627,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.20,
     reasoning: 'The apparent villain, Queen Watevra Wa\'Nabi, is explicitly not evil — her seemingly threatening invasion is a complete misunderstanding, as she genuinely wants harmony between the Lego and Duplo worlds. The real antagonist is Rex Dangervest, a bitter future version of Emmet himself, making the conflict fundamentally internal. Resolution comes through Emmet rejecting cynicism and choosing empathy, while the meta-narrative resolves with the real-world siblings learning to play together. Scored very low because the film is a deliberate thesis that perceived villainy is misunderstanding and that cooperation triumphs over combativeness.',
   },
+  {
+    title: 'The Secret Life of Pets 2',
+    releaseYear: 2019,
+    decade: '2010s',
+    studio: 'Illumination Entertainment',
+    conflictScore: 0.45,
+    reasoning: 'The film splits into three storylines: Snowball\'s plot features a genuine villain — Sergei, an abusive circus owner who mistreats a tiger cub and is defeated through a direct rescue-and-confrontation sequence on a train. However, the film\'s emotional core is Max\'s entirely internal arc: he develops crippling anxiety about protecting toddler Liam and learns confidence and letting go from Rooster on a farm, with no villain involved. Gidget\'s subplot is similarly villain-free comedy. Scored at 0.45 because while a real villain with real stakes exists in one thread, the primary character arc is about overcoming anxiety through mentorship and personal growth rather than defeating evil.',
+  },
 ]

@@ -1747,4 +1747,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.60,
     reasoning: 'Hendricks is a genuine villain — a horse wrangler who captures wild mustangs to sell them and is willing to endanger children to protect his operation. The climax involves a direct physical rescue: Lucky and her friends chase down the train carrying the captured horses and free them. However, the film\'s emotional core is Lucky\'s internal journey — overcoming her fear of riding (rooted in her mother\'s death), bonding with Spirit, and embracing her identity. Scored mid-range because real external stakes and a physical confrontation drive the plot, but the narrative weight falls on personal growth and the human-animal bond.',
   },
+  {
+    title: 'The Boss Baby: Family Business',
+    releaseYear: 2021,
+    decade: '2020s',
+    studio: 'DreamWorks Animation',
+    conflictScore: 0.50,
+    reasoning: 'Dr. Erwin Armstrong is a genuine villain with a real scheme — he plans to use a mind-control app to turn all parents into babies so children can take over. He is defeated through direct confrontation when Tim and Ted foil his plan. However, the film\'s emotional core is entirely internal: Tim and Ted\'s strained adult sibling relationship, Tim\'s fear of losing his daughter Tabitha as she grows up, and the brothers learning to appreciate each other again. Scored mid-range because while a real antagonist with real stakes drives the plot and is defeated through confrontation, the narrative weight and resolution center on family reconciliation and emotional growth.',
+  },
 ]

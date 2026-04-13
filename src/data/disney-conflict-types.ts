@@ -1387,4 +1387,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.25,
     reasoning: 'The primary threat is an asteroid accidentally launched by Scrat — an impersonal cosmic event, not a villain. The dromaeosaur family (Gavin, Gertie, and Roger) serve as minor antagonists who physically oppose the herd but ultimately reform and help save everyone through a change of heart. The deeper conflict is Manny learning to accept his daughter Peaches growing up and marrying Julian. Resolution combines teamwork against a natural disaster with emotional acceptance and family bonding. Scored at 0.25 because while physical antagonists exist, they reform through empathy, the central threat is non-villainous, and the emotional core resolves through acceptance and letting go.',
   },
+  {
+    title: 'Kubo and the Two Strings',
+    releaseYear: 2016,
+    decade: '2010s',
+    studio: 'Laika',
+    conflictScore: 0.60,
+    reasoning: 'The Moon King and the Sisters are genuine, menacing villains with lethal intent — the Moon King stole one of Kubo\'s eyes and wants the other, and the Sisters kill both Monkey and Beetle (Kubo\'s parents\' spirits). Stakes are life-and-death with real loss. However, the climactic resolution is not through defeating evil by force — Kubo plays his shamisen with three strings representing family bonds, transforming the Moon King into a memoryless mortal whom the villagers choose to treat with compassion. Scored at 0.60 because real villains and physical confrontation exist, but the ultimate resolution is through the power of memory, love, and communal empathy rather than violent defeat.',
+  },
 ]

@@ -1683,4 +1683,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.30,
     reasoning: 'Queen Barb is a real antagonist with a genuine plan — she seeks to destroy all music except rock by collecting the six magical strings and converting every troll into a rock zombie. The stakes are real (cultural annihilation). However, the resolution is firmly anti-confrontation: Poppy nearly repeats Barb\'s mistake by trying to unite the strings herself, then realizes that music comes from within and cannot be destroyed. Barb is redeemed rather than defeated, and the climax celebrates diversity and mutual acceptance over combat. Scored low because despite having a real villain with real stakes, the film\'s entire message is that forced conformity (from either side) is wrong and resolution comes through understanding, not confrontation.',
   },
+  {
+    title: 'Wolfwalkers',
+    releaseYear: 2020,
+    decade: '2020s',
+    studio: 'Cartoon Saloon',
+    conflictScore: 0.85,
+    reasoning: 'The Lord Protector (a Cromwell stand-in) is an unambiguous, authoritarian villain who orders the systematic extermination of wolves and destruction of the forest — the stakes are existential for the wolfwalkers. Conflict is entirely external and resolved through direct confrontation: Robyn and Mebh rally the wolf pack to fight back against the soldiers, and the protagonists escape by force rather than through dialogue or redemption. Scored high because this is a rare modern animated film with a genuinely threatening, unredeemed villain and a resolution grounded in resistance, not empathy or mutual understanding.',
+  },
 ]

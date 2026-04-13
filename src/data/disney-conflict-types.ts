@@ -1619,4 +1619,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.60,
     reasoning: 'Zeta is a genuine villain who launches ice balls from Eagle Island to destroy both Bird Island and Piggy Island, posing an existential threat resolved through a direct infiltration mission to destroy her superweapon. However, the film\'s central arc is about former enemies (birds and pigs) cooperating as allies, and Red learning he doesn\'t need to be the sole hero to be valued. Scored at 0.60 because while a real villain with lethal stakes is defeated through confrontation, the thematic emphasis on teamwork between former foes and Red\'s personal growth tempers the pure good-vs-evil framing.',
   },
+  {
+    title: 'The Lego Movie 2: The Second Part',
+    releaseYear: 2019,
+    decade: '2010s',
+    studio: 'Warner Animation Group',
+    conflictScore: 0.20,
+    reasoning: 'The apparent villain, Queen Watevra Wa\'Nabi, is explicitly not evil — her seemingly threatening invasion is a complete misunderstanding, as she genuinely wants harmony between the Lego and Duplo worlds. The real antagonist is Rex Dangervest, a bitter future version of Emmet himself, making the conflict fundamentally internal. Resolution comes through Emmet rejecting cynicism and choosing empathy, while the meta-narrative resolves with the real-world siblings learning to play together. Scored very low because the film is a deliberate thesis that perceived villainy is misunderstanding and that cooperation triumphs over combativeness.',
+  },
 ]

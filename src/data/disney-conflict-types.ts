@@ -1403,4 +1403,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.65,
     reasoning: 'Kai is a genuine supernatural villain who steals the chi of kung fu masters, collecting them as jade amulets, and poses a mortal threat to all of China. The conflict is external with life-and-death stakes, and Po ultimately defeats Kai through direct confrontation in the Spirit Realm. However, Po\'s power comes from self-discovery (mastering chi, embracing his panda identity) and communal support (the pandas channeling chi together). Scored at 0.65 because there is a clear villain defeated through confrontation, but the source of victory is inner peace and community rather than pure martial force.',
   },
+  {
+    title: 'Moana',
+    releaseYear: 2016,
+    decade: '2010s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.30,
+    reasoning: 'The apparent villain Te Kā is actually Te Fiti — a benevolent creator goddess corrupted after Maui stole her heart. Te Kā presents real physical danger with life-threatening lava attacks, but the "villainy" is a misunderstanding: she is wounded and lashing out, not evil. Maui\'s attempts to defeat Te Kā through physical confrontation all fail; resolution comes only when Moana walks toward Te Kā with compassion, recognizes her true identity, and restores the heart through empathy. Scored at 0.30 because while genuine physical stakes exist, the core conflict is a misunderstanding resolved entirely through empathy and emotional recognition rather than defeating a villain.',
+  },
 ]

@@ -1427,4 +1427,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.45,
     reasoning: 'Hunter is a genuine villain — Junior\'s boss who wants to destroy the unauthorized baby and suppress evidence to protect his package-delivery empire. He poses real physical threats and there is a climactic confrontation on the rooftop. However, Hunter is ultimately defeated not through combat but when all the storks collectively remember their original purpose and choose to deliver babies again. The resolution is driven by themes of found family, belonging, and communal rediscovery of purpose. Scored at 0.45 because a real villain with selfish motives exists, but the heart of the story and its resolution center on love, family bonds, and community rather than vanquishing evil.',
   },
+  {
+    title: 'The Angry Birds Movie',
+    releaseYear: 2016,
+    decade: '2010s',
+    studio: 'Rovio Animation',
+    conflictScore: 0.85,
+    reasoning: 'Leonard (King Mudbeard) and the pigs are unambiguous villains who arrive under false pretenses of friendship, deceive the entire bird community, and steal all their eggs to eat them. The conflict is entirely external with life-or-death stakes for the birds\' children. Resolution comes through a massive physical assault on the pigs\' city — the birds launch themselves via slingshot to destroy the fortress and rescue the eggs. The film even validates Red\'s anger as righteous, framing confrontation and justified aggression as heroic. Scored at 0.85 because this is a thoroughly traditional villain-confrontation story with real stakes resolved entirely through force, notable for a 2016 film.',
+  },
 ]

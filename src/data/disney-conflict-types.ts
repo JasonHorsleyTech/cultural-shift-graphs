@@ -1267,4 +1267,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.55,
     reasoning: 'Dave (Dr. Octavius Brine) is a real villain with a concrete evil plan — an octopus who builds a Medusa Serum to transform all penguins into hideous monsters out of jealousy that penguins always stole the spotlight from him at every zoo. The conflict is external and resolved through direct confrontation: the penguins and North Wind battle Dave\'s forces, and Private sacrifices himself to reverse the serum. Scored at 0.55 because while there is a genuine villain defeated through action, Dave\'s motivation is sympathetic (feeling overlooked and unloved), the tone is broadly comedic rather than dramatic, and Private\'s arc centers on proving his worth through self-sacrifice rather than pure force.',
   },
+  {
+    title: 'Rio 2',
+    releaseYear: 2014,
+    decade: '2010s',
+    studio: 'Blue Sky Studios',
+    conflictScore: 0.55,
+    reasoning: 'The film has genuine villains — Nigel the cockatoo returns seeking revenge on Blu, and Big Boss leads illegal loggers threatening the Amazon habitat. The climax involves direct confrontation: the macaws rally to drive away the loggers, and Nigel is defeated in a physical showdown. Scored at 0.55 because while real external villains exist and are defeated through action, much of the film centers on Blu\'s internal insecurity about fitting in with wild macaws, his strained relationship with Jewel\'s disapproving father Eduardo, and jealousy toward Roberto — conflicts resolved through personal growth and acceptance rather than confrontation.',
+  },
 ]

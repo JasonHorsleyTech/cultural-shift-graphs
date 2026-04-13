@@ -1291,4 +1291,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.45,
     reasoning: 'Xibalba is a genuine supernatural antagonist who cheats in a divine wager and kills Manolo with a snake bite, while Chakal is a straightforward bandit warlord who attacks the town. However, the film\'s key resolutions emphasize compassion over force: Manolo refuses to kill the giant bull and instead sings to it, winning through empathy rather than violence. Xibalba reforms and reconciles with La Muerte rather than being destroyed. Scored at 0.45 because while real antagonists with lethal stakes exist, the thematic resolution centers on being true to oneself, love, and self-sacrifice rather than defeating evil through confrontation.',
   },
+  {
+    title: 'The Boxtrolls',
+    releaseYear: 2014,
+    decade: '2010s',
+    studio: 'Laika',
+    conflictScore: 0.70,
+    reasoning: 'Archibald Snatcher is an unambiguous villain — a scheming social climber who systematically captures and exterminates Boxtrolls to earn elite status, and he is ultimately destroyed by his own greed. The climax involves direct confrontation as Eggs rallies the town and Boxtrolls to stop Snatcher\'s mech. However, a significant layer of conflict stems from the townspeople\'s misunderstanding of Boxtrolls as dangerous monsters, which is resolved through revelation and empathy rather than force. Scored at 0.70 because a real villain with lethal stakes is defeated through confrontation, but the broader human-Boxtroll conflict resolves through communication and changed perception.',
+  },
 ]

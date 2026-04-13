@@ -531,4 +531,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.80,
     reasoning: 'Hades is an unambiguously evil villain — a scheming god of the Underworld who plots to overthrow Zeus by releasing the Titans, sends monsters to kill Hercules, and manipulates Megara as a pawn. The conflict is primarily external with world-ending stakes (Titans attacking Olympus), and Hades is physically defeated when Hercules punches him into the River Styx where souls drag him down. However, the thematic resolution hinges on self-sacrifice rather than combat — Hercules proves himself a true hero by willingly diving into the Styx to rescue Meg\'s soul, not by overpowering the villain. Scored at 0.80 because a genuine villain with cosmic stakes is defeated through direct confrontation, but the film\'s emotional core is about discovering that true heroism is selflessness, not strength.',
   },
+  {
+    title: 'Antz',
+    releaseYear: 1998,
+    decade: '1990s',
+    studio: 'DreamWorks Animation',
+    conflictScore: 0.75,
+    reasoning: 'General Mandible is an unambiguously evil villain — a militaristic ant general who deliberately sends workers on a suicide mission against termites, then orchestrates flooding the colony to kill the queen and all workers so he can rebuild a "pure" society with only his loyal soldiers. The climax is a direct physical confrontation where Mandible falls to his death. Scored at 0.75 because the villain is genuinely genocidal and defeated through confrontation, but a significant portion of the film is devoted to Z\'s internal journey of self-discovery — finding individuality and self-worth in a conformist society — giving the film a strong thematic layer beyond simple villain-vs-hero conflict.',
+  },
 ]

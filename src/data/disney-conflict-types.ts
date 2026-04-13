@@ -1859,4 +1859,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.20,
     reasoning: 'There is no real villain — the grey heron is initially deceptive but becomes an ally, and the parakeet king is a minor situational obstacle rather than a thematic antagonist. The core conflict is entirely internal: Mahito is grieving his mother\'s death in a wartime fire, resenting his father\'s remarriage to her sister, and struggling to accept loss and change. Resolution comes through emotional growth — Mahito chooses to return to the imperfect real world rather than rule a crumbling fantasy realm, embracing grief and imperfection as part of life. Scored very low because conflict is driven by internal struggle and resolved through acceptance, not confrontation.',
   },
+  {
+    title: 'The Super Mario Bros. Movie',
+    releaseYear: 2023,
+    decade: '2020s',
+    studio: 'Illumination',
+    conflictScore: 0.80,
+    reasoning: 'Bowser is an unambiguous villain — a fire-breathing tyrant who conquers the Penguin Kingdom, captures Luigi, and threatens to destroy the Mushroom Kingdom unless Princess Peach marries him. The conflict is entirely external and resolved through direct physical confrontation: Mario uses a Super Star to battle Bowser and ultimately defeats him with a Mini Mushroom. Scored at 0.80 because while the villain is real with genuine life-and-death stakes and is defeated through force, the film\'s comedic tone and a minor emotional thread about Mario proving himself and his bond with Luigi slightly temper the dramatic weight.',
+  },
 ]

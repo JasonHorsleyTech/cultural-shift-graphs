@@ -1315,4 +1315,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.10,
     reasoning: 'There is no villain — the conflict is entirely internal. Anna is a lonely, depressed foster child struggling with abandonment and self-loathing. The mysterious Marnie turns out to be the ghost of Anna\'s deceased grandmother, and the resolution comes through Anna discovering her family history and understanding that she was always loved. Scored at 0.10 because the film has no external antagonist whatsoever; all conflict is emotional and resolved through self-discovery, empathy, and healing.',
   },
+  {
+    title: 'Home',
+    releaseYear: 2015,
+    decade: '2010s',
+    studio: 'DreamWorks Animation',
+    conflictScore: 0.15,
+    reasoning: 'The entire conflict is built on layered misunderstandings. The Boov invade Earth not out of malice but out of fearful self-preservation, relocating humans like furniture. The Gorg — set up as a terrifying galactic villain — is revealed to be a single parent trying to recover its stolen eggs (children) that Captain Smek unknowingly took. Resolution comes entirely through communication and empathy: Oh and Tip bridge the human-Boov divide, and returning the eggs ends the Gorg conflict. Scored at 0.15 because no character is truly villainous and every conflict resolves through understanding rather than confrontation.',
+  },
 ]

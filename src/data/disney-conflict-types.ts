@@ -1059,4 +1059,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.20,
     reasoning: 'There is no villain. The closest antagonist is Arthur\'s older brother Steve, who is hyper-competent but dismissive — he sees one missed child out of hundreds of millions as a statistical irrelevance, not a crisis. Grandsanta causes chaos but is lovable, not malicious. The entire conflict is a values disagreement within the Claus family about whether every single child matters. Arthur\'s quest to deliver one forgotten present is resolved through sheer determination, heart, and proving that individual kindness trumps systemic efficiency — leading the family to reconcile and choose Arthur as the next Santa. Scored at 0.20 because there is no evil to defeat, the conflict is fundamentally about empathy versus bureaucratic indifference, and it resolves through love and family reconciliation.',
   },
+  {
+    title: 'Cars 2',
+    releaseYear: 2011,
+    decade: '2010s',
+    studio: 'Pixar Animation Studios',
+    conflictScore: 0.70,
+    reasoning: 'Professor Zündapp and the Lemons — a criminal cabal of malfunctioning cars led secretly by Sir Miles Axlerod — are genuine villains with lethal intent, using a disguised electromagnetic weapon to blow up racers\' engines during the World Grand Prix to discredit alternative fuel and protect their oil profits. The stakes are real: cars are injured and killed, and a bomb is strapped to Mater in the climax. The villains are defeated through direct confrontation — Mater exposes Axlerod as the mastermind, and the conspirators are arrested. However, the emotional core is the friendship subplot: Lightning McQueen is embarrassed by Mater\'s antics and pushes him away, while Mater doubts his own worth. The true resolution is McQueen learning to accept Mater as he is and Mater realizing he doesn\'t need to change. Scored at 0.70 because the spy-thriller plot features unambiguous villains defeated through action, but the film gives substantial weight to the interpersonal misunderstanding and its resolution through acceptance and loyalty.',
+  },
 ]

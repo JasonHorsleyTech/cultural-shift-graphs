@@ -995,4 +995,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.55,
     reasoning: 'The film has real external threats — Vikings who physically attack and destroy the Abbey of Kells, and Crom Cruach, a dark pagan serpent deity whom Brendan must directly confront and overcome to obtain the crystal eye. However, the central conflict is between Brendan and his overprotective uncle Abbot Cellach, whose fear-driven authoritarianism is rooted in trauma rather than villainy. The thematic resolution emphasizes the enduring power of art and knowledge over violence — the completed Book of Kells outlasts the destruction — rather than the defeat of an antagonist. Scored at 0.55 because genuine threats and a direct monster confrontation pull the score above the midpoint, but the core conflict is relational and the resolution is about creation triumphing over destruction.',
   },
+  {
+    title: 'Up',
+    releaseYear: 2009,
+    decade: '2000s',
+    studio: 'Pixar',
+    conflictScore: 0.65,
+    reasoning: 'Charles Muntz is a genuine villain — a once-heroic explorer turned paranoid killer who has murdered previous visitors to protect "his" bird, sends attack dogs after Carl and Russell, kidnaps Kevin, and sets Carl\'s house on fire. The climax is a direct physical confrontation on Muntz\'s airship ending in Muntz\'s death. However, the film\'s emotional core is overwhelmingly internal: Carl\'s grief over Ellie\'s death, his struggle to let go of the past, and his growing surrogate-father bond with Russell (whose own father is absent). The most pivotal moment is Carl choosing people over possessions — dumping his furniture to save Kevin and Russell — which is an act of personal growth, not confrontation. Scored at 0.65 because a real villain with lethal stakes exists and is defeated through direct action, but the film\'s deepest conflicts are about grief, letting go, and found family, resolved through emotional transformation rather than heroic combat.',
+  },
 ]

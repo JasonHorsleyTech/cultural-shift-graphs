@@ -1819,4 +1819,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.15,
     reasoning: 'There is no villain — the central conflict is Meilin Lee\'s struggle between her mother Ming\'s rigid expectations and her own emerging teenage identity (friends, interests, independence). Ming transforms into a kaiju-sized red panda in the climax, but this is not villainy — it\'s a mother losing control of her own suppressed panda spirit due to unresolved generational trauma with her own mother. Resolution comes entirely through empathy: Mei enters the astral bamboo forest and comforts her mother\'s inner child, helping Ming reconcile decades of pain. Scored very low because every conflict layer — generational expectations, identity, even the physical spectacle — resolves through emotional understanding rather than confrontation.',
   },
+  {
+    title: 'Elemental',
+    releaseYear: 2023,
+    decade: '2020s',
+    studio: 'Pixar',
+    conflictScore: 0.15,
+    reasoning: 'There is no villain — the central conflicts are Ember\'s internal struggle between duty to her father\'s fire shop and her own passion for glassmaking, the seemingly impossible romance between fire (Ember) and water (Wade), and her father Bernie\'s prejudice against other elements. A water leak threatening Firetown serves as an environmental obstacle, not an antagonist. Resolution comes entirely through emotional growth: Ember finds her own voice, Bernie accepts his daughter\'s choices and her cross-element relationship, and Ember and Wade discover they can touch without destroying each other. Scored very low because every conflict — familial expectations, identity, societal prejudice, even the physical threat — resolves through empathy, acceptance, and communication rather than confrontation.',
+  },
 ]

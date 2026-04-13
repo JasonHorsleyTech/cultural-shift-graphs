@@ -1970,6 +1970,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'DreamWorks Animation',
     conflictScore: 0.35,
     reasoning: 'Burnish and Dr. Zara pursue the Yeti as external antagonists, but Burnish is redeemed through empathy when he recognizes Everest as a sentient being, and Dr. Zara is a secondary threat. The deeper conflict is Yi\'s internal journey — processing her father\'s death and reconnecting with her family. Resolution comes primarily through emotional growth, communication, and Burnish\'s change of heart rather than defeating a villain. Scored at 0.35 because real antagonists provide genuine pursuit and danger, but the core arc is about grief, family, and understanding.',
+    culturalReachPct: 30,
+    reachReasoning: '$60M domestic (~6.8M admissions) on a $75M budget — a modest theatrical performer that underperformed expectations. DreamWorks distributed through Universal. The film moved to Netflix in early 2020, gaining a second life as lockdown family viewing, but never became a cultural touchstone. No franchise, limited merchandise, and overshadowed by Frozen II in its release window. Scored at 30 — a film many families encountered on streaming but few would cite as a defining children\'s movie of this era.',
   },
   {
     title: 'Frozen II',
@@ -1978,6 +1980,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.20,
     reasoning: 'There is no living villain — the antagonist is the legacy of King Runeard\'s past betrayal (building a dam to weaken the Northuldra people out of fear and prejudice). Elsa\'s journey is an internal quest to discover her identity and the source of a mysterious voice calling her. Resolution comes through truth-seeking, understanding historical wrongs, and corrective justice (destroying the dam) rather than defeating an enemy. Scored at 0.20 because while there is real danger from angered elemental spirits, the core conflict is a mystery resolved through empathy, self-discovery, and making things right.',
+    culturalReachPct: 92,
+    reachReasoning: '$477M domestic (~54M admissions) — the highest-grossing animated film domestically ever at the time, surpassing The Lion King\'s 2019 remake. "Into the Unknown" was ubiquitous, and the Frozen franchise merchandise empire continued at full force. Released on Disney+ (which launched weeks before the film\'s theatrical debut), it became one of the platform\'s most-streamed titles. For kids in the 2019 cohort, Frozen II was inescapable — virtually every child who saw the original saw the sequel. Scored at 92 — just below the original Frozen (98) because while the box office was even larger, the cultural shock-and-awe factor of the original "Let It Go" moment was unrepeatable.',
   },
   {
     title: 'How to Train Your Dragon: The Hidden World',
@@ -1986,6 +1990,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'DreamWorks Animation',
     conflictScore: 0.55,
     reasoning: 'Grimmel the Grisly is an unambiguous villain — a calculating dragon hunter who uses traps, drugged dragons, and manipulation to target Toothless, and he is defeated in a climactic aerial confrontation (falling to his death). However, the film\'s emotional core is Hiccup\'s internal journey of learning to let go, culminating in selflessly releasing Toothless to the Hidden World. Scored at 0.55 because the real-villain/confrontation plotline is fully present but serves a deeper story about growth, love, and saying goodbye.',
+    culturalReachPct: 65,
+    reachReasoning: '$162M domestic (~18.4M admissions) — a solid franchise conclusion but down from HTTYD2\'s $177M and the original\'s $218M. The trilogy had a loyal fanbase and strong home video/streaming afterlife. However, it didn\'t achieve the pervasive cultural presence of Pixar or Disney tentpoles — it was a "most kids saw it" franchise rather than an "every kid saw it" phenomenon. Scored at 65 — a well-known franchise finale that reached a broad audience but wasn\'t inescapable.',
   },
   {
     title: 'Missing Link',
@@ -1994,6 +2000,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Laika',
     conflictScore: 0.55,
     reasoning: 'Lord Piggot-Dunceby is a genuine villain — a xenophobic elitist who hires mercenary Willard Stenk to kill Frost and Mr. Link, and he ultimately falls to his death in a climactic confrontation at Shangri-La. However, the emotional core is Mr. Link\'s search for belonging: the Yeti Elder rejects him as an outsider, and he ultimately finds family in his friends rather than his biological relatives. Scored at 0.55 because real villains with lethal intent are defeated through confrontation, but the deeper arc is about acceptance, chosen family, and overcoming loneliness.',
+    culturalReachPct: 10,
+    reachReasoning: '$26M domestic on a $100M budget — one of the most expensive animated flops in history. Laika\'s stop-motion style is critically admired but consistently niche in the US market (Coraline 45, ParaNorman 22, Boxtrolls 15, Kubo 15). Won the Golden Globe for Best Animated Feature but that didn\'t translate to audience awareness. Very few American children saw this film. Scored at 10 — consistent with Laika\'s pattern of critical acclaim and commercial invisibility.',
   },
   {
     title: 'Spies in Disguise',
@@ -2002,6 +2010,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Blue Sky Studios',
     conflictScore: 0.40,
     reasoning: 'Killian is a genuine villain — a cybernetically-enhanced arms dealer bent on revenge who poses a lethal threat throughout the film. However, the film\'s central thesis explicitly champions non-violence: Walter Beckett\'s "weird" non-lethal gadgets (glitter, inflatable hugs, kittens) are validated over Lance Sterling\'s traditional force-based spy methods. The climax resolves through Walter\'s empathy-driven approach rather than brute confrontation. Scored at 0.40 because while a real villain with real stakes exists, the film is a deliberate argument that understanding and non-violent problem-solving are superior to fighting.',
+    culturalReachPct: 30,
+    reachReasoning: '$66M domestic (~7.5M admissions) — Blue Sky Studios\' final original IP before the studio was shut down by Disney in 2021. Released Christmas 2019 but overshadowed by Frozen II and Star Wars: The Rise of Skywalker. Will Smith\'s voice cast provided some draw but it didn\'t break through. Modest home video/streaming afterlife on Disney+ (inherited via Fox acquisition). Scored at 30 — a film that reached a decent family audience during the holiday season but left minimal lasting cultural impression.',
   },
   {
     title: 'The Angry Birds Movie 2',
@@ -2010,6 +2020,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Sony Pictures Animation',
     conflictScore: 0.60,
     reasoning: 'Zeta is a genuine villain who launches ice balls from Eagle Island to destroy both Bird Island and Piggy Island, posing an existential threat resolved through a direct infiltration mission to destroy her superweapon. However, the film\'s central arc is about former enemies (birds and pigs) cooperating as allies, and Red learning he doesn\'t need to be the sole hero to be valued. Scored at 0.60 because while a real villain with lethal stakes is defeated through confrontation, the thematic emphasis on teamwork between former foes and Red\'s personal growth tempers the pure good-vs-evil framing.',
+    culturalReachPct: 25,
+    reachReasoning: '$42M domestic (~4.8M admissions) — a sharp 61% drop from the original\'s $108M, reflecting the rapid decline of the Angry Birds brand after the mobile game craze faded. The original film benefited from peak Angry Birds cultural saturation; by 2019, the IP had lost most of its urgency. Limited home video impact and no significant streaming afterlife. Scored at 25 — a sequel that arrived after its moment had passed, seen by far fewer children than the original.',
   },
   {
     title: 'The Lego Movie 2: The Second Part',
@@ -2018,6 +2030,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Warner Animation Group',
     conflictScore: 0.20,
     reasoning: 'The apparent villain, Queen Watevra Wa\'Nabi, is explicitly not evil — her seemingly threatening invasion is a complete misunderstanding, as she genuinely wants harmony between the Lego and Duplo worlds. The real antagonist is Rex Dangervest, a bitter future version of Emmet himself, making the conflict fundamentally internal. Resolution comes through Emmet rejecting cynicism and choosing empathy, while the meta-narrative resolves with the real-world siblings learning to play together. Scored very low because the film is a deliberate thesis that perceived villainy is misunderstanding and that cooperation triumphs over combativeness.',
+    culturalReachPct: 45,
+    reachReasoning: '$105M domestic (~11.9M admissions) — a steep 59% drop from the original\'s $258M, reflecting sequel fatigue and franchise oversaturation (Lego Batman, Lego Ninjago diluted the brand). Despite the decline, the Lego brand\'s inherent recognition kept it above niche status. The original Lego Movie (85) was a genuine cultural event; this sequel was merely "another Lego movie." Scored at 45 — still a recognizable release but it lost the cultural momentum of the original.',
   },
   {
     title: 'The Secret Life of Pets 2',
@@ -2026,6 +2040,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Illumination Entertainment',
     conflictScore: 0.45,
     reasoning: 'The film splits into three storylines: Snowball\'s plot features a genuine villain — Sergei, an abusive circus owner who mistreats a tiger cub and is defeated through a direct rescue-and-confrontation sequence on a train. However, the film\'s emotional core is Max\'s entirely internal arc: he develops crippling anxiety about protecting toddler Liam and learns confidence and letting go from Rooster on a farm, with no villain involved. Gidget\'s subplot is similarly villain-free comedy. Scored at 0.45 because while a real villain with real stakes exists in one thread, the primary character arc is about overcoming anxiety through mentorship and personal growth rather than defeating evil.',
+    culturalReachPct: 58,
+    reachReasoning: '$158M domestic (~18M admissions) — a significant 57% drop from the original\'s $368M, reflecting sequel fatigue and a crowded 2019 summer. Illumination\'s marketing machine kept it visible but the sequel didn\'t recapture the original\'s viral pet-humor appeal. Home video and streaming on Peacock provided a decent afterlife. Scored at 58 — a widely-seen family sequel that reached a broad audience but didn\'t achieve the cultural ubiquity of the original.',
   },
   {
     title: 'Toy Story 4',
@@ -2034,6 +2050,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Pixar Animation Studios',
     conflictScore: 0.15,
     reasoning: 'Gabby Gabby initially appears villainous — using ventriloquist dummy henchmen to pursue Woody for his voice box — but she is ultimately a lonely, sympathetic figure whose actions stem from a desperate desire to be loved by a child. The resolution is pure empathy: Woody voluntarily gives her his voice box, and she finds a loving owner. The film\'s true conflict is entirely internal — Woody\'s identity crisis as he struggles with no longer being needed by his child. Resolution comes through self-understanding and letting go, as Woody chooses a new life with Bo Peep. Scored very low because the apparent villain is helped rather than defeated, and the core arc is about personal growth and generosity.',
+    culturalReachPct: 85,
+    reachReasoning: '$434M domestic (~49M admissions) — Pixar\'s second-highest domestic gross ever at the time, behind only Incredibles 2. The Toy Story franchise is one of the most deeply embedded animated properties in American culture, spanning four generations of children. However, scored below Toy Story 3 (92) because it was widely perceived as an unnecessary epilogue — a beautiful film that many felt the franchise didn\'t need, reducing its cultural "event" status compared to the emotionally devastating trilogy conclusion.',
   },
   {
     title: 'Onward',
@@ -2042,6 +2060,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Pixar Animation Studios',
     conflictScore: 0.15,
     reasoning: 'There is no real villain — the climactic dragon is a mindless curse construct, not a conscious antagonist. The entire conflict is internal and emotional: Ian\'s grief over never knowing his deceased father, his insecurity, and his longing for a paternal bond. Resolution comes through self-understanding — Ian realizes Barley has been his father figure all along and selflessly gives up his chance to meet his dad so Barley can say goodbye. Scored very low because the film has no villainy to defeat; its core is about processing loss, gratitude, and brotherly love.',
+    culturalReachPct: 40,
+    reachReasoning: '$62M domestic (~7M admissions) — a Pixar film devastated by timing. Released March 6, 2020, just two weeks before COVID-19 shut down theaters worldwide. Disney moved it to Disney+ early (April 2020), where it became a popular lockdown title but never achieved the cultural event status a normal Pixar theatrical run would provide. A well-regarded film many families found on streaming but not a cultural moment. Scored at 40 — pandemic timing prevented it from reaching its natural Pixar audience ceiling.',
   },
   {
     title: 'Scoob!',
@@ -2050,6 +2070,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Warner Animation Group',
     conflictScore: 0.55,
     reasoning: 'Dick Dastardly is an unambiguous villain with a deliberate scheme — he kidnaps Scooby-Doo, deploys robot minions, and plans to open the gates of the Underworld to release Cerberus. The heroes defeat him through direct confrontation and teamwork (Blue Falcon and the Scooby gang physically stop his plan). However, Dastardly\'s motivation is ultimately sympathetic — he just wants to reunite with his trapped dog Muttley — and the film\'s emotional core is the Shaggy-Scooby friendship being tested and reaffirmed through loyalty rather than combat. Scored in the middle because a real villain with real stakes is confronted and defeated, but the heart of the story is about friendship and the antagonist is driven by love, not malice.',
+    culturalReachPct: 35,
+    reachReasoning: 'Bypassed theaters entirely due to COVID, premiering on PVOD at $19.99 in May 2020. The Scooby-Doo IP has massive legacy recognition across generations, but this specific film was seen as a mediocre nostalgia play that used the brand to launch a Hanna-Barbera cinematic universe nobody asked for. No theatrical box office to anchor awareness, mixed reviews, and no sequel greenlit. Scored at 35 — the Scooby-Doo name carried it to moderate family viewing on PVOD/streaming, but the film itself left no cultural imprint.',
   },
   {
     title: 'Soul',
@@ -2058,6 +2080,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Pixar Animation Studios',
     conflictScore: 0.10,
     reasoning: 'There is no villain — Terry, the cosmic accountant chasing Joe\'s soul, is a bureaucratic nuisance rather than a malicious antagonist. The entire conflict is internal and existential: Joe Gardner\'s single-minded obsession with his jazz dream blinds him to the everyday beauty of being alive, and 22\'s refusal to go to Earth stems from a deep fear of not being enough. Resolution comes through self-understanding and empathy — Joe realizes his "spark" was never about jazz but about appreciating life itself, and he helps 22 find her own reason to embrace living. Scored near the floor because the film is a meditation on purpose and meaning with zero villainy or confrontation.',
+    culturalReachPct: 72,
+    reachReasoning: 'Released directly on Disney+ on Christmas Day 2020 with no theatrical run in most markets due to COVID. Won the Oscar for Best Animated Feature and became one of Disney+\'s most-watched titles during the pandemic holiday season. Its philosophical themes about purpose and meaning resonated deeply with adults and older kids, generating widespread cultural conversation. However, its abstract concepts made it less of a universal young-children\'s film than a Frozen or Encanto. Scored at 72 — a culturally significant Pixar film whose streaming-first release and mature themes gave it wide but not universal reach among children.',
   },
   {
     title: 'The Croods: A New Age',
@@ -2066,6 +2090,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'DreamWorks Animation',
     conflictScore: 0.20,
     reasoning: 'There is no real villain — the Bettermans are antagonistic but driven by cultural snobbery and parental possessiveness, not malice. Phil Betterman schemes to separate the Croods from Guy, but his motivation is protecting his daughter and fearing the "primitive" family. The late-film punch-monkeys and giant spider-monkey are environmental threats, not conscious villains. Resolution comes through the two families learning mutual acceptance and working together, with parents on both sides learning to let go. Scored low because the core conflict is a cultural misunderstanding resolved through empathy and cooperation.',
+    culturalReachPct: 35,
+    reachReasoning: '$58M domestic during COVID-restricted theaters — actually impressive for the pandemic era when many theaters were still closed or at limited capacity. Moved to PVOD and later Peacock. The original Croods (52) was a moderate performer, and this sequel maintained that mid-tier profile. Not a cultural event but a solid family sequel that many encountered during the pandemic home-viewing boom. Scored at 35 — the pandemic context inflated home viewing but the franchise never achieved top-tier cultural penetration.',
   },
   {
     title: 'Trolls World Tour',
@@ -2074,6 +2100,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'DreamWorks Animation',
     conflictScore: 0.30,
     reasoning: 'Queen Barb is a real antagonist with a genuine plan — she seeks to destroy all music except rock by collecting the six magical strings and converting every troll into a rock zombie. The stakes are real (cultural annihilation). However, the resolution is firmly anti-confrontation: Poppy nearly repeats Barb\'s mistake by trying to unite the strings herself, then realizes that music comes from within and cannot be destroyed. Barb is redeemed rather than defeated, and the climax celebrates diversity and mutual acceptance over combat. Scored low because despite having a real villain with real stakes, the film\'s entire message is that forced conformity (from either side) is wrong and resolution comes through understanding, not confrontation.',
+    culturalReachPct: 60,
+    reachReasoning: 'Pioneered the premium PVOD model during COVID lockdown in April 2020, generating $100M+ in PVOD revenue (roughly equivalent to a $90-100M theatrical run in admissions). The Trolls brand\'s music-driven, colorful appeal was particularly well-suited for repeated home viewing by young children stuck indoors. The PVOD release was itself a major industry news story. Scored at 60 — less culturally dominant than the original Trolls (72) but the PVOD-first model made it extremely accessible to pandemic-era family audiences, and the Trolls brand maintained strong preschool/early-elementary recognition.',
   },
   {
     title: 'Wolfwalkers',
@@ -2082,6 +2110,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Cartoon Saloon',
     conflictScore: 0.85,
     reasoning: 'The Lord Protector (a Cromwell stand-in) is an unambiguous, authoritarian villain who orders the systematic extermination of wolves and destruction of the forest — the stakes are existential for the wolfwalkers. Conflict is entirely external and resolved through direct confrontation: Robyn and Mebh rally the wolf pack to fight back against the soldiers, and the protagonists escape by force rather than through dialogue or redemption. Scored high because this is a rare modern animated film with a genuinely threatening, unredeemed villain and a resolution grounded in resistance, not empathy or mutual understanding.',
+    culturalReachPct: 8,
+    reachReasoning: 'Released exclusively on Apple TV+ after a very limited theatrical run. Cartoon Saloon\'s pattern of critical acclaim with minimal mainstream US reach continues: Song of the Sea (5), Secret of Kells (5), Breadwinner (~5). Oscar-nominated for Best Animated Feature but Apple TV+\'s tiny 2020 subscriber base (~40M globally vs. Disney+\'s 95M) severely limited discovery. Gorgeous and beloved by animation fans, but virtually invisible to the average American child. Scored at 8 — slightly above Cartoon Saloon\'s historical floor due to Apple TV+\'s growing profile but still firmly niche.',
   },
   {
     title: 'Encanto',
@@ -2090,6 +2120,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Animation Studios',
     conflictScore: 0.10,
     reasoning: 'There is no villain — the central conflict stems from Abuela Alma\'s generational trauma and her rigid expectations, which pressure every family member to perform and suppress those who don\'t fit (Mirabel, Bruno). The miracle cracking is caused by the family\'s own dysfunction, not an external threat. Resolution comes entirely through empathy: Mirabel and Abuela share a vulnerable conversation at the river where Abuela acknowledges how her fear of loss made her hurt her family. Scored near the floor because this is one of the clearest examples of purely internal, empathy-resolved conflict in the modern Disney canon.',
+    culturalReachPct: 90,
+    reachReasoning: '$96M domestic theatrical was merely solid, but the Disney+ release in late December 2021 triggered a viral explosion. "We Don\'t Talk About Bruno" hit #1 on the Billboard Hot 100 — the first Disney animated song to reach #1 since "A Whole New World" (1993). The soundtrack spent 9 non-consecutive weeks at #1 on the Billboard 200. For families with young children in 2021–2022, Encanto was inescapable: the songs, the characters (especially Bruno and Luisa), and the memes saturated every platform. Scored at 90 — one of the biggest animated cultural events of the decade, with streaming-era virality compensating for modest theatrical numbers.',
   },
   {
     title: 'Luca',
@@ -2098,6 +2130,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Pixar Animation Studios',
     conflictScore: 0.20,
     reasoning: 'Ercole Visconti is a comedic bully who provides surface-level antagonism but poses no real threat — he is humiliated and defeated in a triathlon, not through dramatic confrontation. The true conflict is internal and societal: Luca and Alberto are sea monsters hiding their identity from the human town, fearing rejection and persecution. Resolution comes through vulnerability — when the boys are exposed, the community (led by Giulia and her father) chooses acceptance over fear. Scored low because the film is fundamentally about belonging, self-acceptance, and overcoming prejudice through empathy rather than defeating a villain.',
+    culturalReachPct: 55,
+    reachReasoning: 'Released directly on Disney+ with no theatrical run in most markets (June 2021). Well-received and became a popular streaming title during summer 2021, especially among families. However, it didn\'t achieve the viral cultural breakthrough of Encanto or the critical prestige conversation of Soul. A cozy, beloved Pixar film that many families watched but didn\'t become a cultural event — no breakout songs, no merchandise phenomenon, no meme moment. Scored at 55 — solid Disney+ reach but below what a theatrical Pixar release would typically achieve.',
   },
   {
     title: 'PAW Patrol: The Movie',
@@ -2106,6 +2140,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Spin Master Entertainment',
     conflictScore: 0.55,
     reasoning: 'Mayor Humdinger is a genuine villain — a vain, reckless mayor whose dangerous schemes (a malfunctioning cloud-catcher, a fireworks disaster) threaten Adventure City, and he is defeated and arrested rather than redeemed. However, the film\'s emotional core is Chase\'s internal arc: he was abandoned on Adventure City\'s streets as a puppy and must overcome fear, self-doubt, and trauma to save the day. Scored mid-range because the external villain provides real stakes resolved through confrontation, but the narrative weight falls on internal growth and self-belief.',
+    culturalReachPct: 55,
+    reachReasoning: '$40M domestic with simultaneous Paramount+ streaming — modest theatrical numbers but the PAW Patrol brand is one of the dominant preschool properties of the 2010s–2020s. The TV series (since 2013) has near-universal recognition among children under 7, with massive merchandise, YouTube content, and theme park presence. The movie itself wasn\'t a cultural event for older kids or adults, but for its core preschool demo, PAW Patrol is nearly inescapable. Scored at 55 — the IP\'s enormous preschool reach compensates for the film\'s modest theatrical/adult-awareness profile.',
   },
   {
     title: 'Raya and the Last Dragon',
@@ -2114,6 +2150,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Animation Studios',
     conflictScore: 0.30,
     reasoning: 'There is no true villain — Namaari is an antagonist driven by survival and loyalty to her tribe, not malice, and she is redeemed rather than defeated. The Druun is a mindless existential threat (a plague that turns people to stone) but has no agency or villainy. The entire film is explicitly about learning to trust again after betrayal: Raya\'s arc moves from suspicion to vulnerability, and the climax is resolved when she sacrifices herself as an act of faith in Namaari, inspiring the warring factions to reunite. Scored low because despite real physical stakes and action sequences, the resolution is purely through trust and empathy, not confrontation.',
+    culturalReachPct: 45,
+    reachReasoning: '$54M domestic (split with Disney+ Premier Access at $29.99) — a modest total reflecting the hybrid release model and ongoing pandemic. Critically well-received and Disney\'s first Southeast Asian-inspired film, but it didn\'t generate the cultural phenomenon Disney hoped for: no breakout songs, limited merchandise success, and overshadowed by Encanto later the same year. Awkwafina\'s voice performance as Sisu was memorable but didn\'t achieve the lasting cultural footprint of a Dory or Olaf. Scored at 45 — a well-known Disney release that many families saw but didn\'t embed itself in children\'s culture.',
   },
   {
     title: 'Ron\'s Gone Wrong',
@@ -2122,6 +2160,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Locksmith Animation',
     conflictScore: 0.35,
     reasoning: 'Andrew Morris is a genuine corporate villain driven by greed and data-mining children\'s personal information, and he actively tries to destroy Ron to protect the company\'s image. However, the film\'s true conflict is internal and social: Barney\'s loneliness and the emptiness of algorithmic friendship versus genuine human connection. Resolution comes through Ron\'s self-sacrifice (uploading his unique code to all B-bots) and Barney\'s growth in understanding what real friendship means — not through defeating the villain in confrontation. Scored low because despite a real antagonist with real stakes, the emotional core and resolution center on empathy, self-discovery, and authentic connection.',
+    culturalReachPct: 15,
+    reachReasoning: '$23M domestic (~2.6M admissions) — a commercial bomb from Locksmith Animation\'s debut feature. Well-reviewed but had no star power, no franchise attachment, and opened in a crowded October window between Venom 2 and Eternals. Moved to Disney+ (via the Fox acquisition) where it found a modest audience but never broke through. Very few American children saw this film in theaters or sought it out on streaming. Scored at 15 — a well-crafted film that was commercially invisible, consistent with the pattern of new animation studios struggling to break through without established IP.',
   },
   {
     title: 'Sing 2',
@@ -2130,6 +2170,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Illumination Entertainment',
     conflictScore: 0.55,
     reasoning: 'Jimmy Crystal is a genuine villain — a ruthless entertainment mogul who physically threatens Buster Moon and his troupe, and in the climax attempts to kill Buster by throwing him off a building. He is defeated and arrested rather than redeemed. However, the film\'s emotional core is internal: each character overcomes personal fears and limitations (Rosita conquers her stunt phobia, Clay Calloway works through grief over his late wife to perform again, Buster confronts his habit of deception). Scored mid-range because the external villain provides real life-and-death stakes resolved through confrontation, but the narrative weight falls on personal growth and self-belief.',
+    culturalReachPct: 65,
+    reachReasoning: '$162M domestic (~18.4M admissions) — a strong holiday 2021 performer that benefited from pandemic-era family audiences returning to theaters. The original Sing (72) was a bigger cultural moment; the sequel maintained solid viewership with its jukebox musical appeal and star-studded voice cast (Bono, Pharrell, Halsey). Strong streaming afterlife on Peacock. Scored at 65 — a widely-seen family sequel that reached a broad audience but didn\'t grow the franchise\'s cultural profile beyond the original.',
   },
   {
     title: 'Spirit Untamed',
@@ -2138,6 +2180,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'DreamWorks Animation',
     conflictScore: 0.60,
     reasoning: 'Hendricks is a genuine villain — a horse wrangler who captures wild mustangs to sell them and is willing to endanger children to protect his operation. The climax involves a direct physical rescue: Lucky and her friends chase down the train carrying the captured horses and free them. However, the film\'s emotional core is Lucky\'s internal journey — overcoming her fear of riding (rooted in her mother\'s death), bonding with Spirit, and embracing her identity. Scored mid-range because real external stakes and a physical confrontation drive the plot, but the narrative weight falls on personal growth and the human-animal bond.',
+    culturalReachPct: 15,
+    reachReasoning: '$22M domestic on a $30M budget — a commercial disappointment. The Spirit brand has moderate awareness from the 2002 original (Spirit: Stallion of the Cimarron scored 40) and Netflix\'s "Spirit Riding Free" series, but this theatrical reimagining failed to translate TV viewership into ticket sales. The Netflix series likely cannibalized the movie\'s audience — kids who wanted Spirit content already had it at home for free. Scored at 15 — a franchise extension that reached its niche horse-girl audience but was invisible to the broader family market.',
   },
   {
     title: 'The Boss Baby: Family Business',
@@ -2146,6 +2190,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'DreamWorks Animation',
     conflictScore: 0.50,
     reasoning: 'Dr. Erwin Armstrong is a genuine villain with a real scheme — he plans to use a mind-control app to turn all parents into babies so children can take over. He is defeated through direct confrontation when Tim and Ted foil his plan. However, the film\'s emotional core is entirely internal: Tim and Ted\'s strained adult sibling relationship, Tim\'s fear of losing his daughter Tabitha as she grows up, and the brothers learning to appreciate each other again. Scored mid-range because while a real antagonist with real stakes drives the plot and is defeated through confrontation, the narrative weight and resolution center on family reconciliation and emotional growth.',
+    culturalReachPct: 40,
+    reachReasoning: '$57M domestic with simultaneous Peacock streaming — a steep 67% drop from the original\'s $175M, reflecting sequel fatigue and the streaming split. The Boss Baby brand has moderate awareness from the original film and Netflix\'s "Boss Baby: Back in Business" series, but neither the film nor the series achieved top-tier cultural penetration. Decent streaming numbers on Peacock but didn\'t generate cultural conversation. Scored at 40 — a recognized franchise entry that reached families through multiple platforms but was far from inescapable.',
   },
   {
     title: 'DC League of Super-Pets',
@@ -2154,6 +2200,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Warner Bros. Animation',
     conflictScore: 0.60,
     reasoning: 'Lulu the guinea pig is a genuine villain — a power-hungry former pet of Lex Luthor who gains orange kryptonite powers and captures the entire Justice League to prove her worth. She is defeated through direct physical confrontation by Krypto and the super-pets. However, the film\'s emotional throughline is Krypto\'s possessiveness over Superman and his inability to trust others, resolved through learning friendship and teamwork with Ace and the shelter pets. Scored slightly above mid-range because the villain is real and defeated through confrontation, but the narrative emphasizes Krypto\'s personal growth and learning to open his heart over the external threat.',
+    culturalReachPct: 40,
+    reachReasoning: '$93M domestic (~10.5M admissions) — a decent performer boosted by the DC/Superman brand recognition and Dwayne Johnson\'s voice cast. However, it arrived during DC\'s brand confusion period (post-Snyder, pre-Gunn reboot) and didn\'t generate the cultural impact its IP pedigree suggested. Not a franchise launcher, limited merchandise success, and quickly forgotten in the animated landscape. Scored at 40 — a film that reached a broad family audience through DC name recognition but didn\'t embed itself in children\'s culture or achieve repeat-viewing status.',
   },
   {
     title: 'Hotel Transylvania: Transformania',

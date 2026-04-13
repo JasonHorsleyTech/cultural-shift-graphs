@@ -1299,4 +1299,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.70,
     reasoning: 'Archibald Snatcher is an unambiguous villain — a scheming social climber who systematically captures and exterminates Boxtrolls to earn elite status, and he is ultimately destroyed by his own greed. The climax involves direct confrontation as Eggs rallies the town and Boxtrolls to stop Snatcher\'s mech. However, a significant layer of conflict stems from the townspeople\'s misunderstanding of Boxtrolls as dangerous monsters, which is resolved through revelation and empathy rather than force. Scored at 0.70 because a real villain with lethal stakes is defeated through confrontation, but the broader human-Boxtroll conflict resolves through communication and changed perception.',
   },
+  {
+    title: 'The Lego Movie',
+    releaseYear: 2014,
+    decade: '2010s',
+    studio: 'Warner Animation Group',
+    conflictScore: 0.40,
+    reasoning: 'Lord Business is a genuine villain with real stakes — he commands an army, employs Bad Cop as enforcer, and plans to permanently freeze the entire Lego world with the Kragle. However, the resolution is almost entirely through empathy rather than confrontation: Emmet appeals to Business\'s humanity ("You don\'t have to be the bad guy"), and the live-action layer reveals the conflict mirrors a father-son relationship where the dad learns to let go of rigid control. Business is redeemed through understanding, not defeated through force. Scored at 0.40 because while a real antagonist with lethal stakes exists, the film\'s core message and resolution center on empathy, communication, and the idea that the "villain" simply needs to be understood.',
+  },
 ]

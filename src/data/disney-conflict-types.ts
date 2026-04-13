@@ -1483,4 +1483,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.40,
     reasoning: 'Ernesto de la Cruz is a genuine villain — he murdered Héctor by poisoning him to steal his songs and attempts to kill Miguel to protect his secret. However, the film\'s emotional core is a generational family misunderstanding: the Riveras banned music believing Héctor abandoned them, when he was actually murdered trying to come home. Resolution comes through empathy, memory, and love — Miguel helps Mama Coco remember her father, healing decades of family pain. Scored at 0.40 because while a real villain with lethal stakes exists, the deeper conflict is a family misunderstanding resolved through connection and remembrance, not by defeating the villain.',
   },
+  {
+    title: 'Despicable Me 3',
+    releaseYear: 2017,
+    decade: '2010s',
+    studio: 'Illumination Entertainment',
+    conflictScore: 0.70,
+    reasoning: 'Balthazar Bratt is a genuine supervillain — a former child star seeking revenge on Hollywood for cancelling his show, wielding 80s-themed weaponry and a giant robot with real destructive intent. The main conflict is resolved through direct physical confrontation as Gru defeats Bratt and saves Hollywood. Scored at 0.70 rather than higher because significant screen time is devoted to Gru\'s internal and family conflicts — his identity crisis after being fired, bonding with his twin brother Dru, and the Minions\' temporary departure — giving the film a substantial empathy-and-growth layer alongside its traditional villain plot.',
+  },
 ]

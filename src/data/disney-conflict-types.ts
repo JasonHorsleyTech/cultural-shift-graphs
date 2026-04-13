@@ -1643,4 +1643,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.15,
     reasoning: 'Gabby Gabby initially appears villainous — using ventriloquist dummy henchmen to pursue Woody for his voice box — but she is ultimately a lonely, sympathetic figure whose actions stem from a desperate desire to be loved by a child. The resolution is pure empathy: Woody voluntarily gives her his voice box, and she finds a loving owner. The film\'s true conflict is entirely internal — Woody\'s identity crisis as he struggles with no longer being needed by his child. Resolution comes through self-understanding and letting go, as Woody chooses a new life with Bo Peep. Scored very low because the apparent villain is helped rather than defeated, and the core arc is about personal growth and generosity.',
   },
+  {
+    title: 'Onward',
+    releaseYear: 2020,
+    decade: '2020s',
+    studio: 'Pixar Animation Studios',
+    conflictScore: 0.15,
+    reasoning: 'There is no real villain — the climactic dragon is a mindless curse construct, not a conscious antagonist. The entire conflict is internal and emotional: Ian\'s grief over never knowing his deceased father, his insecurity, and his longing for a paternal bond. Resolution comes through self-understanding — Ian realizes Barley has been his father figure all along and selflessly gives up his chance to meet his dad so Barley can say goodbye. Scored very low because the film has no villainy to defeat; its core is about processing loss, gratitude, and brotherly love.',
+  },
 ]

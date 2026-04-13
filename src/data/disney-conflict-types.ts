@@ -1603,4 +1603,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.55,
     reasoning: 'Lord Piggot-Dunceby is a genuine villain — a xenophobic elitist who hires mercenary Willard Stenk to kill Frost and Mr. Link, and he ultimately falls to his death in a climactic confrontation at Shangri-La. However, the emotional core is Mr. Link\'s search for belonging: the Yeti Elder rejects him as an outsider, and he ultimately finds family in his friends rather than his biological relatives. Scored at 0.55 because real villains with lethal intent are defeated through confrontation, but the deeper arc is about acceptance, chosen family, and overcoming loneliness.',
   },
+  {
+    title: 'Spies in Disguise',
+    releaseYear: 2019,
+    decade: '2010s',
+    studio: 'Blue Sky Studios',
+    conflictScore: 0.40,
+    reasoning: 'Killian is a genuine villain — a cybernetically-enhanced arms dealer bent on revenge who poses a lethal threat throughout the film. However, the film\'s central thesis explicitly champions non-violence: Walter Beckett\'s "weird" non-lethal gadgets (glitter, inflatable hugs, kittens) are validated over Lance Sterling\'s traditional force-based spy methods. The climax resolves through Walter\'s empathy-driven approach rather than brute confrontation. Scored at 0.40 because while a real villain with real stakes exists, the film is a deliberate argument that understanding and non-violent problem-solving are superior to fighting.',
+  },
 ]

@@ -1827,4 +1827,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.15,
     reasoning: 'There is no villain — the central conflicts are Ember\'s internal struggle between duty to her father\'s fire shop and her own passion for glassmaking, the seemingly impossible romance between fire (Ember) and water (Wade), and her father Bernie\'s prejudice against other elements. A water leak threatening Firetown serves as an environmental obstacle, not an antagonist. Resolution comes entirely through emotional growth: Ember finds her own voice, Bernie accepts his daughter\'s choices and her cross-element relationship, and Ember and Wade discover they can touch without destroying each other. Scored very low because every conflict — familial expectations, identity, societal prejudice, even the physical threat — resolves through empathy, acceptance, and communication rather than confrontation.',
   },
+  {
+    title: 'Migration',
+    releaseYear: 2023,
+    decade: '2020s',
+    studio: 'Illumination',
+    conflictScore: 0.35,
+    reasoning: 'Chef is a genuine physical threat — a restaurant cook who captures ducks to serve as food — and the family must physically escape his kitchen. However, the core conflict is internal: Mack is an overprotective father whose fear of the outside world keeps his family confined to their pond. The journey south forces him to confront his anxiety and learn to trust his children\'s resilience. Resolution blends a slapstick escape from the chef with Mack\'s emotional growth — he learns that sheltering his family from all risk is itself a form of harm. Scored below mid-range because while a real antagonist exists, he functions more as a situational obstacle than a thematic villain; the heart of the film is a father overcoming fear through family connection.',
+  },
 ]

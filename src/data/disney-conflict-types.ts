@@ -1475,4 +1475,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.20,
     reasoning: 'There is no real villain — Jackson Storm is simply a younger, faster competitor, not malicious, and Sterling is a corporate sponsor who wants to retire McQueen as a brand ambassador rather than an antagonist with evil intent. The core conflict is entirely internal: McQueen\'s struggle with aging, relevance, and identity. Resolution comes through mentorship and self-understanding when McQueen passes the torch to Cruz Ramirez, realizing his legacy is about lifting others up rather than winning himself. Scored low because the film is a quintessential "conflict resolved through growth and empathy" story with no villainy to defeat.',
   },
+  {
+    title: 'Coco',
+    releaseYear: 2017,
+    decade: '2010s',
+    studio: 'Pixar',
+    conflictScore: 0.40,
+    reasoning: 'Ernesto de la Cruz is a genuine villain — he murdered Héctor by poisoning him to steal his songs and attempts to kill Miguel to protect his secret. However, the film\'s emotional core is a generational family misunderstanding: the Riveras banned music believing Héctor abandoned them, when he was actually murdered trying to come home. Resolution comes through empathy, memory, and love — Miguel helps Mama Coco remember her father, healing decades of family pain. Scored at 0.40 because while a real villain with lethal stakes exists, the deeper conflict is a family misunderstanding resolved through connection and remembrance, not by defeating the villain.',
+  },
 ]

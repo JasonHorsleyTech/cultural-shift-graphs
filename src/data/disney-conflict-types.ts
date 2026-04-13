@@ -1147,4 +1147,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.15,
     reasoning: 'The film initially presents a traditional villain setup — a witch\'s curse raising zombies — then systematically deconstructs it. The "witch" is actually Agatha Prenderghast, a frightened little girl executed by Puritan judges for her ability to speak to the dead, and the zombies are those same judges risen as part of her vengeful curse. The modern townspeople form an angry mob that mirrors the original Puritan injustice. Norman resolves the conflict entirely through empathy: he talks to Agatha, validates her pain, and convinces her that responding to cruelty with more cruelty only perpetuates the cycle. Scored at 0.15 because the film\'s central thesis is an explicit critique of the "defeat the villain" mentality — the real enemy is fear and mob prejudice, and the resolution is compassion and understanding rather than confrontation.',
   },
+  {
+    title: 'Rise of the Guardians',
+    releaseYear: 2012,
+    decade: '2010s',
+    studio: 'DreamWorks Animation',
+    conflictScore: 0.60,
+    reasoning: 'Pitch Black (the Boogeyman) is a genuine villain who attacks the Tooth Palace, corrupts dreams into nightmares, and destroys the Sandman — real life-and-death stakes. The climax is a direct confrontation where the Guardians battle Pitch and his Nightmare army, and Pitch is ultimately dragged underground by his own fearlings. However, the resolution hinges equally on internal growth and belief: Jack Frost\'s central arc is an identity crisis — he must discover his forgotten origin (dying to save his sister) and his "center" (fun/joy) before he can fight effectively. The turning point is not combat but Jamie choosing to believe despite fear, which restores the Guardians\' power. Pitch himself is partly sympathetic — driven by loneliness and the desire to be believed in. Scored at 0.60 because while a real villain with lethal stakes is defeated through confrontation, the film gives equal weight to Jack\'s self-discovery and frames children\'s courage and belief — not violence — as the true force that conquers fear.',
+  },
 ]

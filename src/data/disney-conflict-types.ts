@@ -1579,4 +1579,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.35,
     reasoning: 'Burnish and Dr. Zara pursue the Yeti as external antagonists, but Burnish is redeemed through empathy when he recognizes Everest as a sentient being, and Dr. Zara is a secondary threat. The deeper conflict is Yi\'s internal journey — processing her father\'s death and reconnecting with her family. Resolution comes primarily through emotional growth, communication, and Burnish\'s change of heart rather than defeating a villain. Scored at 0.35 because real antagonists provide genuine pursuit and danger, but the core arc is about grief, family, and understanding.',
   },
+  {
+    title: 'Frozen II',
+    releaseYear: 2019,
+    decade: '2010s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.20,
+    reasoning: 'There is no living villain — the antagonist is the legacy of King Runeard\'s past betrayal (building a dam to weaken the Northuldra people out of fear and prejudice). Elsa\'s journey is an internal quest to discover her identity and the source of a mysterious voice calling her. Resolution comes through truth-seeking, understanding historical wrongs, and corrective justice (destroying the dam) rather than defeating an enemy. Scored at 0.20 because while there is real danger from angered elemental spirits, the core conflict is a mystery resolved through empathy, self-discovery, and making things right.',
+  },
 ]

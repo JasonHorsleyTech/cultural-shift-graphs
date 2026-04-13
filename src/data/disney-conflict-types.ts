@@ -1075,4 +1075,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.65,
     reasoning: 'Lord Shen is an unambiguously evil villain — a peacock who committed genocide against the pandas based on a prophecy, then built an arsenal of cannons to conquer all of China and destroy kung fu. The stakes are massive and the climax is a direct physical confrontation: Po deflects Shen\'s cannonballs and destroys his armada. However, the film\'s emotional core is overwhelmingly about trauma and healing — Po must process repressed memories of witnessing his mother\'s sacrifice during the panda massacre and achieve "inner peace." His ability to defeat Shen is explicitly enabled by this emotional healing, not combat skill alone. Shen is even offered redemption in the final moment but rejects it, dying under his own cannon. Scored at 0.65 because while the villain is genuinely menacing (genocide, conquest) and defeated through spectacular combat, the film\'s thesis is that confronting painful memories and finding inner peace is the true path to victory, placing enormous weight on internal growth as the key to resolving external conflict.',
   },
+  {
+    title: 'Puss in Boots',
+    releaseYear: 2011,
+    decade: '2010s',
+    studio: 'DreamWorks Animation',
+    conflictScore: 0.50,
+    reasoning: 'Jack and Jill are genuine outlaws with violent intent, and the Great Terror poses a massive physical threat to San Ricardo. However, the true antagonist is Humpty Alexander Dumpty — Puss\'s childhood best friend who orchestrated the entire heist as an elaborate revenge scheme after feeling abandoned and betrayed by Puss years earlier. The central conflict is rooted in a broken friendship and mutual guilt, not good versus evil. Humpty ultimately redeems himself by sacrificing his life to save the town, and Puss\'s arc is about learning to trust again and confronting his own past failures. Scored at 0.50 because while real villains and physical danger exist, the film\'s emotional core is a fractured friendship resolved through redemption, self-sacrifice, and forgiveness rather than defeating evil.',
+  },
 ]

@@ -1499,4 +1499,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.15,
     reasoning: 'There is no real villain — the matador El Primero wants to fight Ferdinand in the ring, but he is pursuing glory rather than acting out of malice. The entire conflict is a misunderstanding: Ferdinand is a gentle, flower-loving bull repeatedly mistaken for a fierce beast because of his enormous size. Resolution comes through peaceful self-expression and empathy — Ferdinand refuses to fight in the arena, winning over the crowd and proving his true nature. Scored very low because the film is a quintessential "imagined villain, conflict-as-misunderstanding" story resolved entirely through gentleness rather than confrontation.',
   },
+  {
+    title: 'The Boss Baby',
+    releaseYear: 2017,
+    decade: '2010s',
+    studio: 'DreamWorks Animation',
+    conflictScore: 0.35,
+    reasoning: 'Francis E. Francis is a genuine villain with a real scheme to eliminate babies by making puppies irresistibly cute, but the film\'s core conflict is a sibling rivalry misunderstanding — Tim believes Boss Baby is stealing his parents\' love, when Boss Baby is actually on a corporate mission. Resolution comes through empathy and brotherly love as Tim and Boss Baby learn to cooperate and become a real family. Scored at 0.35 because while a villain exists, the emotional heart is the misunderstanding between brothers resolved through connection, not confrontation.',
+  },
 ]

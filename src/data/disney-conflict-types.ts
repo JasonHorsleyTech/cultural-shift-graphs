@@ -1915,4 +1915,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.55,
     reasoning: 'The god Nalo is a genuine antagonistic force who cursed the island of Motufetu and raised a deadly storm barrier to isolate the peoples of the Pacific. Moana must physically confront the supernatural storm to break the curse, and the stakes are real — shipwrecks, mortal danger, and the separation of entire civilizations. However, Nalo functions more as an abstract elemental force than a traditional face-to-face villain, and the film\'s emotional core centers on Moana learning to trust her new crew and lead collaboratively rather than shouldering the burden alone. Scored mid-range because the external threat is genuine and resolved through direct confrontation, but the thematic weight tilts toward community, connection, and personal growth.',
   },
+  {
+    title: 'The Wild Robot',
+    releaseYear: 2024,
+    decade: '2020s',
+    studio: 'DreamWorks Animation',
+    conflictScore: 0.25,
+    reasoning: 'There is no traditional villain — Roz is a shipwrecked robot who accidentally orphans a gosling and must learn to become his mother. The central conflicts are entirely internal and relational: Roz\'s growth from programmed machine to loving parent, Brightbill\'s identity crisis as a goose raised by a robot, and the island animals\' initial distrust of Roz. The corporate robots (led by Vontra) sent to retrieve Roz provide a late-act external threat, but they are a system following directives rather than evil antagonists, and the climax is resolved through Roz\'s self-sacrifice and the island community rallying together out of love — not through defeating a villain. The film is fundamentally about found family, empathy, and belonging.',
+  },
 ]

@@ -771,4 +771,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.85,
     reasoning: 'Syndrome is one of Pixar\'s most unambiguously evil villains — a rejected fanboy turned supervillain who systematically murders heroes using his Omnidroid, lures the Parr family to his island to kill them, and launches a giant robot attack on a city to stage a fake rescue. The stakes are life-and-death throughout, and the climax is pure physical confrontation: the family fights the Omnidroid together, and Syndrome is killed by a jet turbine. Bob Parr\'s midlife crisis and the family\'s strained dynamics add internal texture, but these are secondary to the external villain-driven plot. Scored at 0.85 because the villain is genuinely murderous, the conflict is overwhelmingly external, and resolution comes through combat and teamwork rather than empathy or understanding.',
   },
+  {
+    title: 'The SpongeBob SquarePants Movie',
+    releaseYear: 2004,
+    decade: '2000s',
+    studio: 'Nickelodeon Movies',
+    conflictScore: 0.65,
+    reasoning: 'Plankton is a clear villain who executes an elaborate scheme — stealing King Neptune\'s crown to frame Mr. Krabs, enslaving Bikini Bottom with mind-control bucket helmets, and hiring a hitman (Dennis) to kill SpongeBob and Patrick. The stakes are real: Krabs faces execution, the city is enslaved, and the heroes face lethal threats throughout their journey to Shell City. Resolution is largely confrontational — SpongeBob uses the crown\'s power channeled through a rock guitar solo to break Plankton\'s mind control, and Plankton is arrested. However, the emotional core is SpongeBob\'s internal arc about being dismissed as "just a kid" and proving his worth through perseverance and self-belief, which tempers the pure villain-defeat resolution. Scored at 0.65 because the villain and external stakes are genuine, but the heart of the film is a coming-of-age journey resolved through self-confidence rather than pure confrontation.',
+  },
 ]

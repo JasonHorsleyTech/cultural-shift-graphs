@@ -17,24 +17,6 @@
     <ul class="mt-4 space-y-2">
       <li>
         <a
-          href="/us-population/"
-          class="underline decoration-2 underline-offset-4 hover:decoration-neutral-400"
-        >
-          US population, 1900–2020
-        </a>
-        <span class="text-neutral-500 text-sm ml-2">(smoke test — line goes up)</span>
-      </li>
-      <li>
-        <a
-          href="/disney-villains/"
-          class="underline decoration-2 underline-offset-4 hover:decoration-neutral-400"
-        >
-          Disney villains over time
-        </a>
-        <span class="text-neutral-500 text-sm ml-2">(example — fake data)</span>
-      </li>
-      <li>
-        <a
           href="/disney-conflict-types/"
           class="underline decoration-2 underline-offset-4 hover:decoration-neutral-400"
         >

@@ -12,8 +12,6 @@ export default defineConfig({
     rollupOptions: {
       input: {
         main: resolve(root, 'index.html'),
-        disneyVillains: resolve(root, 'disney-villains/index.html'),
-        usPopulation: resolve(root, 'us-population/index.html'),
         disneyConflictTypes: resolve(root, 'disney-conflict-types/index.html'),
       },
     },

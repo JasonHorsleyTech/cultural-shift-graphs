@@ -1131,4 +1131,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.7,
     reasoning: 'Captain Gutt, a ruthless Gigantopithecus pirate, is a genuine villain who captures the heroes, threatens violence, and seeks revenge after they escape. The main conflict is resolved through direct physical confrontation — a climactic sea battle where Manny and friends defeat Gutt\'s crew, and Gutt himself is dispatched by a siren. Scored at 0.7 rather than higher because significant subplots involve family reconciliation (Manny reconnecting with teenage daughter Peaches) and the villain, while menacing, feels secondary to the continental-drift survival premise rather than being the story\'s central driving force.',
   },
+  {
+    title: 'Madagascar 3: Europe\'s Most Wanted',
+    releaseYear: 2012,
+    decade: '2010s',
+    studio: 'DreamWorks Animation',
+    conflictScore: 0.7,
+    reasoning: 'Captain Chantel DuBois, Monaco\'s fanatical Animal Control officer, is a genuine villain who relentlessly hunts Alex across Europe with the explicit goal of mounting his head as a trophy. The climax is a direct physical confrontation where the circus animals use their skills to defeat DuBois and she is tranquilized and shipped off in a crate. Scored at 0.7 because while DuBois is a real, menacing antagonist defeated through confrontation, the film\'s emotional core is about belonging and chosen family — the animals choosing their circus friends over returning to the zoo — which tempers the conflict-driven narrative.',
+  },
 ]

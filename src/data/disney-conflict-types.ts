@@ -1490,6 +1490,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Illumination Entertainment',
     conflictScore: 0.70,
     reasoning: 'El Macho is an unambiguously evil villain — he kidnaps Gru\'s minions, mutates them into indestructible purple monsters using the stolen PX-41 serum, and plans world domination. The climax is a direct physical confrontation: Gru storms El Macho\'s lair, fights him after he injects himself with PX-41, and the mutant minions are cured with an antidote. However, the film\'s emotional core is Gru\'s personal growth — learning to open himself to romance with Lucy and navigating fatherhood — giving the villain plot a somewhat secondary feel. Scored at 0.70 because while the villain is genuine and defeated through direct confrontation with real stakes, the heart of the story is Gru\'s personal life, and the overall tone is comedic rather than dramatically high-stakes.',
+    culturalReachPct: 88,
+    reachReasoning: '$970M worldwide box office, cementing Despicable Me as a top-tier animated franchise. Minions merchandising was approaching peak saturation — toys, apparel, and branding everywhere. The franchise had already become Illumination\'s flagship by this point, and DM2 was the #1 animated film of 2013 domestically ($368M). Home video and streaming kept it in heavy rotation. Franchise cumulative box office was over $2B by this point.',
   },
   {
     title: 'Epic',
@@ -1498,6 +1500,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Blue Sky Studios',
     conflictScore: 0.70,
     reasoning: 'Mandrake is a genuine, menacing villain — the leader of the Boggans, dark creatures of decay who seek to destroy the forest. He personally kills Queen Tara and wages war to prevent the succession pod from blooming, which would restore life to the forest. The climax is a direct physical battle between the Leafmen and the Boggans, resolved when MK and the Leafmen ensure the pod blooms in moonlight, defeating Mandrake\'s forces. However, MK\'s personal arc — being shrunk into this hidden world and reconnecting with her estranged, eccentric father — adds a meaningful internal dimension. Scored at 0.70 because the conflict is primarily a classic good-vs-evil war with a lethal villain defeated through confrontation, but MK\'s journey of understanding her father and the broader nature-vs-decay thematic framework temper the score below the most purely villain-driven films.',
+    culturalReachPct: 25,
+    reachReasoning: '$268M worldwide on a $100M budget — commercially disappointing for Blue Sky. Limited cultural footprint: no franchise, no memorable songs or characters that entered the mainstream. Overshadowed in 2013 by Frozen, Despicable Me 2, and Monsters University. Quickly forgotten after theatrical run with minimal home video or streaming afterlife.',
   },
   {
     title: 'Frozen',
@@ -1506,6 +1510,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.25,
     reasoning: 'The central conflict is a misunderstanding — Elsa is feared as a monster but is not a villain; she flees out of self-imposed isolation after accidentally revealing her powers. The real antagonist, Prince Hans, is a late-act twist villain whose defeat is secondary to the emotional resolution. The climax is resolved not through confrontation but through Anna\'s act of true love (sacrificing herself for Elsa), which thaws the frozen kingdom and teaches Elsa that love controls her powers. Scored at 0.25 because the story is fundamentally about sisterly love overcoming fear and misunderstanding, with the nominal villain serving as a plot device rather than the core conflict.',
+    culturalReachPct: 98,
+    reachReasoning: '$1.28B worldwide — the highest-grossing animated film of all time at release. "Let It Go" was an inescapable global phenomenon, reaching #5 on Billboard Hot 100 and winning the Academy Award. $5.3B+ in merchandise sales within three years. Elsa and Anna became the biggest Disney Princess additions since the Renaissance era. Broadway musical, theme park attractions, sequel ($1.45B), multiple shorts. Essentially every child in America between 2013–2016 had significant Frozen exposure. Generational cultural event comparable to The Lion King.',
   },
   {
     title: 'Monsters University',
@@ -1514,6 +1520,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Pixar',
     conflictScore: 0.15,
     reasoning: 'There is no villain — Dean Hardscrabble is a strict but fair authority figure, not an antagonist. The core conflict is entirely internal: Mike must accept that he is not naturally scary despite his passion, and Sulley must overcome arrogance and learn humility. The climax resolves through self-acceptance and honesty (Mike acknowledging his limitations, Sulley confessing he cheated), not through defeating any enemy. Scored at 0.15 because the film is fundamentally about personal growth, finding your true strengths, and the power of teamwork, with zero villain-driven conflict.',
+    culturalReachPct: 72,
+    reachReasoning: '$744M worldwide, solid Pixar franchise performance. Benefited from strong Monsters, Inc. brand recognition and nostalgia. However, as a prequel it didn\'t expand the franchise\'s cultural footprint significantly — it was well-received but not a phenomenon. Overshadowed by Frozen later in 2013. Strong home video and streaming presence on Disney+.',
   },
   {
     title: 'The Croods',
@@ -1522,6 +1530,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'DreamWorks Animation',
     conflictScore: 0.20,
     reasoning: 'There is no villain — the external threat is an impersonal geological cataclysm (the continental shift destroying their world), not a malicious antagonist. The real conflict is internal: patriarch Grug\'s paralyzing fear of change and the unknown clashes with his daughter Eep\'s desire for exploration and Guy\'s progressive thinking. The climax resolves through Grug\'s personal growth — he overcomes his fear, embraces new ideas, and selflessly sacrifices to save his family, then survives through ingenuity. Scored at 0.20 because the story is fundamentally about a family learning to move past fear and embrace change, with no villain to defeat and resolution driven entirely by empathy, trust, and personal transformation.',
+    culturalReachPct: 52,
+    reachReasoning: '$587M worldwide — surprisingly strong, especially internationally ($400M+ overseas). Spawned a sequel (The Croods: A New Age, 2020). However, despite solid box office it never became a cultural touchstone in the US — no iconic songs, catchphrases, or merchandise phenomenon. Moderate home video and streaming presence. The franchise has awareness but not deep cultural penetration.',
   },
   {
     title: 'Turbo',
@@ -1530,6 +1540,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'DreamWorks Animation',
     conflictScore: 0.35,
     reasoning: 'Guy Gagné, the champion racer Turbo idolizes, becomes a genuine physical threat — he deliberately tries to crush Turbo during the Indy 500 finale and taunts him about his impossible dream. However, the core conflict is fundamentally internal and aspirational: a garden snail dares to dream of speed despite everyone (especially his overprotective brother Chet) insisting it\'s impossible. The resolution comes through perseverance and self-belief — Turbo loses his superpowers in the final lap but wins by tucking into his shell and rolling across the finish line through sheer determination. Scored at 0.35 because while a real antagonist exists who physically endangers the hero, the film\'s thesis is about pursuing impossible dreams and fraternal reconciliation, resolved through grit and self-belief rather than defeating evil.',
+    culturalReachPct: 28,
+    reachReasoning: '$282M worldwide on a $135M budget — a commercial disappointment for DreamWorks. The Netflix series (Turbo FAST) extended awareness slightly but the franchise never gained traction. Limited cultural impact: no iconic characters, songs, or merchandise that entered mainstream consciousness. Quickly overshadowed by stronger 2013 releases.',
   },
   {
     title: 'Big Hero 6',
@@ -1538,6 +1550,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.55,
     reasoning: 'Professor Callaghan (Yokai) is a genuine villain — he fakes his death, steals Hiro\'s microbots, and endangers lives in a revenge plot against Alistair Krei. The climax involves direct physical confrontation as the superhero team battles Yokai. However, the film\'s emotional core is Hiro\'s grief over losing his brother Tadashi and his journey from vengeful rage to compassion, guided by Baymax\'s care-driven programming. The pivotal moment is Hiro choosing not to kill Callaghan and Baymax sacrificing himself to rescue Callaghan\'s daughter from the portal. Scored at 0.55 because while a real villain is defeated through confrontation, the film gives equal weight to processing grief, rejecting revenge, and the healing power of friendship — the emotional resolution is empathy-driven rather than violence-driven.',
+    culturalReachPct: 72,
+    reachReasoning: '$657M worldwide, won Best Animated Feature Oscar. Baymax became an iconic Disney character — plush toys and merchandise were strong sellers. Disney XD animated series (2017–2021) extended the franchise\'s reach to TV audiences. Theme park presence at Disney parks. However, it didn\'t reach the tier-1 cultural phenomenon level of Frozen or Inside Out — more of a solid hit than a generational event.',
   },
   {
     title: 'How to Train Your Dragon 2',
@@ -1546,6 +1560,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'DreamWorks Animation',
     conflictScore: 0.75,
     reasoning: 'Drago Bludvist is an unambiguous villain — a ruthless warlord who enslaves dragons through fear and brute force, kills Stoick the Vast by mind-controlling Toothless, and wages open war against Berk. The climax is a direct confrontation: Toothless breaks free of the Alpha\'s mind control through his bond with Hiccup, challenges Drago\'s Bewilderbeast, and defeats the villain\'s army. Scored at 0.75 because while the villain is real and defeated through confrontation with genuine death stakes, the film heavily invests in Hiccup\'s identity journey, the reunion with his mother Valka, and the dragon-rider loyalty bond — and the decisive moment is Toothless overcoming mind control through love and trust rather than pure force.',
+    culturalReachPct: 72,
+    reachReasoning: '$621M worldwide, won Golden Globe for Best Animated Feature. Strong franchise — the HTTYD trilogy grossed $1.6B+ total, with a Netflix series (Race to the Edge) extending reach. Toothless remained a popular character in merchandise and meme culture. However, the franchise\'s US cultural penetration plateaued with the sequel; it was bigger internationally than domestically ($177M US vs $444M overseas).',
   },
   {
     title: 'Mr. Peabody & Sherman',
@@ -1554,6 +1570,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'DreamWorks Animation',
     conflictScore: 0.25,
     reasoning: 'Ms. Grunion is a misguided child services agent, not a true villain — her opposition stems from conventional thinking that a dog cannot be a good parent, not from malice. The time-travel complications arise from Sherman\'s mistakes, not villainy. The resolution comes through the community recognizing Peabody\'s genuine love for Sherman and accepting their unconventional family. Scored at 0.25 because the central conflict is fundamentally a misunderstanding about parenthood resolved through empathy and acceptance rather than confrontation.',
+    culturalReachPct: 30,
+    reachReasoning: '$275M worldwide on a $145M budget — modest performance. Based on the classic Rocky & Bullwinkle-era IP, but the original show\'s audience was aging and the film didn\'t connect strongly with modern kids. Limited merchandise, no franchise continuation. The DreamWorks TV series on Netflix provided some additional exposure but the property never gained mainstream traction with the target demographic.',
   },
   {
     title: 'Penguins of Madagascar',
@@ -1562,6 +1580,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'DreamWorks Animation',
     conflictScore: 0.55,
     reasoning: 'Dave (Dr. Octavius Brine) is a real villain with a concrete evil plan — an octopus who builds a Medusa Serum to transform all penguins into hideous monsters out of jealousy that penguins always stole the spotlight from him at every zoo. The conflict is external and resolved through direct confrontation: the penguins and North Wind battle Dave\'s forces, and Private sacrifices himself to reverse the serum. Scored at 0.55 because while there is a genuine villain defeated through action, Dave\'s motivation is sympathetic (feeling overlooked and unloved), the tone is broadly comedic rather than dramatic, and Private\'s arc centers on proving his worth through self-sacrifice rather than pure force.',
+    culturalReachPct: 45,
+    reachReasoning: '$373M worldwide — decent but reflected franchise fatigue (down from Madagascar 3\'s $747M). The penguins had built-in awareness from the Madagascar franchise and their own Nickelodeon TV series (2008–2015), which boosted reach beyond what the film alone would warrant. However, the spinoff didn\'t generate its own cultural momentum and marked the end of the Madagascar franchise\'s theatrical run.',
   },
   {
     title: 'Rio 2',
@@ -1570,6 +1590,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Blue Sky Studios',
     conflictScore: 0.55,
     reasoning: 'The film has genuine villains — Nigel the cockatoo returns seeking revenge on Blu, and Big Boss leads illegal loggers threatening the Amazon habitat. The climax involves direct confrontation: the macaws rally to drive away the loggers, and Nigel is defeated in a physical showdown. Scored at 0.55 because while real external villains exist and are defeated through action, much of the film centers on Blu\'s internal insecurity about fitting in with wild macaws, his strained relationship with Jewel\'s disapproving father Eduardo, and jealousy toward Roberto — conflicts resolved through personal growth and acceptance rather than confrontation.',
+    culturalReachPct: 35,
+    reachReasoning: '$498M worldwide but heavily skewed international (especially Brazil, where the franchise was a cultural phenomenon). US domestic was only $131M — a significant drop from Rio 1\'s $144M. Limited US cultural impact: no franchise continuation, minimal merchandise presence in the American market. The Rio brand had moderate awareness but never achieved deep penetration with US kids.',
   },
   {
     title: 'Song of the Sea',
@@ -1578,6 +1600,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Cartoon Saloon',
     conflictScore: 0.15,
     reasoning: 'Macha the owl witch is the nominal antagonist, but her motivation is protective — she removes emotions from fairy creatures because she believes suppressing feelings prevents suffering. The core conflicts are internal: Ben\'s resentment toward his sister Saoirse, the family\'s unprocessed grief over their mother, and the broader theme that painful emotions must be felt rather than suppressed. Resolution comes entirely through emotional expression — Saoirse singing the Song of the Sea frees all suppressed emotions, and Macha herself is released rather than defeated. Scored at 0.15 because there is no real villain, no confrontation, and the resolution is through empathy, grief processing, and acceptance.',
+    culturalReachPct: 5,
+    reachReasoning: '$5.3M worldwide box office — Oscar-nominated for Best Animated Feature but virtually no theatrical presence. Cartoon Saloon continues the pattern of critically acclaimed non-US studios (like Studio Ghibli) having minimal mainstream American reach. Available on streaming but discovery is niche. Beloved by animation enthusiasts but unknown to the vast majority of American children.',
   },
   {
     title: 'The Book of Life',
@@ -1586,6 +1610,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Reel FX Creative Studios',
     conflictScore: 0.45,
     reasoning: 'Xibalba is a genuine supernatural antagonist who cheats in a divine wager and kills Manolo with a snake bite, while Chakal is a straightforward bandit warlord who attacks the town. However, the film\'s key resolutions emphasize compassion over force: Manolo refuses to kill the giant bull and instead sings to it, winning through empathy rather than violence. Xibalba reforms and reconciles with La Muerte rather than being destroyed. Scored at 0.45 because while real antagonists with lethal stakes exist, the thematic resolution centers on being true to oneself, love, and self-sacrifice rather than defeating evil through confrontation.',
+    culturalReachPct: 22,
+    reachReasoning: '$99M worldwide on a $50M budget — modest performance. Produced by Guillermo del Toro, which gave it critical cachet but didn\'t translate to mainstream kid appeal. Gained a streaming afterlife on Disney+ and Netflix, and is often cited during Día de los Muertos discussions, but was largely overshadowed by Coco (2017) which covered similar cultural territory with far greater reach. Limited merchandise presence.',
   },
   {
     title: 'The Boxtrolls',
@@ -1594,6 +1620,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Laika',
     conflictScore: 0.70,
     reasoning: 'Archibald Snatcher is an unambiguous villain — a scheming social climber who systematically captures and exterminates Boxtrolls to earn elite status, and he is ultimately destroyed by his own greed. The climax involves direct confrontation as Eggs rallies the town and Boxtrolls to stop Snatcher\'s mech. However, a significant layer of conflict stems from the townspeople\'s misunderstanding of Boxtrolls as dangerous monsters, which is resolved through revelation and empathy rather than force. Scored at 0.70 because a real villain with lethal stakes is defeated through confrontation, but the broader human-Boxtroll conflict resolves through communication and changed perception.',
+    culturalReachPct: 15,
+    reachReasoning: '$109M worldwide on a $60M budget — commercially disappointing. Laika continues the pattern of critically acclaimed stop-motion studios (Oscar-nominated) with limited mainstream reach. The quirky aesthetic and darker tone appealed to animation enthusiasts but not the broad family audience. Minimal merchandise, no franchise, limited streaming discovery outside animation fans.',
   },
   {
     title: 'The Lego Movie',
@@ -1602,6 +1630,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Warner Animation Group',
     conflictScore: 0.40,
     reasoning: 'Lord Business is a genuine villain with real stakes — he commands an army, employs Bad Cop as enforcer, and plans to permanently freeze the entire Lego world with the Kragle. However, the resolution is almost entirely through empathy rather than confrontation: Emmet appeals to Business\'s humanity ("You don\'t have to be the bad guy"), and the live-action layer reveals the conflict mirrors a father-son relationship where the dad learns to let go of rigid control. Business is redeemed through understanding, not defeated through force. Scored at 0.40 because while a real antagonist with lethal stakes exists, the film\'s core message and resolution center on empathy, communication, and the idea that the "villain" simply needs to be understood.',
+    culturalReachPct: 85,
+    reachReasoning: '$468M worldwide on a $60M budget — a massive hit. "Everything Is Awesome" became a ubiquitous earworm, nominated for Best Original Song at the Oscars. Spawned a franchise: The Lego Batman Movie ($312M), The Lego Ninjago Movie ($123M), The Lego Movie 2 ($191M). Lego toy tie-ins were enormous (Lego was already the world\'s largest toy company). The film transcended its toy-commercial origins to become a genuine cultural event with crossover appeal to adults and children alike.',
   },
   {
     title: 'When Marnie Was There',
@@ -1610,6 +1640,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Studio Ghibli',
     conflictScore: 0.10,
     reasoning: 'There is no villain — the conflict is entirely internal. Anna is a lonely, depressed foster child struggling with abandonment and self-loathing. The mysterious Marnie turns out to be the ghost of Anna\'s deceased grandmother, and the resolution comes through Anna discovering her family history and understanding that she was always loved. Scored at 0.10 because the film has no external antagonist whatsoever; all conflict is emotional and resolved through self-discovery, empathy, and healing.',
+    culturalReachPct: 8,
+    reachReasoning: '$36M worldwide — Studio Ghibli\'s final film before the studio\'s temporary hiatus. Oscar-nominated for Best Animated Feature, which gave it visibility among cinephiles. Slightly higher US reach than earlier Ghibli entries due to GKIDS distribution and growing anime awareness, but still firmly niche. Available on streaming (HBO Max/Netflix depending on region) but minimal mainstream American kid awareness.',
   },
   {
     title: 'Home',
@@ -1618,6 +1650,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'DreamWorks Animation',
     conflictScore: 0.15,
     reasoning: 'The entire conflict is built on layered misunderstandings. The Boov invade Earth not out of malice but out of fearful self-preservation, relocating humans like furniture. The Gorg — set up as a terrifying galactic villain — is revealed to be a single parent trying to recover its stolen eggs (children) that Captain Smek unknowingly took. Resolution comes entirely through communication and empathy: Oh and Tip bridge the human-Boov divide, and returning the eggs ends the Gorg conflict. Scored at 0.15 because no character is truly villainous and every conflict resolves through understanding rather than confrontation.',
+    culturalReachPct: 45,
+    reachReasoning: '$386M worldwide — commercially solid. Rihanna\'s involvement (voice acting and contributing "Towards the Sun" to the soundtrack) boosted awareness beyond the typical DreamWorks animated film. The Netflix series Home: Adventures with Tip & Oh (2016–2018) extended reach. However, the film never became a cultural touchstone — no iconic characters or moments that persisted in the mainstream. Moderate home video performance.',
   },
   {
     title: 'Hotel Transylvania 2',
@@ -1626,6 +1660,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Sony Pictures Animation',
     conflictScore: 0.35,
     reasoning: 'The dominant conflict is Dracula\'s anxiety that his half-human grandson Dennis may not become a vampire — a generational and cultural misunderstanding resolved through family acceptance. A late-act villain, Bela (Vlad\'s bat-creature henchman), provides a genuine physical threat and is defeated through direct confrontation when Dennis\'s vampire powers finally emerge. However, Bela occupies only the final act; the majority of the film centers on Drac\'s misguided attempts to "scare" vampirism into Dennis and the broader theme of accepting loved ones as they are. Scored at 0.35 because while a real antagonist with physical stakes exists, the core conflict is about misunderstanding and acceptance resolved through empathy and family bonding.',
+    culturalReachPct: 62,
+    reachReasoning: '$473M worldwide, building on the first film\'s $358M. The Hotel Transylvania franchise was a reliable performer — Adam Sandler\'s voice cast drew family audiences, and the franchise eventually grossed $1.3B+ across four films. Strong home video and TV broadcast presence. The characters (especially Drac and his monster friends) had decent merchandise and awareness, though the franchise never reached tier-1 cultural phenomenon status.',
   },
   {
     title: 'Inside Out',
@@ -1634,6 +1670,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Pixar',
     conflictScore: 0.10,
     reasoning: 'There is no villain whatsoever — the conflict is entirely internal and psychological. Joy\'s inability to accept Sadness as a necessary emotion causes both to get lost in Riley\'s long-term memory, leading Riley toward emotional shutdown. Resolution comes through Joy\'s realization that Sadness is essential to empathy and emotional processing, allowing Riley to open up to her parents. Scored at 0.10 because every conflict is internal, there is no external antagonist, and resolution is achieved purely through emotional growth and understanding.',
+    culturalReachPct: 90,
+    reachReasoning: '$857M worldwide, won Best Animated Feature Oscar. Became a cultural touchstone for discussing emotions — widely adopted in schools, therapy practices, and parenting contexts. Joy, Sadness, Anger, Fear, and Disgust became instantly recognizable characters. The concept of "core memories" entered common vocabulary. Sequel Inside Out 2 (2024) became the highest-grossing animated film ever ($1.7B), confirming the franchise\'s massive cultural footprint. One of the defining Pixar films of the decade.',
   },
   {
     title: 'Minions',
@@ -1642,6 +1680,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Illumination Entertainment',
     conflictScore: 0.75,
     reasoning: 'Scarlet Overkill is a genuine villain with clear malicious intent — she seeks to steal the British crown and threatens the Minions with death when she believes they\'ve betrayed her. The conflict is external and resolved through direct physical confrontation as the Minions battle Scarlet and her husband Herb across London. Scored at 0.75 rather than higher because the Minions themselves are amoral creatures seeking a villain to serve (subverting the traditional hero-vs-villain dynamic), and much of the film is comedic slapstick adventure rather than dramatic good-vs-evil stakes.',
+    culturalReachPct: 92,
+    reachReasoning: '$1.16B worldwide — the Minions were an inescapable global pop culture phenomenon by 2015. Merchandise was ubiquitous: toys, clothing, lunch boxes, phone cases, memes. The Despicable Me/Minions franchise surpassed $3.7B in cumulative box office by this point. "Banana!" and Minion-speak entered casual culture. Facebook Minion memes became a genre unto themselves. The Minions had near-universal recognition among American children and significant penetration even among adults who had never seen the films.',
   },
   {
     title: 'Shaun the Sheep Movie',
@@ -1650,6 +1690,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Aardman Animations',
     conflictScore: 0.55,
     reasoning: 'Trumper, the animal containment officer, is a genuine antagonist who obsessively hunts the sheep with escalating menace and is ultimately defeated through direct physical confrontation. However, the core conflict is not good-vs-evil but rather the consequence of Shaun\'s prank gone wrong — the Farmer ends up in the Big City with amnesia, and the flock must find him and restore his memory. The emotional resolution comes through the Farmer\'s bond with his animals, not through defeating the villain. Scored at 0.55 because a real antagonist with physical stakes exists, but the heart of the story is about fixing a mistake and restoring family bonds through loyalty and emotional connection.',
+    culturalReachPct: 12,
+    reachReasoning: '$106M worldwide — Aardman continues the pattern of limited US reach ($19M domestic). The Shaun the Sheep TV series had some awareness via Disney Channel/Amazon, but the British claymation style consistently fails to achieve broad American kid appeal. Oscar-nominated but the nomination doesn\'t translate to mainstream US viewership. Aardman\'s US ceiling remains around 10–15% reach regardless of quality.',
   },
   {
     title: 'The Good Dinosaur',
@@ -1658,6 +1700,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Pixar',
     conflictScore: 0.40,
     reasoning: 'Thunderclap and his pterodactyl gang are genuine predatory villains who try to take and eat Spot, and Arlo physically confronts them in the climax. However, the central conflict is Arlo\'s internal struggle with paralyzing fear following his father\'s death. Resolution blends confrontation (fighting pterodactyls) with emotional growth — Arlo overcomes his fear and selflessly lets Spot go to join a human family. Scored at 0.40 because while real antagonists with physical stakes exist, the core arc is about conquering internal fear and forming bonds resolved through empathy and self-discovery.',
+    culturalReachPct: 35,
+    reachReasoning: '$332M worldwide — Pixar\'s biggest commercial disappointment at the time, especially domestically ($123M). Troubled production (director change, story overhaul) resulted in a film that felt like lesser Pixar. Released just five months after Inside Out, which dominated the conversation. Limited merchandise, no franchise. Quickly became the "forgotten Pixar film" of the 2010s, despite being perfectly pleasant — it simply didn\'t connect deeply enough to build cultural staying power.',
   },
   {
     title: 'The Peanuts Movie',
@@ -1666,6 +1710,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Blue Sky Studios',
     conflictScore: 0.10,
     reasoning: 'There is no villain — the conflict is entirely internal, driven by Charlie Brown\'s chronic self-doubt and insecurity as he tries to impress the Little Red-Haired Girl. Snoopy\'s parallel Red Baron subplot exists purely in imagination and provides no real antagonist. Resolution comes through self-acceptance when the Red-Haired Girl tells Charlie Brown she admires his honesty, compassion, and resilience — qualities he never recognized in himself. Scored at 0.10 because there is zero external antagonist, and the conflict resolves entirely through emotional validation and self-understanding.',
+    culturalReachPct: 45,
+    reachReasoning: '$246M worldwide ($130M domestic) — commercially moderate. Peanuts brand recognition is enormous (one of the most valuable comic strip IPs ever), which elevates awareness beyond what the film\'s box office alone would suggest. The Apple TV+ Peanuts specials kept the characters in circulation. However, the film itself didn\'t create new cultural moments — it was a loving adaptation that pleased existing fans more than it minted new ones. Charlie Brown, Snoopy, and the gang\'s cultural reach is cumulative across decades of TV specials, not driven by this film.',
   },
   {
     title: 'Finding Dory',
@@ -1674,6 +1720,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Pixar',
     conflictScore: 0.15,
     reasoning: 'There is no villain — the conflict is entirely driven by Dory\'s short-term memory loss and her longing to find her parents. Hank the septopus is initially reluctant but becomes an ally, and the Marine Life Institute staff are well-meaning, not antagonistic. Resolution comes through Dory learning to trust herself despite her disability, emotionally reconnecting with her parents, and relying on the empathy and loyalty of her found family. Scored at 0.15 because there is zero malicious antagonist, and the conflict resolves entirely through self-acceptance, emotional bonds, and community support.',
+    culturalReachPct: 88,
+    reachReasoning: '$1.03B worldwide ($486M domestic — the #1 animated domestic gross of all time at release). Sequel to the beloved Finding Nemo, which was already one of the most culturally pervasive animated films. "Just keep swimming" remained a widely-used cultural catchphrase. Dory was already an iconic character before this film; the sequel cemented her status. Massive home video/streaming presence on Disney+. The Finding Nemo/Dory franchise is one of Pixar\'s most commercially valuable properties.',
   },
   {
     title: 'Ice Age: Collision Course',

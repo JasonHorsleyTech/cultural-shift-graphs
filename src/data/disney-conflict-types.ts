@@ -691,4 +691,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.30,
     reasoning: 'Captain Gantu and the Galactic Federation serve as antagonists, but they are institutional enforcers rather than true villains — Gantu is following orders, and the Grand Councilwoman ultimately relents. Dr. Jumba hunts Stitch but eventually joins the family. The film\'s real conflict is entirely emotional: Lilo is a lonely, grieving girl at risk of being taken from her sister Nani by social services, and Stitch is a creature engineered for destruction who has no concept of family. Resolution comes through love, belonging, and the concept of ohana — Stitch chooses family over his destructive programming, and the found-family unit convinces even the aliens to let them stay together. Scored low because the conflict is fundamentally about loneliness and belonging, resolved through empathy and connection rather than defeating evil.',
   },
+  {
+    title: 'Spirit: Stallion of the Cimarron',
+    releaseYear: 2002,
+    decade: '2000s',
+    studio: 'DreamWorks Animation',
+    conflictScore: 0.70,
+    reasoning: 'The Colonel is a real antagonist who captures Spirit, attempts to break his will through starvation and force, and pursues him relentlessly — the conflict involves genuine physical stakes including captivity, forced labor, and threat of death. The climax is a dramatic chase and confrontation ending with Spirit\'s impossible canyon jump. However, the Colonel is not evil — he is a determined military officer representing institutional authority, and the resolution includes his grudging nod of respect as he lets Spirit go free rather than being defeated or destroyed. Scored at 0.70 because the conflict is genuinely external with real confrontation, but the antagonist is more systemic force than villain, and the ending blends escape with mutual recognition rather than pure triumph over evil.',
+  },
 ]

@@ -1395,4 +1395,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.60,
     reasoning: 'The Moon King and the Sisters are genuine, menacing villains with lethal intent — the Moon King stole one of Kubo\'s eyes and wants the other, and the Sisters kill both Monkey and Beetle (Kubo\'s parents\' spirits). Stakes are life-and-death with real loss. However, the climactic resolution is not through defeating evil by force — Kubo plays his shamisen with three strings representing family bonds, transforming the Moon King into a memoryless mortal whom the villagers choose to treat with compassion. Scored at 0.60 because real villains and physical confrontation exist, but the ultimate resolution is through the power of memory, love, and communal empathy rather than violent defeat.',
   },
+  {
+    title: 'Kung Fu Panda 3',
+    releaseYear: 2016,
+    decade: '2010s',
+    studio: 'DreamWorks Animation',
+    conflictScore: 0.65,
+    reasoning: 'Kai is a genuine supernatural villain who steals the chi of kung fu masters, collecting them as jade amulets, and poses a mortal threat to all of China. The conflict is external with life-and-death stakes, and Po ultimately defeats Kai through direct confrontation in the Spirit Realm. However, Po\'s power comes from self-discovery (mastering chi, embracing his panda identity) and communal support (the pandas channeling chi together). Scored at 0.65 because there is a clear villain defeated through confrontation, but the source of victory is inner peace and community rather than pure martial force.',
+  },
 ]

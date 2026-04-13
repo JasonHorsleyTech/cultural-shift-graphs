@@ -1107,4 +1107,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.10,
     reasoning: 'There is no villain whatsoever. The central conflict is a pure misunderstanding — the gang misreads Christopher Robin\'s note ("Gone out, busy, back soon") as a warning about a fearsome creature called the "Backson" who has supposedly kidnapped him. The Backson does not exist; it is entirely imagined. The secondary plot — finding a replacement for Eeyore\'s lost tail — is a gentle communal quest with no antagonist. Resolution comes from simply realizing the mistake. Scored at 0.10 because this is a near-perfect example of conflict-as-misunderstanding resolved through friendship and gentle humor, with zero confrontation or external threat.',
   },
+  {
+    title: 'Brave',
+    releaseYear: 2012,
+    decade: '2010s',
+    studio: 'Pixar Animation Studios',
+    conflictScore: 0.25,
+    reasoning: 'The central conflict is entirely relational — Princess Merida clashes with her mother Queen Elinor over an arranged marriage, and her reckless wish to a witch transforms Elinor into a bear. Mor\'du (a cursed prince turned monstrous bear) provides a secondary physical threat, but he serves mainly as a cautionary parallel, not as the driving antagonist. The resolution is explicitly about empathy and communication: Merida must "mend the bond torn by pride" — literally repairing a torn tapestry while reconciling with her mother — to break the curse. Scored at 0.25 because while real physical danger exists (Mor\'du, the threat of permanent transformation, a climactic bear fight), the film\'s thesis is that the true conflict is prideful miscommunication between mother and daughter, resolved through mutual understanding and emotional growth rather than defeating a villain.',
+  },
 ]

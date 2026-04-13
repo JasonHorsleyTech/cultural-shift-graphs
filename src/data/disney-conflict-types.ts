@@ -1419,4 +1419,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.15,
     reasoning: 'There is no real villain — conflicts are almost entirely internal and personal. Buster Moon faces financial ruin from his own deception, Ash deals with a dismissive boyfriend, Johnny defies his criminal father\'s expectations, Meena battles stage fright, and Rosita struggles to be seen beyond her role as a mother. The theater literally collapses, but resolution comes through self-expression, mutual support, and community rather than defeating any antagonist. Scored at 0.15 because the negligible external threats (bears chasing Mike, Johnny\'s father\'s gang) are peripheral subplots, and the core message is that personal courage and creative passion overcome self-doubt.',
   },
+  {
+    title: 'Storks',
+    releaseYear: 2016,
+    decade: '2010s',
+    studio: 'Warner Animation Group',
+    conflictScore: 0.45,
+    reasoning: 'Hunter is a genuine villain — Junior\'s boss who wants to destroy the unauthorized baby and suppress evidence to protect his package-delivery empire. He poses real physical threats and there is a climactic confrontation on the rooftop. However, Hunter is ultimately defeated not through combat but when all the storks collectively remember their original purpose and choose to deliver babies again. The resolution is driven by themes of found family, belonging, and communal rediscovery of purpose. Scored at 0.45 because a real villain with selfish motives exists, but the heart of the story and its resolution center on love, family bonds, and community rather than vanquishing evil.',
+  },
 ]

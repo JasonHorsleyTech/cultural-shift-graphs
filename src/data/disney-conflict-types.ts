@@ -32,6 +32,14 @@ export type ConflictEntry = {
   conflictScore: number
   /** Brief reasoning for the assigned score (1-3 sentences). */
   reasoning: string
+  /**
+   * 0–100 estimate of how culturally pervasive this film was/is among children.
+   * 100 = virtually every child in the target culture has seen it.
+   * 0 = obscure / barely released.
+   */
+  culturalReachPct?: number
+  /** Brief reasoning for the cultural-reach estimate (1-3 sentences). */
+  reachReasoning?: string
 }
 
 export const conflictData: ConflictEntry[] = [

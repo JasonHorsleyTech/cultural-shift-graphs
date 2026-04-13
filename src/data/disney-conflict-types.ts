@@ -1227,4 +1227,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.20,
     reasoning: 'There is no villain — the external threat is an impersonal geological cataclysm (the continental shift destroying their world), not a malicious antagonist. The real conflict is internal: patriarch Grug\'s paralyzing fear of change and the unknown clashes with his daughter Eep\'s desire for exploration and Guy\'s progressive thinking. The climax resolves through Grug\'s personal growth — he overcomes his fear, embraces new ideas, and selflessly sacrifices to save his family, then survives through ingenuity. Scored at 0.20 because the story is fundamentally about a family learning to move past fear and embrace change, with no villain to defeat and resolution driven entirely by empathy, trust, and personal transformation.',
   },
+  {
+    title: 'Turbo',
+    releaseYear: 2013,
+    decade: '2010s',
+    studio: 'DreamWorks Animation',
+    conflictScore: 0.35,
+    reasoning: 'Guy Gagné, the champion racer Turbo idolizes, becomes a genuine physical threat — he deliberately tries to crush Turbo during the Indy 500 finale and taunts him about his impossible dream. However, the core conflict is fundamentally internal and aspirational: a garden snail dares to dream of speed despite everyone (especially his overprotective brother Chet) insisting it\'s impossible. The resolution comes through perseverance and self-belief — Turbo loses his superpowers in the final lap but wins by tucking into his shell and rolling across the finish line through sheer determination. Scored at 0.35 because while a real antagonist exists who physically endangers the hero, the film\'s thesis is about pursuing impossible dreams and fraternal reconciliation, resolved through grit and self-belief rather than defeating evil.',
+  },
 ]

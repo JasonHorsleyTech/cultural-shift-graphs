@@ -33,6 +33,15 @@
         </a>
         <span class="text-neutral-500 text-sm ml-2">(example — fake data)</span>
       </li>
+      <li>
+        <a
+          href="/disney-conflict-types/"
+          class="underline decoration-2 underline-offset-4 hover:decoration-neutral-400"
+        >
+          Animated conflict types over time
+        </a>
+        <span class="text-neutral-500 text-sm ml-2">(real villains vs. misunderstandings)</span>
+      </li>
     </ul>
   </main>
 </template>

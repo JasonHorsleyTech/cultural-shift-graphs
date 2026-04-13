@@ -739,4 +739,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.70,
     reasoning: 'Alameda Slim is a genuine villain — a cattle rustler who uses hypnotic yodeling to steal herds across the West, then buys up the foreclosed ranches through a disguised alter ego to build a land empire. The conflict is entirely external: three dairy cows must capture Slim to collect the bounty and save their farm from foreclosure. The climax is a direct physical confrontation where the cows outsmart and hog-tie Slim, delivering him to the sheriff. Scored at 0.70 because the villain is real and defeated through confrontation, but his comedic tone (weaponized yodeling, bumbling nephews) and the moderate stakes (farm foreclosure rather than life-or-death) reduce the menace well below films with genuinely threatening antagonists.',
   },
+  {
+    title: 'Howl\'s Moving Castle',
+    releaseYear: 2004,
+    decade: '2000s',
+    studio: 'Studio Ghibli',
+    conflictScore: 0.25,
+    reasoning: 'The Witch of the Waste begins as a clear villain — she curses Sophie into an old woman out of jealousy — but is systematically stripped of her power and becomes a sympathetic, doddering old woman who joins the household. Madame Suliman serves as a secondary antagonist representing institutional authority and warmongering, but she is pragmatic rather than evil. The background war is portrayed as faceless, senseless destruction with no villain behind it. The true conflict is internal: Sophie\'s struggle with self-worth and Howl\'s fear of losing his humanity. Resolution comes entirely through love and empathy — Sophie breaks Howl\'s curse through her emotional bond with him, and the war simply ends. Scored low because the film deliberately subverts villainy at every turn, transforming antagonists into sympathetic figures and resolving all conflict through compassion rather than confrontation.',
+  },
 ]

@@ -1611,4 +1611,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.40,
     reasoning: 'Killian is a genuine villain — a cybernetically-enhanced arms dealer bent on revenge who poses a lethal threat throughout the film. However, the film\'s central thesis explicitly champions non-violence: Walter Beckett\'s "weird" non-lethal gadgets (glitter, inflatable hugs, kittens) are validated over Lance Sterling\'s traditional force-based spy methods. The climax resolves through Walter\'s empathy-driven approach rather than brute confrontation. Scored at 0.40 because while a real villain with real stakes exists, the film is a deliberate argument that understanding and non-violent problem-solving are superior to fighting.',
   },
+  {
+    title: 'The Angry Birds Movie 2',
+    releaseYear: 2019,
+    decade: '2010s',
+    studio: 'Sony Pictures Animation',
+    conflictScore: 0.60,
+    reasoning: 'Zeta is a genuine villain who launches ice balls from Eagle Island to destroy both Bird Island and Piggy Island, posing an existential threat resolved through a direct infiltration mission to destroy her superweapon. However, the film\'s central arc is about former enemies (birds and pigs) cooperating as allies, and Red learning he doesn\'t need to be the sole hero to be valued. Scored at 0.60 because while a real villain with lethal stakes is defeated through confrontation, the thematic emphasis on teamwork between former foes and Red\'s personal growth tempers the pure good-vs-evil framing.',
+  },
 ]

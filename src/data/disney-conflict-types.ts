@@ -923,4 +923,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.75,
     reasoning: 'Tai Lung is an unambiguously dangerous villain — a kung fu master who escapes maximum-security prison, single-handedly defeats the Furious Five, and seeks the Dragon Scroll through lethal force. The stakes are life-and-death, and the climax is a direct physical confrontation where Po defeats Tai Lung using the Wuxi Finger Hold. However, Tai Lung is also a tragic figure driven by rejection rather than pure malice, and Po\'s victory is enabled by his internal journey of self-belief — the "secret ingredient is nothing" revelation is about self-acceptance, not combat skill. Scored at 0.75 because the villain is genuinely menacing and defeated through confrontation, but the hero\'s arc is meaningfully about internal growth and the film treats self-understanding as the key to victory.',
   },
+  {
+    title: 'Madagascar: Escape 2 Africa',
+    releaseYear: 2008,
+    decade: '2000s',
+    studio: 'DreamWorks Animation',
+    conflictScore: 0.55,
+    reasoning: 'Makunga is a genuine villain — a scheming rival lion who manipulates the rite of passage to get both Alex and his father Zuba banished so he can seize power as alpha. However, he is a political manipulator rather than a physically threatening force of evil, and his defeat comes through clever trickery (Alex gives him Nana\'s handbag, causing Nana to attack him) rather than heroic confrontation. A significant portion of the film\'s emotional arc is about Alex reconnecting with his father, discovering his origins, and the group\'s personal journeys (Melman confessing love for Gloria, Marty finding individuality). Scored at 0.55 because while there is a real antagonist with clear villainous intent, the resolution relies on comedy and trickery, and the heart of the story is family reunion and self-discovery rather than defeating evil.',
+  },
 ]

@@ -1035,4 +1035,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.40,
     reasoning: 'Rumpelstiltskin is a genuine villain — a scheming trickster who cons Shrek into erasing his own existence, then rules Far Far Away as a tyrant with an army of witches. Real stakes exist: Shrek will literally cease to exist when the day ends. However, the film is essentially "It\'s a Wonderful Life" for ogres — the core conflict is Shrek\'s midlife crisis and his failure to appreciate his ordinary domestic life. The climax involves physical confrontation with Rumpelstiltskin\'s forces, but the true resolution is Fiona\'s True Love\'s Kiss, earned through Shrek proving he has genuinely changed by learning to value love and family over adventure and glory. Scored at 0.40 because while a real villain with lethal stakes exists, the film\'s thesis is overwhelmingly internal — about gratitude, appreciating what you have, and personal growth — resolved through emotional connection rather than defeating evil.',
   },
+  {
+    title: 'Tangled',
+    releaseYear: 2010,
+    decade: '2010s',
+    studio: 'Walt Disney Animation Studios',
+    conflictScore: 0.70,
+    reasoning: 'Mother Gothel is an unambiguous villain — she kidnapped baby Rapunzel to exploit her magical hair\'s youth-restoring power, then imprisoned her for 18 years using psychological manipulation and gaslighting ("Mother Knows Best"). The stakes escalate to life-and-death when Gothel fatally stabs Eugene, and she is defeated through direct action: Eugene cuts Rapunzel\'s hair, destroying the magic Gothel depends on, causing her to age rapidly and fall to her death. However, the film places significant weight on Rapunzel\'s internal journey — overcoming years of conditioned fear and emotional abuse, gaining self-confidence, and discovering her true identity as the lost princess. Scored at 0.70 because a real villain with lethal stakes exists and is physically destroyed, but the film\'s emotional core is Rapunzel\'s psychological liberation and the love story with Eugene, giving substantial space to internal conflict alongside the external threat.',
+  },
 ]

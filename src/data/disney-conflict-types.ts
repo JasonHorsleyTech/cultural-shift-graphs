@@ -1771,4 +1771,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.15,
     reasoning: 'There is no real villain — the central conflict is Drac\'s inability to accept his human son-in-law Johnny, manifested through a lie about a fake ancient law preventing Johnny from inheriting the hotel. Van Helsing\'s Monsterfication Ray malfunctions (turning monsters human and Johnny into a monster), but this is an accident, not villainy. The climactic crystal creature is a mindless environmental threat. Resolution comes entirely through emotional honesty — Drac confesses he was wrong, accepts Johnny as family, and the transformations reverse through the power of their bond. Scored very low because the conflict is purely internal prejudice and family dysfunction resolved through empathy and acceptance.',
   },
+  {
+    title: 'Lightyear',
+    releaseYear: 2022,
+    decade: '2020s',
+    studio: 'Pixar',
+    conflictScore: 0.40,
+    reasoning: 'Zurg is physically menacing — commanding a robot army and directly battling Buzz — but the twist reveals he is an older alternate-timeline Buzz who refused to accept his own mistake. The real conflict is internal: Buzz\'s obsessive need to fix everything alone versus learning to accept imperfection and rely on his team. Resolution blends physical confrontation (defeating Zurg\'s forces) with personal growth (Buzz choosing to move forward rather than undo the past). Scored below mid-range because the villain is literally the hero\'s inability to let go, and the thematic resolution is acceptance over confrontation.',
+  },
 ]

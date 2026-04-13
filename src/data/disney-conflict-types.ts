@@ -955,4 +955,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.45,
     reasoning: 'Mayor Shelbourne is a genuine antagonist — greedy, manipulative, and deliberately ignoring Flint\'s warnings about the FLDSMDFR\'s instability to exploit the food machine for tourism and personal glory. However, the mayor is a secondary threat; the true "villain" is the out-of-control machine, which is a consequence of Flint\'s own need for approval. The climax involves a physical mission to destroy the machine, but the emotional core is Flint\'s internal growth — learning to take responsibility, listen to others (Sam, his father), and stop seeking validation through spectacle. Scored at 0.45 because a real antagonist exists and real physical stakes escalate to global scale, but the deeper conflict is about the protagonist\'s own flaws and the resolution hinges on father-son reconciliation and personal accountability rather than defeating evil.',
   },
+  {
+    title: 'Coraline',
+    releaseYear: 2009,
+    decade: '2000s',
+    studio: 'Laika Entertainment',
+    conflictScore: 0.90,
+    reasoning: 'The Other Mother (the Beldam) is an unambiguous, predatory villain who lures children into a false paradise, then traps them forever by sewing buttons over their eyes and consuming their souls. She has already killed three children before Coraline. The conflict is entirely external with life-and-death stakes — Coraline must outsmart the Beldam in a challenge, rescue the ghost children\'s eyes, free her kidnapped parents, and ultimately trap the Beldam\'s severed hand. Resolution comes through direct confrontation, cleverness, and bravery. Scored at 0.90 because this is one of the most straightforwardly evil antagonists in modern children\'s animation, defeated through classic heroic action, though Coraline\'s internal growth (learning to appreciate her real, imperfect parents) adds a secondary layer.',
+  },
 ]

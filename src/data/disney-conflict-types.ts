@@ -770,6 +770,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.65,
     reasoning: 'Kron is a real antagonist — a brutal herd leader who enforces survival of the fittest, abandoning the weak to die, and the Carnotaurs are genuine predatory threats with life-or-death stakes. The climax features direct physical confrontation: Aladar fights Kron, and the herd unites to push the Carnotaurus off a cliff. However, the film\'s core theme is empathy vs. ruthlessness — Aladar\'s arc is about convincing others to care for the vulnerable rather than simply defeating evil. Scored at 0.65 because real villains and physical confrontation are present, but the dominant resolution is compassion and community triumphing over brutal individualism.',
+    culturalReachPct: 40,
+    reachReasoning: '$137.7M domestic gross but heavily front-loaded and quickly forgotten. Disney\'s first fully CGI film but released the same year as Dinosaur fatigue set in. Approximately 38M adjusted admissions. Moderate VHS/DVD sales but no franchise, no sequel, no theme park presence beyond a brief tie-in. Kids of the era were more likely to remember Shrek or Monsters, Inc. a year later. Solid theatrical run but minimal lasting cultural footprint.',
   },
   {
     title: 'The Road to El Dorado',
@@ -778,6 +780,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'DreamWorks Animation',
     conflictScore: 0.65,
     reasoning: 'Tzekel-Kan is a genuine villain — a power-hungry high priest who practices human sacrifice, summons a massive stone jaguar to attack the city, and ultimately betrays El Dorado to Hernán Cortés. The climax features direct physical confrontation with the stone jaguar and a race to stop Cortés from conquering the city. However, Cortés is thwarted by cleverness (collapsing the entrance) rather than combat, and the film\'s emotional core is the strained friendship between Tulio and Miguel — torn between greed for gold and genuine love for El Dorado and each other. Scored at 0.65 because a real villain and physical stakes are present, but the resolution blends confrontation with self-sacrifice (giving up the gold) and reconciliation of friendship.',
+    culturalReachPct: 25,
+    reachReasoning: '$50.8M domestic against a $95M budget — a significant box office disappointment for DreamWorks. Roughly 13M adjusted admissions. Limited VHS/DVD penetration compared to DreamWorks\' later hits. Has developed a cult following online but was not widely seen by children of its era. Most American kids in 2000 would not have encountered this film.',
   },
   {
     title: 'Titan A.E.',
@@ -786,6 +790,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Fox Animation Studios',
     conflictScore: 0.80,
     reasoning: 'The Drej are unambiguous alien villains who destroy Earth and actively hunt humanity to extinction — the stakes are existential genocide. The climax is direct confrontation: Cale activates the Titan which absorbs the Drej\'s energy, destroying them entirely while creating a new planet. Captain Korso\'s betrayal adds a secondary villain layer, though he redeems himself through sacrifice. Scored at 0.80 because the villains are real, the stakes are life-or-death for the entire species, and defeat comes through confrontation, but Cale\'s internal arc from directionless drifter to humanity\'s savior and Korso\'s redemption add meaningful internal and empathy-driven threads.',
+    culturalReachPct: 15,
+    reachReasoning: '$36.8M domestic against a $75M budget — one of the biggest animated box office bombs of the era, contributing to the closure of Fox Animation Studios. Roughly 9M adjusted admissions. PG-rated with darker sci-fi tone that skewed older than the core kids\' animation audience. Minimal home video impact. Most American children of this era never encountered this film.',
   },
   {
     title: 'Atlantis: The Lost Empire',
@@ -794,6 +800,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.75,
     reasoning: 'Commander Rourke is a genuine villain — a mercenary who betrays the expedition team and plans to steal the Heart of Atlantis for profit, which would destroy the Atlantean civilization and kill Kida. The climax features direct physical confrontation: Milo rallies Atlantean warriors and the loyal crew against Rourke\'s mercenaries in an aerial battle, and Rourke is crystallized and shattered. Scored at 0.75 because the villain is real with life-or-death stakes and defeat comes through confrontation, but Milo\'s arc is fundamentally about cultural understanding and scholarly curiosity, and the ultimate resolution relies on the spiritual power of the Heart of Atlantis as much as on combat.',
+    culturalReachPct: 35,
+    reachReasoning: '$84M domestic — underperformed Disney\'s expectations for a $100M+ production. Roughly 21M adjusted admissions. Action-adventure tone skewed older than typical Disney fare. DVD sales were moderate. The film has a loyal cult following but was overshadowed by Shrek and Monsters, Inc. in its release year. Most kids of the era were aware of it but a significant portion never saw it.',
   },
   {
     title: 'Jimmy Neutron: Boy Genius',
@@ -802,6 +810,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Nickelodeon Movies / DNA Productions',
     conflictScore: 0.70,
     reasoning: 'King Goobot and the Yolkians are real villains who abduct every parent in Retroville to sacrifice them to Poultra, a monstrous chicken god — the stakes are genuinely life-or-death. The climax is a direct confrontation: Jimmy and friends fly to the Yolkian planet, battle Poultra, and outsmart Goobot to rescue the parents. Scored at 0.70 because the villain and confrontation are real, but the emotional core is Jimmy\'s internal arc — he wished his parents would disappear and must learn to appreciate them — and the comedic, bumbling tone of the villains softens the menace considerably.',
+    culturalReachPct: 50,
+    reachReasoning: '$80.9M domestic — a solid performer that spawned a highly successful Nickelodeon TV series (2002–2006) which massively extended the brand\'s reach. Roughly 20M adjusted admissions theatrically. The TV show made Jimmy Neutron a household name among kids of the early 2000s, and Nickelodeon aired the movie frequently. DVD sales were strong. The franchise reach exceeds the film\'s standalone box office.',
   },
   {
     title: 'Monsters, Inc.',
@@ -810,6 +820,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Pixar Animation Studios',
     conflictScore: 0.50,
     reasoning: 'Randall Boggs and CEO Waternoose are real villains — Randall builds a scream extractor to forcibly harvest children\'s screams, and Waternoose conspires to kidnap Boo to keep the company profitable. Both are defeated through direct confrontation: Randall is banished through a door and Waternoose is tricked into a confession and arrested. However, the film\'s deeper conflict is a systemic misunderstanding — monsters believe children are toxic and terrifying when they are not — resolved through Sulley\'s empathetic bond with Boo, ultimately transforming the entire industry from fear-based to laughter-based. Scored at 0.50 because real villainy and confrontation coexist equally with a thematic arc about overcoming fear through understanding and connection.',
+    culturalReachPct: 88,
+    reachReasoning: '$289.9M domestic — the #1 animated film of 2001. Approximately 65M adjusted admissions. Pixar\'s fourth film cemented the studio as a cultural juggernaut. Massive DVD sales (over 11M units in its first few days). Characters became ubiquitous in merchandise and theme parks (Monsters, Inc. Laugh Floor at Magic Kingdom). Prequel Monsters University (2013) extended the franchise. Nearly every American child of the early 2000s saw this film.',
   },
   {
     title: 'Shrek',
@@ -818,6 +830,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'DreamWorks Animation',
     conflictScore: 0.55,
     reasoning: 'Lord Farquaad is a genuine villain — he forcibly exiles fairytale creatures from his kingdom, tortures the Gingerbread Man for information, and schemes to marry Princess Fiona purely for political power. He is ultimately eaten by Dragon in a direct confrontation. However, the film\'s emotional core is about overcoming prejudice and self-acceptance: Shrek is feared and isolated because people assume ogres are monsters, and Fiona hides her ogre curse out of shame. The true resolution comes through Shrek and Fiona accepting themselves and each other for who they really are. Scored at 0.55 because a real villain exists and is physically defeated, but the deeper conflict is internal and societal — judging by appearances — resolved through love, empathy, and self-acceptance rather than heroic confrontation.',
+    culturalReachPct: 90,
+    reachReasoning: '$267.7M domestic — the first film to win the inaugural Best Animated Feature Oscar. Approximately 62M adjusted admissions. A cultural phenomenon that spawned three sequels, a Broadway musical, and a Universal Studios theme park attraction. VHS/DVD sales were enormous. Shrek became a defining pop-culture figure of the 2000s, with "All Star" and "Somebody once told me" becoming generational memes. Virtually every American child of the 2000s saw this film.',
   },
   {
     title: 'Spirited Away',
@@ -826,6 +840,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Studio Ghibli',
     conflictScore: 0.20,
     reasoning: 'Yubaba is an intimidating authority figure who traps Chihiro\'s parents as pigs and steals Chihiro\'s name, but she is never defeated in combat — she is an obstacle to navigate, not a villain to vanquish. No-Face becomes a rampaging threat but is calmed through Chihiro\'s compassion and patience, not confrontation. The entire conflict is resolved through personal growth, hard work, kindness, and acts of remembering (Haku\'s true name, recognizing her parents). Scored very low because there is no real villainy to defeat — every challenge is overcome through empathy, courage, and self-discovery rather than confrontation.',
+    culturalReachPct: 18,
+    reachReasoning: '$10.1M domestic in its initial limited US release (2002) — expanded to $15M total. Won the Best Animated Feature Oscar in 2003, boosting its profile significantly. However, US theatrical distribution by Disney was limited (151 theaters at widest). DVD sales were strong among animation enthusiasts and introduced the film to a broader audience over time. Became the highest-grossing film in Japanese history ($274M). In the US, it\'s widely known among cinephiles and anime fans but the majority of American children of the early 2000s did not see it during its peak window.',
   },
   {
     title: 'Ice Age',
@@ -834,6 +850,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Blue Sky Studios',
     conflictScore: 0.65,
     reasoning: 'Soto is a genuine villain — a saber-toothed tiger pack leader who plans to kill and eat a human baby as revenge for humans hunting his pack. The climax is a direct physical confrontation where Diego turns against Soto and Manny fights him, ending with Soto\'s death by falling icicles. However, the film\'s emotional core is the found-family bond between Manny, Sid, and Diego — three misfits who learn to care for each other. Diego\'s arc is resolved through empathy (his growing attachment to the baby and the group overrides his predatory mission), and Manny\'s grief over his lost family is healed through connection, not combat. Scored at 0.65 because a real villain with lethal stakes is defeated through confrontation, but the deeper resolution is about trust, friendship, and chosen family.',
+    culturalReachPct: 80,
+    reachReasoning: '$176.4M domestic — the #3 film of 2002 overall. Approximately 42M adjusted admissions. Spawned four sequels, making it one of the most commercially successful animated franchises ($3.2B worldwide across the series). Massive DVD sales and constant TV airings on Fox/FX networks. Scrat became an iconic character. The franchise\'s ubiquity through the 2000s and 2010s means cumulative reach far exceeds the original theatrical run. A major hit among early 2000s kids.',
   },
   {
     title: 'Lilo & Stitch',
@@ -842,6 +860,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.30,
     reasoning: 'Captain Gantu and the Galactic Federation serve as antagonists, but they are institutional enforcers rather than true villains — Gantu is following orders, and the Grand Councilwoman ultimately relents. Dr. Jumba hunts Stitch but eventually joins the family. The film\'s real conflict is entirely emotional: Lilo is a lonely, grieving girl at risk of being taken from her sister Nani by social services, and Stitch is a creature engineered for destruction who has no concept of family. Resolution comes through love, belonging, and the concept of ohana — Stitch chooses family over his destructive programming, and the found-family unit convinces even the aliens to let them stay together. Scored low because the conflict is fundamentally about loneliness and belonging, resolved through empathy and connection rather than defeating evil.',
+    culturalReachPct: 75,
+    reachReasoning: '$145.8M domestic — a surprise hit for Disney\'s hand-drawn animation division. Approximately 35M adjusted admissions. Spawned a popular Disney Channel TV series (2003–2006), a direct-to-video sequel, and extensive theme park presence (Stitch\'s Great Escape at Magic Kingdom). DVD sales were very strong. "Ohana means family" became a widely quoted cultural touchstone. Stitch merchandise remains a top Disney seller globally. A major presence in the childhoods of early 2000s kids.',
   },
   {
     title: 'Spirit: Stallion of the Cimarron',
@@ -850,6 +870,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'DreamWorks Animation',
     conflictScore: 0.70,
     reasoning: 'The Colonel is a real antagonist who captures Spirit, attempts to break his will through starvation and force, and pursues him relentlessly — the conflict involves genuine physical stakes including captivity, forced labor, and threat of death. The climax is a dramatic chase and confrontation ending with Spirit\'s impossible canyon jump. However, the Colonel is not evil — he is a determined military officer representing institutional authority, and the resolution includes his grudging nod of respect as he lets Spirit go free rather than being defeated or destroyed. Scored at 0.70 because the conflict is genuinely external with real confrontation, but the antagonist is more systemic force than villain, and the ending blends escape with mutual recognition rather than pure triumph over evil.',
+    culturalReachPct: 40,
+    reachReasoning: '$73.3M domestic — modest for a DreamWorks animated feature. Approximately 17M adjusted admissions. The unconventional choice to have the horse protagonist not speak (narrated by Matt Damon) limited mass-market appeal with younger children. Bryan Adams soundtrack was a hit. DVD sales were decent. The film has a devoted fanbase but was not a defining title of its era for most American kids. Overshadowed by Ice Age, Lilo & Stitch, and Spider-Man in its release summer.',
   },
   {
     title: 'Treasure Planet',
@@ -858,6 +880,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.60,
     reasoning: 'John Silver is a genuine villain — a cyborg pirate who orchestrates a mutiny, threatens the crew, and is willing to kill to reach Treasure Planet\'s hoard. The climax involves real confrontation as Jim and the loyalists fight the pirate crew. However, Silver also becomes Jim\'s surrogate father, filling the void left by Jim\'s absent dad, and the emotional core of the film is their bond. Silver ultimately saves Jim\'s life instead of taking the treasure, choosing love over greed — his arc resolves through empathy, not defeat. Jim\'s own arc is deeply internal: a troubled teen transforming into a confident young man through mentorship. Scored at 0.60 because real villainy and physical stakes drive the plot, but the resolution hinges on a father-son bond and the villain\'s redemption rather than his destruction.',
+    culturalReachPct: 25,
+    reachReasoning: '$38M domestic against a $140M budget — one of Disney\'s biggest box office bombs, losing an estimated $70–100M. Approximately 9M adjusted admissions. The sci-fi reimagining of Treasure Island failed to connect with mainstream audiences. Modest DVD sales. Has developed a passionate cult following in the 2010s–2020s (especially on social media), but during its release window very few American children saw it. Its theatrical failure contributed to Disney\'s decision to abandon traditional 2D animation.',
   },
   {
     title: 'Brother Bear',
@@ -866,6 +890,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.20,
     reasoning: 'There is no real villain — the conflict is a tragic cycle of revenge born from grief and misunderstanding. Kenai kills a bear to avenge his brother Sitka, only to be transformed into a bear himself and discover the bear he killed was Koda\'s mother. Denahi hunts Kenai-as-bear with lethal intent, but he is a grieving brother, not a villain. The climax resolves entirely through empathy: Kenai confesses his guilt to Koda, the Great Spirits intervene, and Kenai chooses to remain a bear to become Koda\'s family. Scored very low because every antagonist is motivated by grief rather than malice, and resolution comes through understanding, love, and self-sacrifice rather than defeating evil.',
+    culturalReachPct: 40,
+    reachReasoning: '$85.3M domestic — modest for a Disney animated feature but not a flop. Approximately 19M adjusted admissions. Released during Disney\'s post-Renaissance decline and overshadowed by Finding Nemo earlier that year. Phil Collins soundtrack was a moderate success. DVD sales were decent, and Disney Channel airings provided additional reach. Known among kids of the era but not a defining title — most children could name it but many didn\'t see it.',
   },
   {
     title: 'Finding Nemo',
@@ -874,6 +900,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Pixar',
     conflictScore: 0.25,
     reasoning: 'There is no real villain — the film\'s threats (barracuda, sharks, jellyfish, anglerfish) are environmental hazards, not antagonists with intent. The dentist who captures Nemo is oblivious, not malicious, and the sharks are actively trying not to eat fish. The true conflict is entirely internal: Marlin\'s paralyzing overprotectiveness born from trauma versus Nemo\'s need for independence. Resolution comes through personal growth and trust — Marlin learns to let go, Nemo proves his capability, and father and son reach mutual understanding. Scored very low because the story is fundamentally about a parent overcoming fear through empathy and trust, not about defeating evil.',
+    culturalReachPct: 95,
+    reachReasoning: '$380.8M domestic — the #1 film of 2003 (animated or live-action). Approximately 85M adjusted admissions. The best-selling DVD of all time at that point (over 40M units). Spawned a sequel (Finding Dory, 2016) and major theme park attractions (The Seas with Nemo at EPCOT, Nemo submarine ride at Disneyland). Characters became ubiquitous in merchandise, dentist office fish tanks, and popular culture. "Just keep swimming" entered the lexicon. One of the highest-reach animated films ever made — virtually every American child of the 2000s saw it.',
   },
   {
     title: 'Sinbad: Legend of the Seven Seas',
@@ -882,6 +910,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'DreamWorks Animation',
     conflictScore: 0.70,
     reasoning: 'Eris, the Goddess of Chaos, is a genuine supernatural villain with malicious intent — she steals the Book of Peace, frames Sinbad, and aims to plunge the world into chaos purely for her own amusement. The stakes are real: Prince Proteus faces execution, and civilization itself is threatened. Sinbad battles sea monsters, sirens, and a giant ice bird that Eris conjures as lethal obstacles. However, the climax resolves not through combat but through Sinbad\'s moral growth — he defeats Eris by choosing self-sacrifice over self-preservation, answering her challenge with honesty. Scored at 0.70 because the villain is unambiguously evil and the external threats are deadly, but the resolution hinges on Sinbad\'s internal transformation from selfish rogue to loyal friend willing to die for what\'s right.',
+    culturalReachPct: 18,
+    reachReasoning: '$26.5M domestic against a $60M budget — a major flop that contributed to DreamWorks abandoning traditional 2D animation. Approximately 6M adjusted admissions. Released in the shadow of Finding Nemo, which dominated the summer. Minimal DVD impact. The film is largely forgotten by the general public, though it has a small online cult following. Very few American children of the 2003 era saw this film.',
   },
   {
     title: 'Home on the Range',
@@ -890,6 +920,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.70,
     reasoning: 'Alameda Slim is a genuine villain — a cattle rustler who uses hypnotic yodeling to steal herds across the West, then buys up the foreclosed ranches through a disguised alter ego to build a land empire. The conflict is entirely external: three dairy cows must capture Slim to collect the bounty and save their farm from foreclosure. The climax is a direct physical confrontation where the cows outsmart and hog-tie Slim, delivering him to the sheriff. Scored at 0.70 because the villain is real and defeated through confrontation, but his comedic tone (weaponized yodeling, bumbling nephews) and the moderate stakes (farm foreclosure rather than life-or-death) reduce the menace well below films with genuinely threatening antagonists.',
+    culturalReachPct: 22,
+    reachReasoning: '$50M domestic against a $110M budget — a significant underperformer and one of Disney\'s weakest animated releases. Approximately 11M adjusted admissions. Widely panned by critics and audiences. This was Disney\'s last traditionally animated theatrical release for five years (until The Princess and the Frog). DVD sales were modest. Most American children of the era skipped this entirely — it was overshadowed by Shrek 2, The Incredibles, and SpongeBob in 2004.',
   },
   {
     title: 'Howl\'s Moving Castle',
@@ -898,6 +930,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Studio Ghibli',
     conflictScore: 0.25,
     reasoning: 'The Witch of the Waste begins as a clear villain — she curses Sophie into an old woman out of jealousy — but is systematically stripped of her power and becomes a sympathetic, doddering old woman who joins the household. Madame Suliman serves as a secondary antagonist representing institutional authority and warmongering, but she is pragmatic rather than evil. The background war is portrayed as faceless, senseless destruction with no villain behind it. The true conflict is internal: Sophie\'s struggle with self-worth and Howl\'s fear of losing his humanity. Resolution comes entirely through love and empathy — Sophie breaks Howl\'s curse through her emotional bond with him, and the war simply ends. Scored low because the film deliberately subverts villainy at every turn, transforming antagonists into sympathetic figures and resolving all conflict through compassion rather than confrontation.',
+    culturalReachPct: 15,
+    reachReasoning: '$4.7M domestic in limited US release (2005, distributed by Disney). The film was a massive hit in Japan ($190M) but had minimal US theatrical distribution. DVD sales introduced it to a broader American audience over time, particularly among anime fans and Miyazaki devotees. Much better known today than in 2004–2005, but during its peak cultural window very few American children encountered it.',
   },
   {
     title: 'Shark Tale',
@@ -906,6 +940,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'DreamWorks Animation',
     conflictScore: 0.40,
     reasoning: 'Don Lino is a shark mob boss who runs an organized crime family and poses a genuine physical threat — he orders hits, intimidates the reef, and pursues Oscar with lethal intent when he believes Oscar killed his son Frankie. However, Frankie\'s death was an accident (killed by a falling anchor), and Oscar\'s entire hero status is a lie he fabricated for fame. The real conflict is internal: Oscar\'s obsession with status and his web of deception, plus Lenny\'s struggle to be accepted as a vegetarian shark by his mafia father. Resolution comes through confession and acceptance — Oscar publicly admits his lies, Lenny comes out to Don Lino, and the mob boss ultimately accepts his son for who he is. Scored at 0.40 because while the shark mafia provides genuine external menace, the resolution is entirely about honesty, self-acceptance, and a father embracing his son rather than defeating a villain.',
+    culturalReachPct: 55,
+    reachReasoning: '$160.9M domestic — a solid box office performer driven by star power (Will Smith, Robert De Niro, Jack Black). Approximately 35M adjusted admissions. DVD sales were strong. However, widely perceived as a lesser Finding Nemo knockoff and critically panned. The film has not aged well culturally — no sequels, no franchise. Kids of the era saw it but it left minimal lasting impression compared to its contemporaries. Solid wide release reach but not a generational touchstone.',
   },
   {
     title: 'Shrek 2',
@@ -914,6 +950,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'DreamWorks Animation',
     conflictScore: 0.55,
     reasoning: 'The Fairy Godmother is a genuine villain — she manipulates King Harold through blackmail, conspires to replace Shrek with Prince Charming, and attempts to use a love potion to force Fiona into a false marriage. She is ultimately destroyed when King Harold reflects her magic bolt back at her, a direct confrontation. However, much of the film\'s conflict is internal: Shrek\'s deep insecurity about being good enough for Fiona, and King Harold\'s struggle between his deal with the Fairy Godmother and his love for his daughter. The emotional resolution comes through acceptance — Fiona chooses ogre Shrek, and Harold learns to accept him. Scored at 0.55 because the villain is real and defeated by force, but approximately half the film\'s conflict is rooted in self-doubt, family tension, and misunderstanding resolved through love and acceptance rather than confrontation.',
+    culturalReachPct: 92,
+    reachReasoning: '$441.2M domestic — the #1 film of 2004 (animated or live-action) and the highest-grossing animated film at that point. Approximately 92M adjusted admissions. Massive DVD sales (over 40M units). "I Need a Hero" Fairy Godmother sequence became iconic. Held the animated film box office record until Toy Story 3. The Shrek franchise was at peak cultural saturation — virtually every American child of the mid-2000s saw this sequel.',
   },
   {
     title: 'The Incredibles',
@@ -922,6 +960,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Pixar',
     conflictScore: 0.85,
     reasoning: 'Syndrome is one of Pixar\'s most unambiguously evil villains — a rejected fanboy turned supervillain who systematically murders heroes using his Omnidroid, lures the Parr family to his island to kill them, and launches a giant robot attack on a city to stage a fake rescue. The stakes are life-and-death throughout, and the climax is pure physical confrontation: the family fights the Omnidroid together, and Syndrome is killed by a jet turbine. Bob Parr\'s midlife crisis and the family\'s strained dynamics add internal texture, but these are secondary to the external villain-driven plot. Scored at 0.85 because the villain is genuinely murderous, the conflict is overwhelmingly external, and resolution comes through combat and teamwork rather than empathy or understanding.',
+    culturalReachPct: 88,
+    reachReasoning: '$261.4M domestic — the #2 animated film of 2004 behind Shrek 2. Approximately 55M adjusted admissions. Won the Best Animated Feature Oscar. Massive DVD sales. Spawned a hit sequel (Incredibles 2, 2018, which earned $608M domestic). Characters are a major presence in Disney theme parks. Widely regarded as one of Pixar\'s best films. Nearly every American child of the mid-2000s saw this — only slightly below Shrek 2 and Finding Nemo in this era\'s reach.',
   },
   {
     title: 'The SpongeBob SquarePants Movie',
@@ -930,6 +970,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Nickelodeon Movies',
     conflictScore: 0.65,
     reasoning: 'Plankton is a clear villain who executes an elaborate scheme — stealing King Neptune\'s crown to frame Mr. Krabs, enslaving Bikini Bottom with mind-control bucket helmets, and hiring a hitman (Dennis) to kill SpongeBob and Patrick. The stakes are real: Krabs faces execution, the city is enslaved, and the heroes face lethal threats throughout their journey to Shell City. Resolution is largely confrontational — SpongeBob uses the crown\'s power channeled through a rock guitar solo to break Plankton\'s mind control, and Plankton is arrested. However, the emotional core is SpongeBob\'s internal arc about being dismissed as "just a kid" and proving his worth through perseverance and self-belief, which tempers the pure villain-defeat resolution. Scored at 0.65 because the villain and external stakes are genuine, but the heart of the film is a coming-of-age journey resolved through self-confidence rather than pure confrontation.',
+    culturalReachPct: 75,
+    reachReasoning: '$140.2M domestic — a strong performer driven by the massive popularity of the Nickelodeon TV series (which peaked at ~60M monthly viewers in this era). Approximately 30M adjusted admissions. SpongeBob was arguably the most popular children\'s TV character of the 2000s, and the film capitalized on that built-in audience. DVD sales were huge. The TV show\'s omnipresence on Nickelodeon ensured most kids saw the movie or were deeply familiar with the characters. Franchise reach amplifies the film\'s standalone numbers significantly.',
   },
   {
     title: 'Chicken Little',
@@ -938,6 +980,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.20,
     reasoning: 'The aliens who attack Oakey Oaks are not villains — they are panicked parents searching for their lost child Kirby, whose hexagonal sky panel Chicken Little mistook for a piece of falling sky. The external threat is entirely a misunderstanding resolved by returning the baby alien, at which point the aliens instantly cease their attack and even repair the town. The real conflict is internal and relational: Chicken Little\'s desperate need for credibility after being humiliated by the "sky is falling" incident, and his father Buck Cluck\'s failure to believe in or stand up for his son. Resolution comes through empathy and acceptance — Buck finally supports Chicken Little publicly, and father and son reconcile. Scored at 0.20 because this is a near-textbook "imagined villain, conflict-as-misunderstanding" film, with the only bump above 0.0 being the genuine physical danger during the brief alien attack sequence.',
+    culturalReachPct: 50,
+    reachReasoning: '$135.4M domestic — Disney\'s first fully CGI-animated film (without Pixar). Approximately 28M adjusted admissions. Marketed heavily by Disney as their post-2D future. Critics were harsh but the Disney brand and heavy marketing drove solid opening-weekend and family attendance. DVD sales were decent. However, the film left no lasting cultural mark — no franchise, no sequel, quickly forgotten. Kids of 2005 saw it but it didn\'t become a touchstone.',
   },
   {
     title: 'Hoodwinked!',
@@ -946,6 +990,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Kanbar Entertainment',
     conflictScore: 0.50,
     reasoning: 'Boingo the bunny is an unambiguous villain — secretly the "Goody Bandit" running a criminal recipe-theft empire, he kidnaps Granny, ties up the heroes, and attempts to destroy them with dynamite in a mine-cart climax resolved through physical confrontation. However, the film\'s Rashomon structure means most of the runtime is devoted to showing how misunderstandings drove false conflicts between the protagonists: the Wolf is an investigative reporter mistaken for a predator, the Woodsman is a failed actor rather than a threat, and Granny is an extreme-sports enthusiast rather than a helpless old woman. Scored at 0.50 because the film is genuinely split — it has a real villain defeated by force, but its core theme and structure are about how assumptions and miscommunication create false conflict.',
+    culturalReachPct: 28,
+    reachReasoning: '$51.4M domestic — a modest performer for an independent animated film with a $15M budget, making it profitable. Approximately 11M adjusted admissions. Crude animation quality (widely mocked) limited its appeal despite clever writing. Got a theatrical sequel (Hood vs. Evil). DVD sales were decent and Cartoon Network/cable airings expanded reach. Known among kids of the era but not widely seen — a niche title that punched above its weight financially but below it culturally.',
   },
   {
     title: 'Madagascar',
@@ -954,6 +1000,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'DreamWorks Animation',
     conflictScore: 0.30,
     reasoning: 'The fossa are genuine predators who terrorize the lemurs and pose a real physical threat, but they are minor antagonists — not the engine of the story. The central conflict is internal: Alex the lion discovers his predatory instincts emerging in the wild, turning him into a danger to his best friend Marty. The friends\' core disagreement (Marty\'s longing for freedom vs. Alex\'s attachment to zoo life) is relational, not villain-driven. Resolution comes through self-understanding and friendship — Alex overcomes his instincts because his bond with Marty matters more, and the group reconciles. The fossa are briefly scared off by Alex in the climax, but this is a footnote, not the emotional payoff. Scored at 0.30 because the film\'s conflict is overwhelmingly internal and relational, resolved through empathy and self-acceptance rather than defeating evil.',
+    culturalReachPct: 75,
+    reachReasoning: '$193.6M domestic — the #2 animated film of 2005 behind only the juggernaut that was the year\'s overall slate. Approximately 40M adjusted admissions. Spawned three sequels and a DreamWorks franchise. "I Like to Move It" became a kid-culture earworm. The penguins became breakout characters with their own Nickelodeon TV series and spinoff film. Massive DVD sales. DreamWorks marketed this heavily and it delivered — a major hit among mid-2000s kids, though not quite at Shrek/Nemo/Incredibles tier.',
   },
   {
     title: 'Robots',

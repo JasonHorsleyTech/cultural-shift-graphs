@@ -1411,4 +1411,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.30,
     reasoning: 'The apparent villain Te Kā is actually Te Fiti — a benevolent creator goddess corrupted after Maui stole her heart. Te Kā presents real physical danger with life-threatening lava attacks, but the "villainy" is a misunderstanding: she is wounded and lashing out, not evil. Maui\'s attempts to defeat Te Kā through physical confrontation all fail; resolution comes only when Moana walks toward Te Kā with compassion, recognizes her true identity, and restores the heart through empathy. Scored at 0.30 because while genuine physical stakes exist, the core conflict is a misunderstanding resolved entirely through empathy and emotional recognition rather than defeating a villain.',
   },
+  {
+    title: 'Sing',
+    releaseYear: 2016,
+    decade: '2010s',
+    studio: 'Illumination Entertainment',
+    conflictScore: 0.15,
+    reasoning: 'There is no real villain — conflicts are almost entirely internal and personal. Buster Moon faces financial ruin from his own deception, Ash deals with a dismissive boyfriend, Johnny defies his criminal father\'s expectations, Meena battles stage fright, and Rosita struggles to be seen beyond her role as a mother. The theater literally collapses, but resolution comes through self-expression, mutual support, and community rather than defeating any antagonist. Scored at 0.15 because the negligible external threats (bears chasing Mike, Johnny\'s father\'s gang) are peripheral subplots, and the core message is that personal courage and creative passion overcome self-doubt.',
+  },
 ]

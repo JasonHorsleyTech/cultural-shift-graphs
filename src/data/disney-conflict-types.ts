@@ -1843,4 +1843,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.55,
     reasoning: 'Chelsea Van Der Zee is a genuine villain — a shape-shifting mermaid who poses as a friendly new student to manipulate Ruby into retrieving a powerful trident, then reveals her true nature as a kraken-hunting siren intent on destroying Ruby\'s family. She is defeated through direct physical confrontation when Ruby fully embraces her kraken powers in an ocean battle. However, the emotional core is Ruby\'s internal journey: struggling with her teenage identity, learning to accept her true kraken nature she\'s been hiding, and reconciling with her overprotective grandmother whose secrecy drove much of the tension. Scored mid-range because a real villain with genuine stakes is defeated through confrontation, but the narrative weight falls on self-acceptance and family trust.',
   },
+  {
+    title: 'Spider-Man: Across the Spider-Verse',
+    releaseYear: 2023,
+    decade: '2020s',
+    studio: 'Sony Pictures Animation',
+    conflictScore: 0.70,
+    reasoning: 'The Spot is a genuine villain whose powers escalate from comedic to existential multiverse-level threat, and Miguel O\'Hara functions as a secondary antagonist who physically hunts Miles for refusing to let his father die as a "canon event." The conflict is resolved through defiance and physical confrontation — Miles fights his way out of Spider-Society and refuses to accept the system\'s demands. Scored below 0.8 because the film heavily layers identity and belonging themes (Miles told he\'s an anomaly who shouldn\'t exist) alongside its villain conflict, and the story ends on a cliffhanger without full resolution.',
+  },
 ]

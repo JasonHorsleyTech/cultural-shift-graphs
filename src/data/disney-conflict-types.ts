@@ -635,4 +635,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.80,
     reasoning: 'The Drej are unambiguous alien villains who destroy Earth and actively hunt humanity to extinction — the stakes are existential genocide. The climax is direct confrontation: Cale activates the Titan which absorbs the Drej\'s energy, destroying them entirely while creating a new planet. Captain Korso\'s betrayal adds a secondary villain layer, though he redeems himself through sacrifice. Scored at 0.80 because the villains are real, the stakes are life-or-death for the entire species, and defeat comes through confrontation, but Cale\'s internal arc from directionless drifter to humanity\'s savior and Korso\'s redemption add meaningful internal and empathy-driven threads.',
   },
+  {
+    title: 'Atlantis: The Lost Empire',
+    releaseYear: 2001,
+    decade: '2000s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.75,
+    reasoning: 'Commander Rourke is a genuine villain — a mercenary who betrays the expedition team and plans to steal the Heart of Atlantis for profit, which would destroy the Atlantean civilization and kill Kida. The climax features direct physical confrontation: Milo rallies Atlantean warriors and the loyal crew against Rourke\'s mercenaries in an aerial battle, and Rourke is crystallized and shattered. Scored at 0.75 because the villain is real with life-or-death stakes and defeat comes through confrontation, but Milo\'s arc is fundamentally about cultural understanding and scholarly curiosity, and the ultimate resolution relies on the spiritual power of the Heart of Atlantis as much as on combat.',
+  },
 ]

@@ -939,4 +939,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.15,
     reasoning: 'There is no villain. Fujimoto, Ponyo\'s father, tries to bring her back to the ocean, but he is a caring parent concerned about the balance of nature — not an antagonist with malicious intent. The central conflict is Ponyo\'s desire to become human and be with Sōsuke, and the magical imbalance (a massive flood) her transformation causes. Resolution comes entirely through love and acceptance: Sōsuke must prove he accepts Ponyo unconditionally, and Granmamare (Ponyo\'s sea-goddess mother) grants the transformation. No one is defeated or confronted. Scored at 0.15 because the film has no villain whatsoever, and every conflict is resolved through empathy, parental love, and a child\'s unconditional acceptance.',
   },
+  {
+    title: 'WALL-E',
+    releaseYear: 2008,
+    decade: '2000s',
+    studio: 'Pixar',
+    conflictScore: 0.40,
+    reasoning: 'AUTO, the Axiom\'s autopilot, is a genuine antagonist who tasers WALL-E, ejects him and EVE into space, and physically fights Captain McCrea to prevent humanity\'s return to Earth. However, AUTO is not evil — he is faithfully executing a corporate directive (A113) and has no malice or personal agenda. The climax includes a real physical confrontation (McCrea wrestles AUTO and manually overrides him), but the film\'s emotional core is WALL-E\'s love for EVE and humanity\'s internal journey from complacent consumerism to choosing responsibility. Scored at 0.40 because a real antagonist exists and is physically defeated, but the villain acts from programming rather than malice, and the deeper resolution is about love, connection, and humanity rediscovering what makes life worth living.',
+  },
 ]

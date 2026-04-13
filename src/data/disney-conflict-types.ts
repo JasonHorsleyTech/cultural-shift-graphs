@@ -971,4 +971,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.45,
     reasoning: 'Rudy, a massive albino Baryonyx, is a genuine physical threat who attacks the herd multiple times throughout the underground dinosaur world, and the climax involves a direct confrontation where Momma Dino knocks him off a cliff. However, Rudy is a territorial predator, not a villain with evil intent — he is simply a dangerous animal. The inciting "conflict" with Momma Dino is actually a misunderstanding: Sid took her eggs, and she just wants her babies back. The deeper arcs are all internal — Manny\'s anxiety about becoming a father, Diego questioning whether he\'s gone soft, and Sid\'s desperate need to feel needed driving him to "adopt" dinosaur eggs. Scored at 0.45 because real physical danger exists and requires confrontation, but there is no true villain, and the emotional resolution centers on the characters\' growth around family, identity, and belonging.',
   },
+  {
+    title: 'Monsters vs. Aliens',
+    releaseYear: 2009,
+    decade: '2000s',
+    studio: 'DreamWorks Animation',
+    conflictScore: 0.70,
+    reasoning: 'Gallaxhar is a genuine villain with explicit evil intent — he destroyed his own planet, sends a giant robot to Earth, captures Susan to extract her quantonium, and clones an army to conquer Earth. The conflict is entirely external and resolved through direct physical confrontation: the monsters storm Gallaxhar\'s ship, Susan regains her power, defeats him, and destroys the ship. However, the film\'s comedic tone significantly undercuts Gallaxhar\'s menace compared to darker antagonists, and Susan\'s internal arc — growing from a passive people-pleaser dominated by her controlling fiancé into a confident, self-reliant hero — is a meaningful secondary theme. Scored at 0.70 because a real villain is defeated through confrontation, but the lighter tone and prominent empowerment subplot temper the score.',
+  },
 ]

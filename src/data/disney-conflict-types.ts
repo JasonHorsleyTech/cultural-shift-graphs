@@ -787,4 +787,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.20,
     reasoning: 'The aliens who attack Oakey Oaks are not villains — they are panicked parents searching for their lost child Kirby, whose hexagonal sky panel Chicken Little mistook for a piece of falling sky. The external threat is entirely a misunderstanding resolved by returning the baby alien, at which point the aliens instantly cease their attack and even repair the town. The real conflict is internal and relational: Chicken Little\'s desperate need for credibility after being humiliated by the "sky is falling" incident, and his father Buck Cluck\'s failure to believe in or stand up for his son. Resolution comes through empathy and acceptance — Buck finally supports Chicken Little publicly, and father and son reconcile. Scored at 0.20 because this is a near-textbook "imagined villain, conflict-as-misunderstanding" film, with the only bump above 0.0 being the genuine physical danger during the brief alien attack sequence.',
   },
+  {
+    title: 'Hoodwinked!',
+    releaseYear: 2005,
+    decade: '2000s',
+    studio: 'Kanbar Entertainment',
+    conflictScore: 0.50,
+    reasoning: 'Boingo the bunny is an unambiguous villain — secretly the "Goody Bandit" running a criminal recipe-theft empire, he kidnaps Granny, ties up the heroes, and attempts to destroy them with dynamite in a mine-cart climax resolved through physical confrontation. However, the film\'s Rashomon structure means most of the runtime is devoted to showing how misunderstandings drove false conflicts between the protagonists: the Wolf is an investigative reporter mistaken for a predator, the Woodsman is a failed actor rather than a threat, and Granny is an extreme-sports enthusiast rather than a helpless old woman. Scored at 0.50 because the film is genuinely split — it has a real villain defeated by force, but its core theme and structure are about how assumptions and miscommunication create false conflict.',
+  },
 ]

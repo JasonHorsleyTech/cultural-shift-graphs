@@ -1555,4 +1555,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.15,
     reasoning: 'There is no external villain — the central conflict is Ralph\'s insecurity and fear of losing Vanellope as his best friend, which leads him to sabotage her dream of racing in Slaughter Race. His neediness literally manifests as a giant virus-Ralph monster in the climax. Resolution comes entirely through emotional growth: Ralph must accept that true friendship means letting go and supporting someone\'s independence. Scored at 0.15 because the conflict is entirely internal/relational with no real antagonist, and the resolution is pure empathy and self-understanding.',
   },
+  {
+    title: 'Smallfoot',
+    releaseYear: 2018,
+    decade: '2010s',
+    studio: 'Warner Animation Group',
+    conflictScore: 0.15,
+    reasoning: 'There is no real villain — the Stonekeeper suppresses knowledge of humans to protect the Yeti village from historical persecution, making him a well-intentioned authority figure rather than an antagonist. The central conflict is a misunderstanding between species rooted in mutual fear and ignorance. Resolution comes through communication, transparency, and empathy as Migo brings Yetis and humans together, choosing truth over comfortable lies. Scored at 0.15 because the conflict is entirely about overcoming fear and misinformation with no villainy or confrontation.',
+  },
 ]

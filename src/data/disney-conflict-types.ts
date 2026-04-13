@@ -1323,4 +1323,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.15,
     reasoning: 'The entire conflict is built on layered misunderstandings. The Boov invade Earth not out of malice but out of fearful self-preservation, relocating humans like furniture. The Gorg — set up as a terrifying galactic villain — is revealed to be a single parent trying to recover its stolen eggs (children) that Captain Smek unknowingly took. Resolution comes entirely through communication and empathy: Oh and Tip bridge the human-Boov divide, and returning the eggs ends the Gorg conflict. Scored at 0.15 because no character is truly villainous and every conflict resolves through understanding rather than confrontation.',
   },
+  {
+    title: 'Hotel Transylvania 2',
+    releaseYear: 2015,
+    decade: '2010s',
+    studio: 'Sony Pictures Animation',
+    conflictScore: 0.35,
+    reasoning: 'The dominant conflict is Dracula\'s anxiety that his half-human grandson Dennis may not become a vampire — a generational and cultural misunderstanding resolved through family acceptance. A late-act villain, Bela (Vlad\'s bat-creature henchman), provides a genuine physical threat and is defeated through direct confrontation when Dennis\'s vampire powers finally emerge. However, Bela occupies only the final act; the majority of the film centers on Drac\'s misguided attempts to "scare" vampirism into Dennis and the broader theme of accepting loved ones as they are. Scored at 0.35 because while a real antagonist with physical stakes exists, the core conflict is about misunderstanding and acceptance resolved through empathy and family bonding.',
+  },
 ]

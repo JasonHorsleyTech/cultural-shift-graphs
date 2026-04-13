@@ -1659,4 +1659,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.55,
     reasoning: 'Dick Dastardly is an unambiguous villain with a deliberate scheme — he kidnaps Scooby-Doo, deploys robot minions, and plans to open the gates of the Underworld to release Cerberus. The heroes defeat him through direct confrontation and teamwork (Blue Falcon and the Scooby gang physically stop his plan). However, Dastardly\'s motivation is ultimately sympathetic — he just wants to reunite with his trapped dog Muttley — and the film\'s emotional core is the Shaggy-Scooby friendship being tested and reaffirmed through loyalty rather than combat. Scored in the middle because a real villain with real stakes is confronted and defeated, but the heart of the story is about friendship and the antagonist is driven by love, not malice.',
   },
+  {
+    title: 'Soul',
+    releaseYear: 2020,
+    decade: '2020s',
+    studio: 'Pixar Animation Studios',
+    conflictScore: 0.10,
+    reasoning: 'There is no villain — Terry, the cosmic accountant chasing Joe\'s soul, is a bureaucratic nuisance rather than a malicious antagonist. The entire conflict is internal and existential: Joe Gardner\'s single-minded obsession with his jazz dream blinds him to the everyday beauty of being alive, and 22\'s refusal to go to Earth stems from a deep fear of not being enough. Resolution comes through self-understanding and empathy — Joe realizes his "spark" was never about jazz but about appreciating life itself, and he helps 22 find her own reason to embrace living. Scored near the floor because the film is a meditation on purpose and meaning with zero villainy or confrontation.',
+  },
 ]

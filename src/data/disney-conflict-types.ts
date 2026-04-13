@@ -795,4 +795,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.50,
     reasoning: 'Boingo the bunny is an unambiguous villain — secretly the "Goody Bandit" running a criminal recipe-theft empire, he kidnaps Granny, ties up the heroes, and attempts to destroy them with dynamite in a mine-cart climax resolved through physical confrontation. However, the film\'s Rashomon structure means most of the runtime is devoted to showing how misunderstandings drove false conflicts between the protagonists: the Wolf is an investigative reporter mistaken for a predator, the Woodsman is a failed actor rather than a threat, and Granny is an extreme-sports enthusiast rather than a helpless old woman. Scored at 0.50 because the film is genuinely split — it has a real villain defeated by force, but its core theme and structure are about how assumptions and miscommunication create false conflict.',
   },
+  {
+    title: 'Madagascar',
+    releaseYear: 2005,
+    decade: '2000s',
+    studio: 'DreamWorks Animation',
+    conflictScore: 0.30,
+    reasoning: 'The fossa are genuine predators who terrorize the lemurs and pose a real physical threat, but they are minor antagonists — not the engine of the story. The central conflict is internal: Alex the lion discovers his predatory instincts emerging in the wild, turning him into a danger to his best friend Marty. The friends\' core disagreement (Marty\'s longing for freedom vs. Alex\'s attachment to zoo life) is relational, not villain-driven. Resolution comes through self-understanding and friendship — Alex overcomes his instincts because his bond with Marty matters more, and the group reconciles. The fossa are briefly scared off by Alex in the climax, but this is a footnote, not the emotional payoff. Scored at 0.30 because the film\'s conflict is overwhelmingly internal and relational, resolved through empathy and self-acceptance rather than defeating evil.',
+  },
 ]

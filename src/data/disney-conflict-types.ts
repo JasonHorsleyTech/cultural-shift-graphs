@@ -619,4 +619,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.65,
     reasoning: 'Kron is a real antagonist — a brutal herd leader who enforces survival of the fittest, abandoning the weak to die, and the Carnotaurs are genuine predatory threats with life-or-death stakes. The climax features direct physical confrontation: Aladar fights Kron, and the herd unites to push the Carnotaurus off a cliff. However, the film\'s core theme is empathy vs. ruthlessness — Aladar\'s arc is about convincing others to care for the vulnerable rather than simply defeating evil. Scored at 0.65 because real villains and physical confrontation are present, but the dominant resolution is compassion and community triumphing over brutal individualism.',
   },
+  {
+    title: 'The Road to El Dorado',
+    releaseYear: 2000,
+    decade: '2000s',
+    studio: 'DreamWorks Animation',
+    conflictScore: 0.65,
+    reasoning: 'Tzekel-Kan is a genuine villain — a power-hungry high priest who practices human sacrifice, summons a massive stone jaguar to attack the city, and ultimately betrays El Dorado to Hernán Cortés. The climax features direct physical confrontation with the stone jaguar and a race to stop Cortés from conquering the city. However, Cortés is thwarted by cleverness (collapsing the entrance) rather than combat, and the film\'s emotional core is the strained friendship between Tulio and Miguel — torn between greed for gold and genuine love for El Dorado and each other. Scored at 0.65 because a real villain and physical stakes are present, but the resolution blends confrontation with self-sacrifice (giving up the gold) and reconciliation of friendship.',
+  },
 ]

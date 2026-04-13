@@ -1187,4 +1187,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.40,
     reasoning: 'Chester V is a genuine villain — a deceptive corporate manipulator who exploits Flint\'s hero worship to gain access to the FLDSMDFR for mass-producing his Food Bar product. However, the film\'s central conflict is fundamentally a misunderstanding: Flint is tricked into believing the foodimals are dangerous monsters when they are actually peaceful creatures living in a natural ecosystem. Resolution comes from Flint recognizing the truth, choosing empathy for the misunderstood foodimals over blind loyalty to his idol, and trusting his friends. Scored at 0.40 because while a real villain exists and is defeated (eaten by a cheesespider), the film\'s core thesis is about not judging by appearances — the fabricated "threat" is the real conflict, and understanding trumps confrontation.',
   },
+  {
+    title: 'Despicable Me 2',
+    releaseYear: 2013,
+    decade: '2010s',
+    studio: 'Illumination Entertainment',
+    conflictScore: 0.70,
+    reasoning: 'El Macho is an unambiguously evil villain — he kidnaps Gru\'s minions, mutates them into indestructible purple monsters using the stolen PX-41 serum, and plans world domination. The climax is a direct physical confrontation: Gru storms El Macho\'s lair, fights him after he injects himself with PX-41, and the mutant minions are cured with an antidote. However, the film\'s emotional core is Gru\'s personal growth — learning to open himself to romance with Lucy and navigating fatherhood — giving the villain plot a somewhat secondary feel. Scored at 0.70 because while the villain is genuine and defeated through direct confrontation with real stakes, the heart of the story is Gru\'s personal life, and the overall tone is comedic rather than dramatically high-stakes.',
+  },
 ]

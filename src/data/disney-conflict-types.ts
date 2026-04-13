@@ -867,4 +867,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.2,
     reasoning: 'There is no real villain — opposing lawyer Layton T. Montgomery is simply doing his job defending the honey industry, not acting out of malice. The central conflict is a systemic misunderstanding: Barry sues humanity for stealing honey, wins, and bees stop working, which causes flowers worldwide to die. Resolution comes entirely through Barry\'s own growth and realization that the ecosystem is interdependent, not through defeating an enemy. The film is fundamentally about a character learning he was wrong and fixing his mistake through empathy and cooperation. Scored at 0.20 because the conflict is almost entirely internal/misunderstanding-based with no antagonist to defeat.',
   },
+  {
+    title: 'Meet the Robinsons',
+    releaseYear: 2007,
+    decade: '2000s',
+    studio: 'Walt Disney Animation Studios',
+    conflictScore: 0.35,
+    reasoning: 'Bowler Hat Guy is technically a villain, but he is bumbling and sympathetic — his villainy stems from a childhood grudge over a missed baseball catch caused by Lewis keeping him awake. The true threat, DOR-15 (Doris), is defeated not through physical confrontation but by Lewis choosing not to invent her in the future. The film\'s resolution is fundamentally about internal growth: Lewis lets go of his need to find his birth mother, embraces his adoptive family, and chooses to "keep moving forward." Scored at 0.35 because while a villain exists, the antagonist is pathetic rather than menacing, and the conflict resolves through empathy, forgiveness, and the protagonist\'s change of mindset rather than defeating evil.',
+  },
 ]

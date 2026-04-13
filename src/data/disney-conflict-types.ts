@@ -1123,4 +1123,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.15,
     reasoning: 'There is no real villain. The central conflict is Dracula\'s overprotective fear of humans — rooted in his wife\'s death at the hands of an angry mob — which leads him to isolate his daughter Mavis in a monsters-only hotel and try to drive away the human backpacker Jonathan. Quasimodo the chef provides minor comedic menace (wanting to cook Jonathan) but is played entirely for laughs. The resolution is Dracula realizing his prejudice is outdated, that humans have changed, and racing to reunite Mavis with Jonathan — an act of empathy and personal growth. Scored at 0.15 because the conflict is almost entirely a misunderstanding based on fear and prejudice, resolved through acceptance and love rather than any confrontation with evil.',
   },
+  {
+    title: 'Ice Age: Continental Drift',
+    releaseYear: 2012,
+    decade: '2010s',
+    studio: 'Blue Sky Studios',
+    conflictScore: 0.7,
+    reasoning: 'Captain Gutt, a ruthless Gigantopithecus pirate, is a genuine villain who captures the heroes, threatens violence, and seeks revenge after they escape. The main conflict is resolved through direct physical confrontation — a climactic sea battle where Manny and friends defeat Gutt\'s crew, and Gutt himself is dispatched by a siren. Scored at 0.7 rather than higher because significant subplots involve family reconciliation (Manny reconnecting with teenage daughter Peaches) and the villain, while menacing, feels secondary to the continental-drift survival premise rather than being the story\'s central driving force.',
+  },
 ]

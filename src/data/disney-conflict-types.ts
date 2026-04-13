@@ -1891,4 +1891,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.60,
     reasoning: 'Maxime Le Mal is a genuine villain — a French supervillain from Gru\'s past at villain school who escapes prison, swears revenge, and transforms into a cockroach-human hybrid to become physically dangerous. He is defeated through direct confrontation when Gru battles him at the climax. Scored at 0.60 because while the villain is real with genuine stakes and is defeated through force, the film\'s emotional core centers on Gru bonding with baby Gru Jr. (who initially rejects him) and adjusting to witness protection life, and the heavily comedic tone — including the Mega Minions subplot — significantly dilutes the dramatic weight of the villain conflict.',
   },
+  {
+    title: 'Inside Out 2',
+    releaseYear: 2024,
+    decade: '2020s',
+    studio: 'Pixar',
+    conflictScore: 0.10,
+    reasoning: 'There is no external villain — Anxiety is a personified part of Riley\'s own psyche who takes over headquarters out of fear that Riley won\'t fit in at hockey camp. The conflict is entirely internal: an identity crisis during puberty as new emotions suppress the originals and try to reshape Riley\'s sense of self. Resolution comes through self-acceptance and emotional integration — Joy and the new emotions learn to coexist, and Riley embraces a complex, sometimes contradictory identity. This is as far toward the "no villain, internal conflict resolved through growth" end of the spectrum as an animated film gets.',
+  },
 ]

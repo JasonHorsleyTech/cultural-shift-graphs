@@ -1547,4 +1547,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.80,
     reasoning: 'Evelyn Deavor is a genuine villain with a calculated scheme — she poses as an ally while secretly using mind-control technology to hypnotize superheroes and stage a disaster to turn the public permanently against them. The stakes are real and the conflict is resolved through direct physical confrontation: Elastigirl fights Evelyn, the Parr family battles mind-controlled supers, and the villain is arrested. Scored at 0.80 rather than higher because Evelyn\'s motivation is rooted in sympathetic trauma (her father died because he called superheroes instead of hiding), lending a misunderstanding element, and a significant subplot involves Bob\'s internal struggle with parenting and jealousy.',
   },
+  {
+    title: 'Ralph Breaks the Internet',
+    releaseYear: 2018,
+    decade: '2010s',
+    studio: 'Walt Disney Animation Studios',
+    conflictScore: 0.15,
+    reasoning: 'There is no external villain — the central conflict is Ralph\'s insecurity and fear of losing Vanellope as his best friend, which leads him to sabotage her dream of racing in Slaughter Race. His neediness literally manifests as a giant virus-Ralph monster in the climax. Resolution comes entirely through emotional growth: Ralph must accept that true friendship means letting go and supporting someone\'s independence. Scored at 0.15 because the conflict is entirely internal/relational with no real antagonist, and the resolution is pure empathy and self-understanding.',
+  },
 ]

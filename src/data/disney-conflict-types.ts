@@ -659,4 +659,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.50,
     reasoning: 'Randall Boggs and CEO Waternoose are real villains — Randall builds a scream extractor to forcibly harvest children\'s screams, and Waternoose conspires to kidnap Boo to keep the company profitable. Both are defeated through direct confrontation: Randall is banished through a door and Waternoose is tricked into a confession and arrested. However, the film\'s deeper conflict is a systemic misunderstanding — monsters believe children are toxic and terrifying when they are not — resolved through Sulley\'s empathetic bond with Boo, ultimately transforming the entire industry from fear-based to laughter-based. Scored at 0.50 because real villainy and confrontation coexist equally with a thematic arc about overcoming fear through understanding and connection.',
   },
+  {
+    title: 'Shrek',
+    releaseYear: 2001,
+    decade: '2000s',
+    studio: 'DreamWorks Animation',
+    conflictScore: 0.55,
+    reasoning: 'Lord Farquaad is a genuine villain — he forcibly exiles fairytale creatures from his kingdom, tortures the Gingerbread Man for information, and schemes to marry Princess Fiona purely for political power. He is ultimately eaten by Dragon in a direct confrontation. However, the film\'s emotional core is about overcoming prejudice and self-acceptance: Shrek is feared and isolated because people assume ogres are monsters, and Fiona hides her ogre curse out of shame. The true resolution comes through Shrek and Fiona accepting themselves and each other for who they really are. Scored at 0.55 because a real villain exists and is physically defeated, but the deeper conflict is internal and societal — judging by appearances — resolved through love, empathy, and self-acceptance rather than heroic confrontation.',
+  },
 ]

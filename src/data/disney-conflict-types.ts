@@ -1155,4 +1155,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.60,
     reasoning: 'Pitch Black (the Boogeyman) is a genuine villain who attacks the Tooth Palace, corrupts dreams into nightmares, and destroys the Sandman — real life-and-death stakes. The climax is a direct confrontation where the Guardians battle Pitch and his Nightmare army, and Pitch is ultimately dragged underground by his own fearlings. However, the resolution hinges equally on internal growth and belief: Jack Frost\'s central arc is an identity crisis — he must discover his forgotten origin (dying to save his sister) and his "center" (fun/joy) before he can fight effectively. The turning point is not combat but Jamie choosing to believe despite fear, which restores the Guardians\' power. Pitch himself is partly sympathetic — driven by loneliness and the desire to be believed in. Scored at 0.60 because while a real villain with lethal stakes is defeated through confrontation, the film gives equal weight to Jack\'s self-discovery and frames children\'s courage and belief — not violence — as the true force that conquers fear.',
   },
+  {
+    title: 'The Lorax',
+    releaseYear: 2012,
+    decade: '2010s',
+    studio: 'Illumination Entertainment',
+    conflictScore: 0.30,
+    reasoning: 'Aloysius O\'Hare is a corporate antagonist who profits from selling bottled air and wants to stop Ted from planting a real tree, but the film\'s deeper conflict is environmental destruction caused by greed and indifference. The Once-ler\'s flashback arc — the central story — has no villain at all; the Lorax simply warns, is ignored, and leaves in sorrow ("Unless someone like you cares a whole awful lot, nothing is going to get better. It\'s not."). Resolution comes through guilt, responsibility, and collective awakening rather than confrontation. Scored at 0.30 because while O\'Hare provides a surface-level antagonist defeated by community action, the film\'s true message is about empathy for nature and taking personal responsibility — the Lorax resolves nothing through force.',
+  },
 ]

@@ -1507,4 +1507,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.35,
     reasoning: 'Francis E. Francis is a genuine villain with a real scheme to eliminate babies by making puppies irresistibly cute, but the film\'s core conflict is a sibling rivalry misunderstanding — Tim believes Boss Baby is stealing his parents\' love, when Boss Baby is actually on a corporate mission. Resolution comes through empathy and brotherly love as Tim and Boss Baby learn to cooperate and become a real family. Scored at 0.35 because while a villain exists, the emotional heart is the misunderstanding between brothers resolved through connection, not confrontation.',
   },
+  {
+    title: 'The Lego Batman Movie',
+    releaseYear: 2017,
+    decade: '2010s',
+    studio: 'Warner Animation Group',
+    conflictScore: 0.40,
+    reasoning: 'The Joker is a real villain with a real scheme — he surrenders to the Phantom Zone, frees its supervillains, and attacks Gotham — but his core motivation is emotional: he wants Batman to acknowledge him as his greatest enemy, making the villain\'s arc essentially about a relationship misunderstanding. The film\'s true conflict is entirely internal — Batman\'s fear of family and refusal to let anyone in after losing his parents. Resolution comes through Batman\'s emotional growth, accepting Robin, Barbara, and Alfred as family and working as a team, not through defeating the Joker in combat.',
+  },
 ]

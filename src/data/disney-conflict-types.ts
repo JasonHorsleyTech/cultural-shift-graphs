@@ -1451,4 +1451,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.25,
     reasoning: 'Chef is technically a villain, but the core conflict is a misunderstanding — the Bergens believe eating Trolls is the only way to feel happiness. Resolution comes entirely through empathy: Poppy teaches Bridget and the Bergens that happiness comes from within through love, friendship, and music, not from consuming others. Creek is a traitor motivated by self-preservation rather than malice. The film is a quintessential "conflict-as-false-belief resolved through empathy and connection" story, scored low because the real antagonist is ignorance, not evil.',
   },
+  {
+    title: 'Zootopia',
+    releaseYear: 2016,
+    decade: '2010s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.55,
+    reasoning: 'Bellwether is a real villain with a calculated conspiracy — she weaponizes a toxic serum to make predators go savage, exploiting societal prejudice for political power, and personally attempts to murder Judy and Nick. However, the film\'s emotional core is about overcoming bias: Judy herself harbors unconscious prejudice against predators that she must confront and apologize for, and the resolution emphasizes understanding across social divides. Scored at 0.55 because while a genuine villain with lethal stakes drives the plot, the deeper conflict is systemic prejudice resolved through empathy, self-awareness, and cross-group trust.',
+  },
 ]

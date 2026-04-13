@@ -1203,4 +1203,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.70,
     reasoning: 'Mandrake is a genuine, menacing villain — the leader of the Boggans, dark creatures of decay who seek to destroy the forest. He personally kills Queen Tara and wages war to prevent the succession pod from blooming, which would restore life to the forest. The climax is a direct physical battle between the Leafmen and the Boggans, resolved when MK and the Leafmen ensure the pod blooms in moonlight, defeating Mandrake\'s forces. However, MK\'s personal arc — being shrunk into this hidden world and reconnecting with her estranged, eccentric father — adds a meaningful internal dimension. Scored at 0.70 because the conflict is primarily a classic good-vs-evil war with a lethal villain defeated through confrontation, but MK\'s journey of understanding her father and the broader nature-vs-decay thematic framework temper the score below the most purely villain-driven films.',
   },
+  {
+    title: 'Frozen',
+    releaseYear: 2013,
+    decade: '2010s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.25,
+    reasoning: 'The central conflict is a misunderstanding — Elsa is feared as a monster but is not a villain; she flees out of self-imposed isolation after accidentally revealing her powers. The real antagonist, Prince Hans, is a late-act twist villain whose defeat is secondary to the emotional resolution. The climax is resolved not through confrontation but through Anna\'s act of true love (sacrificing herself for Elsa), which thaws the frozen kingdom and teaches Elsa that love controls her powers. Scored at 0.25 because the story is fundamentally about sisterly love overcoming fear and misunderstanding, with the nominal villain serving as a plot device rather than the core conflict.',
+  },
 ]

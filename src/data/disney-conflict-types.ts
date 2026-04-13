@@ -1563,4 +1563,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.15,
     reasoning: 'There is no real villain — the Stonekeeper suppresses knowledge of humans to protect the Yeti village from historical persecution, making him a well-intentioned authority figure rather than an antagonist. The central conflict is a misunderstanding between species rooted in mutual fear and ignorance. Resolution comes through communication, transparency, and empathy as Migo brings Yetis and humans together, choosing truth over comfortable lies. Scored at 0.15 because the conflict is entirely about overcoming fear and misinformation with no villainy or confrontation.',
   },
+  {
+    title: 'Spider-Man: Into the Spider-Verse',
+    releaseYear: 2018,
+    decade: '2010s',
+    studio: 'Sony Pictures Animation',
+    conflictScore: 0.80,
+    reasoning: 'Kingpin (Wilson Fisk) is a genuine villain who kills the original Spider-Man, builds a super-collider that threatens to destroy Brooklyn and multiple dimensions, and must be defeated in direct physical combat by Miles Morales. The stakes are real and the conflict is resolved through confrontation. Scored at 0.80 rather than higher because Miles\'s arc has a significant internal growth component — overcoming self-doubt and taking the "leap of faith" to become Spider-Man — and Kingpin\'s motivation is sympathetically rooted in grief over losing his wife and son.',
+  },
 ]

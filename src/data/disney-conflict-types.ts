@@ -1763,4 +1763,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.60,
     reasoning: 'Lulu the guinea pig is a genuine villain — a power-hungry former pet of Lex Luthor who gains orange kryptonite powers and captures the entire Justice League to prove her worth. She is defeated through direct physical confrontation by Krypto and the super-pets. However, the film\'s emotional throughline is Krypto\'s possessiveness over Superman and his inability to trust others, resolved through learning friendship and teamwork with Ace and the shelter pets. Scored slightly above mid-range because the villain is real and defeated through confrontation, but the narrative emphasizes Krypto\'s personal growth and learning to open his heart over the external threat.',
   },
+  {
+    title: 'Hotel Transylvania: Transformania',
+    releaseYear: 2022,
+    decade: '2020s',
+    studio: 'Sony Pictures Animation',
+    conflictScore: 0.15,
+    reasoning: 'There is no real villain — the central conflict is Drac\'s inability to accept his human son-in-law Johnny, manifested through a lie about a fake ancient law preventing Johnny from inheriting the hotel. Van Helsing\'s Monsterfication Ray malfunctions (turning monsters human and Johnny into a monster), but this is an accident, not villainy. The climactic crystal creature is a mindless environmental threat. Resolution comes entirely through emotional honesty — Drac confesses he was wrong, accepts Johnny as family, and the transformations reverse through the power of their bond. Scored very low because the conflict is purely internal prejudice and family dysfunction resolved through empathy and acceptance.',
+  },
 ]

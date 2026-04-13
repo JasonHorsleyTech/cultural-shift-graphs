@@ -1531,4 +1531,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.70,
     reasoning: 'Lord Nooth is a genuine villain — a greedy Bronze Age governor who forcibly displaces Dug\'s Stone Age tribe from their valley to mine it for ore. The stakes are real (loss of homeland) and the conflict is entirely external. Resolution comes through competitive confrontation: the cavemen challenge the Bronze Age city to a football match and win back their valley. Scored at 0.70 because while the villain and stakes are real, Lord Nooth is comedically buffoonish rather than menacing, and the confrontation is a sports match rather than physical combat.',
   },
+  {
+    title: 'Hotel Transylvania 3: Summer Vacation',
+    releaseYear: 2018,
+    decade: '2010s',
+    studio: 'Sony Pictures Animation',
+    conflictScore: 0.45,
+    reasoning: 'Abraham Van Helsing is a genuine villain with centuries-long hatred of monsters and a real scheme to destroy them using an ancient weapon (the Instrument of Destruction). However, the major subplot — Ericka Van Helsing\'s mission to kill Dracula — resolves entirely through love and empathy as she falls for him and rejects her great-grandfather\'s prejudice. The final confrontation is defeated through music and dancing rather than combat. Scored at 0.45 because while a real villain with real stakes exists, the film\'s core message is about overcoming hatred through love, and both the Ericka arc and the climax favor empathy and absurd comedy over genuine confrontation.',
+  },
 ]

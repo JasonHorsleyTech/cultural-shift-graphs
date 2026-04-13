@@ -819,4 +819,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.55,
     reasoning: 'Victor Quartermaine is a genuine villain — a vain, scheming hunter who wants to kill the Were-Rabbit to win Lady Tottington\'s affection and the Golden Carrot prize, and the climax features a physical rooftop confrontation where Victor is defeated. However, the central "monster" conflict is actually a misunderstanding: the Were-Rabbit is Wallace himself, transformed by his own malfunctioning Mind-O-Matic invention. Lady Tottington\'s arc is about choosing compassion over violence, and the emotional resolution hinges on Gromit\'s loyalty and the community\'s acceptance rather than destroying the beast. Scored at 0.55 because the film is split — it has a real villain defeated through confrontation, but its heart is a creature-feature parody where the "monster" is misunderstood and saved through love and loyalty.',
   },
+  {
+    title: 'Cars',
+    releaseYear: 2006,
+    decade: '2000s',
+    studio: 'Pixar Animation Studios',
+    conflictScore: 0.20,
+    reasoning: 'There is no real villain — Chick Hicks is a dirty rival racer but functions as a minor antagonist, not the engine of the story. The central conflict is entirely internal: Lightning McQueen\'s arrogance and obsession with winning blind him to what matters. Stranded in Radiator Springs, he gradually bonds with the community (Sally, Mater, Doc Hudson) and undergoes a genuine change of heart. In the climactic race, McQueen stops short of the finish line to help the injured Strip Weathers finish his final race with dignity — choosing empathy and sportsmanship over personal glory. Scored at 0.20 because the conflict is overwhelmingly internal and relational, resolved through personal growth and compassion rather than defeating any antagonist.',
+  },
 ]

@@ -1467,4 +1467,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.60,
     reasoning: 'Professor Poopypants is a genuine villain who builds a giant robot and attempts to eliminate laughter from all children as revenge for people mocking his name. The climax involves a direct physical confrontation to stop his machine. However, the film\'s emotional core is the friendship between George and Harold — their bond and creativity are what ultimately save the day. Mr. Krupp, the secondary antagonist, is bitter and lonely rather than evil, and his transformation into Captain Underpants adds comedic empathy. Scored at 0.60 because the villain is real with destructive stakes and a confrontation-based resolution, but the deeper theme celebrates friendship, imagination, and humor over brute force.',
   },
+  {
+    title: 'Cars 3',
+    releaseYear: 2017,
+    decade: '2010s',
+    studio: 'Pixar',
+    conflictScore: 0.20,
+    reasoning: 'There is no real villain — Jackson Storm is simply a younger, faster competitor, not malicious, and Sterling is a corporate sponsor who wants to retire McQueen as a brand ambassador rather than an antagonist with evil intent. The core conflict is entirely internal: McQueen\'s struggle with aging, relevance, and identity. Resolution comes through mentorship and self-understanding when McQueen passes the torch to Cruz Ramirez, realizing his legacy is about lifting others up rather than winning himself. Scored low because the film is a quintessential "conflict resolved through growth and empathy" story with no villainy to defeat.',
+  },
 ]

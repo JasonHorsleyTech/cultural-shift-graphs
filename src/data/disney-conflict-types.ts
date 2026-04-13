@@ -1179,4 +1179,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.65,
     reasoning: 'King Candy (secretly Turbo) is a genuinely malicious villain who invaded Sugar Rush, usurped its throne, and deliberately turned Vanellope into a glitch to protect his stolen power. The climax is a physical confrontation — Ralph battles Turbo-fused-with-a-Cy-Bug and sacrifices himself by plunging into a volcano to create a beacon that destroys the swarm. However, the film\'s emotional core is Ralph\'s internal identity crisis: he learns that being cast as the "bad guy" in his game doesn\'t define his worth, and that his friendship with Vanellope matters more than medals or recognition. Scored at 0.65 because while a real villain is defeated through direct physical confrontation with life-or-death stakes, the film gives substantial weight to Ralph\'s self-acceptance arc and the theme that your role doesn\'t determine who you are.',
   },
+  {
+    title: 'Cloudy with a Chance of Meatballs 2',
+    releaseYear: 2013,
+    decade: '2010s',
+    studio: 'Sony Pictures Animation',
+    conflictScore: 0.40,
+    reasoning: 'Chester V is a genuine villain — a deceptive corporate manipulator who exploits Flint\'s hero worship to gain access to the FLDSMDFR for mass-producing his Food Bar product. However, the film\'s central conflict is fundamentally a misunderstanding: Flint is tricked into believing the foodimals are dangerous monsters when they are actually peaceful creatures living in a natural ecosystem. Resolution comes from Flint recognizing the truth, choosing empathy for the misunderstood foodimals over blind loyalty to his idol, and trusting his friends. Scored at 0.40 because while a real villain exists and is defeated (eaten by a cheesespider), the film\'s core thesis is about not judging by appearances — the fabricated "threat" is the real conflict, and understanding trumps confrontation.',
+  },
 ]

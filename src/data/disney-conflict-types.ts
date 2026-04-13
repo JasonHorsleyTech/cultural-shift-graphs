@@ -979,4 +979,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.70,
     reasoning: 'Gallaxhar is a genuine villain with explicit evil intent — he destroyed his own planet, sends a giant robot to Earth, captures Susan to extract her quantonium, and clones an army to conquer Earth. The conflict is entirely external and resolved through direct physical confrontation: the monsters storm Gallaxhar\'s ship, Susan regains her power, defeats him, and destroys the ship. However, the film\'s comedic tone significantly undercuts Gallaxhar\'s menace compared to darker antagonists, and Susan\'s internal arc — growing from a passive people-pleaser dominated by her controlling fiancé into a confident, self-reliant hero — is a meaningful secondary theme. Scored at 0.70 because a real villain is defeated through confrontation, but the lighter tone and prominent empowerment subplot temper the score.',
   },
+  {
+    title: 'The Princess and the Frog',
+    releaseYear: 2009,
+    decade: '2000s',
+    studio: 'Walt Disney Animation Studios',
+    conflictScore: 0.80,
+    reasoning: 'Dr. Facilier (the Shadow Man) is a genuine, menacing Disney villain — a voodoo sorcerer who makes a deal with dark spirits ("Friends on the Other Side"), transforms Prince Naveen into a frog, and schemes to deliver the souls of New Orleans to his shadow demon allies. The conflict is external with real stakes, and Facilier is defeated through direct action when Tiana destroys his talisman, causing his own dark patrons to drag him into the spirit world. Scored at 0.80 because this is a classic villain-driven conflict resolved through confrontation, but Tiana\'s significant internal arc — learning that love and relationships matter alongside relentless ambition — and the romantic resolution temper the score below the most purely villain-centric Disney films.',
+  },
 ]

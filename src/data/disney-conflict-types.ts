@@ -1635,4 +1635,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.45,
     reasoning: 'The film splits into three storylines: Snowball\'s plot features a genuine villain — Sergei, an abusive circus owner who mistreats a tiger cub and is defeated through a direct rescue-and-confrontation sequence on a train. However, the film\'s emotional core is Max\'s entirely internal arc: he develops crippling anxiety about protecting toddler Liam and learns confidence and letting go from Rooster on a farm, with no villain involved. Gidget\'s subplot is similarly villain-free comedy. Scored at 0.45 because while a real villain with real stakes exists in one thread, the primary character arc is about overcoming anxiety through mentorship and personal growth rather than defeating evil.',
   },
+  {
+    title: 'Toy Story 4',
+    releaseYear: 2019,
+    decade: '2010s',
+    studio: 'Pixar Animation Studios',
+    conflictScore: 0.15,
+    reasoning: 'Gabby Gabby initially appears villainous — using ventriloquist dummy henchmen to pursue Woody for his voice box — but she is ultimately a lonely, sympathetic figure whose actions stem from a desperate desire to be loved by a child. The resolution is pure empathy: Woody voluntarily gives her his voice box, and she finds a loving owner. The film\'s true conflict is entirely internal — Woody\'s identity crisis as he struggles with no longer being needed by his child. Resolution comes through self-understanding and letting go, as Woody chooses a new life with Bo Peep. Scored very low because the apparent villain is helped rather than defeated, and the core arc is about personal growth and generosity.',
+  },
 ]

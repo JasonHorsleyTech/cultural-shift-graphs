@@ -2210,6 +2210,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Sony Pictures Animation',
     conflictScore: 0.15,
     reasoning: 'There is no real villain — the central conflict is Drac\'s inability to accept his human son-in-law Johnny, manifested through a lie about a fake ancient law preventing Johnny from inheriting the hotel. Van Helsing\'s Monsterfication Ray malfunctions (turning monsters human and Johnny into a monster), but this is an accident, not villainy. The climactic crystal creature is a mindless environmental threat. Resolution comes entirely through emotional honesty — Drac confesses he was wrong, accepts Johnny as family, and the transformations reverse through the power of their bond. Scored very low because the conflict is purely internal prejudice and family dysfunction resolved through empathy and acceptance.',
+    culturalReachPct: 35,
+    reachReasoning: 'Skipped theatrical entirely — released direct-to-Amazon Prime Video in January 2022 after Sony sold the distribution rights. Adam Sandler did not return as Drac (replaced by Brian Hull), removing the franchise\'s biggest star. The Hotel Transylvania franchise had been in steady decline (HT1 $148M domestic → HT2 $169M → HT3 $167M theatrical, but this fourth entry bypassed theaters). Amazon Prime\'s ~200M global subscribers provided discovery, but the streaming-only release without its star and mixed reviews (49% RT) meant it landed with a whimper. Moderate reach through franchise familiarity but a significant step down from prior entries.',
   },
   {
     title: 'Lightyear',
@@ -2218,6 +2220,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Pixar',
     conflictScore: 0.40,
     reasoning: 'Zurg is physically menacing — commanding a robot army and directly battling Buzz — but the twist reveals he is an older alternate-timeline Buzz who refused to accept his own mistake. The real conflict is internal: Buzz\'s obsessive need to fix everything alone versus learning to accept imperfection and rely on his team. Resolution blends physical confrontation (defeating Zurg\'s forces) with personal growth (Buzz choosing to move forward rather than undo the past). Scored below mid-range because the villain is literally the hero\'s inability to let go, and the thematic resolution is acceptance over confrontation.',
+    culturalReachPct: 38,
+    reachReasoning: '$118M domestic on a $200M budget — a massive underperformance for a Toy Story universe film. The confusing concept (it\'s the "real" sci-fi movie that the Toy Story character was based on, not a Toy Story sequel) alienated casual audiences who expected Woody and the gang. Controversy over the same-sex kiss scene led to bans in multiple countries, limiting international reach. Chris Evans replacing Tim Allen as the voice further disconnected it from the franchise\'s identity. Pixar\'s theatrical return after three COVID-era Disney+ dumps should have been an event, but audience confusion about the premise kept families away. Modest streaming afterlife on Disney+.',
   },
   {
     title: 'Minions: The Rise of Gru',
@@ -2226,6 +2230,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Illumination',
     conflictScore: 0.70,
     reasoning: 'The Vicious 6 are genuine supervillains — led by Belle Bottom, they actively hunt and try to kill 11-year-old Gru after he steals the Zodiac Stone. The climax is a direct physical battle where the Minions gain kung-fu powers and defeat the villains through confrontation. There is a secondary emotional thread about Gru\'s desire for belonging and his bond with Wild Knuckles as a mentor/father figure, but the narrative is overwhelmingly action-driven. Scored at 0.70 because the villains are real and defeated through confrontation, but the comedic slapstick tone reduces the weight of the stakes.',
+    culturalReachPct: 82,
+    reachReasoning: '$369M domestic, $939M worldwide. The "Gentleminions" TikTok trend — teenagers wearing suits to theaters and filming raucous reactions — became one of 2022\'s defining social media moments, generating billions of views and free publicity. The Despicable Me/Minions franchise is one of the most commercially reliable in animation history ($4.6B+ cumulative worldwide). Minion memes remain omnipresent across all demographics. The 1970s setting and soundtrack gave it crossover nostalgia appeal. Summer 2022\'s dominant family film by a wide margin.',
   },
   {
     title: 'Puss in Boots: The Last Wish',
@@ -2234,6 +2240,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'DreamWorks Animation',
     conflictScore: 0.60,
     reasoning: 'Death (the Wolf) is a genuinely terrifying villain — literally the embodiment of death hunting Puss for squandering his nine lives — and "Big" Jack Horner is an unambiguously evil antagonist destroyed by the Wishing Star\'s magic. The climax features a direct sword fight between Puss and Death. However, Death is not defeated through force — he withdraws because Puss demonstrates he will fight for his last life with genuine conviction rather than reckless bravado. Scored mid-range because real villains with life-and-death stakes drive the plot and physical confrontation occurs, but the thematic resolution centers on Puss\'s internal growth: accepting mortality, overcoming fear, and learning to value his one remaining life.',
+    culturalReachPct: 72,
+    reachReasoning: '$185M domestic with extraordinary legs (~9x multiplier from opening weekend). Started slow ($12M 3-day opening over Christmas) but became the word-of-mouth hit of late 2022/early 2023. 95% RT, Oscar nomination for Best Animated Feature, and the animation community championed it as a creative high-water mark — the Wolf/Death fight scene became one of the most-discussed animated sequences in years. The film\'s stunning hand-painted animation style generated viral social media appreciation. Strong Peacock streaming performance extended its life. Significantly elevated the Puss in Boots brand beyond what the 2011 original achieved culturally.',
   },
   {
     title: 'Strange World',
@@ -2242,6 +2250,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.10,
     reasoning: 'There is no villain — the central conflict is intergenerational family dysfunction between Jaeger, Searcher, and Ethan Clade, each clashing over identity and values. The twist reveals Avalonia sits atop a giant living creature and their energy source Pando is a parasite killing it; the "hostile" creatures in the strange world are the organism\'s immune system, not enemies. Resolution comes entirely through understanding — the family reconciles through empathy and communication, and collectively sacrifices Pando to save the living world. Scored near the floor because every layer of conflict (familial, environmental, even the monster encounters) resolves through correcting misunderstandings rather than confrontation.',
+    culturalReachPct: 8,
+    reachReasoning: '$38M domestic on a $180M budget — one of Walt Disney Animation Studios\' biggest bombs in history. Minimal marketing push (Disney reportedly gave up on the film before release). Thanksgiving 2022 release was crushed by holdover competition. Almost zero cultural footprint: no memorable songs, no breakout characters, no merchandise presence, no meme life. Disney+ streaming didn\'t rescue it the way it rescued Turning Red or Encanto. The film essentially disappeared from public consciousness within weeks of release.',
   },
   {
     title: 'The Bad Guys',
@@ -2250,6 +2260,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'DreamWorks Animation',
     conflictScore: 0.45,
     reasoning: 'Professor Marmalade is a genuine villain — a manipulative criminal mastermind who frames the Bad Guys and steals a meteorite — and he is defeated through a heist-style confrontation in the climax. However, the core conflict is internal and identity-based: can Mr. Wolf and his crew genuinely change from villains to heroes? The resolution blends physical confrontation (outsmarting Marmalade) with personal transformation (the Bad Guys choosing goodness because they want to, not because they have to). Scored below mid-range because while a real villain exists and is defeated, the thematic heart is about self-reinvention and the sincerity of change, not good-vs-evil.',
+    culturalReachPct: 35,
+    reachReasoning: '$97M domestic, $250M worldwide. A solid DreamWorks performer adapted from Aaron Blabey\'s popular children\'s book series. The stylish heist-film animation drew comparisons to Spider-Verse but didn\'t achieve the same cultural breakthrough. Moderate home video and Peacock streaming performance. The book series had a built-in fanbase among elementary-age readers, but the film didn\'t cross over to become a broader cultural event. Enough of a success to greenlight a 2025 sequel, indicating sustained family audience interest.',
   },
   {
     title: 'Turning Red',
@@ -2258,6 +2270,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Pixar',
     conflictScore: 0.15,
     reasoning: 'There is no villain — the central conflict is Meilin Lee\'s struggle between her mother Ming\'s rigid expectations and her own emerging teenage identity (friends, interests, independence). Ming transforms into a kaiju-sized red panda in the climax, but this is not villainy — it\'s a mother losing control of her own suppressed panda spirit due to unresolved generational trauma with her own mother. Resolution comes entirely through empathy: Mei enters the astral bamboo forest and comforts her mother\'s inner child, helping Ming reconcile decades of pain. Scored very low because every conflict layer — generational expectations, identity, even the physical spectacle — resolves through emotional understanding rather than confrontation.',
+    culturalReachPct: 62,
+    reachReasoning: 'Released direct-to-Disney+ in March 2022 (Pixar\'s third consecutive streaming dump after Soul and Luca). Despite no meaningful theatrical run, Turning Red became one of the most culturally discussed animated films of 2022. The puberty/period metaphor, helicopter parenting themes, and Asian-American representation drove massive social media conversation — both celebratory and controversial. The fictional boy band 4★Town generated viral TikTok content. Red panda Mei became a popular meme template. The film\'s Disney+ viewership numbers were reportedly very strong, compensating for the absent theatrical run. Reach is significantly higher than its non-theatrical release would normally suggest, driven almost entirely by cultural conversation and streaming.',
   },
   {
     title: 'Elemental',
@@ -2266,6 +2280,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Pixar',
     conflictScore: 0.15,
     reasoning: 'There is no villain — the central conflicts are Ember\'s internal struggle between duty to her father\'s fire shop and her own passion for glassmaking, the seemingly impossible romance between fire (Ember) and water (Wade), and her father Bernie\'s prejudice against other elements. A water leak threatening Firetown serves as an environmental obstacle, not an antagonist. Resolution comes entirely through emotional growth: Ember finds her own voice, Bernie accepts his daughter\'s choices and her cross-element relationship, and Ember and Wade discover they can touch without destroying each other. Scored very low because every conflict — familial expectations, identity, societal prejudice, even the physical threat — resolves through empathy, acceptance, and communication rather than confrontation.',
+    culturalReachPct: 48,
+    reachReasoning: '$154M domestic after a historically bad opening ($29M opening weekend — worst for Pixar at the time). However, extraordinary legs (~5.3x multiplier) driven by strong word-of-mouth turned it into a solid performer. $496M worldwide ultimately made it profitable. The immigrant family allegory resonated deeply with specific audiences but didn\'t become a universal cultural talking point like Inside Out or Encanto. Decent Disney+ streaming afterlife. The film\'s reputation improved significantly post-theatrical, but it never achieved "event" status — it was the comeback story of a Pixar film that survived a terrible launch.',
   },
   {
     title: 'Migration',
@@ -2274,6 +2290,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Illumination',
     conflictScore: 0.35,
     reasoning: 'Chef is a genuine physical threat — a restaurant cook who captures ducks to serve as food — and the family must physically escape his kitchen. However, the core conflict is internal: Mack is an overprotective father whose fear of the outside world keeps his family confined to their pond. The journey south forces him to confront his anxiety and learn to trust his children\'s resilience. Resolution blends a slapstick escape from the chef with Mack\'s emotional growth — he learns that sheltering his family from all risk is itself a form of harm. Scored below mid-range because while a real antagonist exists, he functions more as a situational obstacle than a thematic villain; the heart of the film is a father overcoming fear through family connection.',
+    culturalReachPct: 40,
+    reachReasoning: '$122M domestic, $243M worldwide. A solid Illumination family film that performed well at the Christmas 2023 box office. However, it was entirely overshadowed by the year\'s animated juggernauts (Spider-Verse, Mario, Barbie-adjacent cultural noise). Illumination\'s non-Minions/Despicable Me original IP consistently lands in this moderate-reach tier — commercially viable but not culturally penetrating. Decent home video and Peacock streaming performance. The duck family didn\'t produce any breakout characters or meme-worthy moments to extend its reach beyond theatrical.',
   },
   {
     title: 'Ruby Gillman, Teenage Kraken',
@@ -2282,6 +2300,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'DreamWorks Animation',
     conflictScore: 0.55,
     reasoning: 'Chelsea Van Der Zee is a genuine villain — a shape-shifting mermaid who poses as a friendly new student to manipulate Ruby into retrieving a powerful trident, then reveals her true nature as a kraken-hunting siren intent on destroying Ruby\'s family. She is defeated through direct physical confrontation when Ruby fully embraces her kraken powers in an ocean battle. However, the emotional core is Ruby\'s internal journey: struggling with her teenage identity, learning to accept her true kraken nature she\'s been hiding, and reconciling with her overprotective grandmother whose secrecy drove much of the tension. Scored mid-range because a real villain with genuine stakes is defeated through confrontation, but the narrative weight falls on self-acceptance and family trust.',
+    culturalReachPct: 8,
+    reachReasoning: '$17M domestic on a ~$70M budget — DreamWorks Animation\'s worst theatrical performance in the studio\'s history. Released just two weeks after Spider-Man: Across the Spider-Verse, which dominated the animation conversation completely. Minimal marketing presence and generic premise failed to differentiate it in a crowded market. Essentially invisible to mainstream audiences — most families with children are unaware of its existence. Even home video and Peacock streaming couldn\'t rescue its cultural footprint.',
   },
   {
     title: 'Spider-Man: Across the Spider-Verse',
@@ -2290,6 +2310,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Sony Pictures Animation',
     conflictScore: 0.70,
     reasoning: 'The Spot is a genuine villain whose powers escalate from comedic to existential multiverse-level threat, and Miguel O\'Hara functions as a secondary antagonist who physically hunts Miles for refusing to let his father die as a "canon event." The conflict is resolved through defiance and physical confrontation — Miles fights his way out of Spider-Society and refuses to accept the system\'s demands. Scored below 0.8 because the film heavily layers identity and belonging themes (Miles told he\'s an anomaly who shouldn\'t exist) alongside its villain conflict, and the story ends on a cliffhanger without full resolution.',
+    culturalReachPct: 85,
+    reachReasoning: '$381M domestic, $690M worldwide. A massive cultural event that dominated summer 2023 alongside Barbie and Oppenheimer. The revolutionary animation style (expanded from the first film with distinct visual languages per universe) was widely discussed in mainstream media, not just animation circles. The cliffhanger ending generated months of social media debate and anticipation for Beyond the Spider-Verse. Oscar nominee. The Spider-Verse franchise has redefined expectations for animated filmmaking. Skews slightly older than typical family animation (the multiverse complexity and emotional depth attract teens and adults), but the Spider-Man brand ensures broad kid awareness.',
   },
   {
     title: 'The Boy and the Heron',
@@ -2298,6 +2320,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Studio Ghibli',
     conflictScore: 0.20,
     reasoning: 'There is no real villain — the grey heron is initially deceptive but becomes an ally, and the parakeet king is a minor situational obstacle rather than a thematic antagonist. The core conflict is entirely internal: Mahito is grieving his mother\'s death in a wartime fire, resenting his father\'s remarriage to her sister, and struggling to accept loss and change. Resolution comes through emotional growth — Mahito chooses to return to the imperfect real world rather than rule a crumbling fantasy realm, embracing grief and imperfection as part of life. Scored very low because conflict is driven by internal struggle and resolved through acceptance, not confrontation.',
+    culturalReachPct: 22,
+    reachReasoning: '$68M domestic — by far the highest US gross for any Studio Ghibli film, nearly tripling Ponyo\'s $15M (2009). Won the Best Animated Feature Oscar, Miyazaki\'s second after Spirited Away. However, the audience skewed heavily adult/cinephile rather than the children\'s audience this metric measures. Miyazaki\'s deliberately opaque, dreamlike storytelling is inaccessible to most young viewers. GKIDS distribution expanded from prior Ghibli releases but remains niche compared to Disney/Pixar/DreamWorks infrastructure. The "Miyazaki\'s final film" narrative drove significant media coverage, but this translated more to cultural prestige than to kids actually watching it.',
   },
   {
     title: 'The Super Mario Bros. Movie',
@@ -2306,6 +2330,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Illumination',
     conflictScore: 0.80,
     reasoning: 'Bowser is an unambiguous villain — a fire-breathing tyrant who conquers the Penguin Kingdom, captures Luigi, and threatens to destroy the Mushroom Kingdom unless Princess Peach marries him. The conflict is entirely external and resolved through direct physical confrontation: Mario uses a Super Star to battle Bowser and ultimately defeats him with a Mini Mushroom. Scored at 0.80 because while the villain is real with genuine life-and-death stakes and is defeated through force, the film\'s comedic tone and a minor emotional thread about Mario proving himself and his bond with Luigi slightly temper the dramatic weight.',
+    culturalReachPct: 92,
+    reachReasoning: '$574M domestic, $1.36B worldwide — was the highest-grossing animated film domestically until Inside Out 2 surpassed it in 2024. Mario is one of the most recognizable fictional characters on Earth, and the film capitalized on 40+ years of gaming nostalgia alongside genuine kid appeal. Jack Black\'s "Peaches" went viral and charted on the Billboard Hot 100. The film was THE family event of spring 2023. Massive merchandise and gaming tie-in boost (Nintendo Switch sales spiked). Even people who didn\'t see the film encountered Mario content everywhere. The sequel announcement confirmed franchise status.',
   },
   {
     title: 'Trolls Band Together',
@@ -2314,6 +2340,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'DreamWorks Animation',
     conflictScore: 0.55,
     reasoning: 'Velvet and Veneer are genuine villains — talentless pop-star siblings who kidnap Floyd and other BroZone members to literally siphon their musical talent, nearly killing Floyd in the process. They are defeated through a concert showdown where the reunited BroZone brothers overpower them and expose their fraud. However, the emotional core is Branch\'s journey to reconcile with his estranged brothers after years of abandonment and guilt over their childhood breakup. Scored mid-range because real villains with real stakes are defeated through confrontation, but the narrative weight falls on family reunion, forgiveness, and overcoming emotional wounds.',
+    culturalReachPct: 48,
+    reachReasoning: '$103M domestic, $206M worldwide. Third entry in the Trolls franchise, which peaked culturally with the first film\'s "Can\'t Stop the Feeling" (Justin Timberlake, 2016 — Diamond-certified single, Oscar nomination). The franchise has a loyal young fanbase but each sequel has diminished both commercially and culturally. NSYNC reunion voicing BroZone generated brief nostalgia buzz among millennial parents but didn\'t translate to a broader cultural moment. Solid Peacock streaming performance. The Trolls brand remains recognizable to young children through merchandise and Netflix series, but the third film specifically didn\'t break through.',
   },
   {
     title: 'Wish',
@@ -2322,6 +2350,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.70,
     reasoning: 'King Magnifico is a genuine villain — he hoards his subjects\' wishes under the guise of protection, then turns to dark magic and becomes an increasingly tyrannical sorcerer when teenager Asha questions his authority. He is defeated through direct confrontation: Asha and the citizens of Rosas unite their collective wish-power to overwhelm and trap him inside his own magic staff. Scored at 0.70 because while the villain is real with genuine stakes and is defeated through confrontation, the thematic core emphasizes collective empowerment and the idea that people should fight for their own dreams rather than surrender them to authority — blending classic villain-defeat with a modern self-determination message.',
+    culturalReachPct: 30,
+    reachReasoning: '$108M domestic, $256M worldwide — a significant disappointment for Disney Animation\'s centennial celebration film. Despite being positioned as a love letter to 100 years of Disney, the film was widely criticized as generic, with forgettable songs and a paint-by-numbers plot. Chris Pine\'s Magnifico was praised as a bright spot but couldn\'t save the whole. No breakout musical number emerged (contrast with Encanto\'s "Bruno" or Frozen\'s "Let It Go"). Disney Animation\'s second consecutive underperformer after Strange World, raising questions about the studio\'s creative direction. Disney+ streaming didn\'t generate a second-wave rediscovery.',
   },
   {
     title: 'Despicable Me 4',
@@ -2330,6 +2360,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Illumination',
     conflictScore: 0.60,
     reasoning: 'Maxime Le Mal is a genuine villain — a French supervillain from Gru\'s past at villain school who escapes prison, swears revenge, and transforms into a cockroach-human hybrid to become physically dangerous. He is defeated through direct confrontation when Gru battles him at the climax. Scored at 0.60 because while the villain is real with genuine stakes and is defeated through force, the film\'s emotional core centers on Gru bonding with baby Gru Jr. (who initially rejects him) and adjusting to witness protection life, and the heavily comedic tone — including the Mega Minions subplot — significantly dilutes the dramatic weight of the villain conflict.',
+    culturalReachPct: 78,
+    reachReasoning: '$361M domestic, $969M worldwide. The Despicable Me/Minions franchise remains one of the most commercially reliable in animation history — DM4 became the sixth film in the franchise to cross $900M worldwide. Minion mania continues unabated among young children; the Mega Minions (superpower-wielding Minions) generated new merchandise and meme content. However, the fourth mainline entry didn\'t produce a signature cultural moment on par with the "Gentleminions" trend (Rise of Gru) or the original Minions\' meme explosion. Solid but not revelatory — a franchise coasting on its enormous built-in audience rather than generating new cultural energy.',
   },
   {
     title: 'Inside Out 2',
@@ -2338,6 +2370,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Pixar',
     conflictScore: 0.10,
     reasoning: 'There is no external villain — Anxiety is a personified part of Riley\'s own psyche who takes over headquarters out of fear that Riley won\'t fit in at hockey camp. The conflict is entirely internal: an identity crisis during puberty as new emotions suppress the originals and try to reshape Riley\'s sense of self. Resolution comes through self-acceptance and emotional integration — Joy and the new emotions learn to coexist, and Riley embraces a complex, sometimes contradictory identity. This is as far toward the "no villain, internal conflict resolved through growth" end of the spectrum as an animated film gets.',
+    culturalReachPct: 95,
+    reachReasoning: '$652M domestic, $1.7B worldwide — the highest-grossing animated film of all time, surpassing Frozen and The Super Mario Bros. Movie. Anxiety as a character became an instant cultural phenomenon — memes, merchandise, and genuine therapeutic discourse proliferated across every platform. Like the original Inside Out, schools and therapists adopted the film\'s emotional framework as an educational tool. The film\'s thesis that "anxiety is a normal part of growing up" resonated universally with both children experiencing puberty and parents watching them go through it. Virtually every family with children saw this film. Pixar\'s most commercially successful film ever, proving the studio\'s theatrical viability after the COVID-era streaming dumps.',
   },
   {
     title: 'Kung Fu Panda 4',
@@ -2346,6 +2380,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'DreamWorks Animation',
     conflictScore: 0.55,
     reasoning: 'The Chameleon is a genuine villain — a shapeshifting sorceress who steals kung fu warriors\' abilities and plots to summon all previous villains from the Spirit Realm to absorb their chi. She is defeated through direct physical confrontation when Po and Zhen work together to stop her. However, the emotional core is Po\'s identity crisis: he must accept transitioning from Dragon Warrior to Spiritual Leader of the Valley of Peace and learn to trust Zhen, a street thief, as his potential successor. Scored mid-range because a real villain with real stakes is defeated through confrontation, but the thematic weight falls on Po\'s personal growth, letting go of his identity, and learning to mentor the next generation.',
+    culturalReachPct: 58,
+    reachReasoning: '$193M domestic, $548M worldwide. A solid franchise performer — the Kung Fu Panda brand remains recognizable and commercially viable after 16 years. However, the fourth entry showed diminishing cultural impact: the franchise peaked with KFP1 and KFP2\'s critical acclaim and emotional depth, and KFP4 was seen as a lighter, more formulaic sequel. Mixed critical reception (71% RT vs. 87%, 81%, 86% for the prior three). The Universal Studios theme park presence (DreamWorks Theater) provides ongoing brand awareness. Awkwafina\'s Zhen was a well-received addition but didn\'t break out as a cultural character the way Tigress or Lord Shen did.',
   },
   {
     title: 'Moana 2',
@@ -2354,6 +2390,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Animation Studios',
     conflictScore: 0.55,
     reasoning: 'The god Nalo is a genuine antagonistic force who cursed the island of Motufetu and raised a deadly storm barrier to isolate the peoples of the Pacific. Moana must physically confront the supernatural storm to break the curse, and the stakes are real — shipwrecks, mortal danger, and the separation of entire civilizations. However, Nalo functions more as an abstract elemental force than a traditional face-to-face villain, and the film\'s emotional core centers on Moana learning to trust her new crew and lead collaboratively rather than shouldering the burden alone. Scored mid-range because the external threat is genuine and resolved through direct confrontation, but the thematic weight tilts toward community, connection, and personal growth.',
+    culturalReachPct: 85,
+    reachReasoning: '$449M domestic, $1.0B worldwide — one of the highest-grossing animated sequels ever. The original Moana (2016) was one of Disney+\'s most-watched titles from launch, building an enormous audience of children who grew up streaming it repeatedly. "How Far I\'ll Go" remained a cultural staple for years. The sequel capitalized on this pent-up demand with massive Thanksgiving 2024 opening. Auli\'i Cravalho and Dwayne Johnson returned, maintaining brand continuity. Disney theme park expansion (Moana attraction at Walt Disney World) provided additional brand reinforcement. The sequel\'s songs didn\'t match the original\'s cultural penetration, but the sheer audience size was overwhelming.',
   },
   {
     title: 'The Wild Robot',
@@ -2362,6 +2400,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'DreamWorks Animation',
     conflictScore: 0.25,
     reasoning: 'There is no traditional villain — Roz is a shipwrecked robot who accidentally orphans a gosling and must learn to become his mother. The central conflicts are entirely internal and relational: Roz\'s growth from programmed machine to loving parent, Brightbill\'s identity crisis as a goose raised by a robot, and the island animals\' initial distrust of Roz. The corporate robots (led by Vontra) sent to retrieve Roz provide a late-act external threat, but they are a system following directives rather than evil antagonists, and the climax is resolved through Roz\'s self-sacrifice and the island community rallying together out of love — not through defeating a villain. The film is fundamentally about found family, empathy, and belonging.',
+    culturalReachPct: 55,
+    reachReasoning: '$144M domestic, $323M worldwide. Won Best Animated Feature Oscar over Inside Out 2, a testament to its critical acclaim (97% RT, 87 Metacritic). Lupita Nyong\'o\'s vocal performance was widely praised. The film became a darling of the animation community and film critics, generating significant cultural conversation about DreamWorks\' creative ambition. However, as an original IP without franchise backing, competing against Inside Out 2, Despicable Me 4, and Moana 2 in the same year, its box office was modest by comparison. Strong word-of-mouth drove impressive legs (~4.6x multiplier). The Oscar win and sequel greenlight should extend its cultural shelf life, similar to How to Train Your Dragon\'s trajectory.',
   },
   {
     title: 'Dog Man',
@@ -2370,6 +2410,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'DreamWorks Animation',
     conflictScore: 0.50,
     reasoning: 'Petey the Cat is a genuine villain who schemes to destroy Dog Man and wreak havoc on the city, providing real external conflict with physical stakes. However, the film\'s emotional core is the redemption arc between Petey and his clone-son Lil Petey — Petey ultimately transforms through love and parental responsibility rather than being defeated through confrontation. Dog Man himself embodies loyalty and unconditional love more than combative heroism. Scored mid-range because a real villain drives the plot with genuine stakes, but the resolution hinges on empathy, redemption, and found-family bonds rather than simply vanquishing evil.',
+    culturalReachPct: 50,
+    reachReasoning: '$155M+ domestic in its initial run. Based on Dav Pilkey\'s mega-popular Dog Man graphic novel series (part of the Captain Underpants empire, which has sold 100M+ copies collectively). The book series has massive built-in demand among elementary-age readers (6–10), making this the rare animated film where the primary audience was already deeply invested before release. However, like Captain Underpants: The First Epic Movie ($73M, 2017), the humor style is specifically calibrated for young children and doesn\'t cross over to teens or adults the way Pixar or Spider-Verse does. DreamWorks\' animation was well-received. Strong in its target demographic but limited broader cultural penetration.',
   },
   {
     title: 'Elio',
@@ -2378,6 +2420,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Pixar Animation Studios',
     conflictScore: 0.20,
     reasoning: 'There is no real villain — Elio is a socially awkward boy who gets accidentally beamed up to an intergalactic community and mistaken for Earth\'s ambassador. The central conflict is built entirely on misidentification and Elio\'s own insecurity about whether he belongs or can represent humanity. Ambassador Questa and the Communiverse present obstacles but function as skeptics testing Earth\'s worthiness, not evil antagonists. Resolution comes through Elio finding his voice, connecting with alien species through genuine empathy and curiosity, and proving that authentic human connection transcends the misunderstanding — not through defeating anyone.',
+    culturalReachPct: 35,
+    reachReasoning: 'Pixar\'s 2025 original IP release. After the blockbuster success of Inside Out 2 (2024), Pixar\'s theatrical brand is recovering, but original IP without franchise backing faces an uphill battle for cultural penetration — Elemental ($154M domestic) and Soul ($29M pandemic-limited domestic) demonstrate the ceiling for non-sequel Pixar in the current market. The sci-fi/alien premise is less immediately relatable than Pixar\'s strongest emotional hooks. Estimated moderate reach based on Pixar brand recognition and family audience loyalty, but unlikely to break through as a cultural event without a franchise foundation or viral musical element.',
   },
   {
     title: 'The Bad Guys 2',
@@ -2386,6 +2430,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'DreamWorks Animation',
     conflictScore: 0.60,
     reasoning: 'Kitty Kat (the Phantom Bandit) is a genuine villain — a ruthless snow leopard who blackmails the reformed Bad Guys into helping her execute a space-station heist involving the world\'s most powerful magnet. She is defeated through direct confrontation: Wolf outsmarts her by pickpocketing her smartwatch to destroy the magnet, and Diane physically defeats her, sending her to prison. However, the film\'s thematic core centers on redemption and societal acceptance — whether reformed criminals can earn trust and find their place — giving significant emotional weight to identity and belonging alongside the real villain conflict.',
+    culturalReachPct: 42,
+    reachReasoning: 'Sequel to The Bad Guys ($97M domestic, 2022). The original performed solidly enough to warrant a franchise, and DreamWorks\' sequel track record is generally positive (KFP, HTTYD, Shrek sequels all improved on originals). The Bad Guys book series by Aaron Blabey continues to sell well among elementary readers, providing a built-in audience. However, the original didn\'t achieve franchise-level cultural penetration — it was a well-liked but not beloved film. Estimated moderate improvement over the original based on franchise building and the book series\' continued popularity, but unlikely to break into the upper tier of animated cultural events.',
   },
   {
     title: 'Zootopia 2',
@@ -2394,5 +2440,7 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Animation Studios',
     conflictScore: 0.55,
     reasoning: 'Milton Lynxley is a genuine villain who orders the heroes killed to cover up his family\'s historical crimes — stealing credit for Zootopia\'s founding from Gary De\'Snake\'s ancestor. The stakes are real (assassination attempts, conspiracy). However, the film\'s thematic weight falls on species-based prejudice, historical injustice, and repairing relationships: the seeming antagonist Gary turns out to be a victim seeking justice, and Judy and Nick must overcome their own partnership strain. Resolution comes through exposing the truth and confronting systemic prejudice as much as defeating the villain directly.',
+    culturalReachPct: 70,
+    reachReasoning: 'Sequel to Zootopia ($341M domestic, 2016), which was a massive cultural phenomenon — the DMV sloth scene, "Try Everything" by Shakira, and the film\'s racial prejudice allegory generated years of memes, discourse, and Disney+ rewatching. The original\'s $1B+ worldwide gross and Best Animated Feature Oscar established it as one of Disney\'s most valuable modern IPs. The sequel benefits from enormous built-in demand and 9 years of children discovering the original on Disney+. Disney Animation sequel track record is strong (Frozen II $477M domestic, Moana 2 $449M domestic). Estimated high reach based on franchise strength, though the long gap between entries and Disney Animation\'s recent stumbles (Strange World, Wish) introduce uncertainty.',
   },
 ]

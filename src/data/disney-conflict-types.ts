@@ -1139,4 +1139,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.7,
     reasoning: 'Captain Chantel DuBois, Monaco\'s fanatical Animal Control officer, is a genuine villain who relentlessly hunts Alex across Europe with the explicit goal of mounting his head as a trophy. The climax is a direct physical confrontation where the circus animals use their skills to defeat DuBois and she is tranquilized and shipped off in a crate. Scored at 0.7 because while DuBois is a real, menacing antagonist defeated through confrontation, the film\'s emotional core is about belonging and chosen family — the animals choosing their circus friends over returning to the zoo — which tempers the conflict-driven narrative.',
   },
+  {
+    title: 'ParaNorman',
+    releaseYear: 2012,
+    decade: '2010s',
+    studio: 'Laika Entertainment',
+    conflictScore: 0.15,
+    reasoning: 'The film initially presents a traditional villain setup — a witch\'s curse raising zombies — then systematically deconstructs it. The "witch" is actually Agatha Prenderghast, a frightened little girl executed by Puritan judges for her ability to speak to the dead, and the zombies are those same judges risen as part of her vengeful curse. The modern townspeople form an angry mob that mirrors the original Puritan injustice. Norman resolves the conflict entirely through empathy: he talks to Agatha, validates her pain, and convinces her that responding to cruelty with more cruelty only perpetuates the cycle. Scored at 0.15 because the film\'s central thesis is an explicit critique of the "defeat the villain" mentality — the real enemy is fear and mob prejudice, and the resolution is compassion and understanding rather than confrontation.',
+  },
 ]

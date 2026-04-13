@@ -875,4 +875,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.35,
     reasoning: 'Bowler Hat Guy is technically a villain, but he is bumbling and sympathetic — his villainy stems from a childhood grudge over a missed baseball catch caused by Lewis keeping him awake. The true threat, DOR-15 (Doris), is defeated not through physical confrontation but by Lewis choosing not to invent her in the future. The film\'s resolution is fundamentally about internal growth: Lewis lets go of his need to find his birth mother, embraces his adoptive family, and chooses to "keep moving forward." Scored at 0.35 because while a villain exists, the antagonist is pathetic rather than menacing, and the conflict resolves through empathy, forgiveness, and the protagonist\'s change of mindset rather than defeating evil.',
   },
+  {
+    title: 'Ratatouille',
+    releaseYear: 2007,
+    decade: '2000s',
+    studio: 'Pixar',
+    conflictScore: 0.4,
+    reasoning: 'Chef Skinner is a genuine antagonist who schemes to protect his commercial empire — hiding Linguini\'s inheritance and trying to expose the rat — but he is a petty, self-interested villain rather than a menacing or evil one. The deeper conflict is entirely internal: Remy struggles against societal prejudice ("rats don\'t cook") and his own family\'s expectations. Resolution comes not through defeating Skinner but through art changing minds — Ego\'s transformative review and the acknowledgment that "anyone can cook." Scored at 0.40 because a real antagonist exists and is outmaneuvered, but the film\'s emotional core is about overcoming prejudice through talent, passion, and empathy rather than confrontation.',
+  },
 ]

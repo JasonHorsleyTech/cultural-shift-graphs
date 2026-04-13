@@ -1523,4 +1523,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.10,
     reasoning: 'There is no real villain — the Grinch himself is the protagonist whose hatred of Christmas stems from childhood loneliness and orphanhood, not malice. The entire conflict is an internal misunderstanding: he believes Christmas is about noise and spectacle when it is really about community and love. Resolution comes through pure empathy — the Whos sing joyfully despite having nothing, the Grinch\'s heart literally grows, and he is welcomed into the community through compassion and inclusion rather than confrontation.',
   },
+  {
+    title: 'Early Man',
+    releaseYear: 2018,
+    decade: '2010s',
+    studio: 'Aardman Animations',
+    conflictScore: 0.70,
+    reasoning: 'Lord Nooth is a genuine villain — a greedy Bronze Age governor who forcibly displaces Dug\'s Stone Age tribe from their valley to mine it for ore. The stakes are real (loss of homeland) and the conflict is entirely external. Resolution comes through competitive confrontation: the cavemen challenge the Bronze Age city to a football match and win back their valley. Scored at 0.70 because while the villain and stakes are real, Lord Nooth is comedically buffoonish rather than menacing, and the confrontation is a sports match rather than physical combat.',
+  },
 ]

@@ -1010,6 +1010,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Blue Sky Studios',
     conflictScore: 0.65,
     reasoning: 'Ratchet is an unambiguous corporate villain who seizes control of Bigweld Industries and eliminates spare parts so older robots are forced into expensive upgrades or sent to his mother Madame Gasket\'s Chop Shop to be melted down — real life-and-death stakes. The climax is a large-scale physical battle at the Chop Shop where Ratchet and Gasket are defeated through direct confrontation. Scored at 0.65 rather than higher because the villain\'s motivation is systemic greed (planned obsolescence) rather than pure malice, and the film carries a strong "believe in yourself" and "see a need, fill a need" inspirational undercurrent alongside the external conflict.',
+    culturalReachPct: 55,
+    reachReasoning: '$128M domestic box office and solid DVD sales made Robots a moderate hit for Blue Sky Studios. However, it launched no franchise, generated limited merchandise, and was quickly overshadowed by stronger 2005–2006 releases. Most American children of the era encountered it but it left little lasting cultural imprint.',
   },
   {
     title: 'Wallace & Gromit: The Curse of the Were-Rabbit',
@@ -1018,6 +1020,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Aardman Animations',
     conflictScore: 0.55,
     reasoning: 'Victor Quartermaine is a genuine villain — a vain, scheming hunter who wants to kill the Were-Rabbit to win Lady Tottington\'s affection and the Golden Carrot prize, and the climax features a physical rooftop confrontation where Victor is defeated. However, the central "monster" conflict is actually a misunderstanding: the Were-Rabbit is Wallace himself, transformed by his own malfunctioning Mind-O-Matic invention. Lady Tottington\'s arc is about choosing compassion over violence, and the emotional resolution hinges on Gromit\'s loyalty and the community\'s acceptance rather than destroying the beast. Scored at 0.55 because the film is split — it has a real villain defeated through confrontation, but its heart is a creature-feature parody where the "monster" is misunderstood and saved through love and loyalty.',
+    culturalReachPct: 25,
+    reachReasoning: 'Won Best Animated Feature Oscar and earned $56M US domestic, but Wallace & Gromit is fundamentally a British property with a niche US audience. DreamWorks marketed it aggressively but the claymation style and British humor limited mainstream American kid appeal. Far more culturally pervasive in the UK than the US.',
   },
   {
     title: 'Cars',
@@ -1026,6 +1030,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Pixar Animation Studios',
     conflictScore: 0.20,
     reasoning: 'There is no real villain — Chick Hicks is a dirty rival racer but functions as a minor antagonist, not the engine of the story. The central conflict is entirely internal: Lightning McQueen\'s arrogance and obsession with winning blind him to what matters. Stranded in Radiator Springs, he gradually bonds with the community (Sally, Mater, Doc Hudson) and undergoes a genuine change of heart. In the climactic race, McQueen stops short of the finish line to help the injured Strip Weathers finish his final race with dignity — choosing empathy and sportsmanship over personal glory. Scored at 0.20 because the conflict is overwhelmingly internal and relational, resolved through personal growth and compassion rather than defeating any antagonist.',
+    culturalReachPct: 88,
+    reachReasoning: '$244M domestic box office, but the real story is merchandise: Cars generated over $10 billion in global merchandise revenue, making it one of the most commercially dominant children\'s properties of the 2000s. Cars toys, bedding, backpacks, and lunchboxes were ubiquitous among American boys. Cars Land at Disney California Adventure, multiple sequels, and Pixar shorts extended its cultural life. Despite mixed critical reception, virtually every American child of the era engaged with the Cars brand.',
   },
   {
     title: 'Flushed Away',
@@ -1034,6 +1040,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Aardman Animations',
     conflictScore: 0.70,
     reasoning: 'The Toad is an unambiguous villain with a genuine doomsday plan — he intends to open the floodgates during the World Cup halftime flush to drown all the rats in Ratropolis and reclaim the sewers for amphibians. He kidnaps Rita\'s family, deploys henchmen (Spike, Whitey, Le Frog), and the climax is a direct physical confrontation where Roddy and Rita must stop the floodgates and defeat the Toad. However, Roddy\'s personal arc is significant: he begins as a pampered, lonely pet mouse and must choose to return to the sewers and risk his life for others rather than escape to his comfortable Kensington home. Scored at 0.70 because the film has a real villain with lethal stakes resolved through confrontation, but the hero\'s internal growth from selfish loner to selfless partner provides a meaningful secondary layer.',
+    culturalReachPct: 22,
+    reachReasoning: '$64M domestic against a $149M budget — a significant commercial disappointment that ended the Aardman–DreamWorks partnership. Approximately 8M adjusted admissions. The Aardman claymation style had limited mainstream appeal in the US market. Most American children did not see this film.',
   },
   {
     title: 'Ice Age: The Meltdown',
@@ -1042,6 +1050,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Blue Sky Studios',
     conflictScore: 0.35,
     reasoning: 'The primary conflict is a natural disaster — the valley is flooding as the ice age ends — not a villain\'s scheme. Two thawed sea reptiles (Cretaceous and Maelstrom) serve as recurring physical threats but are mindless predators with no personality or motivation beyond hunting. The real story is Manny\'s fear of being the last mammoth and his growing bond with Ellie, a female mammoth who believes she\'s a possum. Resolution comes through emotional acceptance: Ellie embraces her true identity, she and Manny form a family, and the herd survives together. Scored at 0.35 because while genuine predator threats exist and are defeated physically, the heart of the film is internal and relational conflict resolved through connection and self-acceptance.',
+    culturalReachPct: 78,
+    reachReasoning: '$195M domestic and $660M worldwide — a massive sequel that confirmed Ice Age as a top-tier animated franchise. Strong DVD sales and the franchise\'s broad family appeal kept it in heavy rotation. The Ice Age brand was one of the most recognizable in children\'s animation during the mid-2000s.',
   },
   {
     title: 'Open Season',
@@ -1050,6 +1060,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Sony Pictures Animation',
     conflictScore: 0.65,
     reasoning: 'Shaw is a genuine villain — a fanatical hunter who actively tries to kill Boog and the other forest animals, escalating from poaching to full-blown assault with increasingly dangerous weapons. The climax is a direct physical confrontation where the woodland creatures band together to fight off Shaw and the hunters, driving them out of the forest. However, the emotional core is Boog\'s internal journey from pampered domesticated bear to independent wild animal: he must overcome his dependence on ranger Beth, learn to survive in the forest, and form real friendships (especially with Elliot). Scored at 0.65 because Shaw is a lethal antagonist defeated through group confrontation, but the film\'s heart is Boog\'s personal growth and the community bonds that make the confrontation possible.',
+    culturalReachPct: 35,
+    reachReasoning: '$85M domestic — Sony Pictures Animation\'s debut feature performed modestly. It spawned several straight-to-video sequels but the theatrical original was overshadowed by Cars, Ice Age 2, and Over the Hedge in 2006. Limited cultural footprint among American children.',
   },
   {
     title: 'Over the Hedge',
@@ -1058,6 +1070,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'DreamWorks Animation',
     conflictScore: 0.55,
     reasoning: 'The film has multiple antagonists — Vincent the bear threatens to eat RJ unless he replaces a stolen food stash, Gladys Sharp (the HOA president) wages war on the animals, and Dwayne the Verminator is hired to exterminate them. The climax involves direct physical confrontation where the animals outwit and defeat all three villains. However, the emotional core is RJ\'s internal arc from selfish con artist to genuine friend: he deceives and manipulates the woodland family for his own survival before ultimately confessing and risking his life to save them. Scored at 0.55 because real villains with lethal stakes exist and are defeated through confrontation, but RJ\'s moral transformation and the theme of found-family-over-self-interest carry equal narrative weight.',
+    culturalReachPct: 55,
+    reachReasoning: '$155M domestic and $336M worldwide — a solid commercial success for DreamWorks. Based on a syndicated comic strip, it had built-in name recognition. Strong DVD sales and favorable reviews (75% RT). However, it launched no franchise and didn\'t generate significant merchandise, limiting its long-term cultural presence.',
   },
   {
     title: 'Bee Movie',
@@ -1066,6 +1080,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'DreamWorks Animation',
     conflictScore: 0.2,
     reasoning: 'There is no real villain — opposing lawyer Layton T. Montgomery is simply doing his job defending the honey industry, not acting out of malice. The central conflict is a systemic misunderstanding: Barry sues humanity for stealing honey, wins, and bees stop working, which causes flowers worldwide to die. Resolution comes entirely through Barry\'s own growth and realization that the ecosystem is interdependent, not through defeating an enemy. The film is fundamentally about a character learning he was wrong and fixing his mistake through empathy and cooperation. Scored at 0.20 because the conflict is almost entirely internal/misunderstanding-based with no antagonist to defeat.',
+    culturalReachPct: 65,
+    reachReasoning: '$126M domestic and $293M worldwide — a moderate theatrical success buoyed by Jerry Seinfeld\'s star power. The film\'s real cultural breakthrough came in the mid-2010s when "the entire Bee Movie script" became one of the internet\'s most enduring memes, introducing the film to an entirely new generation. This meme afterlife significantly boosted its cumulative reach beyond its original theatrical audience.',
   },
   {
     title: 'Meet the Robinsons',
@@ -1074,6 +1090,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Animation Studios',
     conflictScore: 0.35,
     reasoning: 'Bowler Hat Guy is technically a villain, but he is bumbling and sympathetic — his villainy stems from a childhood grudge over a missed baseball catch caused by Lewis keeping him awake. The true threat, DOR-15 (Doris), is defeated not through physical confrontation but by Lewis choosing not to invent her in the future. The film\'s resolution is fundamentally about internal growth: Lewis lets go of his need to find his birth mother, embraces his adoptive family, and chooses to "keep moving forward." Scored at 0.35 because while a villain exists, the antagonist is pathetic rather than menacing, and the conflict resolves through empathy, forgiveness, and the protagonist\'s change of mindset rather than defeating evil.',
+    culturalReachPct: 35,
+    reachReasoning: '$97M domestic against a $150M budget — a notable underperformer during Disney Animation\'s pre-revival transition period. Released the same year as Ratatouille and Shrek the Third, it was overshadowed commercially and critically. Modest DVD sales. Most American children of the era skipped this in favor of stronger offerings.',
   },
   {
     title: 'Ratatouille',
@@ -1082,6 +1100,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Pixar',
     conflictScore: 0.4,
     reasoning: 'Chef Skinner is a genuine antagonist who schemes to protect his commercial empire — hiding Linguini\'s inheritance and trying to expose the rat — but he is a petty, self-interested villain rather than a menacing or evil one. The deeper conflict is entirely internal: Remy struggles against societal prejudice ("rats don\'t cook") and his own family\'s expectations. Resolution comes not through defeating Skinner but through art changing minds — Ego\'s transformative review and the acknowledgment that "anyone can cook." Scored at 0.40 because a real antagonist exists and is outmaneuvered, but the film\'s emotional core is about overcoming prejudice through talent, passion, and empathy rather than confrontation.',
+    culturalReachPct: 82,
+    reachReasoning: '$206M domestic and $624M worldwide. Won Best Animated Feature Oscar. Strong DVD/Blu-ray sales and exceptional critical reception (96% RT). Remy became an iconic Pixar character, and the Ratatouille ride at Disneyland/EPCOT extended its cultural life. The 2021 TikTok "Ratatouille: The Musical" phenomenon demonstrated enduring cultural penetration across generations.',
   },
   {
     title: 'Shrek the Third',
@@ -1090,6 +1110,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'DreamWorks Animation',
     conflictScore: 0.45,
     reasoning: 'Prince Charming is a genuine villain who rallies an army of fairy tale antagonists to seize the throne of Far Far Away, creating real external stakes. However, the pivotal resolution is empathy-based: Artie persuades the villain army to stand down by telling them they don\'t have to be defined as villains, and Shrek\'s deeper arc is internal — overcoming his fear of fatherhood. Scored at 0.45 because a real villain with a real coup exists, but the climax hinges on communication and reframing identity rather than defeating evil through confrontation.',
+    culturalReachPct: 82,
+    reachReasoning: '$322M domestic and $799M worldwide — the #1 animated film domestically in 2007 and a massive commercial hit despite being the weakest Shrek entry critically. The Shrek franchise was inescapable in mid-2000s children\'s culture: merchandise, theme park attractions (Shrek 4-D), and heavy TV broadcast rotation ensured enormous reach. Scored below Shrek 1 and 2 due to diminished cultural enthusiasm.',
   },
   {
     title: 'Surf\'s Up',
@@ -1098,6 +1120,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Sony Pictures Animation',
     conflictScore: 0.25,
     reasoning: 'Tank Evans is an arrogant bully and rival surfer, not a villain with any evil intent — he is simply a competitive jerk. The real conflict is entirely internal: Cody Maverick must learn through his mentor Big Z that surfing is about joy and friendship, not winning trophies. In the climax, Cody abandons the final race to rescue his friend Chicken Joe and then surfs purely for fun — Tank actually wins the competition, but the film treats this as irrelevant. Scored at 0.25 because there is no villain to defeat, and the resolution comes entirely through mentorship, internal growth, and the protagonist redefining what matters to him.',
+    culturalReachPct: 20,
+    reachReasoning: '$59M domestic against a $100M budget — a commercial failure released the same weekend as Ratatouille and crushed at the box office. The mockumentary format was novel but niche. Despite an Oscar nomination for Best Animated Feature, it barely registered with mainstream family audiences and is largely forgotten.',
   },
   {
     title: 'Bolt',
@@ -1106,6 +1130,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Animation Studios',
     conflictScore: 0.25,
     reasoning: 'The film\'s only "villain" — Dr. Calico — exists solely within the fictional TV show and poses no real threat. The closest real-world antagonist is Penny\'s greedy agent, who is self-interested but not menacing or evil. The entire conflict is internal: Bolt believes he has superpowers and must come to terms with being an ordinary dog. Resolution comes through his cross-country journey with Mittens and Rhino, where he learns that love and loyalty matter more than fictional powers, and he reunites with Penny through genuine devotion rather than defeating any enemy. Scored at 0.25 because there is no real villain to confront, and the story is fundamentally about identity, misunderstanding, and the bond between a pet and its owner.',
+    culturalReachPct: 45,
+    reachReasoning: '$114M domestic and $309M worldwide — a solid performer that marked the beginning of Disney Animation\'s Lasseter-era revival. However, released in a year dominated by WALL-E and Kung Fu Panda, Bolt was overshadowed critically and commercially. Decent DVD sales but no franchise, limited merchandise, and modest long-term cultural presence.',
   },
   {
     title: 'Horton Hears a Who!',
@@ -1114,6 +1140,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Blue Sky Studios',
     conflictScore: 0.40,
     reasoning: 'The Sour Kangaroo is a real antagonist who actively tries to destroy the clover carrying Whoville, enlisting the Wickersham Brothers and Vlad the vulture. However, her motivation is disbelief and social conformity rather than malice — she genuinely does not believe the Whos exist and sees Horton as a destabilizing influence. The conflict is fundamentally a misunderstanding resolved through communication and proof: the Whos make enough noise to be heard, vindicating Horton without any physical defeat of the Kangaroo. Scored at 0.40 because while there is a concrete antagonist taking harmful actions, the core conflict is about proving existence through persistence and collective voice rather than confronting evil.',
+    culturalReachPct: 60,
+    reachReasoning: '$154M domestic and $298M worldwide — a strong box office performer boosted by the Dr. Seuss brand, Jim Carrey\'s star power, and favorable reviews (79% RT). The source material is a staple of American children\'s literature, which amplified the film\'s reach. Solid DVD sales, though it launched no franchise and faded from cultural prominence relatively quickly.',
   },
   {
     title: 'Kung Fu Panda',
@@ -1122,6 +1150,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'DreamWorks Animation',
     conflictScore: 0.75,
     reasoning: 'Tai Lung is an unambiguously dangerous villain — a kung fu master who escapes maximum-security prison, single-handedly defeats the Furious Five, and seeks the Dragon Scroll through lethal force. The stakes are life-and-death, and the climax is a direct physical confrontation where Po defeats Tai Lung using the Wuxi Finger Hold. However, Tai Lung is also a tragic figure driven by rejection rather than pure malice, and Po\'s victory is enabled by his internal journey of self-belief — the "secret ingredient is nothing" revelation is about self-acceptance, not combat skill. Scored at 0.75 because the villain is genuinely menacing and defeated through confrontation, but the hero\'s arc is meaningfully about internal growth and the film treats self-understanding as the key to victory.',
+    culturalReachPct: 85,
+    reachReasoning: '$215M domestic and $632M worldwide — a massive hit that launched one of DreamWorks\' most successful franchises. "Skadoosh" entered the pop culture lexicon. Multiple sequels, a Nickelodeon TV series (Kung Fu Panda: Legends of Awesomeness), and extensive merchandise. Jack Black\'s Po became one of the most recognizable animated characters of the 2000s. Theme park presence at Universal Studios.',
   },
   {
     title: 'Madagascar: Escape 2 Africa',
@@ -1130,6 +1160,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'DreamWorks Animation',
     conflictScore: 0.55,
     reasoning: 'Makunga is a genuine villain — a scheming rival lion who manipulates the rite of passage to get both Alex and his father Zuba banished so he can seize power as alpha. However, he is a political manipulator rather than a physically threatening force of evil, and his defeat comes through clever trickery (Alex gives him Nana\'s handbag, causing Nana to attack him) rather than heroic confrontation. A significant portion of the film\'s emotional arc is about Alex reconnecting with his father, discovering his origins, and the group\'s personal journeys (Melman confessing love for Gloria, Marty finding individuality). Scored at 0.55 because while there is a real antagonist with clear villainous intent, the resolution relies on comedy and trickery, and the heart of the story is family reunion and self-discovery rather than defeating evil.',
+    culturalReachPct: 72,
+    reachReasoning: '$180M domestic and $603M worldwide — a strong sequel performance. The Madagascar franchise was a major DreamWorks property with extensive merchandise, the Penguins of Madagascar TV spinoff on Nickelodeon, and theme park attractions. Scored slightly below the original due to typical sequel viewership drop-off, but the franchise\'s TV presence kept it in heavy rotation with kids.',
   },
   {
     title: 'Ponyo',
@@ -1138,6 +1170,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Studio Ghibli',
     conflictScore: 0.15,
     reasoning: 'There is no villain. Fujimoto, Ponyo\'s father, tries to bring her back to the ocean, but he is a caring parent concerned about the balance of nature — not an antagonist with malicious intent. The central conflict is Ponyo\'s desire to become human and be with Sōsuke, and the magical imbalance (a massive flood) her transformation causes. Resolution comes entirely through love and acceptance: Sōsuke must prove he accepts Ponyo unconditionally, and Granmamare (Ponyo\'s sea-goddess mother) grants the transformation. No one is defeated or confronted. Scored at 0.15 because the film has no villain whatsoever, and every conflict is resolved through empathy, parental love, and a child\'s unconditional acceptance.',
+    culturalReachPct: 15,
+    reachReasoning: '$15M US domestic despite Disney distribution — Studio Ghibli films remained niche in the American market. Miyazaki\'s reputation drew art-house and anime audiences but the film had limited mainstream family appeal in the US. Far more culturally significant in Japan ($201M domestic). Consistent with the 5–18 range established for Ghibli titles in prior eras.',
   },
   {
     title: 'WALL-E',
@@ -1146,6 +1180,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Pixar',
     conflictScore: 0.40,
     reasoning: 'AUTO, the Axiom\'s autopilot, is a genuine antagonist who tasers WALL-E, ejects him and EVE into space, and physically fights Captain McCrea to prevent humanity\'s return to Earth. However, AUTO is not evil — he is faithfully executing a corporate directive (A113) and has no malice or personal agenda. The climax includes a real physical confrontation (McCrea wrestles AUTO and manually overrides him), but the film\'s emotional core is WALL-E\'s love for EVE and humanity\'s internal journey from complacent consumerism to choosing responsibility. Scored at 0.40 because a real antagonist exists and is physically defeated, but the villain acts from programming rather than malice, and the deeper resolution is about love, connection, and humanity rediscovering what makes life worth living.',
+    culturalReachPct: 85,
+    reachReasoning: '$223M domestic and $521M worldwide. Won Best Animated Feature Oscar and received near-universal critical acclaim (95% RT). WALL-E and EVE are iconic Pixar characters. Strong DVD/Blu-ray sales, Epcot presence, and extensive merchandise. Widely regarded as one of the greatest animated films ever made, with enduring cultural relevance — frequently cited in environmental and technology discourse.',
   },
   {
     title: 'Cloudy with a Chance of Meatballs',
@@ -1154,6 +1190,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Sony Pictures Animation',
     conflictScore: 0.45,
     reasoning: 'Mayor Shelbourne is a genuine antagonist — greedy, manipulative, and deliberately ignoring Flint\'s warnings about the FLDSMDFR\'s instability to exploit the food machine for tourism and personal glory. However, the mayor is a secondary threat; the true "villain" is the out-of-control machine, which is a consequence of Flint\'s own need for approval. The climax involves a physical mission to destroy the machine, but the emotional core is Flint\'s internal growth — learning to take responsibility, listen to others (Sam, his father), and stop seeking validation through spectacle. Scored at 0.45 because a real antagonist exists and real physical stakes escalate to global scale, but the deeper conflict is about the protagonist\'s own flaws and the resolution hinges on father-son reconciliation and personal accountability rather than defeating evil.',
+    culturalReachPct: 60,
+    reachReasoning: '$124M domestic and $243M worldwide — a solid performer for Sony Pictures Animation. Based on the beloved 1978 children\'s picture book, which gave it built-in family recognition. Favorable reviews (86% RT) and strong word-of-mouth. Spawned a 2013 sequel. Good DVD sales, though it never achieved the cultural ubiquity of top-tier Pixar or DreamWorks releases.',
   },
   {
     title: 'Coraline',
@@ -1162,6 +1200,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Laika Entertainment',
     conflictScore: 0.90,
     reasoning: 'The Other Mother (the Beldam) is an unambiguous, predatory villain who lures children into a false paradise, then traps them forever by sewing buttons over their eyes and consuming their souls. She has already killed three children before Coraline. The conflict is entirely external with life-and-death stakes — Coraline must outsmart the Beldam in a challenge, rescue the ghost children\'s eyes, free her kidnapped parents, and ultimately trap the Beldam\'s severed hand. Resolution comes through direct confrontation, cleverness, and bravery. Scored at 0.90 because this is one of the most straightforwardly evil antagonists in modern children\'s animation, defeated through classic heroic action, though Coraline\'s internal growth (learning to appreciate her real, imperfect parents) adds a secondary layer.',
+    culturalReachPct: 45,
+    reachReasoning: '$75M domestic against a $60M budget — profitable and a strong debut for Laika Entertainment. Exceptional critical reception (90% RT) and Oscar nomination. However, its genuinely scary tone limited its audience among younger children, and stop-motion remained a niche format. Its cultural reputation has grown significantly over time — a cult classic with enduring Halloween-season viewership — but its original-era child reach was moderate.',
   },
   {
     title: 'Ice Age: Dawn of the Dinosaurs',
@@ -1170,6 +1210,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Blue Sky Studios',
     conflictScore: 0.45,
     reasoning: 'Rudy, a massive albino Baryonyx, is a genuine physical threat who attacks the herd multiple times throughout the underground dinosaur world, and the climax involves a direct confrontation where Momma Dino knocks him off a cliff. However, Rudy is a territorial predator, not a villain with evil intent — he is simply a dangerous animal. The inciting "conflict" with Momma Dino is actually a misunderstanding: Sid took her eggs, and she just wants her babies back. The deeper arcs are all internal — Manny\'s anxiety about becoming a father, Diego questioning whether he\'s gone soft, and Sid\'s desperate need to feel needed driving him to "adopt" dinosaur eggs. Scored at 0.45 because real physical danger exists and requires confrontation, but there is no true villain, and the emotional resolution centers on the characters\' growth around family, identity, and belonging.',
+    culturalReachPct: 75,
+    reachReasoning: '$196M domestic and $886M worldwide — the third Ice Age installment was an enormous global hit, the highest-grossing film worldwide in 2009. Strong DVD sales and the franchise\'s continued appeal to young children kept it in heavy rotation. Scored slightly below The Meltdown domestically due to franchise fatigue, but international performance was extraordinary.',
   },
   {
     title: 'Monsters vs. Aliens',
@@ -1178,6 +1220,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'DreamWorks Animation',
     conflictScore: 0.70,
     reasoning: 'Gallaxhar is a genuine villain with explicit evil intent — he destroyed his own planet, sends a giant robot to Earth, captures Susan to extract her quantonium, and clones an army to conquer Earth. The conflict is entirely external and resolved through direct physical confrontation: the monsters storm Gallaxhar\'s ship, Susan regains her power, defeats him, and destroys the ship. However, the film\'s comedic tone significantly undercuts Gallaxhar\'s menace compared to darker antagonists, and Susan\'s internal arc — growing from a passive people-pleaser dominated by her controlling fiancé into a confident, self-reliant hero — is a meaningful secondary theme. Scored at 0.70 because a real villain is defeated through confrontation, but the lighter tone and prominent empowerment subplot temper the score.',
+    culturalReachPct: 55,
+    reachReasoning: '$198M domestic and $381M worldwide — a strong opening driven by 3D hype (one of the first major 3D animated releases), but the film faded quickly. No sequel was produced despite the box office, limited merchandise, and it is largely forgotten today. The 3D spectacle was the primary draw rather than lasting character or story appeal.',
   },
   {
     title: 'The Princess and the Frog',
@@ -1186,6 +1230,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Animation Studios',
     conflictScore: 0.80,
     reasoning: 'Dr. Facilier (the Shadow Man) is a genuine, menacing Disney villain — a voodoo sorcerer who makes a deal with dark spirits ("Friends on the Other Side"), transforms Prince Naveen into a frog, and schemes to deliver the souls of New Orleans to his shadow demon allies. The conflict is external with real stakes, and Facilier is defeated through direct action when Tiana destroys his talisman, causing his own dark patrons to drag him into the spirit world. Scored at 0.80 because this is a classic villain-driven conflict resolved through confrontation, but Tiana\'s significant internal arc — learning that love and relationships matter alongside relentless ambition — and the romantic resolution temper the score below the most purely villain-centric Disney films.',
+    culturalReachPct: 65,
+    reachReasoning: '$104M domestic against a $105M budget — underperformed Disney\'s box office expectations for a return to hand-drawn animation. However, Tiana became a landmark Disney Princess as Disney\'s first Black princess, earning permanent placement in the Disney Princess brand, merchandise lines, and theme park meet-and-greets. The Tiana\'s Bayou Adventure ride (replacing Splash Mountain) extended her cultural presence significantly. Cultural significance exceeds raw box office.',
   },
   {
     title: 'The Secret of Kells',
@@ -1194,6 +1240,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Cartoon Saloon',
     conflictScore: 0.55,
     reasoning: 'The film has real external threats — Vikings who physically attack and destroy the Abbey of Kells, and Crom Cruach, a dark pagan serpent deity whom Brendan must directly confront and overcome to obtain the crystal eye. However, the central conflict is between Brendan and his overprotective uncle Abbot Cellach, whose fear-driven authoritarianism is rooted in trauma rather than villainy. The thematic resolution emphasizes the enduring power of art and knowledge over violence — the completed Book of Kells outlasts the destruction — rather than the defeat of an antagonist. Scored at 0.55 because genuine threats and a direct monster confrontation pull the score above the midpoint, but the core conflict is relational and the resolution is about creation triumphing over destruction.',
+    culturalReachPct: 5,
+    reachReasoning: '$0.7M US domestic — an Irish independent animated film with extremely limited US theatrical distribution. Despite an Oscar nomination for Best Animated Feature and exceptional critical acclaim, virtually no American child saw this film in theaters. Available on home video and streaming but remains a niche art-house title in the US market.',
   },
   {
     title: 'Up',

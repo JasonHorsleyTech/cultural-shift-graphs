@@ -1675,4 +1675,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.20,
     reasoning: 'There is no real villain — the Bettermans are antagonistic but driven by cultural snobbery and parental possessiveness, not malice. Phil Betterman schemes to separate the Croods from Guy, but his motivation is protecting his daughter and fearing the "primitive" family. The late-film punch-monkeys and giant spider-monkey are environmental threats, not conscious villains. Resolution comes through the two families learning mutual acceptance and working together, with parents on both sides learning to let go. Scored low because the core conflict is a cultural misunderstanding resolved through empathy and cooperation.',
   },
+  {
+    title: 'Trolls World Tour',
+    releaseYear: 2020,
+    decade: '2020s',
+    studio: 'DreamWorks Animation',
+    conflictScore: 0.30,
+    reasoning: 'Queen Barb is a real antagonist with a genuine plan — she seeks to destroy all music except rock by collecting the six magical strings and converting every troll into a rock zombie. The stakes are real (cultural annihilation). However, the resolution is firmly anti-confrontation: Poppy nearly repeats Barb\'s mistake by trying to unite the strings herself, then realizes that music comes from within and cannot be destroyed. Barb is redeemed rather than defeated, and the climax celebrates diversity and mutual acceptance over combat. Scored low because despite having a real villain with real stakes, the film\'s entire message is that forced conformity (from either side) is wrong and resolution comes through understanding, not confrontation.',
+  },
 ]

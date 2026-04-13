@@ -731,4 +731,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.70,
     reasoning: 'Eris, the Goddess of Chaos, is a genuine supernatural villain with malicious intent — she steals the Book of Peace, frames Sinbad, and aims to plunge the world into chaos purely for her own amusement. The stakes are real: Prince Proteus faces execution, and civilization itself is threatened. Sinbad battles sea monsters, sirens, and a giant ice bird that Eris conjures as lethal obstacles. However, the climax resolves not through combat but through Sinbad\'s moral growth — he defeats Eris by choosing self-sacrifice over self-preservation, answering her challenge with honesty. Scored at 0.70 because the villain is unambiguously evil and the external threats are deadly, but the resolution hinges on Sinbad\'s internal transformation from selfish rogue to loyal friend willing to die for what\'s right.',
   },
+  {
+    title: 'Home on the Range',
+    releaseYear: 2004,
+    decade: '2000s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.70,
+    reasoning: 'Alameda Slim is a genuine villain — a cattle rustler who uses hypnotic yodeling to steal herds across the West, then buys up the foreclosed ranches through a disguised alter ego to build a land empire. The conflict is entirely external: three dairy cows must capture Slim to collect the bounty and save their farm from foreclosure. The climax is a direct physical confrontation where the cows outsmart and hog-tie Slim, delivering him to the sheriff. Scored at 0.70 because the villain is real and defeated through confrontation, but his comedic tone (weaponized yodeling, bumbling nephews) and the moderate stakes (farm foreclosure rather than life-or-death) reduce the menace well below films with genuinely threatening antagonists.',
+  },
 ]

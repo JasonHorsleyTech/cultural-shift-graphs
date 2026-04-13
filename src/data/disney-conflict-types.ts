@@ -1275,4 +1275,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.55,
     reasoning: 'The film has genuine villains — Nigel the cockatoo returns seeking revenge on Blu, and Big Boss leads illegal loggers threatening the Amazon habitat. The climax involves direct confrontation: the macaws rally to drive away the loggers, and Nigel is defeated in a physical showdown. Scored at 0.55 because while real external villains exist and are defeated through action, much of the film centers on Blu\'s internal insecurity about fitting in with wild macaws, his strained relationship with Jewel\'s disapproving father Eduardo, and jealousy toward Roberto — conflicts resolved through personal growth and acceptance rather than confrontation.',
   },
+  {
+    title: 'Song of the Sea',
+    releaseYear: 2014,
+    decade: '2010s',
+    studio: 'Cartoon Saloon',
+    conflictScore: 0.15,
+    reasoning: 'Macha the owl witch is the nominal antagonist, but her motivation is protective — she removes emotions from fairy creatures because she believes suppressing feelings prevents suffering. The core conflicts are internal: Ben\'s resentment toward his sister Saoirse, the family\'s unprocessed grief over their mother, and the broader theme that painful emotions must be felt rather than suppressed. Resolution comes entirely through emotional expression — Saoirse singing the Song of the Sea frees all suppressed emotions, and Macha herself is released rather than defeated. Scored at 0.15 because there is no real villain, no confrontation, and the resolution is through empathy, grief processing, and acceptance.',
+  },
 ]

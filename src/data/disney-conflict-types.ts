@@ -963,4 +963,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.90,
     reasoning: 'The Other Mother (the Beldam) is an unambiguous, predatory villain who lures children into a false paradise, then traps them forever by sewing buttons over their eyes and consuming their souls. She has already killed three children before Coraline. The conflict is entirely external with life-and-death stakes — Coraline must outsmart the Beldam in a challenge, rescue the ghost children\'s eyes, free her kidnapped parents, and ultimately trap the Beldam\'s severed hand. Resolution comes through direct confrontation, cleverness, and bravery. Scored at 0.90 because this is one of the most straightforwardly evil antagonists in modern children\'s animation, defeated through classic heroic action, though Coraline\'s internal growth (learning to appreciate her real, imperfect parents) adds a secondary layer.',
   },
+  {
+    title: 'Ice Age: Dawn of the Dinosaurs',
+    releaseYear: 2009,
+    decade: '2000s',
+    studio: 'Blue Sky Studios',
+    conflictScore: 0.45,
+    reasoning: 'Rudy, a massive albino Baryonyx, is a genuine physical threat who attacks the herd multiple times throughout the underground dinosaur world, and the climax involves a direct confrontation where Momma Dino knocks him off a cliff. However, Rudy is a territorial predator, not a villain with evil intent — he is simply a dangerous animal. The inciting "conflict" with Momma Dino is actually a misunderstanding: Sid took her eggs, and she just wants her babies back. The deeper arcs are all internal — Manny\'s anxiety about becoming a father, Diego questioning whether he\'s gone soft, and Sid\'s desperate need to feel needed driving him to "adopt" dinosaur eggs. Scored at 0.45 because real physical danger exists and requires confrontation, but there is no true villain, and the emotional resolution centers on the characters\' growth around family, identity, and belonging.',
+  },
 ]

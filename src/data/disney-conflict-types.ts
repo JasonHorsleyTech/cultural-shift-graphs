@@ -1251,4 +1251,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.75,
     reasoning: 'Drago Bludvist is an unambiguous villain — a ruthless warlord who enslaves dragons through fear and brute force, kills Stoick the Vast by mind-controlling Toothless, and wages open war against Berk. The climax is a direct confrontation: Toothless breaks free of the Alpha\'s mind control through his bond with Hiccup, challenges Drago\'s Bewilderbeast, and defeats the villain\'s army. Scored at 0.75 because while the villain is real and defeated through confrontation with genuine death stakes, the film heavily invests in Hiccup\'s identity journey, the reunion with his mother Valka, and the dragon-rider loyalty bond — and the decisive moment is Toothless overcoming mind control through love and trust rather than pure force.',
   },
+  {
+    title: 'Mr. Peabody & Sherman',
+    releaseYear: 2014,
+    decade: '2010s',
+    studio: 'DreamWorks Animation',
+    conflictScore: 0.25,
+    reasoning: 'Ms. Grunion is a misguided child services agent, not a true villain — her opposition stems from conventional thinking that a dog cannot be a good parent, not from malice. The time-travel complications arise from Sherman\'s mistakes, not villainy. The resolution comes through the community recognizing Peabody\'s genuine love for Sherman and accepting their unconventional family. Scored at 0.25 because the central conflict is fundamentally a misunderstanding about parenthood resolved through empathy and acceptance rather than confrontation.',
+  },
 ]

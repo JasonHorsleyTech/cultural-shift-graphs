@@ -915,4 +915,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.40,
     reasoning: 'The Sour Kangaroo is a real antagonist who actively tries to destroy the clover carrying Whoville, enlisting the Wickersham Brothers and Vlad the vulture. However, her motivation is disbelief and social conformity rather than malice — she genuinely does not believe the Whos exist and sees Horton as a destabilizing influence. The conflict is fundamentally a misunderstanding resolved through communication and proof: the Whos make enough noise to be heard, vindicating Horton without any physical defeat of the Kangaroo. Scored at 0.40 because while there is a concrete antagonist taking harmful actions, the core conflict is about proving existence through persistence and collective voice rather than confronting evil.',
   },
+  {
+    title: 'Kung Fu Panda',
+    releaseYear: 2008,
+    decade: '2000s',
+    studio: 'DreamWorks Animation',
+    conflictScore: 0.75,
+    reasoning: 'Tai Lung is an unambiguously dangerous villain — a kung fu master who escapes maximum-security prison, single-handedly defeats the Furious Five, and seeks the Dragon Scroll through lethal force. The stakes are life-and-death, and the climax is a direct physical confrontation where Po defeats Tai Lung using the Wuxi Finger Hold. However, Tai Lung is also a tragic figure driven by rejection rather than pure malice, and Po\'s victory is enabled by his internal journey of self-belief — the "secret ingredient is nothing" revelation is about self-acceptance, not combat skill. Scored at 0.75 because the villain is genuinely menacing and defeated through confrontation, but the hero\'s arc is meaningfully about internal growth and the film treats self-understanding as the key to victory.',
+  },
 ]

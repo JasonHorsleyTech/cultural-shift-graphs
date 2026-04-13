@@ -835,4 +835,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.70,
     reasoning: 'The Toad is an unambiguous villain with a genuine doomsday plan — he intends to open the floodgates during the World Cup halftime flush to drown all the rats in Ratropolis and reclaim the sewers for amphibians. He kidnaps Rita\'s family, deploys henchmen (Spike, Whitey, Le Frog), and the climax is a direct physical confrontation where Roddy and Rita must stop the floodgates and defeat the Toad. However, Roddy\'s personal arc is significant: he begins as a pampered, lonely pet mouse and must choose to return to the sewers and risk his life for others rather than escape to his comfortable Kensington home. Scored at 0.70 because the film has a real villain with lethal stakes resolved through confrontation, but the hero\'s internal growth from selfish loner to selfless partner provides a meaningful secondary layer.',
   },
+  {
+    title: 'Ice Age: The Meltdown',
+    releaseYear: 2006,
+    decade: '2000s',
+    studio: 'Blue Sky Studios',
+    conflictScore: 0.35,
+    reasoning: 'The primary conflict is a natural disaster — the valley is flooding as the ice age ends — not a villain\'s scheme. Two thawed sea reptiles (Cretaceous and Maelstrom) serve as recurring physical threats but are mindless predators with no personality or motivation beyond hunting. The real story is Manny\'s fear of being the last mammoth and his growing bond with Ellie, a female mammoth who believes she\'s a possum. Resolution comes through emotional acceptance: Ellie embraces her true identity, she and Manny form a family, and the herd survives together. Scored at 0.35 because while genuine predator threats exist and are defeated physically, the heart of the film is internal and relational conflict resolved through connection and self-acceptance.',
+  },
 ]

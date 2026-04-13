@@ -891,4 +891,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.45,
     reasoning: 'Prince Charming is a genuine villain who rallies an army of fairy tale antagonists to seize the throne of Far Far Away, creating real external stakes. However, the pivotal resolution is empathy-based: Artie persuades the villain army to stand down by telling them they don\'t have to be defined as villains, and Shrek\'s deeper arc is internal — overcoming his fear of fatherhood. Scored at 0.45 because a real villain with a real coup exists, but the climax hinges on communication and reframing identity rather than defeating evil through confrontation.',
   },
+  {
+    title: 'Surf\'s Up',
+    releaseYear: 2007,
+    decade: '2000s',
+    studio: 'Sony Pictures Animation',
+    conflictScore: 0.25,
+    reasoning: 'Tank Evans is an arrogant bully and rival surfer, not a villain with any evil intent — he is simply a competitive jerk. The real conflict is entirely internal: Cody Maverick must learn through his mentor Big Z that surfing is about joy and friendship, not winning trophies. In the climax, Cody abandons the final race to rescue his friend Chicken Joe and then surfs purely for fun — Tank actually wins the competition, but the film treats this as irrelevant. Scored at 0.25 because there is no villain to defeat, and the resolution comes entirely through mentorship, internal growth, and the protagonist redefining what matters to him.',
+  },
 ]

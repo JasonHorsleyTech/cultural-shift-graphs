@@ -530,6 +530,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.65,
     reasoning: 'Gaston is a genuine villain — a narcissistic hunter who whips the townspeople into a mob, storms the Beast\'s castle, and ultimately stabs the Beast before falling to his death from the castle roof in direct physical confrontation. However, the central conflict of the film is not truly about defeating Gaston — it is about Belle seeing past the Beast\'s frightening exterior to find compassion and love, which breaks the enchantress\'s curse. The resolution is fundamentally rooted in empathy and understanding rather than combat. Scored at 0.65 because a real villain exists and is defeated through confrontation, but the emotional and thematic core resolves through love and transformation, marking an early shift toward internal/empathy-driven resolution in Disney\'s Renaissance era.',
+    culturalReachPct: 90,
+    reachReasoning: 'First animated film nominated for Best Picture. $145M domestic ($330M+ adjusted). VHS sold over 20 million copies. Broadway musical opened 1994 and ran 13 years. Disney Parks attractions. "Be Our Guest" and "Tale as Old as Time" are universally known. Generational touchstone for early-90s children — virtually every kid of that era saw it.',
   },
   {
     title: 'Rock-A-Doodle',
@@ -538,6 +540,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Sullivan Bluth Studios',
     conflictScore: 0.70,
     reasoning: 'The Grand Duke of Owls is a genuine villain — a malevolent owl sorcerer who wants to plunge the world into permanent darkness so his owl army can hunt freely. He transforms the boy Edmond into a kitten and sends his nephew Hunch and owl minions to stop the heroes from bringing Chanticleer home. The climax is a direct confrontation: Chanticleer\'s crowing summons the sun, and the Grand Duke is shrunk into a tiny, powerless owl by the sunlight. Scored at 0.70 because the villain is unambiguously evil with real magical stakes and is defeated through confrontation, but the resolution also hinges on Chanticleer overcoming his crisis of self-confidence — he only crows again because the farm animals and Edmond believe in him — blending villain-defeat with a theme of self-belief and community support.',
+    culturalReachPct: 15,
+    reachReasoning: 'Don Bluth production that flopped theatrically at $11.7M domestic against a $18M budget. Panned by critics. Had some VHS rental presence but never achieved mainstream awareness. Most 90s kids did not encounter this film.',
   },
   {
     title: 'Aladdin',
@@ -546,6 +550,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.85,
     reasoning: 'Jafar is one of Disney\'s most iconic villains — a power-hungry royal vizier who uses sorcery, manipulation, and brute force to seize control of Agrabah. He hypnotizes the Sultan, attempts to forcibly marry Jasmine, and transforms himself into a giant serpent to kill Aladdin in direct physical combat. The climax is a confrontation resolved through Aladdin\'s cleverness: he tricks Jafar into wishing himself into a genie, trapping him in a lamp forever. Scored at 0.85 because Jafar is unambiguously evil and defeated through direct confrontation, though a secondary thread involves Aladdin\'s internal struggle with honesty and identity — he only wins Jasmine\'s love by accepting who he really is rather than pretending to be a prince.',
+    culturalReachPct: 92,
+    reachReasoning: '$217M domestic in 1992 (~$470M adjusted). VHS sold over 24 million copies — among the best-selling VHS tapes ever. Robin Williams as Genie became an iconic pop-culture performance. Spawned sequel films, a TV series, and a theme park ride (Magic Carpets of Aladdin). "A Whole New World" won the Oscar. Generational touchstone — virtually universal among 90s children.',
   },
   {
     title: 'FernGully: The Last Rainforest',
@@ -554,6 +560,8 @@ export const conflictData: ConflictEntry[] = [
     studio: '20th Century Fox',
     conflictScore: 0.70,
     reasoning: 'Hexxus is an unambiguously evil villain — an ancient spirit of destruction and pollution (voiced with menacing relish by Tim Curry) who feeds on toxic waste and seeks to annihilate the rainforest. He manipulates the logging machine into becoming his vessel and grows into a monstrous form for a direct climactic confrontation. However, the fairies defeat him not through combat but by channeling nature\'s growth magic to re-imprison him inside a tree, and the film\'s emotional core is Zak\'s transformation from an oblivious logger into someone who empathizes with the forest and its inhabitants. Scored at 0.70 because a genuine, menacing villain exists and is confronted head-on, but the resolution blends confrontation with themes of environmental empathy, collective magical cooperation, and a human character\'s internal growth toward understanding nature.',
+    culturalReachPct: 45,
+    reachReasoning: 'Modest $24.7M domestic theatrical gross. However, FernGully became a VHS staple in many 90s households — its environmental message and Robin Williams voice role gave it shelf life. Not a blockbuster by any measure, but a significant portion of 90s kids encountered it on home video. Solid mid-tier reach.',
   },
   {
     title: 'Batman: Mask of the Phantasm',
@@ -562,6 +570,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Warner Bros.',
     conflictScore: 0.85,
     reasoning: 'The Joker is an unambiguously evil antagonist — a former hitman who murdered Andrea Beaumont\'s father and serves as the final physical threat in an explosive amusement-park showdown with Batman. The Phantasm (Andrea) is a morally gray vigilante systematically killing mob bosses, providing a secondary layer of real, violent conflict. The climax is resolved through direct physical confrontation: Batman battles the Joker while Andrea chooses vengeance, dragging the Joker into an explosion. Scored at 0.85 because the villains are genuine, the stakes are life-and-death, and resolution comes through combat — but Bruce Wayne\'s internal struggle between his vow to fight crime and his desire for a normal life with Andrea adds a significant emotional thread that tempers the pure villain-vs-hero dynamic.',
+    culturalReachPct: 20,
+    reachReasoning: 'Only $5.6M domestic — Warner Bros. gave it a limited Christmas 1993 release with minimal marketing. Batman: The Animated Series was huge on TV, but the theatrical film underperformed badly. Found a devoted audience on VHS and later became a cult classic, but most 90s kids who watched the TV show never saw the film in its era.',
   },
   {
     title: 'The Lion King',
@@ -570,6 +580,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.90,
     reasoning: 'Scar is one of Disney\'s most iconic villains — a scheming, fratricidal uncle who murders Mufasa by throwing him into a wildebeest stampede, gaslights the young Simba into believing he caused his father\'s death, and seizes the throne of Pride Rock, ruling it into ruin with his hyena enforcers. The climax is a direct physical confrontation: Simba returns, exposes Scar\'s treachery before the pride, and battles him atop a burning Pride Rock before Scar is killed by his own hyena allies. Scored at 0.90 because Scar is unambiguously evil, the stakes are life-and-death across the entire film, and the resolution comes through confrontation and defeating the villain. Held slightly below 1.0 because Simba\'s internal arc — overcoming guilt, reclaiming his identity, and accepting responsibility — is a significant secondary thread that enriches the story beyond pure villain-defeat.',
+    culturalReachPct: 95,
+    reachReasoning: 'Highest-grossing film of 1994 and highest-grossing animated film for nearly a decade at $312M domestic (~$640M adjusted). VHS sold 32 million copies — the all-time record. Broadway musical became the highest-grossing show in Broadway history. "Hakuna Matata" and "Circle of Life" are universally known. Massive merchandising, theme park attractions, TV series, 2019 CGI remake. The defining animated film of the 1990s — virtually every American child of that generation saw it.',
   },
   {
     title: 'The Swan Princess',
@@ -578,6 +590,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Nest Entertainment',
     conflictScore: 0.80,
     reasoning: 'Lord Rothbart is an unambiguous villain — an evil enchanter who murders King William, kidnaps Princess Odette, and curses her into swan form each day to coerce her into marriage so he can legally seize the kingdom. He uses dark magic, deception (sending a disguised impostor to trick Prince Derek), and ultimately transforms into a monstrous "Great Animal" for the final confrontation. Derek defeats Rothbart by shooting him with an arrow, breaking the curse. Scored at 0.80 because Rothbart is genuinely evil, the stakes are life-and-death, and the resolution is direct physical confrontation — but a meaningful secondary thread involves Derek having to prove his love for Odette goes beyond her beauty ("What else is there?"), adding a layer of personal growth and emotional maturity alongside the villain-defeat arc.',
+    culturalReachPct: 30,
+    reachReasoning: 'Only $9.8M domestic theatrical gross — a disappointment. However, The Swan Princess found a substantial second life on VHS, becoming a popular rental and purchase for families. Spawned multiple direct-to-video sequels. A meaningful number of 90s kids saw it on home video, but it never approached mainstream Disney-level awareness.',
   },
   {
     title: 'Thumbelina',
@@ -586,6 +600,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Don Bluth Entertainment',
     conflictScore: 0.55,
     reasoning: 'Multiple antagonists drive the conflict — Grundel the toad kidnaps Thumbelina by force to marry her, Berkeley Beetle exploits her for show business, and Ms. Fieldmouse pressures her into marrying the wealthy Mr. Mole — but none are traditionally evil; they are motivated by selfishness, obsession, or social pressure rather than malice. The climax does involve a physical confrontation: Prince Cornelius battles Grundel and both plunge into an abyss (Cornelius survives via fairy magic). Scored at 0.55 because real antagonists exist and the resolution includes direct confrontation, but the villains are more greedy/controlling than evil, and the thematic core is about Thumbelina staying true to her heart and identity despite constant manipulation by others who want to claim her for themselves.',
+    culturalReachPct: 18,
+    reachReasoning: 'Don Bluth production. Only $11.4M domestic — a commercial failure. Negative critical reception. Had some VHS presence but competed poorly against Disney\'s dominant 1994 releases (The Lion King). Most 90s kids did not see this film.',
   },
   {
     title: 'Balto',
@@ -594,6 +610,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Universal Pictures',
     conflictScore: 0.45,
     reasoning: 'Steele is a genuine antagonist — a jealous champion sled dog who sabotages the medicine relay by rearranging trail markers so that Balto and the team become lost in the blizzard, purely to protect his own glory. However, Steele is driven by ego and jealousy rather than true malice or evil, and the climax is not a direct confrontation with him. The real conflict is Balto versus the blizzard (nature) and versus his own self-doubt about being a wolf-dog hybrid. Resolution comes through Balto embracing his wolf instincts to navigate through the storm and deliver the diphtheria antitoxin to Nome\'s sick children. Steele is simply exposed as a liar and shunned by the other dogs. Scored at 0.45 because a real antagonist exists and creates genuine stakes, but the thematic core is about self-acceptance and perseverance rather than defeating a villain.',
+    culturalReachPct: 35,
+    reachReasoning: 'Only $11.3M domestic theatrical — a box office disappointment. However, Balto became a beloved VHS title among 90s kids and found a much larger audience on home video than its theatrical run suggests. Spawned two direct-to-video sequels. A meaningful slice of 90s children saw it, but far from mainstream.',
   },
   {
     title: 'Pocahontas',
@@ -602,6 +620,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.50,
     reasoning: 'Governor Ratcliffe is a genuine villain — greedy, bigoted, and willing to wage war against the Powhatan people to plunder gold he believes is hidden in the land. However, the film\'s central conflict is cultural misunderstanding and prejudice between the English settlers and the Native Americans, not a hero-vs-villain confrontation. Pocahontas resolves the climax by throwing herself over John Smith to prevent his execution, an act of empathy and sacrifice that shames both sides into standing down. Ratcliffe is restrained by his own men after recklessly shooting John Smith, not defeated through combat. Scored at 0.50 because a real villain with real malice exists and drives external stakes, but the thematic core is about overcoming prejudice through love, communication, and understanding — placing it squarely between the two poles of the spectrum.',
+    culturalReachPct: 75,
+    reachReasoning: '$141M domestic in 1995. Major Disney release with heavy marketing (Central Park premiere event). VHS sold over 17 million copies. "Colors of the Wind" won the Oscar. Considered a step down from The Lion King but still a major hit — most 90s kids saw it, especially on home video.',
   },
   {
     title: 'Toy Story',
@@ -610,6 +630,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Pixar',
     conflictScore: 0.40,
     reasoning: 'The central conflict is not a villain but Woody\'s jealousy of Buzz Lightyear — an internal, character-driven struggle over status and identity. Sid Phillips serves as a genuine external threat in the third act (a destructive kid who tortures and dismembers toys), but he is not the emotional core of the story. Resolution comes through Woody and Buzz overcoming their rivalry to cooperate, and Sid is scared off when the toys collectively reveal themselves — clever teamwork rather than combat. Scored at 0.40 because a real antagonist exists and creates genuine danger, but the thematic heart is about jealousy, insecurity, and learning to share — resolved through empathy and cooperation rather than defeating evil.',
+    culturalReachPct: 92,
+    reachReasoning: 'First fully CGI animated feature — a revolutionary cultural event. $191M domestic in 1995 (~$380M adjusted). VHS was a massive seller. Spawned one of the most valuable film franchises of all time. Woody and Buzz became iconic characters. Virtually every American child of the mid-to-late 90s saw this film.',
   },
   {
     title: 'The Hunchback of Notre Dame',
@@ -618,6 +640,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.90,
     reasoning: 'Judge Claude Frollo is one of Disney\'s most unambiguously evil villains — a genocidal fanatic who burns Paris to find Esmeralda, attempts to drown the infant Quasimodo, and ultimately tries to murder both protagonists while declaring himself righteous. The conflict is entirely external and life-or-death: Frollo\'s oppression of the Romani people and his obsessive pursuit of Esmeralda drive the plot. Resolution comes through direct confrontation — Quasimodo physically defies Frollo, the citizens of Paris rise up against his soldiers, and Frollo falls to his death from Notre Dame\'s cathedral while trying to kill Quasimodo. Scored at 0.90 because the villain is genuinely menacing with real genocidal stakes, and is defeated through physical confrontation, though Quasimodo\'s arc also involves themes of self-acceptance and finding where he belongs.',
+    culturalReachPct: 65,
+    reachReasoning: '$100M domestic in 1996. Solid Disney release but considered one of the darker, less child-friendly Renaissance films. VHS sold well as part of the Disney brand. Darker themes (religious persecution, lust) limited repeat family viewing compared to Lion King or Aladdin. Most 90s kids saw it at least once, but it was less of a phenomenon than the top-tier Renaissance titles.',
   },
   {
     title: 'Anastasia',
@@ -626,6 +650,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Fox Animation Studios',
     conflictScore: 0.80,
     reasoning: 'Rasputin is a genuine supernatural villain — an undead sorcerer who cursed the Romanov family, caused their downfall, and is single-mindedly obsessed with killing the last surviving Romanov. He uses a dark reliquary to send demonic minions after Anastasia throughout the film. The climax is a direct physical confrontation on a bridge in Paris where Anastasia destroys Rasputin\'s reliquary, causing him to disintegrate. Scored at 0.80 because the villain is unambiguously evil with murderous supernatural stakes and is defeated through direct confrontation, but a significant portion of the film\'s emotional core is about identity discovery (Anya piecing together who she is) and Dimitri\'s redemption arc from con man to genuine love interest — blending classic villain-driven conflict with themes of self-discovery and belonging.',
+    culturalReachPct: 50,
+    reachReasoning: '$58M domestic — solid for a non-Disney animated film in 1997. Fox Animation\'s biggest hit. Popular VHS release. "Journey to the Past" and "Once Upon a December" were well-known songs. Often mistaken for a Disney film, which speaks to its cultural presence. A significant number of 90s kids saw it, but it didn\'t reach Disney-level ubiquity.',
   },
   {
     title: 'Hercules',
@@ -634,6 +660,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.80,
     reasoning: 'Hades is an unambiguously evil villain — a scheming god of the Underworld who plots to overthrow Zeus by releasing the Titans, sends monsters to kill Hercules, and manipulates Megara as a pawn. The conflict is primarily external with world-ending stakes (Titans attacking Olympus), and Hades is physically defeated when Hercules punches him into the River Styx where souls drag him down. However, the thematic resolution hinges on self-sacrifice rather than combat — Hercules proves himself a true hero by willingly diving into the Styx to rescue Meg\'s soul, not by overpowering the villain. Scored at 0.80 because a genuine villain with cosmic stakes is defeated through direct confrontation, but the film\'s emotional core is about discovering that true heroism is selflessness, not strength.',
+    culturalReachPct: 65,
+    reachReasoning: '$99M domestic in 1997. Solid Disney release but below the Lion King/Aladdin tier. VHS sold well. TV series spin-off. "Go the Distance" was a hit single. James Woods\' Hades became a beloved Disney character. Most 90s kids saw it, but it was perceived as mid-tier Renaissance — a clear step down from the early-90s peaks.',
   },
   {
     title: 'Antz',
@@ -642,6 +670,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'DreamWorks Animation',
     conflictScore: 0.75,
     reasoning: 'General Mandible is an unambiguously evil villain — a militaristic ant general who deliberately sends workers on a suicide mission against termites, then orchestrates flooding the colony to kill the queen and all workers so he can rebuild a "pure" society with only his loyal soldiers. The climax is a direct physical confrontation where Mandible falls to his death. Scored at 0.75 because the villain is genuinely genocidal and defeated through confrontation, but a significant portion of the film is devoted to Z\'s internal journey of self-discovery — finding individuality and self-worth in a conformist society — giving the film a strong thematic layer beyond simple villain-vs-hero conflict.',
+    culturalReachPct: 42,
+    reachReasoning: '$90.8M domestic — a solid hit but skewed older (PG rating, Woody Allen voice, political satire). Released head-to-head with A Bug\'s Life and lost the kid audience battle decisively. VHS/DVD sold moderately. More of an adult-leaning animated film that some kids saw rather than a children\'s classic.',
   },
   {
     title: 'Mulan',
@@ -650,6 +680,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.80,
     reasoning: 'Shan Yu is an unambiguously evil villain — a ruthless Hun warlord who invades China, massacres General Li\'s entire army, burns villages, and threatens to kill the Emperor. The climax is a direct physical confrontation on the Imperial Palace roof where Mulan defeats Shan Yu by launching a firework that kills him. Scored at 0.80 because the villain is genuinely menacing with life-and-death stakes and is defeated through direct confrontation, but a major thematic thread is Mulan\'s internal journey — defying gender expectations, proving her worth as a warrior, and finding her identity — which enriches the narrative well beyond a simple villain-defeat arc.',
+    culturalReachPct: 75,
+    reachReasoning: '$120.6M domestic in 1998. Major Disney release. VHS/DVD sold very well. "I\'ll Make a Man Out of You" and "Reflection" became iconic songs. Strong cultural significance as Disney\'s first Asian-led film. TV series, direct-to-video sequel, 2020 live-action remake. Most late-90s kids saw this film.',
   },
   {
     title: 'Quest for Camelot',
@@ -658,6 +690,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Warner Bros. Feature Animation',
     conflictScore: 0.85,
     reasoning: 'Ruber is an unambiguously evil villain — a treacherous former Knight of the Round Table who murdered Kayley\'s father Sir Lionel, steals Excalibur, fuses his henchmen with weapons using a magic potion, kidnaps Kayley\'s mother, and invades Camelot to overthrow King Arthur. The climax is a direct confrontation where Kayley tricks Ruber into thrusting Excalibur back into the stone, which destroys him. Scored at 0.85 because the villain is genuinely murderous with personal stakes and is defeated through confrontation, with only minor internal-growth elements (Kayley proving herself a hero like her father).',
+    culturalReachPct: 18,
+    reachReasoning: 'Warner Bros. Feature Animation\'s first theatrical release. Only $22.5M domestic against a $70M budget — a major commercial and critical failure. Some VHS presence but negligible. Most 90s kids never encountered this film.',
   },
   {
     title: 'The Prince of Egypt',
@@ -666,6 +700,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'DreamWorks Animation',
     conflictScore: 0.65,
     reasoning: 'Rameses II is the primary antagonist — a Pharaoh who enslaves the Hebrews, orders infanticide, and refuses to free Moses\' people despite devastating plagues. The stakes are genuinely life-and-death (slavery, plague, death of firstborns, the Red Sea pursuit). However, Rameses is portrayed sympathetically as Moses\' adopted brother, torn between his duty as Pharaoh and his love for Moses, making him a tragic figure rather than pure evil. Resolution comes through divine intervention (the plagues and parting of the Red Sea) rather than hero-defeats-villain combat, and Moses\' internal journey — his identity crisis as a Hebrew raised Egyptian and his reluctant acceptance of his prophetic role — is central to the film. Scored at 0.65 because the external conflict is real and severe, but the sympathetic antagonist, divine rather than heroic resolution, and prominent internal-identity arc pull the score well below a straightforward villain-defeat narrative.',
+    culturalReachPct: 60,
+    reachReasoning: '$101.2M domestic in 1998 — a major hit for DreamWorks Animation. "When You Believe" (Whitney Houston/Mariah Carey) won the Oscar. Biblical subject matter gave it extra reach through churches, religious schools, and faith communities who adopted it as an educational tool. VHS/DVD sold very well. A significant number of late-90s kids saw it, though its serious tone meant it skewed slightly older than typical animated fare.',
   },
   {
     title: 'The Rugrats Movie',
@@ -674,6 +710,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Nickelodeon Movies',
     conflictScore: 0.25,
     reasoning: 'There is no real villain — the core conflict is Tommy\'s jealousy and frustration with his demanding new baby brother Dil. External threats (escaped circus monkeys, a wolf pack) serve as environmental hazards rather than motivated antagonists. The emotional climax comes when Tommy nearly abandons Dil to the monkeys but instead chooses to protect him, resolving the conflict entirely through empathy, self-sacrifice, and accepting his role as a big brother. Scored at 0.25 because the film is fundamentally about sibling rivalry resolved through love and personal growth, with only incidental external danger.',
+    culturalReachPct: 55,
+    reachReasoning: '$100.5M domestic — a surprise blockbuster driven by the Rugrats TV show\'s massive popularity among 90s kids. Nickelodeon\'s first theatrical animated film. The TV show was watched by millions of children weekly, and the movie extended that reach. VHS sold very well. Reach is high among the specific Nickelodeon-watching cohort (roughly ages 3–10 in 1998) but less universal than Disney tentpoles.',
   },
   {
     title: 'Fantasia 2000',
@@ -682,6 +720,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.20,
     reasoning: 'An anthology of eight animated segments set to classical music, most with no villain at all. Only the Steadfast Tin Soldier segment has a clear antagonist (a jack-in-the-box rival), while the Firebird Suite features a destructive natural force rather than a motivated villain. The Sorcerer\'s Apprentice (returning from the original) centers on Mickey\'s own hubris causing chaos. The film is overwhelmingly about artistic wonder, beauty, and renewal rather than conflict — scored at 0.20 because villain-driven confrontation is marginal across the anthology.',
+    culturalReachPct: 25,
+    reachReasoning: '$60.6M domestic — respectable but driven largely by an extended IMAX run rather than broad family attendance. Like the original Fantasia, it was more of an art-house experience than a mainstream kids\' film. VHS/DVD release had modest sales. Some kids encountered it through the Disney brand, but it was far from the mainstream animated hits of the era.',
   },
   {
     title: 'Tarzan',
@@ -690,6 +730,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.75,
     reasoning: 'Clayton is a genuine villain — a greedy hunter who deceives the Porters and Tarzan to locate the gorillas, then reveals his true intent to capture them for profit. He kills Kerchak and the climax is a direct physical confrontation in the treetops ending in Clayton\'s death. However, Tarzan\'s internal identity conflict — torn between the human world and his gorilla family, seeking acceptance from Kerchak — is a major throughline that resolves through self-understanding and choosing where he belongs. Scored at 0.75 because the villain and physical confrontation are central, but the prominent identity/belonging arc tempers the score.',
+    culturalReachPct: 80,
+    reachReasoning: '$171M domestic in 1999 — the last major hit of the Disney Renaissance. Phil Collins\' soundtrack was a massive commercial success ("You\'ll Be in My Heart" won the Oscar). VHS/DVD sold extremely well. TV series, theme park treehouse attraction. One of the biggest animated films of 1999 — most late-90s kids saw it.',
   },
   {
     title: 'The Iron Giant',
@@ -698,6 +740,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Warner Bros. Feature Animation',
     conflictScore: 0.50,
     reasoning: 'Kent Mansley is a real antagonist — a paranoid government agent who lies, manipulates, and ultimately calls a nuclear strike on his own town to destroy the Giant. The military threat creates genuine life-or-death stakes. However, the film\'s emotional core is the Giant\'s internal identity arc: designed as a weapon, it chooses instead to be a hero ("I am not a gun"), inspired by Superman. Resolution comes through the Giant\'s self-sacrifice — flying into the nuclear missile to save the town — rather than defeating the villain through confrontation. Mansley is undone by his own cowardice, not by the heroes. Scored at 0.50 because the real antagonist and extreme external stakes are balanced equally by the dominant themes of identity, choice, empathy, and sacrifice over violence.',
+    culturalReachPct: 28,
+    reachReasoning: 'Only $23.2M domestic — a notorious box office bomb due to Warner Bros.\' abysmal marketing campaign. However, the film found a passionate cult following through VHS/DVD sales and frequent Cartoon Network airings in the 2000s. Its reputation has grown enormously over time (now considered a classic), but in its original era most kids missed it theatrically. Home video and TV exposure raised reach above its theatrical disaster would suggest.',
   },
   {
     title: 'Toy Story 2',
@@ -706,6 +750,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Pixar',
     conflictScore: 0.55,
     reasoning: 'Al McWhiggin is a greedy toy collector who steals Woody, but the true antagonist is Stinky Pete the Prospector, who manipulates and physically prevents Woody from leaving to preserve his own chance at the museum. The climax features a direct physical rescue and confrontation at the airport where Pete is defeated. However, the film\'s emotional core is Woody\'s internal dilemma — choosing the impermanent love of a child over immortality in a museum — resolved through self-understanding and acceptance of mortality. Scored at 0.55 because the real villain and action-driven rescue are balanced by the dominant internal theme of identity, impermanence, and choosing love over security.',
+    culturalReachPct: 90,
+    reachReasoning: '$245.8M domestic — even bigger than the original. One of the highest-grossing films of 1999. Universally acclaimed (100% on Rotten Tomatoes at release). VHS/DVD were massive sellers. Built on the already-enormous Toy Story brand. Virtually every American kid of the late 90s saw this film.',
   },
   {
     title: 'Chicken Run',
@@ -714,6 +760,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Aardman Animations / DreamWorks',
     conflictScore: 0.85,
     reasoning: 'Mrs. Tweedy is an unambiguous villain who plans to slaughter every chicken on the farm by converting to automated pie production — the stakes are literally life or death. The entire plot is a Great Escape-style breakout driven by external conflict, culminating in a direct physical confrontation where Mrs. Tweedy attacks the escaping chickens with an axe and is ultimately defeated when flung into her own pie machine. Scored at 0.85 because the villain is central, menacing, and defeated through confrontation, with only minimal internal conflict (Ginger\'s brief crisis of confidence).',
+    culturalReachPct: 55,
+    reachReasoning: '$106.8M domestic — the highest-grossing stop-motion animated film at the time. Aardman/DreamWorks co-production. VHS/DVD sold well. British humor and claymation style gave it a distinctive identity. Well-known among kids of the era but its appeal skewed slightly older and more international. Solid wide release but not in the Disney-blockbuster tier of universal kid viewing.',
   },
   {
     title: 'Dinosaur',

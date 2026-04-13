@@ -779,4 +779,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.65,
     reasoning: 'Plankton is a clear villain who executes an elaborate scheme — stealing King Neptune\'s crown to frame Mr. Krabs, enslaving Bikini Bottom with mind-control bucket helmets, and hiring a hitman (Dennis) to kill SpongeBob and Patrick. The stakes are real: Krabs faces execution, the city is enslaved, and the heroes face lethal threats throughout their journey to Shell City. Resolution is largely confrontational — SpongeBob uses the crown\'s power channeled through a rock guitar solo to break Plankton\'s mind control, and Plankton is arrested. However, the emotional core is SpongeBob\'s internal arc about being dismissed as "just a kid" and proving his worth through perseverance and self-belief, which tempers the pure villain-defeat resolution. Scored at 0.65 because the villain and external stakes are genuine, but the heart of the film is a coming-of-age journey resolved through self-confidence rather than pure confrontation.',
   },
+  {
+    title: 'Chicken Little',
+    releaseYear: 2005,
+    decade: '2000s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.20,
+    reasoning: 'The aliens who attack Oakey Oaks are not villains — they are panicked parents searching for their lost child Kirby, whose hexagonal sky panel Chicken Little mistook for a piece of falling sky. The external threat is entirely a misunderstanding resolved by returning the baby alien, at which point the aliens instantly cease their attack and even repair the town. The real conflict is internal and relational: Chicken Little\'s desperate need for credibility after being humiliated by the "sky is falling" incident, and his father Buck Cluck\'s failure to believe in or stand up for his son. Resolution comes through empathy and acceptance — Buck finally supports Chicken Little publicly, and father and son reconcile. Scored at 0.20 because this is a near-textbook "imagined villain, conflict-as-misunderstanding" film, with the only bump above 0.0 being the genuine physical danger during the brief alien attack sequence.',
+  },
 ]

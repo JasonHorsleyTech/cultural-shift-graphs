@@ -763,4 +763,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.55,
     reasoning: 'The Fairy Godmother is a genuine villain — she manipulates King Harold through blackmail, conspires to replace Shrek with Prince Charming, and attempts to use a love potion to force Fiona into a false marriage. She is ultimately destroyed when King Harold reflects her magic bolt back at her, a direct confrontation. However, much of the film\'s conflict is internal: Shrek\'s deep insecurity about being good enough for Fiona, and King Harold\'s struggle between his deal with the Fairy Godmother and his love for his daughter. The emotional resolution comes through acceptance — Fiona chooses ogre Shrek, and Harold learns to accept him. Scored at 0.55 because the villain is real and defeated by force, but approximately half the film\'s conflict is rooted in self-doubt, family tension, and misunderstanding resolved through love and acceptance rather than confrontation.',
   },
+  {
+    title: 'The Incredibles',
+    releaseYear: 2004,
+    decade: '2000s',
+    studio: 'Pixar',
+    conflictScore: 0.85,
+    reasoning: 'Syndrome is one of Pixar\'s most unambiguously evil villains — a rejected fanboy turned supervillain who systematically murders heroes using his Omnidroid, lures the Parr family to his island to kill them, and launches a giant robot attack on a city to stage a fake rescue. The stakes are life-and-death throughout, and the climax is pure physical confrontation: the family fights the Omnidroid together, and Syndrome is killed by a jet turbine. Bob Parr\'s midlife crisis and the family\'s strained dynamics add internal texture, but these are secondary to the external villain-driven plot. Scored at 0.85 because the villain is genuinely murderous, the conflict is overwhelmingly external, and resolution comes through combat and teamwork rather than empathy or understanding.',
+  },
 ]

@@ -811,4 +811,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.65,
     reasoning: 'Ratchet is an unambiguous corporate villain who seizes control of Bigweld Industries and eliminates spare parts so older robots are forced into expensive upgrades or sent to his mother Madame Gasket\'s Chop Shop to be melted down — real life-and-death stakes. The climax is a large-scale physical battle at the Chop Shop where Ratchet and Gasket are defeated through direct confrontation. Scored at 0.65 rather than higher because the villain\'s motivation is systemic greed (planned obsolescence) rather than pure malice, and the film carries a strong "believe in yourself" and "see a need, fill a need" inspirational undercurrent alongside the external conflict.',
   },
+  {
+    title: 'Wallace & Gromit: The Curse of the Were-Rabbit',
+    releaseYear: 2005,
+    decade: '2000s',
+    studio: 'Aardman Animations',
+    conflictScore: 0.55,
+    reasoning: 'Victor Quartermaine is a genuine villain — a vain, scheming hunter who wants to kill the Were-Rabbit to win Lady Tottington\'s affection and the Golden Carrot prize, and the climax features a physical rooftop confrontation where Victor is defeated. However, the central "monster" conflict is actually a misunderstanding: the Were-Rabbit is Wallace himself, transformed by his own malfunctioning Mind-O-Matic invention. Lady Tottington\'s arc is about choosing compassion over violence, and the emotional resolution hinges on Gromit\'s loyalty and the community\'s acceptance rather than destroying the beast. Scored at 0.55 because the film is split — it has a real villain defeated through confrontation, but its heart is a creature-feature parody where the "monster" is misunderstood and saved through love and loyalty.',
+  },
 ]

@@ -1003,4 +1003,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.65,
     reasoning: 'Charles Muntz is a genuine villain — a once-heroic explorer turned paranoid killer who has murdered previous visitors to protect "his" bird, sends attack dogs after Carl and Russell, kidnaps Kevin, and sets Carl\'s house on fire. The climax is a direct physical confrontation on Muntz\'s airship ending in Muntz\'s death. However, the film\'s emotional core is overwhelmingly internal: Carl\'s grief over Ellie\'s death, his struggle to let go of the past, and his growing surrogate-father bond with Russell (whose own father is absent). The most pivotal moment is Carl choosing people over possessions — dumping his furniture to save Kevin and Russell — which is an act of personal growth, not confrontation. Scored at 0.65 because a real villain with lethal stakes exists and is defeated through direct action, but the film\'s deepest conflicts are about grief, letting go, and found family, resolved through emotional transformation rather than heroic combat.',
   },
+  {
+    title: 'Despicable Me',
+    releaseYear: 2010,
+    decade: '2010s',
+    studio: 'Illumination Entertainment',
+    conflictScore: 0.45,
+    reasoning: 'Vector is a genuine antagonist — a rival supervillain who steals Gru\'s shrink ray and later kidnaps the three orphan girls, creating real stakes. The climax involves physical confrontation as Gru battles through Vector\'s fortress to rescue the girls, and Vector is defeated when he accidentally launches himself to the Moon. However, the protagonist is himself a villain, and the film\'s emotional core is entirely internal: Gru\'s transformation from a selfish, glory-seeking supervillain into a loving father. The resolution that matters is not Vector\'s defeat but Gru choosing the girls over his Moon-stealing ambitions. Scored at 0.45 because while a real antagonist with kidnapping stakes exists and is defeated through action, the overwhelming emphasis is on Gru\'s internal journey from villainy to fatherhood, resolved through love and personal growth rather than heroic confrontation.',
+  },
 ]

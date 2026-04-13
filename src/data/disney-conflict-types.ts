@@ -1811,4 +1811,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.45,
     reasoning: 'Professor Marmalade is a genuine villain — a manipulative criminal mastermind who frames the Bad Guys and steals a meteorite — and he is defeated through a heist-style confrontation in the climax. However, the core conflict is internal and identity-based: can Mr. Wolf and his crew genuinely change from villains to heroes? The resolution blends physical confrontation (outsmarting Marmalade) with personal transformation (the Bad Guys choosing goodness because they want to, not because they have to). Scored below mid-range because while a real villain exists and is defeated, the thematic heart is about self-reinvention and the sincerity of change, not good-vs-evil.',
   },
+  {
+    title: 'Turning Red',
+    releaseYear: 2022,
+    decade: '2020s',
+    studio: 'Pixar',
+    conflictScore: 0.15,
+    reasoning: 'There is no villain — the central conflict is Meilin Lee\'s struggle between her mother Ming\'s rigid expectations and her own emerging teenage identity (friends, interests, independence). Ming transforms into a kaiju-sized red panda in the climax, but this is not villainy — it\'s a mother losing control of her own suppressed panda spirit due to unresolved generational trauma with her own mother. Resolution comes entirely through empathy: Mei enters the astral bamboo forest and comforts her mother\'s inner child, helping Ming reconcile decades of pain. Scored very low because every conflict layer — generational expectations, identity, even the physical spectacle — resolves through emotional understanding rather than confrontation.',
+  },
 ]

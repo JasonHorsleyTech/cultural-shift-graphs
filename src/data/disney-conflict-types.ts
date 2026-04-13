@@ -1779,4 +1779,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.40,
     reasoning: 'Zurg is physically menacing — commanding a robot army and directly battling Buzz — but the twist reveals he is an older alternate-timeline Buzz who refused to accept his own mistake. The real conflict is internal: Buzz\'s obsessive need to fix everything alone versus learning to accept imperfection and rely on his team. Resolution blends physical confrontation (defeating Zurg\'s forces) with personal growth (Buzz choosing to move forward rather than undo the past). Scored below mid-range because the villain is literally the hero\'s inability to let go, and the thematic resolution is acceptance over confrontation.',
   },
+  {
+    title: 'Minions: The Rise of Gru',
+    releaseYear: 2022,
+    decade: '2020s',
+    studio: 'Illumination',
+    conflictScore: 0.70,
+    reasoning: 'The Vicious 6 are genuine supervillains — led by Belle Bottom, they actively hunt and try to kill 11-year-old Gru after he steals the Zodiac Stone. The climax is a direct physical battle where the Minions gain kung-fu powers and defeat the villains through confrontation. There is a secondary emotional thread about Gru\'s desire for belonging and his bond with Wild Knuckles as a mentor/father figure, but the narrative is overwhelmingly action-driven. Scored at 0.70 because the villains are real and defeated through confrontation, but the comedic slapstick tone reduces the weight of the stakes.',
+  },
 ]

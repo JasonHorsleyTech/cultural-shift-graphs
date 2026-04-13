@@ -1371,4 +1371,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.10,
     reasoning: 'There is no villain — the conflict is entirely internal, driven by Charlie Brown\'s chronic self-doubt and insecurity as he tries to impress the Little Red-Haired Girl. Snoopy\'s parallel Red Baron subplot exists purely in imagination and provides no real antagonist. Resolution comes through self-acceptance when the Red-Haired Girl tells Charlie Brown she admires his honesty, compassion, and resilience — qualities he never recognized in himself. Scored at 0.10 because there is zero external antagonist, and the conflict resolves entirely through emotional validation and self-understanding.',
   },
+  {
+    title: 'Finding Dory',
+    releaseYear: 2016,
+    decade: '2010s',
+    studio: 'Pixar',
+    conflictScore: 0.15,
+    reasoning: 'There is no villain — the conflict is entirely driven by Dory\'s short-term memory loss and her longing to find her parents. Hank the septopus is initially reluctant but becomes an ally, and the Marine Life Institute staff are well-meaning, not antagonistic. Resolution comes through Dory learning to trust herself despite her disability, emotionally reconnecting with her parents, and relying on the empathy and loyalty of her found family. Scored at 0.15 because there is zero malicious antagonist, and the conflict resolves entirely through self-acceptance, emotional bonds, and community support.',
+  },
 ]

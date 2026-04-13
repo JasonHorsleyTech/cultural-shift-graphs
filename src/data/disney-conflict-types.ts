@@ -539,4 +539,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.75,
     reasoning: 'General Mandible is an unambiguously evil villain — a militaristic ant general who deliberately sends workers on a suicide mission against termites, then orchestrates flooding the colony to kill the queen and all workers so he can rebuild a "pure" society with only his loyal soldiers. The climax is a direct physical confrontation where Mandible falls to his death. Scored at 0.75 because the villain is genuinely genocidal and defeated through confrontation, but a significant portion of the film is devoted to Z\'s internal journey of self-discovery — finding individuality and self-worth in a conformist society — giving the film a strong thematic layer beyond simple villain-vs-hero conflict.',
   },
+  {
+    title: 'Mulan',
+    releaseYear: 1998,
+    decade: '1990s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.80,
+    reasoning: 'Shan Yu is an unambiguously evil villain — a ruthless Hun warlord who invades China, massacres General Li\'s entire army, burns villages, and threatens to kill the Emperor. The climax is a direct physical confrontation on the Imperial Palace roof where Mulan defeats Shan Yu by launching a firework that kills him. Scored at 0.80 because the villain is genuinely menacing with life-and-death stakes and is defeated through direct confrontation, but a major thematic thread is Mulan\'s internal journey — defying gender expectations, proving her worth as a warrior, and finding her identity — which enriches the narrative well beyond a simple villain-defeat arc.',
+  },
 ]

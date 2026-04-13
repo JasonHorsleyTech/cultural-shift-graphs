@@ -675,4 +675,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.20,
     reasoning: 'Yubaba is an intimidating authority figure who traps Chihiro\'s parents as pigs and steals Chihiro\'s name, but she is never defeated in combat — she is an obstacle to navigate, not a villain to vanquish. No-Face becomes a rampaging threat but is calmed through Chihiro\'s compassion and patience, not confrontation. The entire conflict is resolved through personal growth, hard work, kindness, and acts of remembering (Haku\'s true name, recognizing her parents). Scored very low because there is no real villainy to defeat — every challenge is overcome through empathy, courage, and self-discovery rather than confrontation.',
   },
+  {
+    title: 'Ice Age',
+    releaseYear: 2002,
+    decade: '2000s',
+    studio: 'Blue Sky Studios',
+    conflictScore: 0.65,
+    reasoning: 'Soto is a genuine villain — a saber-toothed tiger pack leader who plans to kill and eat a human baby as revenge for humans hunting his pack. The climax is a direct physical confrontation where Diego turns against Soto and Manny fights him, ending with Soto\'s death by falling icicles. However, the film\'s emotional core is the found-family bond between Manny, Sid, and Diego — three misfits who learn to care for each other. Diego\'s arc is resolved through empathy (his growing attachment to the baby and the group overrides his predatory mission), and Manny\'s grief over his lost family is healed through connection, not combat. Scored at 0.65 because a real villain with lethal stakes is defeated through confrontation, but the deeper resolution is about trust, friendship, and chosen family.',
+  },
 ]

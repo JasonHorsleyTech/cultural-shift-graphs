@@ -931,4 +931,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.55,
     reasoning: 'Makunga is a genuine villain — a scheming rival lion who manipulates the rite of passage to get both Alex and his father Zuba banished so he can seize power as alpha. However, he is a political manipulator rather than a physically threatening force of evil, and his defeat comes through clever trickery (Alex gives him Nana\'s handbag, causing Nana to attack him) rather than heroic confrontation. A significant portion of the film\'s emotional arc is about Alex reconnecting with his father, discovering his origins, and the group\'s personal journeys (Melman confessing love for Gloria, Marty finding individuality). Scored at 0.55 because while there is a real antagonist with clear villainous intent, the resolution relies on comedy and trickery, and the heart of the story is family reunion and self-discovery rather than defeating evil.',
   },
+  {
+    title: 'Ponyo',
+    releaseYear: 2008,
+    decade: '2000s',
+    studio: 'Studio Ghibli',
+    conflictScore: 0.15,
+    reasoning: 'There is no villain. Fujimoto, Ponyo\'s father, tries to bring her back to the ocean, but he is a caring parent concerned about the balance of nature — not an antagonist with malicious intent. The central conflict is Ponyo\'s desire to become human and be with Sōsuke, and the magical imbalance (a massive flood) her transformation causes. Resolution comes entirely through love and acceptance: Sōsuke must prove he accepts Ponyo unconditionally, and Granmamare (Ponyo\'s sea-goddess mother) grants the transformation. No one is defeated or confronted. Scored at 0.15 because the film has no villain whatsoever, and every conflict is resolved through empathy, parental love, and a child\'s unconditional acceptance.',
+  },
 ]

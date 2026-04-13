@@ -1707,4 +1707,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.20,
     reasoning: 'Ercole Visconti is a comedic bully who provides surface-level antagonism but poses no real threat — he is humiliated and defeated in a triathlon, not through dramatic confrontation. The true conflict is internal and societal: Luca and Alberto are sea monsters hiding their identity from the human town, fearing rejection and persecution. Resolution comes through vulnerability — when the boys are exposed, the community (led by Giulia and her father) chooses acceptance over fear. Scored low because the film is fundamentally about belonging, self-acceptance, and overcoming prejudice through empathy rather than defeating a villain.',
   },
+  {
+    title: 'PAW Patrol: The Movie',
+    releaseYear: 2021,
+    decade: '2020s',
+    studio: 'Spin Master Entertainment',
+    conflictScore: 0.55,
+    reasoning: 'Mayor Humdinger is a genuine villain — a vain, reckless mayor whose dangerous schemes (a malfunctioning cloud-catcher, a fireworks disaster) threaten Adventure City, and he is defeated and arrested rather than redeemed. However, the film\'s emotional core is Chase\'s internal arc: he was abandoned on Adventure City\'s streets as a puppy and must overcome fear, self-doubt, and trauma to save the day. Scored mid-range because the external villain provides real stakes resolved through confrontation, but the narrative weight falls on internal growth and self-belief.',
+  },
 ]

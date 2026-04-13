@@ -1835,4 +1835,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.35,
     reasoning: 'Chef is a genuine physical threat — a restaurant cook who captures ducks to serve as food — and the family must physically escape his kitchen. However, the core conflict is internal: Mack is an overprotective father whose fear of the outside world keeps his family confined to their pond. The journey south forces him to confront his anxiety and learn to trust his children\'s resilience. Resolution blends a slapstick escape from the chef with Mack\'s emotional growth — he learns that sheltering his family from all risk is itself a form of harm. Scored below mid-range because while a real antagonist exists, he functions more as a situational obstacle than a thematic villain; the heart of the film is a father overcoming fear through family connection.',
   },
+  {
+    title: 'Ruby Gillman, Teenage Kraken',
+    releaseYear: 2023,
+    decade: '2020s',
+    studio: 'DreamWorks Animation',
+    conflictScore: 0.55,
+    reasoning: 'Chelsea Van Der Zee is a genuine villain — a shape-shifting mermaid who poses as a friendly new student to manipulate Ruby into retrieving a powerful trident, then reveals her true nature as a kraken-hunting siren intent on destroying Ruby\'s family. She is defeated through direct physical confrontation when Ruby fully embraces her kraken powers in an ocean battle. However, the emotional core is Ruby\'s internal journey: struggling with her teenage identity, learning to accept her true kraken nature she\'s been hiding, and reconciling with her overprotective grandmother whose secrecy drove much of the tension. Scored mid-range because a real villain with genuine stakes is defeated through confrontation, but the narrative weight falls on self-acceptance and family trust.',
+  },
 ]

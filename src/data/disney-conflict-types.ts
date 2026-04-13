@@ -1923,4 +1923,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.25,
     reasoning: 'There is no traditional villain — Roz is a shipwrecked robot who accidentally orphans a gosling and must learn to become his mother. The central conflicts are entirely internal and relational: Roz\'s growth from programmed machine to loving parent, Brightbill\'s identity crisis as a goose raised by a robot, and the island animals\' initial distrust of Roz. The corporate robots (led by Vontra) sent to retrieve Roz provide a late-act external threat, but they are a system following directives rather than evil antagonists, and the climax is resolved through Roz\'s self-sacrifice and the island community rallying together out of love — not through defeating a villain. The film is fundamentally about found family, empathy, and belonging.',
   },
+  {
+    title: 'Dog Man',
+    releaseYear: 2025,
+    decade: '2020s',
+    studio: 'DreamWorks Animation',
+    conflictScore: 0.50,
+    reasoning: 'Petey the Cat is a genuine villain who schemes to destroy Dog Man and wreak havoc on the city, providing real external conflict with physical stakes. However, the film\'s emotional core is the redemption arc between Petey and his clone-son Lil Petey — Petey ultimately transforms through love and parental responsibility rather than being defeated through confrontation. Dog Man himself embodies loyalty and unconditional love more than combative heroism. Scored mid-range because a real villain drives the plot with genuine stakes, but the resolution hinges on empathy, redemption, and found-family bonds rather than simply vanquishing evil.',
+  },
 ]

@@ -1803,4 +1803,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.10,
     reasoning: 'There is no villain — the central conflict is intergenerational family dysfunction between Jaeger, Searcher, and Ethan Clade, each clashing over identity and values. The twist reveals Avalonia sits atop a giant living creature and their energy source Pando is a parasite killing it; the "hostile" creatures in the strange world are the organism\'s immune system, not enemies. Resolution comes entirely through understanding — the family reconciles through empathy and communication, and collectively sacrifices Pando to save the living world. Scored near the floor because every layer of conflict (familial, environmental, even the monster encounters) resolves through correcting misunderstandings rather than confrontation.',
   },
+  {
+    title: 'The Bad Guys',
+    releaseYear: 2022,
+    decade: '2020s',
+    studio: 'DreamWorks Animation',
+    conflictScore: 0.45,
+    reasoning: 'Professor Marmalade is a genuine villain — a manipulative criminal mastermind who frames the Bad Guys and steals a meteorite — and he is defeated through a heist-style confrontation in the climax. However, the core conflict is internal and identity-based: can Mr. Wolf and his crew genuinely change from villains to heroes? The resolution blends physical confrontation (outsmarting Marmalade) with personal transformation (the Bad Guys choosing goodness because they want to, not because they have to). Scored below mid-range because while a real villain exists and is defeated, the thematic heart is about self-reinvention and the sincerity of change, not good-vs-evil.',
+  },
 ]

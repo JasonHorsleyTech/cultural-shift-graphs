@@ -1571,4 +1571,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.80,
     reasoning: 'Kingpin (Wilson Fisk) is a genuine villain who kills the original Spider-Man, builds a super-collider that threatens to destroy Brooklyn and multiple dimensions, and must be defeated in direct physical combat by Miles Morales. The stakes are real and the conflict is resolved through confrontation. Scored at 0.80 rather than higher because Miles\'s arc has a significant internal growth component — overcoming self-doubt and taking the "leap of faith" to become Spider-Man — and Kingpin\'s motivation is sympathetically rooted in grief over losing his wife and son.',
   },
+  {
+    title: 'Abominable',
+    releaseYear: 2019,
+    decade: '2010s',
+    studio: 'DreamWorks Animation',
+    conflictScore: 0.35,
+    reasoning: 'Burnish and Dr. Zara pursue the Yeti as external antagonists, but Burnish is redeemed through empathy when he recognizes Everest as a sentient being, and Dr. Zara is a secondary threat. The deeper conflict is Yi\'s internal journey — processing her father\'s death and reconnecting with her family. Resolution comes primarily through emotional growth, communication, and Burnish\'s change of heart rather than defeating a villain. Scored at 0.35 because real antagonists provide genuine pursuit and danger, but the core arc is about grief, family, and understanding.',
+  },
 ]

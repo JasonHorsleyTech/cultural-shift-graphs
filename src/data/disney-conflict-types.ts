@@ -603,4 +603,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.55,
     reasoning: 'Al McWhiggin is a greedy toy collector who steals Woody, but the true antagonist is Stinky Pete the Prospector, who manipulates and physically prevents Woody from leaving to preserve his own chance at the museum. The climax features a direct physical rescue and confrontation at the airport where Pete is defeated. However, the film\'s emotional core is Woody\'s internal dilemma — choosing the impermanent love of a child over immortality in a museum — resolved through self-understanding and acceptance of mortality. Scored at 0.55 because the real villain and action-driven rescue are balanced by the dominant internal theme of identity, impermanence, and choosing love over security.',
   },
+  {
+    title: 'Chicken Run',
+    releaseYear: 2000,
+    decade: '2000s',
+    studio: 'Aardman Animations / DreamWorks',
+    conflictScore: 0.85,
+    reasoning: 'Mrs. Tweedy is an unambiguous villain who plans to slaughter every chicken on the farm by converting to automated pie production — the stakes are literally life or death. The entire plot is a Great Escape-style breakout driven by external conflict, culminating in a direct physical confrontation where Mrs. Tweedy attacks the escaping chickens with an axe and is ultimately defeated when flung into her own pie machine. Scored at 0.85 because the villain is central, menacing, and defeated through confrontation, with only minimal internal conflict (Ginger\'s brief crisis of confidence).',
+  },
 ]

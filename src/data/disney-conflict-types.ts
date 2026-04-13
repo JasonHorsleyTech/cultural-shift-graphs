@@ -1515,4 +1515,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.40,
     reasoning: 'The Joker is a real villain with a real scheme — he surrenders to the Phantom Zone, frees its supervillains, and attacks Gotham — but his core motivation is emotional: he wants Batman to acknowledge him as his greatest enemy, making the villain\'s arc essentially about a relationship misunderstanding. The film\'s true conflict is entirely internal — Batman\'s fear of family and refusal to let anyone in after losing his parents. Resolution comes through Batman\'s emotional growth, accepting Robin, Barbara, and Alfred as family and working as a team, not through defeating the Joker in combat.',
   },
+  {
+    title: 'Dr. Seuss\' The Grinch',
+    releaseYear: 2018,
+    decade: '2010s',
+    studio: 'Illumination Entertainment',
+    conflictScore: 0.10,
+    reasoning: 'There is no real villain — the Grinch himself is the protagonist whose hatred of Christmas stems from childhood loneliness and orphanhood, not malice. The entire conflict is an internal misunderstanding: he believes Christmas is about noise and spectacle when it is really about community and love. Resolution comes through pure empathy — the Whos sing joyfully despite having nothing, the Grinch\'s heart literally grows, and he is welcomed into the community through compassion and inclusion rather than confrontation.',
+  },
 ]

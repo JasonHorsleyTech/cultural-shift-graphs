@@ -523,4 +523,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.80,
     reasoning: 'Rasputin is a genuine supernatural villain — an undead sorcerer who cursed the Romanov family, caused their downfall, and is single-mindedly obsessed with killing the last surviving Romanov. He uses a dark reliquary to send demonic minions after Anastasia throughout the film. The climax is a direct physical confrontation on a bridge in Paris where Anastasia destroys Rasputin\'s reliquary, causing him to disintegrate. Scored at 0.80 because the villain is unambiguously evil with murderous supernatural stakes and is defeated through direct confrontation, but a significant portion of the film\'s emotional core is about identity discovery (Anya piecing together who she is) and Dimitri\'s redemption arc from con man to genuine love interest — blending classic villain-driven conflict with themes of self-discovery and belonging.',
   },
+  {
+    title: 'Hercules',
+    releaseYear: 1997,
+    decade: '1990s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.80,
+    reasoning: 'Hades is an unambiguously evil villain — a scheming god of the Underworld who plots to overthrow Zeus by releasing the Titans, sends monsters to kill Hercules, and manipulates Megara as a pawn. The conflict is primarily external with world-ending stakes (Titans attacking Olympus), and Hades is physically defeated when Hercules punches him into the River Styx where souls drag him down. However, the thematic resolution hinges on self-sacrifice rather than combat — Hercules proves himself a true hero by willingly diving into the Styx to rescue Meg\'s soul, not by overpowering the villain. Scored at 0.80 because a genuine villain with cosmic stakes is defeated through direct confrontation, but the film\'s emotional core is about discovering that true heroism is selflessness, not strength.',
+  },
 ]

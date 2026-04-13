@@ -1883,4 +1883,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.70,
     reasoning: 'King Magnifico is a genuine villain — he hoards his subjects\' wishes under the guise of protection, then turns to dark magic and becomes an increasingly tyrannical sorcerer when teenager Asha questions his authority. He is defeated through direct confrontation: Asha and the citizens of Rosas unite their collective wish-power to overwhelm and trap him inside his own magic staff. Scored at 0.70 because while the villain is real with genuine stakes and is defeated through confrontation, the thematic core emphasizes collective empowerment and the idea that people should fight for their own dreams rather than surrender them to authority — blending classic villain-defeat with a modern self-determination message.',
   },
+  {
+    title: 'Despicable Me 4',
+    releaseYear: 2024,
+    decade: '2020s',
+    studio: 'Illumination',
+    conflictScore: 0.60,
+    reasoning: 'Maxime Le Mal is a genuine villain — a French supervillain from Gru\'s past at villain school who escapes prison, swears revenge, and transforms into a cockroach-human hybrid to become physically dangerous. He is defeated through direct confrontation when Gru battles him at the climax. Scored at 0.60 because while the villain is real with genuine stakes and is defeated through force, the film\'s emotional core centers on Gru bonding with baby Gru Jr. (who initially rejects him) and adjusting to witness protection life, and the heavily comedic tone — including the Mega Minions subplot — significantly dilutes the dramatic weight of the villain conflict.',
+  },
 ]

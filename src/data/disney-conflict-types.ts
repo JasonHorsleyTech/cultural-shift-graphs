@@ -290,6 +290,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.35,
     reasoning: 'Madam Mim is a genuine villain who tries to kill Arthur and cheats during her Wizards\' Duel with Merlin, but she only appears in one brief sequence near the film\'s end. The primary narrative follows young Arthur\'s education through magical transformations — conflicts are learning experiences (being chased as a fish, pursued as a squirrel) rather than villain-driven stakes. Sir Ector and Sir Kay are dismissive and sometimes cruel but not true villains. The overarching resolution — Arthur pulling the Sword from the Stone to become King — is about destiny and self-discovery, not defeating evil. Scored at 0.35 because the film contains a genuine villain-confrontation scene but the overall conflict pattern is episodic education and the climax is identity-based rather than villain-driven.',
+    culturalReachPct: 50,
+    reachReasoning: 'Grossed ~$22M domestic in 1963 (solid but not a blockbuster). Re-released theatrically in 1972 and 1983. Released on VHS as part of Disney\'s home video catalog. Well-known within Disney canon but consistently second-tier — never achieved the cultural ubiquity of Jungle Book or 101 Dalmatians. Estimated ~50% of American children in its generational window (1960s–1990s VHS era) saw it.',
   },
   {
     title: 'The Jungle Book',
@@ -298,6 +300,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.75,
     reasoning: 'Shere Khan is a genuine, menacing villain — a tiger who has vowed to kill Mowgli simply because he is human, creating real life-and-death stakes. The climax features a direct confrontation where Mowgli ties a burning branch to Shere Khan\'s tail, exploiting the tiger\'s fear of fire to defeat him. Kaa the snake also attempts to eat Mowgli twice. However, Shere Khan doesn\'t appear until the second half, and most of the film is episodic and lighthearted — Baloo\'s "Bare Necessities," King Louie\'s jazz number, the elephant patrol. The ultimate resolution extends beyond villain-defeat into coming-of-age identity: Mowgli voluntarily leaves the jungle to join the human village after seeing a girl. Scored at 0.75 because the villain is real and directly defeated, but the overall film is more episodic comedy than villain-driven drama, and the ending is about where Mowgli belongs rather than the triumph of good over evil.',
+    culturalReachPct: 75,
+    reachReasoning: 'Grossed ~$73M domestic nominal in initial 1967 run — the #4 film that year and a smash hit. Re-released theatrically in 1978, 1984, and 1990. Massive VHS sales in the Disney vault era. "Bare Necessities" and "I Wanna Be Like You" are culturally ubiquitous songs. One of Disney\'s most beloved pre-Renaissance films. Estimated ~75% of American children across its generational window saw it.',
   },
   {
     title: 'The Aristocats',
@@ -306,6 +310,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.60,
     reasoning: 'Edgar the butler is a genuine villain with a deliberate scheme — upon learning Madame Bonfamille\'s fortune will pass to her cats before him, he drugs and kidnaps Duchess and her kittens, abandoning them in the countryside and later attempting to ship them to Timbuktu permanently. The resolution is a direct confrontation: the cats and their animal allies (Thomas O\'Malley, Scat Cat\'s band, the farm animals) physically overpower Edgar and trap him in the very trunk he intended for the cats. However, Edgar is a comedic, bumbling villain whose schemes repeatedly backfire, and much of the film is a lighthearted Parisian romance between Duchess and O\'Malley punctuated by jazz musical numbers. Scored at 0.60 because the villain is real and directly defeated through confrontation, but the comedic tone, bumbling antagonist, and romance-driven narrative reduce the dramatic weight well below films with menacing villains like The Jungle Book (0.75).',
+    culturalReachPct: 55,
+    reachReasoning: 'Grossed ~$55M+ domestic (adjusted) and was a solid box office performer in 1970–71. Re-released theatrically. Released on VHS in the Disney catalog. Well-known Disney film with a recognizable jazz soundtrack ("Everybody Wants to Be a Cat"), but never top-tier — it sits below Jungle Book and 101 Dalmatians in cultural prominence. Estimated ~55% of American children in its generational window saw it.',
   },
   {
     title: 'Charlotte\'s Web',
@@ -314,6 +320,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Hanna-Barbera Productions',
     conflictScore: 0.25,
     reasoning: 'No villain — the Zuckerman family and farmer Lurvy are not evil, they are simply farmers who plan to slaughter Wilbur because that is what farmers do with pigs. The life-and-death stakes are real (Wilbur will be butchered), but the threat is systemic rather than personal. Charlotte resolves the conflict entirely through communication — weaving words into her web ("Some Pig," "Terrific," "Radiant," "Humble") to change the humans\' perception and spare Wilbur\'s life. Scored at 0.25 because the stakes are genuinely lethal (above Ferdinand at 0.15), but the complete absence of a villain and the resolution through cleverness, friendship, and changing minds rather than confrontation place it well below any film with a personal antagonist.',
+    culturalReachPct: 50,
+    reachReasoning: 'Modest theatrical gross (~$7M domestic in 1973) but enormous secondary reach. The E.B. White novel is one of the most-read children\'s books in American history, driving viewership of the film through school screenings, TV airings, and VHS. Became a staple of elementary school classrooms for decades. Estimated ~50% of American children encountered the animated film through some combination of TV, VHS, and school.',
   },
   {
     title: 'Robin Hood',
@@ -322,6 +330,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.75,
     reasoning: 'Prince John is a genuine villain — a greedy usurper who taxes the people of Nottingham into poverty and imprisons those who cannot pay, while the Sheriff of Nottingham cruelly enforces his decrees. Robin Hood directly confronts the villains throughout: disguising himself at the archery tournament, raiding Prince John\'s treasury, and breaking into the castle to free imprisoned townspeople in a climax with life-and-death stakes (Robin nearly dies in a fire). However, Prince John is notably comedic and buffoonish (thumb-sucking tantrums, outwitted repeatedly), and the ultimate resolution comes through King Richard\'s return rather than Robin Hood personally defeating the tyrant. Scored at 0.75 — matching The Jungle Book — because the villains are real and directly confronted by an active hero, but the comedic tone and external-authority resolution temper the dramatic weight below films like Peter Pan (0.85) where the hero personally vanquishes the villain.',
+    culturalReachPct: 60,
+    reachReasoning: 'Grossed ~$32M domestic nominal in 1973 (solid). Re-released theatrically. Became enormously popular on VHS in the 1980s–90s — widely regarded as a childhood staple for the home video generation despite never being a top-grossing Disney theatrical release. Strong nostalgia factor and quotability ("Oo-de-lally"). Estimated ~60% of American children in its generational window saw it.',
   },
   {
     title: 'The Hobbit',
@@ -330,6 +340,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Rankin/Bass Productions',
     conflictScore: 0.80,
     reasoning: 'Multiple genuine villains with life-and-death stakes — Smaug the dragon conquered the Lonely Mountain and threatens all nearby civilizations, the Goblin King captures the company underground, giant spiders attack in Mirkwood, and goblins and wargs wage war in the Battle of Five Armies. Smaug is killed by Bard the Bowman in direct confrontation after Bilbo discovers his weak spot, and the goblins are defeated through military combat by an alliance of dwarves, elves, men, and eagles. However, Bilbo himself is a burglar who relies on cleverness, stealth, and the magic ring rather than combat — he never personally slays a major villain. Additionally, Thorin\'s greed over the Arkenstone creates a secondary conflict resolved through deathbed reconciliation and forgiveness rather than confrontation. Scored at 0.80 because the villains are unambiguously evil and defeated through direct confrontation, but the protagonist\'s non-warrior role and the meaningful empathy-driven Thorin resolution temper the score below films like Peter Pan (0.85) where the hero personally vanquishes the villain.',
+    culturalReachPct: 35,
+    reachReasoning: 'Originally a Rankin/Bass TV special that aired on NBC in 1977, not a theatrical release. Re-aired on network TV several times and released on VHS. Reached a solid audience through television but far less than theatrical Disney releases. The source material (Tolkien) is iconic but the animated adaptation was a niche viewing experience compared to Disney\'s catalog. Estimated ~35% of American children in its era saw it.',
   },
   {
     title: 'The Many Adventures of Winnie the Pooh',
@@ -338,6 +350,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.10,
     reasoning: 'No villain whatsoever — the film compiles three featurettes where conflicts are entirely gentle and internal. Pooh gets stuck in Rabbit\'s door from overeating (self-inflicted), a windstorm and flood threaten the Hundred Acre Wood (nature, resolved through friendship), and Tigger\'s bounciness annoys his friends (social friction resolved through acceptance). The Heffalumps and Woozles are literally imagined threats in a nightmare sequence. Every resolution comes through patience, friendship, and accepting others\' differences. Scored below Ferdinand (0.15) because even the systemic tension of a bullfighting arena is absent here — the Hundred Acre Wood contains no real threats at all.',
+    culturalReachPct: 60,
+    reachReasoning: 'Compilation of three featurettes (1966, 1968, 1974) released theatrically in 1977. Moderate theatrical gross but the Winnie the Pooh franchise became one of the most commercially successful properties in history — massive merchandise, a long-running TV series (1988), and enormous VHS/DVD sales. The film itself was a staple of Disney home video. Pooh character recognition approaches 100% but the specific 1977 film was seen by a smaller subset. Estimated ~60% of American children saw this particular film.',
   },
   {
     title: 'The Rescuers',
@@ -346,6 +360,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.80,
     reasoning: 'Madame Medusa is a genuine villain — she kidnaps Penny, a young orphan girl, and forces her into a dangerous tide-flooded cave to retrieve the Devil\'s Eye diamond, with life-and-death stakes throughout. Her henchman Mr. Snoops and pet alligators Brutus and Nero enforce her scheme. Resolution comes through direct confrontation: Bernard, Bianca, and the bayou animals fight the alligators and outsmart Medusa, enabling Penny\'s escape with the diamond. Scored at 0.80 because the villain is unambiguously evil with deadly stakes resolved through confrontation, but the protagonists are helper-mice rather than the endangered hero acting alone, Medusa has comedic-bumbling elements, and she is left stranded rather than dramatically defeated.',
+    culturalReachPct: 50,
+    reachReasoning: 'Grossed ~$48M domestic nominal in 1977 (#7 that year — a strong performer). Re-released theatrically in 1983 and 1989. Released on VHS in the Disney catalog. Solid mid-tier Disney film with good name recognition but overshadowed by heavier hitters in the canon. Estimated ~50% of American children in its generational window saw it.',
   },
   {
     title: 'Watership Down',
@@ -354,6 +370,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Nepenthe Productions',
     conflictScore: 0.85,
     reasoning: 'General Woundwort is a genuinely terrifying villain — a dictatorial rabbit who rules Efrafa through fear, violence, and totalitarian control, and who leads a military assault on Watership Down to recapture escapees and destroy the warren. The stakes are life-and-death throughout: rabbits are killed on screen, Bigwig nearly dies defending the burrow, and the film depicts predation, snaring, and warren destruction with unusual graphic intensity for animation. Resolution comes through direct confrontation — Bigwig fights Woundwort in the tunnels while Hazel releases the Nuthanger Farm dog to rout the Efrafan army. Scored at 0.85 because the villain is unambiguously evil and defeated through confrontation, but the protagonists rely on an external weapon (the dog) rather than personally vanquishing Woundwort, and the film carries strong thematic undercurrents about freedom, community, and finding home that add depth beyond pure good-vs-evil.',
+    culturalReachPct: 20,
+    reachReasoning: 'British production with limited US theatrical distribution (~$6M domestic). Gained a cult following through TV airings and VHS/cable in the 1980s–90s, largely notorious for being unexpectedly graphic and traumatizing for children. Not mainstream American children\'s fare — most US kids of the era did not see it. Estimated ~20% of American children in its generational window encountered it.',
   },
   {
     title: 'The Fox and the Hound',
@@ -362,6 +380,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.45,
     reasoning: 'Amos Slade is an antagonist who hunts Tod with genuine lethal intent, and a bear attack in the climax creates real life-and-death stakes. However, Slade is not truly evil — he is a hunter with a legitimate grievance after Tod causes Chief\'s injury — and the bear is a force of nature, not a villain. The core conflict is societal: a fox and a hound whose childhood friendship is torn apart because their natures make them "supposed to be" enemies. Resolution comes through empathy — Copper stands between Slade\'s gun and the wounded Tod, refusing to let his friend be killed, and Slade lowers the gun. Scored at 0.45 because the physical stakes are real but the central conflict is about whether cross-nature friendship can survive societal expectations, resolved through loyalty and compassion rather than defeating any antagonist.',
+    culturalReachPct: 50,
+    reachReasoning: 'Grossed ~$63M domestic nominal in 1981 (#10 that year — a solid performer). Released on VHS in the Disney catalog. A well-known Disney film from the studio\'s "dark age" era, with good name recognition and emotional resonance. Not top-tier Disney but a reliable catalog title. Estimated ~50% of American children in its generational window saw it.',
   },
   {
     title: 'The Last Unicorn',
@@ -370,6 +390,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Rankin/Bass Productions',
     conflictScore: 0.75,
     reasoning: 'King Haggard is a genuine villain who used the Red Bull to drive all unicorns into the sea out of selfish desire to keep their beauty for himself, and the Red Bull is a terrifying enforcer with life-and-death stakes. The climax is a direct confrontation — the Unicorn faces the Red Bull and drives it into the sea, freeing the other unicorns, while Haggard\'s castle crumbles and kills him. However, much of the film is a melancholic journey focused on identity and mortality (the Unicorn transformed into mortal Amalthea fears losing herself), and the resolution is triggered by Prince Lír\'s self-sacrifice and love rather than martial victory. Scored at 0.75 because the villain is real and defeated through confrontation, but the film\'s dominant emotional register is internal struggle and the cost of feeling, placing it below straightforward hero-defeats-evil narratives.',
+    culturalReachPct: 18,
+    reachReasoning: 'Rankin/Bass production with limited US theatrical distribution (~$6M domestic). Became a VHS/cable cult classic in the 1980s–90s, beloved by a devoted niche audience but never mainstream children\'s fare. Most American kids of the era did not encounter it. Estimated ~18% of American children in its generational window saw it.',
   },
   {
     title: 'The Secret of NIMH',
@@ -378,6 +400,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Aurora Productions',
     conflictScore: 0.70,
     reasoning: 'Jenner is a genuine villain — a power-hungry rat who murders Nicodemus by sabotaging the pulley system and attempts to kill Mrs. Brisby and Justin to seize the amulet and control of the colony. The stakes are life-and-death throughout (Timothy\'s illness, the farmer\'s plow, Jenner\'s murders). However, Mrs. Brisby is not a warrior — she is a timid mouse-mother whose arc is about finding courage, and the climactic resolution comes from the magical amulet activated by her love and bravery rather than defeating Jenner (who is killed by Sullivan and Justin). Scored at 0.70 because the villain is real and defeated through confrontation, but the film\'s emotional core is maternal courage and self-sacrifice, placing it below The Rescuers (0.80) and Watership Down (0.85) where protagonists more directly drive the villain\'s defeat.',
+    culturalReachPct: 22,
+    reachReasoning: 'Don Bluth\'s directorial debut grossed ~$14.7M domestic (modest). Gained a devoted cult following through VHS and cable airings in the 1980s–90s. Critically acclaimed but never a mainstream hit — overshadowed by Disney releases. Estimated ~22% of American children in its generational window saw it.',
   },
   {
     title: 'Nausicaä of the Valley of the Wind',
@@ -386,6 +410,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Topcraft',
     conflictScore: 0.35,
     reasoning: 'Princess Kushana and the Tolmekian military are genuine antagonists who invade the Valley of the Wind, kill Nausicaä\'s father, and plan to use an ancient Giant Warrior weapon to burn the toxic jungle — real military stakes with casualties. However, the film\'s central conflict is a profound misunderstanding: humanity sees the toxic jungle and its giant Ohmu insects as existential threats, when in fact the jungle is purifying the earth\'s pollution. Nausicaä resolves the conflict not by defeating Kushana but through empathy and self-sacrifice — she throws herself before a rampaging Ohmu herd to stop them, and they revive her with their healing power. Scored at 0.35 because while military antagonists and life-and-death stakes exist, the core message is quintessential Miyazaki: the perceived enemy is a misunderstanding, and resolution comes through compassion and understanding nature rather than defeating a villain.',
+    culturalReachPct: 5,
+    reachReasoning: 'Pre-Ghibli Miyazaki film with virtually no US theatrical presence. The butchered English dub "Warriors of the Wind" (1985) received extremely limited US distribution. Did not get a proper US home video release until Disney\'s Ghibli deal in the 2000s. Minimal cultural footprint among American children until the streaming era. Estimated ~5% of American children encountered it in any form.',
   },
   {
     title: 'The Black Cauldron',
@@ -394,6 +420,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.80,
     reasoning: 'The Horned King is an unambiguously evil villain — a skeletal, demonic warlord who seeks the Black Cauldron to raise an invincible army of undead Cauldron-Born warriors and conquer the world. Stakes are life-and-death throughout: characters are captured, threatened with execution, and the Cauldron-Born kill on screen. Resolution comes through direct confrontation — Gurgi sacrifices himself by leaping into the Cauldron to destroy its power, causing the Cauldron-Born to collapse and the Horned King to be sucked into the Cauldron and destroyed. Scored at 0.80 because the villain is genuinely terrifying with no moral ambiguity and is defeated through confrontation, but the protagonist Taran does not personally vanquish the villain — it is Gurgi\'s self-sacrifice that saves the day, and Taran\'s arc is partly about learning humility rather than heroic triumph.',
+    culturalReachPct: 15,
+    reachReasoning: 'Disney\'s notorious box office bomb — grossed only ~$21.3M domestic in 1985, the studio\'s worst-performing animated feature at the time. Received a PG rating (a first for Disney animation) which limited its audience. Was not released on home video until 1998, missing the peak VHS era entirely. One of the least-seen Disney animated features of the 20th century. Estimated ~15% of American children in its generational window saw it.',
   },
   {
     title: 'An American Tail',
@@ -402,6 +430,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Sullivan Bluth Studios',
     conflictScore: 0.70,
     reasoning: 'Warren T. Rat is a genuine villain — a cat disguised as a rat who exploits immigrant mice, runs a sweatshop racket, and leads the Mott Street Maulers cat gang that terrorizes the mouse community. The climax is a direct confrontation: the mice build the Giant Mouse of Minsk and use it to drive the cats off the pier into the harbor, defeating Warren T. decisively. However, the film\'s emotional core is about immigration, family separation, and belonging — young Fievel\'s journey is about finding his family in a strange new country, and the ending is a tearful reunion rather than a victory celebration. Scored at 0.70 because the villain is real and defeated through collective confrontation, but the dominant narrative is a child\'s immigrant experience and the ache of separation, placing it below films where villain-defeat is the emotional climax.',
+    culturalReachPct: 60,
+    reachReasoning: 'Grossed ~$47.4M domestic in 1986 (#8 that year — a major hit). "Somewhere Out There" was a massive pop hit single performed by Linda Ronstadt and James Ingram. Strong VHS sales. Spawned a sequel and a TV series. Very well-known among 80s/90s children. Estimated ~60% of American children in its generational window saw it.',
   },
   {
     title: 'Castle in the Sky',
@@ -410,6 +440,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Studio Ghibli',
     conflictScore: 0.75,
     reasoning: 'Colonel Muska is a genuine villain — a power-hungry government agent who seeks the floating castle Laputa to use its ancient weapons for world domination, murdering soldiers and holding Sheeta hostage. The climax is a direct confrontation: Sheeta and Pazu recite the spell of destruction to destroy Laputa\'s weapon systems, and Muska falls to his death as the fortress crumbles. However, the resolution is as much about rejecting destructive technology as defeating the villain — the natural tree of life survives while the weapon layer is destroyed — and the Dola pirates shift from antagonists to allies, reflecting Miyazaki\'s characteristic moral complexity. Scored at 0.75 because the villain is unambiguously evil and defeated through confrontation, but the thematic resolution extends well beyond villain-defeat into anti-militarist and environmental territory.',
+    culturalReachPct: 5,
+    reachReasoning: 'Studio Ghibli\'s first official film had no US theatrical release until a limited 2003 Disney run. Virtually unknown to American children in the 1980s–90s. Only reached US audiences through imported VHS/LaserDisc among anime fans, then Disney DVD in 2003 and later streaming. Minimal cultural footprint among American children. Estimated ~5% of American children encountered it in any form.',
   },
   {
     title: 'The Great Mouse Detective',
@@ -418,6 +450,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.85,
     reasoning: 'Professor Ratigan is one of Disney\'s most theatrical villains — a criminal mastermind who feeds disloyal henchmen to his cat, kidnaps a toymaker to build a robot replica of the Mouse Queen, and plots to seize control of all mousedom. The stakes are life-and-death throughout: Olivia\'s father is held hostage, Basil and Dawson are placed in a Rube Goldberg death trap, and the climax is a brutal one-on-one fight atop Big Ben where Ratigan transforms from suave schemer into feral beast before falling to his death. Scored at 0.85 because the villain is unambiguously evil, the protagonist (Basil) actively drives the investigation and personally confronts Ratigan in the climax, and the resolution is entirely through defeating the villain — but the detective-story framing and Ratigan\'s theatrical comedic moments in the first two acts temper it slightly below Sleeping Beauty (0.95) or Pinocchio (0.90).',
+    culturalReachPct: 35,
+    reachReasoning: 'Grossed ~$25M domestic nominal in 1986 (modest — not a blockbuster). Released on VHS as part of the Disney catalog. Well-regarded critically and has a loyal fanbase, but was overshadowed at the box office and in cultural memory by Don Bluth\'s An American Tail the same year. A mid-tier Disney film that many children of the era missed. Estimated ~35% of American children in its generational window saw it.',
   },
   {
     title: 'My Neighbor Totoro',
@@ -426,6 +460,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Studio Ghibli',
     conflictScore: 0.10,
     reasoning: 'There is no villain whatsoever — the film follows two young sisters, Satsuki and Mei, adjusting to rural life while their mother recovers from illness in a hospital. The magical creatures (Totoro, Catbus, soot sprites) are entirely benevolent. The only real tension comes when Mei goes missing trying to walk to the hospital alone, and this is resolved when Catbus magically transports Satsuki to find her. Scored at 0.10 — on par with Winnie the Pooh — because the film contains zero antagonism, zero confrontation, and every conflict is resolved through family love, patience, and gentle magical assistance. This is Miyazaki\'s purest expression of the idea that wonder and kindness are sufficient to carry a story.',
+    culturalReachPct: 12,
+    reachReasoning: 'Barely released in the US at the time — Fox/50th Street Films handled a very limited 1993 English dub theatrical run. The Totoro character became an iconic cultural image worldwide, but actual viewership of the film among American children was minimal until the Disney DVD release (2006) and later streaming on HBO Max/Netflix. Character recognition far exceeds film viewership. Estimated ~12% of American children encountered the actual film.',
   },
   {
     title: 'Oliver & Company',
@@ -434,6 +470,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.80,
     reasoning: 'Bill Sykes is a genuinely menacing villain — a brutal loan shark who threatens Fagin with death over unpaid debts, sends his vicious Dobermans Roscoe and DeSoto to intimidate, and kidnaps the child Jenny as ransom. The climax is a direct physical confrontation: a car chase through New York City onto the Brooklyn Bridge subway tracks, ending when Sykes is killed by an oncoming train and his dogs are electrocuted on the third rail. Scored at 0.80 because Sykes is unambiguously evil and defeated through confrontation, but the film\'s emotional core is equally about Oliver finding a home and the theme of belonging — the first act focuses on street survival and friendship with Dodger\'s gang rather than villain conflict, tempering the score slightly below purely villain-driven films like The Great Mouse Detective (0.85).',
+    culturalReachPct: 50,
+    reachReasoning: 'Grossed ~$74.1M domestic in 1988 (#11 that year — solid performer). Featured Billy Joel, Bette Midler, and Cheech Marin voice cast. Released on VHS. A popular Disney release that benefited from the studio\'s late-80s resurgence, though overshadowed in cultural memory by The Little Mermaid which followed the next year. Estimated ~50% of American children in its generational window saw it.',
   },
   {
     title: 'The Land Before Time',
@@ -442,6 +480,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Sullivan Bluth Studios',
     conflictScore: 0.85,
     reasoning: 'Sharptooth is a terrifying, relentless Tyrannosaurus rex who kills Littlefoot\'s mother in a brutal early attack and stalks the young dinosaurs throughout their journey to the Great Valley. The climax is a direct physical confrontation — the children lure Sharptooth to a cliff edge and topple a boulder onto him, sending him plunging into deep water. Scored at 0.85 because Sharptooth is an unambiguous, deadly villain whose threat drives the entire plot, and the resolution is pure confrontation. Slightly below 0.90 because important secondary themes — grief over a parent\'s death, cooperation across species prejudice, and the emotional journey of growing up — add depth beyond a simple good-vs-evil arc.',
+    culturalReachPct: 72,
+    reachReasoning: 'Grossed ~$48.1M domestic in 1988. Massive VHS sales — 7.5 million units in its first year alone. Spawned 13 direct-to-video sequels and a TV series, creating an enormous franchise that kept the property in children\'s rotation for over a decade. One of the defining children\'s films of the late 1980s. Estimated ~72% of American children in its generational window (late 80s–90s) saw it.',
   },
   {
     title: 'All Dogs Go to Heaven',
@@ -450,6 +490,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Sullivan Bluth Studios',
     conflictScore: 0.70,
     reasoning: 'Carface Carruthers is an unambiguous villain — a crime boss who murders his partner Charlie B. Barkin to seize control of their gambling operation, then repeatedly tries to kill him again after Charlie returns from the dead. The climax involves a direct physical confrontation at Carface\'s lair amid fire and flooding. Scored at 0.70 because while Carface is genuinely evil and the stakes are life-and-death, the resolution hinges on Charlie\'s internal moral transformation — he starts out selfish and exploitative (using orphan Anne-Marie\'s gift for gambling profit) and ultimately sacrifices his life to save her, earning redemption. The film resolves through self-sacrifice and spiritual growth rather than simply defeating the villain.',
+    culturalReachPct: 35,
+    reachReasoning: 'Grossed ~$27.1M domestic in 1989 — released the same weekend as The Little Mermaid and was crushed by it at the box office. Had decent VHS sales and cable airings. A Don Bluth film with a following but never a mainstream hit on the level of Disney or even An American Tail. Estimated ~35% of American children in its generational window saw it.',
   },
   {
     title: 'Kiki\'s Delivery Service',
@@ -458,6 +500,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Studio Ghibli',
     conflictScore: 0.15,
     reasoning: 'There is no villain in this film. Kiki is a young witch who moves to a new city and starts a flying delivery service as part of a coming-of-age tradition. The central conflict is entirely internal — she loses her magical powers due to self-doubt and a crisis of identity, and regains them through renewed self-belief when she must rescue her friend Tombo from a crashing dirigible. Scored at 0.15 — slightly above Totoro (0.10) because the climax has genuine physical danger and urgency, but the conflict is fundamentally about personal growth and self-understanding with zero antagonism or villainy.',
+    culturalReachPct: 6,
+    reachReasoning: 'Not released in the US until a limited 1998 theatrical run, then Disney DVD in 2003. Virtually unknown to American children of the late 1980s–90s. Gained a modest US audience through Disney\'s home video distribution and later streaming, but remains a niche Ghibli title among American kids compared to Totoro or Spirited Away. Estimated ~6% of American children encountered it.',
   },
   {
     title: 'The Little Mermaid',
@@ -466,6 +510,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.90,
     reasoning: 'Ursula is one of Disney\'s most iconic villains — a power-hungry sea witch who tricks Ariel into a Faustian bargain (trading her voice for human legs) with the hidden goal of using Ariel as a pawn to overthrow King Triton. Ursula actively sabotages Ariel\'s chance at true love by transforming into "Vanessa" to bewitch Prince Eric, then seizes Triton\'s trident to become a giant, all-powerful tyrant. The climax is a direct physical confrontation: Eric rams a ship\'s bowsprit through Ursula, destroying her. Scored at 0.90 because Ursula is unambiguously evil, drives the entire plot through manipulation and force, and is defeated through direct physical confrontation — a textbook real-villain, real-stakes narrative. Held slightly below 1.0 because Ariel\'s own desire for the human world (an internal longing) is what makes her vulnerable to Ursula in the first place, adding a layer of personal growth alongside the villain conflict.',
+    culturalReachPct: 85,
+    reachReasoning: 'Grossed ~$111M domestic (adjusted ~$235M) — a massive hit that launched the Disney Renaissance. Sold over 10 million VHS copies. "Part of Your World" and "Under the Sea" are among the most recognizable Disney songs ever written. A generational touchstone that virtually every American child of the late 80s–90s saw. Estimated ~85% of American children in its generational window saw it.',
   },
   {
     title: 'The Rescuers Down Under',
@@ -474,6 +520,8 @@ export const conflictData: ConflictEntry[] = [
     studio: 'Walt Disney Studios',
     conflictScore: 0.85,
     reasoning: 'Percival C. McLeach is an unambiguously evil poacher who kidnaps the boy Cody to exploit his knowledge of the rare golden eagle Marahute, intending to capture and kill the bird for profit. McLeach is physically menacing — he imprisons Cody, lies that Marahute is dead to manipulate him, and ultimately tries to feed Cody to crocodiles at Crocodile Falls. The climax is a direct confrontation: Bernard rescues Cody and Marahute while McLeach falls over the waterfall to his death. Scored at 0.85 because the villain is genuinely threatening and defeated through confrontation, but the protagonist Bernard\'s arc also involves overcoming personal timidity and finding the courage to propose to Bianca, adding a secondary internal-growth thread alongside the villain conflict.',
+    culturalReachPct: 28,
+    reachReasoning: 'Grossed only ~$27.9M domestic — a box office disappointment. Released the same day as Home Alone (November 16, 1990) and was completely overshadowed. Disney\'s first theatrical animated sequel but one of the least-seen Renaissance-era releases. Had VHS sales but never became a catalog staple. Estimated ~28% of American children in its generational window saw it.',
   },
   {
     title: 'Beauty and the Beast',

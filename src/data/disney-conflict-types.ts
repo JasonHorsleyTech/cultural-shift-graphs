@@ -1931,4 +1931,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.50,
     reasoning: 'Petey the Cat is a genuine villain who schemes to destroy Dog Man and wreak havoc on the city, providing real external conflict with physical stakes. However, the film\'s emotional core is the redemption arc between Petey and his clone-son Lil Petey — Petey ultimately transforms through love and parental responsibility rather than being defeated through confrontation. Dog Man himself embodies loyalty and unconditional love more than combative heroism. Scored mid-range because a real villain drives the plot with genuine stakes, but the resolution hinges on empathy, redemption, and found-family bonds rather than simply vanquishing evil.',
   },
+  {
+    title: 'Elio',
+    releaseYear: 2025,
+    decade: '2020s',
+    studio: 'Pixar Animation Studios',
+    conflictScore: 0.20,
+    reasoning: 'There is no real villain — Elio is a socially awkward boy who gets accidentally beamed up to an intergalactic community and mistaken for Earth\'s ambassador. The central conflict is built entirely on misidentification and Elio\'s own insecurity about whether he belongs or can represent humanity. Ambassador Questa and the Communiverse present obstacles but function as skeptics testing Earth\'s worthiness, not evil antagonists. Resolution comes through Elio finding his voice, connecting with alien species through genuine empathy and curiosity, and proving that authentic human connection transcends the misunderstanding — not through defeating anyone.',
+  },
 ]

@@ -1163,4 +1163,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.30,
     reasoning: 'Aloysius O\'Hare is a corporate antagonist who profits from selling bottled air and wants to stop Ted from planting a real tree, but the film\'s deeper conflict is environmental destruction caused by greed and indifference. The Once-ler\'s flashback arc — the central story — has no villain at all; the Lorax simply warns, is ignored, and leaves in sorrow ("Unless someone like you cares a whole awful lot, nothing is going to get better. It\'s not."). Resolution comes through guilt, responsibility, and collective awakening rather than confrontation. Scored at 0.30 because while O\'Hare provides a surface-level antagonist defeated by community action, the film\'s true message is about empathy for nature and taking personal responsibility — the Lorax resolves nothing through force.',
   },
+  {
+    title: 'The Pirates! Band of Misfits',
+    releaseYear: 2012,
+    decade: '2010s',
+    studio: 'Aardman Animations',
+    conflictScore: 0.55,
+    reasoning: 'Queen Victoria is a genuine villain — she runs a secret exotic animal dining society, hunts pirates, and schemes to steal Polly the dodo. The climax is a physical confrontation at Buckingham Palace where the pirates battle her forces to rescue Polly. However, the Pirate Captain\'s central conflict is internal: his obsession with winning Pirate of the Year leads him to betray his crew\'s trust by trading Polly for a trophy. Resolution depends equally on his learning that loyalty to his crew matters more than personal glory. Scored at 0.55 because while a real villain is defeated through confrontation, the film gives equal weight to the Captain\'s internal growth and the theme that friendship outweighs ambition.',
+  },
 ]

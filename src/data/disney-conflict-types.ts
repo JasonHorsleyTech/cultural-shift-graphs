@@ -699,4 +699,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.70,
     reasoning: 'The Colonel is a real antagonist who captures Spirit, attempts to break his will through starvation and force, and pursues him relentlessly — the conflict involves genuine physical stakes including captivity, forced labor, and threat of death. The climax is a dramatic chase and confrontation ending with Spirit\'s impossible canyon jump. However, the Colonel is not evil — he is a determined military officer representing institutional authority, and the resolution includes his grudging nod of respect as he lets Spirit go free rather than being defeated or destroyed. Scored at 0.70 because the conflict is genuinely external with real confrontation, but the antagonist is more systemic force than villain, and the ending blends escape with mutual recognition rather than pure triumph over evil.',
   },
+  {
+    title: 'Treasure Planet',
+    releaseYear: 2002,
+    decade: '2000s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.60,
+    reasoning: 'John Silver is a genuine villain — a cyborg pirate who orchestrates a mutiny, threatens the crew, and is willing to kill to reach Treasure Planet\'s hoard. The climax involves real confrontation as Jim and the loyalists fight the pirate crew. However, Silver also becomes Jim\'s surrogate father, filling the void left by Jim\'s absent dad, and the emotional core of the film is their bond. Silver ultimately saves Jim\'s life instead of taking the treasure, choosing love over greed — his arc resolves through empathy, not defeat. Jim\'s own arc is deeply internal: a troubled teen transforming into a confident young man through mentorship. Scored at 0.60 because real villainy and physical stakes drive the plot, but the resolution hinges on a father-son bond and the villain\'s redemption rather than his destruction.',
+  },
 ]

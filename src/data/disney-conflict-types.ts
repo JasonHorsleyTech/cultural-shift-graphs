@@ -1363,4 +1363,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.40,
     reasoning: 'Thunderclap and his pterodactyl gang are genuine predatory villains who try to take and eat Spot, and Arlo physically confronts them in the climax. However, the central conflict is Arlo\'s internal struggle with paralyzing fear following his father\'s death. Resolution blends confrontation (fighting pterodactyls) with emotional growth — Arlo overcomes his fear and selflessly lets Spot go to join a human family. Scored at 0.40 because while real antagonists with physical stakes exist, the core arc is about conquering internal fear and forming bonds resolved through empathy and self-discovery.',
   },
+  {
+    title: 'The Peanuts Movie',
+    releaseYear: 2015,
+    decade: '2010s',
+    studio: 'Blue Sky Studios',
+    conflictScore: 0.10,
+    reasoning: 'There is no villain — the conflict is entirely internal, driven by Charlie Brown\'s chronic self-doubt and insecurity as he tries to impress the Little Red-Haired Girl. Snoopy\'s parallel Red Baron subplot exists purely in imagination and provides no real antagonist. Resolution comes through self-acceptance when the Red-Haired Girl tells Charlie Brown she admires his honesty, compassion, and resilience — qualities he never recognized in himself. Scored at 0.10 because there is zero external antagonist, and the conflict resolves entirely through emotional validation and self-understanding.',
+  },
 ]

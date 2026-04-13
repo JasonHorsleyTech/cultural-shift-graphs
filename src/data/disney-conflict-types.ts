@@ -1067,4 +1067,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.70,
     reasoning: 'Professor Zündapp and the Lemons — a criminal cabal of malfunctioning cars led secretly by Sir Miles Axlerod — are genuine villains with lethal intent, using a disguised electromagnetic weapon to blow up racers\' engines during the World Grand Prix to discredit alternative fuel and protect their oil profits. The stakes are real: cars are injured and killed, and a bomb is strapped to Mater in the climax. The villains are defeated through direct confrontation — Mater exposes Axlerod as the mastermind, and the conspirators are arrested. However, the emotional core is the friendship subplot: Lightning McQueen is embarrassed by Mater\'s antics and pushes him away, while Mater doubts his own worth. The true resolution is McQueen learning to accept Mater as he is and Mater realizing he doesn\'t need to change. Scored at 0.70 because the spy-thriller plot features unambiguous villains defeated through action, but the film gives substantial weight to the interpersonal misunderstanding and its resolution through acceptance and loyalty.',
   },
+  {
+    title: 'Kung Fu Panda 2',
+    releaseYear: 2011,
+    decade: '2010s',
+    studio: 'DreamWorks Animation',
+    conflictScore: 0.65,
+    reasoning: 'Lord Shen is an unambiguously evil villain — a peacock who committed genocide against the pandas based on a prophecy, then built an arsenal of cannons to conquer all of China and destroy kung fu. The stakes are massive and the climax is a direct physical confrontation: Po deflects Shen\'s cannonballs and destroys his armada. However, the film\'s emotional core is overwhelmingly about trauma and healing — Po must process repressed memories of witnessing his mother\'s sacrifice during the panda massacre and achieve "inner peace." His ability to defeat Shen is explicitly enabled by this emotional healing, not combat skill alone. Shen is even offered redemption in the final moment but rejects it, dying under his own cannon. Scored at 0.65 because while the villain is genuinely menacing (genocide, conquest) and defeated through spectacular combat, the film\'s thesis is that confronting painful memories and finding inner peace is the true path to victory, placing enormous weight on internal growth as the key to resolving external conflict.',
+  },
 ]

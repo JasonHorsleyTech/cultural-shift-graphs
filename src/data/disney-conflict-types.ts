@@ -1723,4 +1723,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.30,
     reasoning: 'There is no true villain — Namaari is an antagonist driven by survival and loyalty to her tribe, not malice, and she is redeemed rather than defeated. The Druun is a mindless existential threat (a plague that turns people to stone) but has no agency or villainy. The entire film is explicitly about learning to trust again after betrayal: Raya\'s arc moves from suspicion to vulnerability, and the climax is resolved when she sacrifices herself as an act of faith in Namaari, inspiring the warring factions to reunite. Scored low because despite real physical stakes and action sequences, the resolution is purely through trust and empathy, not confrontation.',
   },
+  {
+    title: 'Ron\'s Gone Wrong',
+    releaseYear: 2021,
+    decade: '2020s',
+    studio: 'Locksmith Animation',
+    conflictScore: 0.35,
+    reasoning: 'Andrew Morris is a genuine corporate villain driven by greed and data-mining children\'s personal information, and he actively tries to destroy Ron to protect the company\'s image. However, the film\'s true conflict is internal and social: Barney\'s loneliness and the emptiness of algorithmic friendship versus genuine human connection. Resolution comes through Ron\'s self-sacrifice (uploading his unique code to all B-bots) and Barney\'s growth in understanding what real friendship means — not through defeating the villain in confrontation. Scored low because despite a real antagonist with real stakes, the emotional core and resolution center on empathy, self-discovery, and authentic connection.',
+  },
 ]

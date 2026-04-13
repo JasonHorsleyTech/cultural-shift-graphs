@@ -1051,4 +1051,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.55,
     reasoning: 'Lotso is a genuine villain — a tyrannical teddy bear who runs Sunnyside Daycare like a prison, manipulating other toys through fear and deception. The stakes are life-and-death: Lotso deliberately betrays the toys at the dump incinerator, refusing to press the emergency stop and leaving them to die. However, the film\'s emotional core is overwhelmingly about growing up, abandonment, and letting go. Lotso himself is a dark mirror of what bitterness over being outgrown can produce. The resolution that defines the film is not defeating Lotso but Andy choosing to give his toys to Bonnie — an act of acceptance and emotional maturity. Scored at 0.55 because a real villain with lethal stakes exists and is punished, but the film\'s thesis is about the pain of being outgrown and finding new purpose, resolved through love and letting go rather than heroic confrontation.',
   },
+  {
+    title: 'Arthur Christmas',
+    releaseYear: 2011,
+    decade: '2010s',
+    studio: 'Aardman Animations / Sony Pictures Animation',
+    conflictScore: 0.20,
+    reasoning: 'There is no villain. The closest antagonist is Arthur\'s older brother Steve, who is hyper-competent but dismissive — he sees one missed child out of hundreds of millions as a statistical irrelevance, not a crisis. Grandsanta causes chaos but is lovable, not malicious. The entire conflict is a values disagreement within the Claus family about whether every single child matters. Arthur\'s quest to deliver one forgotten present is resolved through sheer determination, heart, and proving that individual kindness trumps systemic efficiency — leading the family to reconcile and choose Arthur as the next Santa. Scored at 0.20 because there is no evil to defeat, the conflict is fundamentally about empathy versus bureaucratic indifference, and it resolves through love and family reconciliation.',
+  },
 ]

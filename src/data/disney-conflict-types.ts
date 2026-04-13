@@ -579,4 +579,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.20,
     reasoning: 'An anthology of eight animated segments set to classical music, most with no villain at all. Only the Steadfast Tin Soldier segment has a clear antagonist (a jack-in-the-box rival), while the Firebird Suite features a destructive natural force rather than a motivated villain. The Sorcerer\'s Apprentice (returning from the original) centers on Mickey\'s own hubris causing chaos. The film is overwhelmingly about artistic wonder, beauty, and renewal rather than conflict — scored at 0.20 because villain-driven confrontation is marginal across the anthology.',
   },
+  {
+    title: 'Tarzan',
+    releaseYear: 1999,
+    decade: '1990s',
+    studio: 'Walt Disney Studios',
+    conflictScore: 0.75,
+    reasoning: 'Clayton is a genuine villain — a greedy hunter who deceives the Porters and Tarzan to locate the gorillas, then reveals his true intent to capture them for profit. He kills Kerchak and the climax is a direct physical confrontation in the treetops ending in Clayton\'s death. However, Tarzan\'s internal identity conflict — torn between the human world and his gorilla family, seeking acceptance from Kerchak — is a major throughline that resolves through self-understanding and choosing where he belongs. Scored at 0.75 because the villain and physical confrontation are central, but the prominent identity/belonging arc tempers the score.',
+  },
 ]

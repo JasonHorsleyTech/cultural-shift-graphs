@@ -1691,4 +1691,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.85,
     reasoning: 'The Lord Protector (a Cromwell stand-in) is an unambiguous, authoritarian villain who orders the systematic extermination of wolves and destruction of the forest — the stakes are existential for the wolfwalkers. Conflict is entirely external and resolved through direct confrontation: Robyn and Mebh rally the wolf pack to fight back against the soldiers, and the protagonists escape by force rather than through dialogue or redemption. Scored high because this is a rare modern animated film with a genuinely threatening, unredeemed villain and a resolution grounded in resistance, not empathy or mutual understanding.',
   },
+  {
+    title: 'Encanto',
+    releaseYear: 2021,
+    decade: '2020s',
+    studio: 'Walt Disney Animation Studios',
+    conflictScore: 0.10,
+    reasoning: 'There is no villain — the central conflict stems from Abuela Alma\'s generational trauma and her rigid expectations, which pressure every family member to perform and suppress those who don\'t fit (Mirabel, Bruno). The miracle cracking is caused by the family\'s own dysfunction, not an external threat. Resolution comes entirely through empathy: Mirabel and Abuela share a vulnerable conversation at the river where Abuela acknowledges how her fear of loss made her hurt her family. Scored near the floor because this is one of the clearest examples of purely internal, empathy-resolved conflict in the modern Disney canon.',
+  },
 ]

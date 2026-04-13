@@ -723,4 +723,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.25,
     reasoning: 'There is no real villain — the film\'s threats (barracuda, sharks, jellyfish, anglerfish) are environmental hazards, not antagonists with intent. The dentist who captures Nemo is oblivious, not malicious, and the sharks are actively trying not to eat fish. The true conflict is entirely internal: Marlin\'s paralyzing overprotectiveness born from trauma versus Nemo\'s need for independence. Resolution comes through personal growth and trust — Marlin learns to let go, Nemo proves his capability, and father and son reach mutual understanding. Scored very low because the story is fundamentally about a parent overcoming fear through empathy and trust, not about defeating evil.',
   },
+  {
+    title: 'Sinbad: Legend of the Seven Seas',
+    releaseYear: 2003,
+    decade: '2000s',
+    studio: 'DreamWorks Animation',
+    conflictScore: 0.70,
+    reasoning: 'Eris, the Goddess of Chaos, is a genuine supernatural villain with malicious intent — she steals the Book of Peace, frames Sinbad, and aims to plunge the world into chaos purely for her own amusement. The stakes are real: Prince Proteus faces execution, and civilization itself is threatened. Sinbad battles sea monsters, sirens, and a giant ice bird that Eris conjures as lethal obstacles. However, the climax resolves not through combat but through Sinbad\'s moral growth — he defeats Eris by choosing self-sacrifice over self-preservation, answering her challenge with honesty. Scored at 0.70 because the villain is unambiguously evil and the external threats are deadly, but the resolution hinges on Sinbad\'s internal transformation from selfish rogue to loyal friend willing to die for what\'s right.',
+  },
 ]

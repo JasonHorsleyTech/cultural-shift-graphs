@@ -1731,4 +1731,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.35,
     reasoning: 'Andrew Morris is a genuine corporate villain driven by greed and data-mining children\'s personal information, and he actively tries to destroy Ron to protect the company\'s image. However, the film\'s true conflict is internal and social: Barney\'s loneliness and the emptiness of algorithmic friendship versus genuine human connection. Resolution comes through Ron\'s self-sacrifice (uploading his unique code to all B-bots) and Barney\'s growth in understanding what real friendship means — not through defeating the villain in confrontation. Scored low because despite a real antagonist with real stakes, the emotional core and resolution center on empathy, self-discovery, and authentic connection.',
   },
+  {
+    title: 'Sing 2',
+    releaseYear: 2021,
+    decade: '2020s',
+    studio: 'Illumination Entertainment',
+    conflictScore: 0.55,
+    reasoning: 'Jimmy Crystal is a genuine villain — a ruthless entertainment mogul who physically threatens Buster Moon and his troupe, and in the climax attempts to kill Buster by throwing him off a building. He is defeated and arrested rather than redeemed. However, the film\'s emotional core is internal: each character overcomes personal fears and limitations (Rosita conquers her stunt phobia, Clay Calloway works through grief over his late wife to perform again, Buster confronts his habit of deception). Scored mid-range because the external villain provides real life-and-death stakes resolved through confrontation, but the narrative weight falls on personal growth and self-belief.',
+  },
 ]

@@ -1739,4 +1739,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.55,
     reasoning: 'Jimmy Crystal is a genuine villain — a ruthless entertainment mogul who physically threatens Buster Moon and his troupe, and in the climax attempts to kill Buster by throwing him off a building. He is defeated and arrested rather than redeemed. However, the film\'s emotional core is internal: each character overcomes personal fears and limitations (Rosita conquers her stunt phobia, Clay Calloway works through grief over his late wife to perform again, Buster confronts his habit of deception). Scored mid-range because the external villain provides real life-and-death stakes resolved through confrontation, but the narrative weight falls on personal growth and self-belief.',
   },
+  {
+    title: 'Spirit Untamed',
+    releaseYear: 2021,
+    decade: '2020s',
+    studio: 'DreamWorks Animation',
+    conflictScore: 0.60,
+    reasoning: 'Hendricks is a genuine villain — a horse wrangler who captures wild mustangs to sell them and is willing to endanger children to protect his operation. The climax involves a direct physical rescue: Lucky and her friends chase down the train carrying the captured horses and free them. However, the film\'s emotional core is Lucky\'s internal journey — overcoming her fear of riding (rooted in her mother\'s death), bonding with Spirit, and embracing her identity. Scored mid-range because real external stakes and a physical confrontation drive the plot, but the narrative weight falls on personal growth and the human-animal bond.',
+  },
 ]

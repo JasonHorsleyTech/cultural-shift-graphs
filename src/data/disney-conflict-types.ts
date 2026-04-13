@@ -883,4 +883,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.4,
     reasoning: 'Chef Skinner is a genuine antagonist who schemes to protect his commercial empire — hiding Linguini\'s inheritance and trying to expose the rat — but he is a petty, self-interested villain rather than a menacing or evil one. The deeper conflict is entirely internal: Remy struggles against societal prejudice ("rats don\'t cook") and his own family\'s expectations. Resolution comes not through defeating Skinner but through art changing minds — Ego\'s transformative review and the acknowledgment that "anyone can cook." Scored at 0.40 because a real antagonist exists and is outmaneuvered, but the film\'s emotional core is about overcoming prejudice through talent, passion, and empathy rather than confrontation.',
   },
+  {
+    title: 'Shrek the Third',
+    releaseYear: 2007,
+    decade: '2000s',
+    studio: 'DreamWorks Animation',
+    conflictScore: 0.45,
+    reasoning: 'Prince Charming is a genuine villain who rallies an army of fairy tale antagonists to seize the throne of Far Far Away, creating real external stakes. However, the pivotal resolution is empathy-based: Artie persuades the villain army to stand down by telling them they don\'t have to be defined as villains, and Shrek\'s deeper arc is internal — overcoming his fear of fatherhood. Scored at 0.45 because a real villain with a real coup exists, but the climax hinges on communication and reframing identity rather than defeating evil through confrontation.',
+  },
 ]

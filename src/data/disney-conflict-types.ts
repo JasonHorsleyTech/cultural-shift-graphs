@@ -1307,4 +1307,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.40,
     reasoning: 'Lord Business is a genuine villain with real stakes — he commands an army, employs Bad Cop as enforcer, and plans to permanently freeze the entire Lego world with the Kragle. However, the resolution is almost entirely through empathy rather than confrontation: Emmet appeals to Business\'s humanity ("You don\'t have to be the bad guy"), and the live-action layer reveals the conflict mirrors a father-son relationship where the dad learns to let go of rigid control. Business is redeemed through understanding, not defeated through force. Scored at 0.40 because while a real antagonist with lethal stakes exists, the film\'s core message and resolution center on empathy, communication, and the idea that the "villain" simply needs to be understood.',
   },
+  {
+    title: 'When Marnie Was There',
+    releaseYear: 2014,
+    decade: '2010s',
+    studio: 'Studio Ghibli',
+    conflictScore: 0.10,
+    reasoning: 'There is no villain — the conflict is entirely internal. Anna is a lonely, depressed foster child struggling with abandonment and self-loathing. The mysterious Marnie turns out to be the ghost of Anna\'s deceased grandmother, and the resolution comes through Anna discovering her family history and understanding that she was always loved. Scored at 0.10 because the film has no external antagonist whatsoever; all conflict is emotional and resolved through self-discovery, empathy, and healing.',
+  },
 ]

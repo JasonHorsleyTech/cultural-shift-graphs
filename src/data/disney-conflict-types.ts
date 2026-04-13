@@ -1491,4 +1491,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.70,
     reasoning: 'Balthazar Bratt is a genuine supervillain — a former child star seeking revenge on Hollywood for cancelling his show, wielding 80s-themed weaponry and a giant robot with real destructive intent. The main conflict is resolved through direct physical confrontation as Gru defeats Bratt and saves Hollywood. Scored at 0.70 rather than higher because significant screen time is devoted to Gru\'s internal and family conflicts — his identity crisis after being fired, bonding with his twin brother Dru, and the Minions\' temporary departure — giving the film a substantial empathy-and-growth layer alongside its traditional villain plot.',
   },
+  {
+    title: 'Ferdinand',
+    releaseYear: 2017,
+    decade: '2010s',
+    studio: 'Blue Sky Studios',
+    conflictScore: 0.15,
+    reasoning: 'There is no real villain — the matador El Primero wants to fight Ferdinand in the ring, but he is pursuing glory rather than acting out of malice. The entire conflict is a misunderstanding: Ferdinand is a gentle, flower-loving bull repeatedly mistaken for a fierce beast because of his enormous size. Resolution comes through peaceful self-expression and empathy — Ferdinand refuses to fight in the arena, winning over the crowd and proving his true nature. Scored very low because the film is a quintessential "imagined villain, conflict-as-misunderstanding" story resolved entirely through gentleness rather than confrontation.',
+  },
 ]

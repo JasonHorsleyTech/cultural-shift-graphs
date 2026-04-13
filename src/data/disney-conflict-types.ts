@@ -843,4 +843,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.35,
     reasoning: 'The primary conflict is a natural disaster — the valley is flooding as the ice age ends — not a villain\'s scheme. Two thawed sea reptiles (Cretaceous and Maelstrom) serve as recurring physical threats but are mindless predators with no personality or motivation beyond hunting. The real story is Manny\'s fear of being the last mammoth and his growing bond with Ellie, a female mammoth who believes she\'s a possum. Resolution comes through emotional acceptance: Ellie embraces her true identity, she and Manny form a family, and the herd survives together. Scored at 0.35 because while genuine predator threats exist and are defeated physically, the heart of the film is internal and relational conflict resolved through connection and self-acceptance.',
   },
+  {
+    title: 'Open Season',
+    releaseYear: 2006,
+    decade: '2000s',
+    studio: 'Sony Pictures Animation',
+    conflictScore: 0.65,
+    reasoning: 'Shaw is a genuine villain — a fanatical hunter who actively tries to kill Boog and the other forest animals, escalating from poaching to full-blown assault with increasingly dangerous weapons. The climax is a direct physical confrontation where the woodland creatures band together to fight off Shaw and the hunters, driving them out of the forest. However, the emotional core is Boog\'s internal journey from pampered domesticated bear to independent wild animal: he must overcome his dependence on ranger Beth, learn to survive in the forest, and form real friendships (especially with Elliot). Scored at 0.65 because Shaw is a lethal antagonist defeated through group confrontation, but the film\'s heart is Boog\'s personal growth and the community bonds that make the confrontation possible.',
+  },
 ]

@@ -1587,4 +1587,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.20,
     reasoning: 'There is no living villain — the antagonist is the legacy of King Runeard\'s past betrayal (building a dam to weaken the Northuldra people out of fear and prejudice). Elsa\'s journey is an internal quest to discover her identity and the source of a mysterious voice calling her. Resolution comes through truth-seeking, understanding historical wrongs, and corrective justice (destroying the dam) rather than defeating an enemy. Scored at 0.20 because while there is real danger from angered elemental spirits, the core conflict is a mystery resolved through empathy, self-discovery, and making things right.',
   },
+  {
+    title: 'How to Train Your Dragon: The Hidden World',
+    releaseYear: 2019,
+    decade: '2010s',
+    studio: 'DreamWorks Animation',
+    conflictScore: 0.55,
+    reasoning: 'Grimmel the Grisly is an unambiguous villain — a calculating dragon hunter who uses traps, drugged dragons, and manipulation to target Toothless, and he is defeated in a climactic aerial confrontation (falling to his death). However, the film\'s emotional core is Hiccup\'s internal journey of learning to let go, culminating in selflessly releasing Toothless to the Hidden World. Scored at 0.55 because the real-villain/confrontation plotline is fully present but serves a deeper story about growth, love, and saying goodbye.',
+  },
 ]

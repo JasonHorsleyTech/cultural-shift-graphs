@@ -1027,4 +1027,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.35,
     reasoning: 'Tighten (Hal Stewart) becomes a genuine physical threat — a superpowered stalker who rampages through Metro City and must be defeated in a climactic battle. However, the film\'s entire thesis is that the hero/villain binary is a misunderstanding: Megamind was never truly evil, just a misunderstood outsider shoved into the "villain" role by circumstance and rejection. Metro Man, the supposed hero, fakes his own death because he never wanted the role either. The real resolution is Megamind\'s internal transformation — choosing heroism through his love for Roxanne and discovering his identity isn\'t defined by the role society assigned him. Scored at 0.35 because while Tighten is physically defeated in combat, the film explicitly deconstructs the concept of villainy itself, framing the entire hero-vs-villain conflict as a social misunderstanding resolved through self-discovery and personal growth.',
   },
+  {
+    title: 'Shrek Forever After',
+    releaseYear: 2010,
+    decade: '2010s',
+    studio: 'DreamWorks Animation',
+    conflictScore: 0.40,
+    reasoning: 'Rumpelstiltskin is a genuine villain — a scheming trickster who cons Shrek into erasing his own existence, then rules Far Far Away as a tyrant with an army of witches. Real stakes exist: Shrek will literally cease to exist when the day ends. However, the film is essentially "It\'s a Wonderful Life" for ogres — the core conflict is Shrek\'s midlife crisis and his failure to appreciate his ordinary domestic life. The climax involves physical confrontation with Rumpelstiltskin\'s forces, but the true resolution is Fiona\'s True Love\'s Kiss, earned through Shrek proving he has genuinely changed by learning to value love and family over adventure and glory. Scored at 0.40 because while a real villain with lethal stakes exists, the film\'s thesis is overwhelmingly internal — about gratitude, appreciating what you have, and personal growth — resolved through emotional connection rather than defeating evil.',
+  },
 ]

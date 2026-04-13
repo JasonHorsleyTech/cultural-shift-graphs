@@ -1851,4 +1851,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.70,
     reasoning: 'The Spot is a genuine villain whose powers escalate from comedic to existential multiverse-level threat, and Miguel O\'Hara functions as a secondary antagonist who physically hunts Miles for refusing to let his father die as a "canon event." The conflict is resolved through defiance and physical confrontation — Miles fights his way out of Spider-Society and refuses to accept the system\'s demands. Scored below 0.8 because the film heavily layers identity and belonging themes (Miles told he\'s an anomaly who shouldn\'t exist) alongside its villain conflict, and the story ends on a cliffhanger without full resolution.',
   },
+  {
+    title: 'The Boy and the Heron',
+    releaseYear: 2023,
+    decade: '2020s',
+    studio: 'Studio Ghibli',
+    conflictScore: 0.20,
+    reasoning: 'There is no real villain — the grey heron is initially deceptive but becomes an ally, and the parakeet king is a minor situational obstacle rather than a thematic antagonist. The core conflict is entirely internal: Mahito is grieving his mother\'s death in a wartime fire, resenting his father\'s remarriage to her sister, and struggling to accept loss and change. Resolution comes through emotional growth — Mahito chooses to return to the imperfect real world rather than rule a crumbling fantasy realm, embracing grief and imperfection as part of life. Scored very low because conflict is driven by internal struggle and resolved through acceptance, not confrontation.',
+  },
 ]

@@ -1019,4 +1019,12 @@ export const conflictData: ConflictEntry[] = [
     conflictScore: 0.40,
     reasoning: 'The Red Death — a massive alpha dragon enslaving all other dragons — is a genuine physical threat defeated in a climactic aerial battle, and Hiccup loses a leg in the fight, showing real stakes. However, the film\'s central conflict is fundamentally a misunderstanding: the Vikings\' generations-long war against dragons is based on ignorance, as the dragons are victims of the Red Death, not willful attackers. The emotional resolution is Hiccup proving through empathy and befriending Toothless that humans and dragons can coexist, and the father-son conflict with Stoick resolves through acceptance and communication. Scored at 0.40 because while a real monster must be physically defeated, the film\'s thesis is that the entire Viking-dragon war was a misunderstanding resolved through understanding and cooperation, not heroic combat against evil.',
   },
+  {
+    title: 'Megamind',
+    releaseYear: 2010,
+    decade: '2010s',
+    studio: 'DreamWorks Animation',
+    conflictScore: 0.35,
+    reasoning: 'Tighten (Hal Stewart) becomes a genuine physical threat — a superpowered stalker who rampages through Metro City and must be defeated in a climactic battle. However, the film\'s entire thesis is that the hero/villain binary is a misunderstanding: Megamind was never truly evil, just a misunderstood outsider shoved into the "villain" role by circumstance and rejection. Metro Man, the supposed hero, fakes his own death because he never wanted the role either. The real resolution is Megamind\'s internal transformation — choosing heroism through his love for Roxanne and discovering his identity isn\'t defined by the role society assigned him. Scored at 0.35 because while Tighten is physically defeated in combat, the film explicitly deconstructs the concept of villainy itself, framing the entire hero-vs-villain conflict as a social misunderstanding resolved through self-discovery and personal growth.',
+  },
 ]

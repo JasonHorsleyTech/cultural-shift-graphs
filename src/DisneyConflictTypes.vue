@@ -11,10 +11,10 @@ const filmCount = conflictData.length
 const sorted = [...conflictData].sort((a, b) => a.releaseYear - b.releaseYear)
 
 // LOESS (locally weighted scatterplot smoothing)
-function loess(xs, ys, bandwidth = 0.15) {
+// weights: optional per-point importance weights (e.g. cultural reach)
+function loess(xs, ys, bandwidth = 0.15, weights = null) {
   const n = xs.length
   const result = []
-  // Generate smooth points across the full range
   const xMin = Math.min(...xs)
   const xMax = Math.max(...xs)
   const steps = 200
@@ -28,7 +28,8 @@ function loess(xs, ys, bandwidth = 0.15) {
     for (let i = 0; i < n; i++) {
       const u = dists[i] / (h * 1.0001)
       if (u >= 1) continue
-      const w = (1 - u * u * u) ** 3 // tricube kernel
+      let w = (1 - u * u * u) ** 3 // tricube kernel
+      if (weights) w *= weights[i]
       sumW += w
       sumWX += w * xs[i]
       sumWY += w * ys[i]
@@ -52,21 +53,31 @@ function loess(xs, ys, bandwidth = 0.15) {
 
 const scatterXs = sorted.map((d) => d.releaseYear)
 const scatterYs = sorted.map((d) => d.conflictScore)
+const reachWeights = sorted.map((d) => (d.culturalReachPct ?? 50) / 100)
 const loessCurve = loess(scatterXs, scatterYs, 0.2)
+const loessWeighted = loess(scatterXs, scatterYs, 0.2, reachWeights)
 
 // Decade aggregation (for bar chart)
 function aggregateByDecade(entries) {
   const buckets = new Map()
   for (const entry of entries) {
-    const bucket = buckets.get(entry.decade) ?? { sum: 0, count: 0 }
+    const reach = entry.culturalReachPct ?? 50
+    const bucket = buckets.get(entry.decade) ?? { sum: 0, count: 0, wSum: 0, wTotal: 0 }
     bucket.sum += entry.conflictScore
     bucket.count += 1
+    bucket.wSum += entry.conflictScore * reach
+    bucket.wTotal += reach
     buckets.set(entry.decade, bucket)
   }
   const decades = [...buckets.keys()].sort()
   return decades.map((d) => {
     const b = buckets.get(d)
-    return { decade: d, avg: +(b.sum / b.count).toFixed(4), count: b.count }
+    return {
+      decade: d,
+      avg: +(b.sum / b.count).toFixed(4),
+      weightedAvg: +(b.wSum / b.wTotal).toFixed(4),
+      count: b.count,
+    }
   })
 }
 
@@ -74,7 +85,6 @@ const decadeData = aggregateByDecade(conflictData)
 
 // --- Score color helper ---
 function scoreColor(score) {
-  // 1.0 = red (villain), 0.0 = teal (empathy)
   if (score >= 0.75) return 'bg-red-100 text-red-800 border-red-200'
   if (score >= 0.5) return 'bg-amber-100 text-amber-800 border-amber-200'
   if (score >= 0.25) return 'bg-sky-100 text-sky-800 border-sky-200'
@@ -95,14 +105,39 @@ function scoreLabel(score) {
   return 'Pure empathy'
 }
 
+function reachLabel(pct) {
+  if (pct >= 90) return 'Generational'
+  if (pct >= 70) return 'Major hit'
+  if (pct >= 50) return 'Wide release'
+  if (pct >= 30) return 'Moderate'
+  if (pct >= 10) return 'Limited'
+  return 'Niche'
+}
+
 // --- Summary stats ---
 const earlyDecades = conflictData.filter((d) => d.releaseYear < 2000)
 const lateDecades = conflictData.filter((d) => d.releaseYear >= 2000)
 const earlyAvg = +(earlyDecades.reduce((s, d) => s + d.conflictScore, 0) / earlyDecades.length).toFixed(2)
 const lateAvg = +(lateDecades.reduce((s, d) => s + d.conflictScore, 0) / lateDecades.length).toFixed(2)
+
+// Reach-weighted averages
+function weightedAvg(entries) {
+  let wSum = 0, wTotal = 0
+  for (const d of entries) {
+    const r = d.culturalReachPct ?? 50
+    wSum += d.conflictScore * r
+    wTotal += r
+  }
+  return +(wSum / wTotal).toFixed(2)
+}
+const earlyWeighted = weightedAvg(earlyDecades)
+const lateWeighted = weightedAvg(lateDecades)
+
 const meaningfulDecades = decadeData.filter((d) => d.count >= 3)
 const peakDecade = meaningfulDecades.reduce((a, b) => (a.avg > b.avg ? a : b))
 const lowestDecade = meaningfulDecades.reduce((a, b) => (a.avg < b.avg ? a : b))
+const peakWeighted = meaningfulDecades.reduce((a, b) => (a.weightedAvg > b.weightedAvg ? a : b))
+const lowestWeighted = meaningfulDecades.reduce((a, b) => (a.weightedAvg < b.weightedAvg ? a : b))
 
 // --- Filters for summary cards ---
 const selectedDecade = ref('all')
@@ -122,23 +157,39 @@ const barCanvas = ref(null)
 onMounted(async () => {
   await nextTick()
 
-  // Scatter + LOESS
+  // Scatter + LOESS (dots sized by reach)
   new Chart(scatterCanvas.value, {
     type: 'scatter',
     data: {
       datasets: [
         {
           label: 'Individual films',
-          data: sorted.map((d) => ({ x: d.releaseYear, y: d.conflictScore, title: d.title })),
-          backgroundColor: 'rgba(30, 41, 59, 0.35)',
-          borderColor: 'rgba(30, 41, 59, 0.6)',
+          data: sorted.map((d) => ({
+            x: d.releaseYear,
+            y: d.conflictScore,
+            title: d.title,
+            reach: d.culturalReachPct ?? 50,
+          })),
+          backgroundColor: 'rgba(30, 41, 59, 0.3)',
+          borderColor: 'rgba(30, 41, 59, 0.5)',
           borderWidth: 1,
-          pointRadius: 4,
-          pointHoverRadius: 7,
+          pointRadius: sorted.map((d) => 2 + ((d.culturalReachPct ?? 50) / 100) * 10),
+          pointHoverRadius: sorted.map((d) => 5 + ((d.culturalReachPct ?? 50) / 100) * 10),
         },
         {
-          label: 'LOESS trend',
+          label: 'Trend (unweighted)',
           data: loessCurve,
+          type: 'line',
+          borderColor: 'rgba(100, 116, 139, 0.5)',
+          borderWidth: 2,
+          borderDash: [6, 4],
+          pointRadius: 0,
+          tension: 0.4,
+          fill: false,
+        },
+        {
+          label: 'Trend (reach-weighted)',
+          data: loessWeighted,
           type: 'line',
           borderColor: '#dc2626',
           borderWidth: 3,
@@ -157,9 +208,10 @@ onMounted(async () => {
             label(ctx) {
               if (ctx.datasetIndex === 0) {
                 const d = ctx.raw
-                return `${d.title}: ${(d.y * 100).toFixed(0)}%`
+                return `${d.title}: ${(d.y * 100).toFixed(0)}% conflict · ${d.reach}% reach`
               }
-              return `Trend: ${(ctx.raw.y * 100).toFixed(0)}%`
+              const label = ctx.datasetIndex === 1 ? 'Unweighted' : 'Weighted'
+              return `${label}: ${(ctx.raw.y * 100).toFixed(0)}%`
             },
           },
         },
@@ -208,35 +260,39 @@ onMounted(async () => {
     },
   })
 
-  // Bar chart with percentages
+  // Bar chart — unweighted vs reach-weighted
+  const barColor = (v) =>
+    v >= 0.75 ? 'rgba(220, 38, 38, 0.6)'
+    : v >= 0.5 ? 'rgba(245, 158, 11, 0.6)'
+    : v >= 0.25 ? 'rgba(14, 165, 233, 0.6)'
+    : 'rgba(20, 184, 166, 0.6)'
+  const barBorder = (v) =>
+    v >= 0.75 ? '#dc2626'
+    : v >= 0.5 ? '#f59e0b'
+    : v >= 0.25 ? '#0ea5e9'
+    : '#14b8a6'
+
   new Chart(barCanvas.value, {
     type: 'bar',
     data: {
       labels: decadeData.map((d) => d.decade),
       datasets: [
         {
-          label: 'Avg conflict score',
+          label: 'Unweighted avg',
           data: decadeData.map((d) => d.avg),
-          backgroundColor: decadeData.map((d) =>
-            d.avg >= 0.75
-              ? 'rgba(220, 38, 38, 0.6)'
-              : d.avg >= 0.5
-                ? 'rgba(245, 158, 11, 0.6)'
-                : d.avg >= 0.25
-                  ? 'rgba(14, 165, 233, 0.6)'
-                  : 'rgba(20, 184, 166, 0.6)'
-          ),
-          borderColor: decadeData.map((d) =>
-            d.avg >= 0.75
-              ? '#dc2626'
-              : d.avg >= 0.5
-                ? '#f59e0b'
-                : d.avg >= 0.25
-                  ? '#0ea5e9'
-                  : '#14b8a6'
-          ),
+          backgroundColor: decadeData.map((d) => barColor(d.avg)),
+          borderColor: decadeData.map((d) => barBorder(d.avg)),
           borderWidth: 2,
           borderRadius: 4,
+        },
+        {
+          label: 'Reach-weighted avg',
+          data: decadeData.map((d) => d.weightedAvg),
+          backgroundColor: 'rgba(127, 29, 29, 0.25)',
+          borderColor: '#991b1b',
+          borderWidth: 2,
+          borderRadius: 4,
+          borderDash: [4, 2],
         },
       ],
     },
@@ -248,11 +304,13 @@ onMounted(async () => {
           callbacks: {
             label(ctx) {
               const d = decadeData[ctx.dataIndex]
-              return `Avg: ${(d.avg * 100).toFixed(0)}% (n=${d.count} films)`
+              if (ctx.datasetIndex === 0)
+                return `Unweighted: ${(d.avg * 100).toFixed(0)}% (n=${d.count})`
+              return `Reach-weighted: ${(d.weightedAvg * 100).toFixed(0)}%`
             },
           },
         },
-        legend: { display: false },
+        legend: { position: 'top' },
       },
       scales: {
         x: { title: { display: true, text: 'Decade' } },
@@ -264,27 +322,6 @@ onMounted(async () => {
             callback: (v) => `${(v * 100).toFixed(0)}%`,
             stepSize: 0.25,
           },
-        },
-      },
-      // Show percentage labels on bars
-      animation: {
-        onComplete({ chart }) {
-          const ctx2 = chart.ctx
-          ctx2.save()
-          ctx2.font = 'bold 12px sans-serif'
-          ctx2.textAlign = 'center'
-          ctx2.textBaseline = 'bottom'
-          chart.data.datasets[0].data.forEach((val, i) => {
-            const meta = chart.getDatasetMeta(0).data[i]
-            const d = decadeData[i]
-            ctx2.fillStyle = '#1e293b'
-            ctx2.fillText(`${(val * 100).toFixed(0)}%`, meta.x, meta.y - 4)
-            ctx2.font = '10px sans-serif'
-            ctx2.fillStyle = '#64748b'
-            ctx2.fillText(`n=${d.count}`, meta.x, meta.y - 18)
-            ctx2.font = 'bold 12px sans-serif'
-          })
-          ctx2.restore()
         },
       },
     },
@@ -301,35 +338,43 @@ onMounted(async () => {
       shifted from <em>real villains in real conflicts</em> to
       <em>misunderstandings resolved through empathy and self-understanding</em>.
       Data from <strong>{{ filmCount }}</strong> films scored on a 0–1 conflict
-      spectrum (1 = classic villain defeated through confrontation, 0 = no
-      villain, resolved through empathy or growth).
+      spectrum, each weighted by estimated <strong>cultural reach</strong> — what
+      percentage of American children in that film's generation plausibly saw it.
     </p>
 
     <!-- Findings summary -->
     <div class="mt-8 rounded-lg border border-neutral-300 bg-neutral-50 p-6 max-w-3xl">
       <h2 class="text-lg font-semibold">What the data shows</h2>
       <p class="mt-2 text-neutral-700 leading-relaxed">
-        <strong>The hypothesis holds.</strong> Across {{ filmCount }} animated films from 1928 to 2025,
-        there is a clear downward shift in villain-driven conflict. Films released before 2000
-        average <strong>{{ (earlyAvg * 100).toFixed(0) }}%</strong> on the conflict scale
-        (n={{ earlyDecades.length }}), while films from 2000 onward average
+        <strong>The hypothesis holds — and reach-weighting makes it stronger.</strong>
+        Across {{ filmCount }} films from 1928 to 2025, films before 2000 average
+        <strong>{{ (earlyAvg * 100).toFixed(0) }}%</strong> conflict (n={{ earlyDecades.length }}),
+        while films from 2000 onward average
         <strong>{{ (lateAvg * 100).toFixed(0) }}%</strong> (n={{ lateDecades.length }}).
+        When weighted by cultural reach — so that The Lion King counts more than
+        a straight-to-video sequel — the pre-2000 average rises to
+        <strong>{{ (earlyWeighted * 100).toFixed(0) }}%</strong> and the post-2000
+        average drops to <strong>{{ (lateWeighted * 100).toFixed(0) }}%</strong>.
       </p>
       <p class="mt-2 text-neutral-700 leading-relaxed">
-        The peak villain era was the <strong>{{ peakDecade.decade }}</strong>
-        ({{ (peakDecade.avg * 100).toFixed(0) }}% avg, {{ peakDecade.count }} films),
-        while the lowest decade is the <strong>{{ lowestDecade.decade }}</strong>
-        ({{ (lowestDecade.avg * 100).toFixed(0) }}% avg, {{ lowestDecade.count }} films).
-        The LOESS trend line shows the inflection point around 1995–2005, after which
-        the industry shifted decisively toward empathy-driven, internal-conflict storytelling.
+        The films that most kids actually watched were <em>more</em> villain-heavy
+        in the early era and <em>more</em> empathy-driven in the modern era than
+        a flat count suggests. The reach-weighted peak is the
+        <strong>{{ peakWeighted.decade }}</strong>
+        ({{ (peakWeighted.weightedAvg * 100).toFixed(0) }}% weighted avg),
+        and the lowest is the <strong>{{ lowestWeighted.decade }}</strong>
+        ({{ (lowestWeighted.weightedAvg * 100).toFixed(0) }}% weighted avg).
       </p>
     </div>
 
     <!-- Scatter + LOESS -->
     <section class="mt-10">
-      <h2 class="text-xl font-semibold">Every film, with trend line</h2>
+      <h2 class="text-xl font-semibold">Every film, with trend lines</h2>
       <p class="mt-1 text-sm text-neutral-500">
-        Each dot is a film. The red line is a LOESS smoothed trend. Hover for details.
+        Dot size = cultural reach (bigger = more kids saw it).
+        <span class="text-red-600 font-medium">Red line</span> = reach-weighted trend.
+        <span class="text-neutral-400">Dashed line</span> = unweighted.
+        Hover for details.
       </p>
       <div class="mt-4 border border-neutral-200 rounded-lg p-4 bg-white">
         <div class="h-[460px]">
@@ -342,9 +387,8 @@ onMounted(async () => {
     <section class="mt-12">
       <h2 class="text-xl font-semibold">Average by decade</h2>
       <p class="mt-1 text-sm text-neutral-500">
-        Decade averages with film counts. Colors shift from
-        <span class="text-red-600 font-medium">red</span> (villain-heavy) to
-        <span class="text-teal-600 font-medium">teal</span> (empathy-focused).
+        Colored bars = unweighted average. Dark outline bars = reach-weighted average.
+        When the weighted bar is higher, the popular films in that decade skewed more villain-heavy.
       </p>
       <div class="mt-4 border border-neutral-200 rounded-lg p-4 bg-white">
         <div class="h-[400px]">
@@ -362,16 +406,20 @@ onMounted(async () => {
             <tr class="border-b border-neutral-300">
               <th class="pr-4 py-2 text-left font-semibold">Decade</th>
               <th class="px-4 py-2 text-right font-semibold">Films</th>
-              <th class="px-4 py-2 text-right font-semibold">Avg score</th>
-              <th class="px-4 py-2 text-right font-semibold">Avg %</th>
+              <th class="px-4 py-2 text-right font-semibold">Avg</th>
+              <th class="px-4 py-2 text-right font-semibold">Weighted avg</th>
+              <th class="px-4 py-2 text-right font-semibold">Diff</th>
             </tr>
           </thead>
           <tbody>
             <tr v-for="d in decadeData" :key="d.decade" class="border-b border-neutral-100">
               <td class="pr-4 py-2">{{ d.decade }}</td>
               <td class="px-4 py-2 text-right tabular-nums">{{ d.count }}</td>
-              <td class="px-4 py-2 text-right tabular-nums">{{ d.avg.toFixed(2) }}</td>
               <td class="px-4 py-2 text-right tabular-nums">{{ (d.avg * 100).toFixed(0) }}%</td>
+              <td class="px-4 py-2 text-right tabular-nums">{{ (d.weightedAvg * 100).toFixed(0) }}%</td>
+              <td class="px-4 py-2 text-right tabular-nums" :class="d.weightedAvg > d.avg ? 'text-red-600' : d.weightedAvg < d.avg ? 'text-teal-600' : ''">
+                {{ d.weightedAvg > d.avg ? '+' : '' }}{{ ((d.weightedAvg - d.avg) * 100).toFixed(0) }}pp
+              </td>
             </tr>
           </tbody>
         </table>
@@ -411,16 +459,25 @@ onMounted(async () => {
               <h3 class="font-semibold leading-tight">{{ film.title }}</h3>
               <p class="text-xs mt-0.5 opacity-75">{{ film.releaseYear }} · {{ film.studio }}</p>
             </div>
-            <div class="flex flex-col items-end shrink-0">
+            <div class="flex flex-col items-end shrink-0 gap-0.5">
               <span
                 :class="['inline-block text-white text-xs font-bold px-2 py-0.5 rounded', scoreBadgeColor(film.conflictScore)]"
               >
-                {{ (film.conflictScore * 100).toFixed(0) }}%
+                {{ (film.conflictScore * 100).toFixed(0) }}% conflict
               </span>
-              <span class="text-[10px] mt-0.5 opacity-60">{{ scoreLabel(film.conflictScore) }}</span>
+              <span
+                v-if="film.culturalReachPct != null"
+                class="inline-block bg-neutral-700 text-white text-xs font-bold px-2 py-0.5 rounded"
+              >
+                {{ film.culturalReachPct }}% reach
+              </span>
+              <span class="text-[10px] mt-0.5 opacity-60">{{ reachLabel(film.culturalReachPct ?? 0) }}</span>
             </div>
           </div>
           <p class="mt-2 text-xs leading-relaxed opacity-80">{{ film.reasoning }}</p>
+          <p v-if="film.reachReasoning" class="mt-1 text-xs leading-relaxed opacity-60 italic">
+            Reach: {{ film.reachReasoning }}
+          </p>
         </div>
       </div>
     </section>

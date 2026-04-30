@@ -43,6 +43,8 @@ function buildChart() {
   if (chart) chart.destroy()
   if (!canvas.value) return
   const cc = chartColors()
+  const labelBg = isDark.value ? 'rgba(38, 38, 38, 0.92)' : 'rgba(243, 244, 246, 0.92)'
+  const labelText = isDark.value ? '#e5e7eb' : '#1f2937'
 
   chart = new Chart(canvas.value, {
     type: 'line',
@@ -54,15 +56,15 @@ function buildChart() {
         tension: 0.4,
         segment: {
           borderColor: (ctx) => {
-            if (ctx.p0.parsed.y >= 0 && ctx.p1.parsed.y >= 0) return 'rgba(34, 197, 94, 0.75)'
-            if (ctx.p0.parsed.y <= 0 && ctx.p1.parsed.y <= 0) return 'rgba(239, 68, 68, 0.75)'
-            return cc.text + '40'
+            if (ctx.p0.parsed.y >= 0 && ctx.p1.parsed.y >= 0) return 'rgba(22, 163, 74, 0.9)'
+            if (ctx.p0.parsed.y <= 0 && ctx.p1.parsed.y <= 0) return 'rgba(220, 38, 38, 0.9)'
+            return cc.text + '60'
           },
         },
         fill: {
           target: 'origin',
-          above: 'rgba(34, 197, 94, 0.15)',
-          below: 'rgba(239, 68, 68, 0.15)',
+          above: 'rgba(34, 197, 94, 0.12)',
+          below: 'rgba(239, 68, 68, 0.12)',
         },
       }],
     },
@@ -105,8 +107,8 @@ function buildChart() {
               xValue: 10,
               yValue: 87,
               content: ["they didn't even bring it up"],
-              color: cc.text + '80',
-              backgroundColor: cc.surface + 'E0',
+              color: labelText,
+              backgroundColor: labelBg,
               padding: { x: 6, y: 3 },
               borderRadius: 4,
               font: { size: 11, style: 'italic' },
@@ -116,8 +118,8 @@ function buildChart() {
               xValue: 22,
               yValue: 115,
               content: ["they're being so nice about it.", "i'm a monster."],
-              color: cc.text + '90',
-              backgroundColor: cc.surface + 'E0',
+              color: labelText,
+              backgroundColor: labelBg,
               padding: { x: 6, y: 3 },
               borderRadius: 4,
               font: { size: 12, style: 'italic' },
@@ -127,8 +129,8 @@ function buildChart() {
               xValue: 42,
               yValue: 68,
               content: ['yeah, fair'],
-              color: cc.text + '80',
-              backgroundColor: cc.surface + 'E0',
+              color: labelText,
+              backgroundColor: labelBg,
               padding: { x: 6, y: 3 },
               borderRadius: 4,
               font: { size: 12, style: 'italic' },
@@ -138,8 +140,8 @@ function buildChart() {
               xValue: 72,
               yValue: -38,
               content: ["...it wasn't that bad"],
-              color: cc.text + '80',
-              backgroundColor: cc.surface + 'E0',
+              color: labelText,
+              backgroundColor: labelBg,
               padding: { x: 6, y: 3 },
               borderRadius: 4,
               font: { size: 12, style: 'italic' },
@@ -149,8 +151,8 @@ function buildChart() {
               xValue: 88,
               yValue: -72,
               content: ['actually YOU owe', 'ME an apology'],
-              color: cc.text + '90',
-              backgroundColor: cc.surface + 'E0',
+              color: labelText,
+              backgroundColor: labelBg,
               padding: { x: 6, y: 3 },
               borderRadius: 4,
               font: { size: 12, style: 'italic' },

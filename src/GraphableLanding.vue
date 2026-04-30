@@ -66,6 +66,15 @@
         </a>
         <span class="text-[var(--text-muted)] text-sm ml-2">(8 civilization-ending scenarios, survival curves over 10 years)</span>
       </li>
+      <li>
+        <a
+          href="/graphable/communication-spam-lifecycle/"
+          class="underline decoration-2 underline-offset-4 hover:decoration-[var(--text-muted)]"
+        >
+          How fast does spam kill a communication system?
+        </a>
+        <span class="text-[var(--text-muted)] text-sm ml-2">(16 systems from postal mail to LinkedIn, with full research reports)</span>
+      </li>
     </ul>
 
     <hr class="mt-12 border-[var(--border)]" />

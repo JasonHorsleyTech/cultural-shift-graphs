@@ -2,7 +2,8 @@
 import { ref, computed, onMounted, onUnmounted, nextTick, watch } from 'vue'
 import { Chart, LineController, LineElement, PointElement, LinearScale, Tooltip, Legend } from 'chart.js'
 import { commodities, wages, productivity } from './data/grandpas-eggs.ts'
-import { initTheme, toggleTheme, chartColors } from './theme.js'
+import { chartColors } from './theme.js'
+import GraphWrapper from './GraphWrapper.vue'
 
 Chart.register(LineController, LineElement, PointElement, LinearScale, Tooltip, Legend)
 
@@ -10,7 +11,6 @@ const CHEAPEST = '#3b82f6'
 const QUALITY = '#ef4444'
 const BENCHMARK = '#94a3b8'
 
-const isDark = ref(false)
 const selectedId = ref(null)
 const charts = {}
 const canvasRefs = {}
@@ -178,11 +178,6 @@ const tableData = computed(() => {
   }))
 })
 
-function onToggleTheme() {
-  isDark.value = toggleTheme()
-  rebuildAllCharts()
-}
-
 function rebuildAllCharts() {
   for (const c of commodities) {
     if (charts[c.id]) { charts[c.id].destroy(); delete charts[c.id] }
@@ -196,7 +191,6 @@ function rebuildAllCharts() {
 }
 
 onMounted(() => {
-  isDark.value = initTheme()
   for (const c of commodities) {
     if (canvasRefs[c.id]) {
       charts[c.id] = new Chart(canvasRefs[c.id], {
@@ -213,24 +207,13 @@ onUnmounted(() => {
 </script>
 
 <template>
-  <div class="min-h-screen px-4 py-8">
-    <div class="max-w-6xl mx-auto">
-      <!-- Header -->
-      <div class="mb-8">
-        <div class="flex justify-between items-start">
-          <a href="/graphable/" class="text-sm text-[var(--text-muted)] hover:text-[var(--text-primary)] mb-2 inline-block">&larr; graphable</a>
-          <button @click="onToggleTheme" class="text-[var(--text-muted)] hover:text-[var(--text-primary)] text-sm cursor-pointer px-2 py-1 rounded border border-[var(--border)]">
-            {{ isDark ? 'Light' : 'Dark' }}
-          </button>
-        </div>
-        <h1 class="text-3xl font-bold mb-2">Grandpa's Eggs</h1>
-        <p class="text-[var(--text-secondary)] max-w-3xl">
-          How many minutes of work does it take to buy what grandpa got in 1955?
-          For 10 commodities, we tracked the cheapest version and the quality-equivalent &mdash;
-          the product that matches what was simply "the default" 70 years ago.
-          The gap between them is the hidden quality tax no price index captures.
-        </p>
-      </div>
+  <GraphWrapper title="Grandpa's Eggs" max-width="6xl" @theme-change="rebuildAllCharts">
+    <template #subtitle>
+      How many minutes of work does it take to buy what grandpa got in 1955?
+      For 10 commodities, we tracked the cheapest version and the quality-equivalent &mdash;
+      the product that matches what was simply "the default" 70 years ago.
+      The gap between them is the hidden quality tax no price index captures.
+    </template>
 
       <!-- Stats -->
       <div class="flex flex-wrap gap-6 mb-8 text-center">
@@ -363,8 +346,7 @@ onUnmounted(() => {
           30 research tickets with full citations in project files.
         </p>
       </div>
-    </div>
-  </div>
+  </GraphWrapper>
 </template>
 
 <style scoped>

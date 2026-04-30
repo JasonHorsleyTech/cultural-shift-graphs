@@ -4,12 +4,12 @@ import { Chart, BubbleController, ScatterController, LineController, LineElement
   LinearScale, Tooltip, Legend } from 'chart.js'
 import annotationPlugin from 'chartjs-plugin-annotation'
 import { events } from './data/displaced-professions.ts'
-import { initTheme, toggleTheme, chartColors } from './theme.js'
+import { chartColors } from './theme.js'
+import GraphWrapper from './GraphWrapper.vue'
 
 Chart.register(BubbleController, ScatterController, LineController, LineElement, PointElement,
   LinearScale, Tooltip, Legend, annotationPlugin)
 
-const isDark = ref(false)
 const selectedId = ref(null)
 const activeMechanisms = ref(new Set(['gradual', 'tipping', 'shock']))
 
@@ -260,13 +260,7 @@ function toggleMechanism(m) {
   if (s.size > 0) activeMechanisms.value = s
 }
 
-function onToggleTheme() {
-  isDark.value = toggleTheme()
-  rebuildAllCharts()
-}
-
 onMounted(async () => {
-  isDark.value = initTheme()
   await nextTick()
   rebuildAllCharts()
 })
@@ -281,20 +275,11 @@ const groups = [
 </script>
 
 <template>
-  <main class="max-w-6xl mx-auto px-6 py-12 font-sans">
-    <!-- Header -->
-    <div class="flex justify-between items-start">
-      <a href="/graphable/" class="text-sm text-[var(--text-muted)] hover:text-[var(--text-primary)]">&larr; graphable</a>
-      <button @click="onToggleTheme" class="text-[var(--text-muted)] hover:text-[var(--text-primary)] text-sm cursor-pointer px-2 py-1 rounded border border-[var(--border)]">
-        {{ isDark ? 'Light' : 'Dark' }}
-      </button>
-    </div>
-
-    <h1 class="mt-4 text-3xl font-bold">What happens when a profession dies?</h1>
-    <p class="mt-3 text-[var(--text-secondary)] leading-relaxed max-w-3xl">
+  <GraphWrapper title="What happens when a profession dies?" max-width="6xl" @theme-change="rebuildAllCharts">
+    <template #subtitle>
       27 professions destroyed or displaced over 200 years of history. How fast did it happen?
       Did the workers recover? The answer depends almost entirely on <em>how</em> the profession died.
-    </p>
+    </template>
 
     <!-- Mechanism filter -->
     <div class="mt-5 flex flex-wrap gap-3">
@@ -447,7 +432,7 @@ const groups = [
     </div>
 
     <div class="h-[20vh]"></div>
-  </main>
+  </GraphWrapper>
 </template>
 
 <style scoped>

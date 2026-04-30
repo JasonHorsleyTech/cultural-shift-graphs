@@ -6,14 +6,14 @@ import {
 } from 'chart.js'
 import annotationPlugin from 'chartjs-plugin-annotation'
 import { scenarios, US_POPULATION } from './data/apocalyptic-population-dropoff.ts'
-import { initTheme, toggleTheme, chartColors } from './theme.js'
+import { chartColors } from './theme.js'
+import GraphWrapper from './GraphWrapper.vue'
 
 Chart.register(
   LineController, LineElement, PointElement,
   LinearScale, LogarithmicScale, Tooltip, Legend, Filler, annotationPlugin
 )
 
-const isDark = ref(false)
 const showBands = ref(true)
 const activeIds = ref(new Set(scenarios.map(s => s.id)))
 const chartCanvas = ref(null)
@@ -185,17 +185,11 @@ function rebuildChart() {
   })
 }
 
-function onToggleTheme() {
-  isDark.value = toggleTheme()
-  rebuildChart()
-}
-
 function onToggleBands() {
   rebuildChart()
 }
 
 onMounted(async () => {
-  isDark.value = initTheme()
   await nextTick()
   rebuildChart()
 })
@@ -207,29 +201,12 @@ function lastSurvival(sc) {
 </script>
 
 <template>
-  <div class="min-h-screen bg-[var(--bg-page)] text-[var(--text-primary)] p-4 md:p-8 lg:p-12">
-    <div class="max-w-6xl mx-auto">
-
-      <!-- Header -->
-      <div class="flex items-center justify-between mb-8">
-        <a href="/graphable/" class="text-sm text-[var(--text-muted)] hover:text-[var(--text-primary)] transition-colors">
-          &larr; graphable
-        </a>
-        <button @click="onToggleTheme"
-          class="w-9 h-9 rounded-full bg-[var(--bg-surface)] border border-[var(--border)] flex items-center justify-center text-lg hover:border-[var(--text-secondary)] transition-colors">
-          {{ isDark ? '\u2600' : '\u263E' }}
-        </button>
-      </div>
-
-      <!-- Title -->
-      <h1 class="text-3xl md:text-4xl font-bold mb-2 tracking-tight">
-        How many Americans survive the apocalypse?
-      </h1>
-      <p class="text-[var(--text-secondary)] mb-6 max-w-2xl">
-        US population survival curves after 8 civilization-ending events.
-        Synthesized from 42 research passes across 130+ academic papers. X-axis is logarithmic time.
-        Shaded bands show uncertainty ranges.
-      </p>
+  <GraphWrapper title="How many Americans survive the apocalypse?" max-width="6xl" @theme-change="rebuildChart">
+    <template #subtitle>
+      US population survival curves after 8 civilization-ending events.
+      Synthesized from 42 research passes across 130+ academic papers. X-axis is logarithmic time.
+      Shaded bands show uncertainty ranges.
+    </template>
 
       <!-- Scenario toggles -->
       <div class="flex flex-wrap gap-2 mb-3">
@@ -294,7 +271,7 @@ function lastSurvival(sc) {
       </div>
 
       <!-- Methodology notes -->
-      <div class="mt-10 text-xs text-[var(--text-muted)] space-y-2 max-w-3xl leading-relaxed">
+      <div class="mt-10 text-xs text-[var(--text-muted)] space-y-2 leading-relaxed">
         <h3 class="text-sm font-semibold text-[var(--text-secondary)]">Notes</h3>
         <p>
           <strong>Nuclear Winter vs. Autumn:</strong> Same bombs, different climate science. Xia et al. (2022)
@@ -325,7 +302,5 @@ function lastSurvival(sc) {
           tabletop exercises. Full source citations available in the 42 research files.
         </p>
       </div>
-
-    </div>
-  </div>
+  </GraphWrapper>
 </template>

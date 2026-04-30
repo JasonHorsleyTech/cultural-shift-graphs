@@ -2,19 +2,14 @@
 import { ref, onMounted, nextTick } from 'vue'
 import { Chart, LineController, LineElement, PointElement, LinearScale, Tooltip, Filler } from 'chart.js'
 import annotationPlugin from 'chartjs-plugin-annotation'
-import { initTheme, toggleTheme, chartColors } from './theme.js'
+import { chartColors } from './theme.js'
+import GraphWrapper from './GraphWrapper.vue'
 
 Chart.register(LineController, LineElement, PointElement, LinearScale, Tooltip, Filler, annotationPlugin)
 
-const isDark = ref(false)
 const canvas = ref(null)
 let chart = null
 
-// Inverted-U shape based on reactance research:
-// - No callout: significant guilt (~70) but not peak
-// - Gentle acknowledgment: guilt PEAKS — grace amplifies shame
-// - Proportional callout: guilt fading
-// - Overcorrection: crosses zero into indignation, plateaus
 const points = [
   { x: 0, y: 68 },
   { x: 5, y: 78 },
@@ -39,12 +34,17 @@ const points = [
   { x: 100, y: -98 },
 ]
 
+function isDarkMode() {
+  return document.documentElement.classList.contains('dark')
+}
+
 function buildChart() {
   if (chart) chart.destroy()
   if (!canvas.value) return
   const cc = chartColors()
-  const labelBg = isDark.value ? 'rgba(38, 38, 38, 0.92)' : 'rgba(243, 244, 246, 0.92)'
-  const labelText = isDark.value ? '#e5e7eb' : '#1f2937'
+  const dark = isDarkMode()
+  const labelBg = dark ? 'rgba(38, 38, 38, 0.92)' : 'rgba(243, 244, 246, 0.92)'
+  const labelText = dark ? '#e5e7eb' : '#1f2937'
 
   chart = new Chart(canvas.value, {
     type: 'line',
@@ -165,68 +165,44 @@ function buildChart() {
 }
 
 onMounted(() => {
-  isDark.value = initTheme()
   nextTick(buildChart)
 })
-
-function onToggleTheme() {
-  isDark.value = toggleTheme()
-  nextTick(buildChart)
-}
 </script>
 
 <template>
-  <div class="min-h-screen bg-[var(--bg-page)] text-[var(--text-primary)] transition-colors duration-150">
-    <div class="mx-auto max-w-3xl px-4 py-12 sm:px-6">
+  <GraphWrapper title="How Sorry You Feel" max-width="3xl" @theme-change="nextTick(buildChart)">
+    <template #subtitle>as a function of how hard you get called out for it</template>
 
-      <header class="mb-8 flex items-start justify-between">
-        <div>
-          <h1 class="text-2xl font-bold sm:text-3xl">How Sorry You Feel</h1>
-          <p class="mt-1 text-sm text-[var(--text-secondary)]">as a function of how hard you get called out for it</p>
-        </div>
-        <button
-          @click="onToggleTheme"
-          class="ml-4 mt-1 rounded-md border border-[var(--border)] bg-[var(--bg-surface)] px-3 py-1.5 text-sm text-[var(--text-secondary)] hover:bg-[var(--bg-surface-alt)]"
-        >
-          {{ isDark ? 'Light' : 'Dark' }}
-        </button>
-      </header>
-
-      <div class="rounded-lg border border-[var(--border)] bg-[var(--bg-surface)] p-6">
-        <div style="height: 450px;">
-          <canvas ref="canvas"></canvas>
-        </div>
+    <div class="mt-8 rounded-lg border border-[var(--border)] bg-[var(--bg-surface)] p-6">
+      <div style="height: 450px;">
+        <canvas ref="canvas"></canvas>
       </div>
-
-      <div class="mt-8 rounded-lg border border-[var(--border-light)] bg-[var(--bg-surface-alt)] p-5">
-        <h3 class="text-sm font-semibold text-[var(--text-secondary)]">Based on</h3>
-        <ul class="mt-2 space-y-1.5 text-xs text-[var(--text-muted)] leading-relaxed">
-          <li>
-            Brehm, J.W. (1966). <em>A Theory of Psychological Reactance</em>. Academic Press.
-            — Disproportionate pressure triggers motivational pushback.
-          </li>
-          <li>
-            Zitek, E.M., Jordan, A.H., Monin, B. &amp; Leach, F.R. (2010).
-            <a href="https://pubmed.ncbi.nlm.nih.gov/20085398/" target="_blank" rel="noopener" class="underline hover:text-[var(--text-secondary)]">"Victim entitlement to behave selfishly"</a>,
-            <em>Journal of Personality and Social Psychology</em>.
-            — Perceived unfairness produces felt entitlement.
-          </li>
-          <li>
-            Gollwitzer, M. &amp; Okimoto, T.G. (2021).
-            <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8597191/" target="_blank" rel="noopener" class="underline hover:text-[var(--text-secondary)]">"Motive-attribution framework"</a>,
-            <em>Personality and Social Psychology Review</em>.
-            — Disproportionate punishment reads as competitive, blocking reconciliation.
-          </li>
-          <li>
-            Coulter, R.H. &amp; Pinto, M.B. (1995). "Guilt appeals in advertising."
-            — Curvilinear guilt threshold: moderate guilt maximizes compliance; excess triggers reactance.
-          </li>
-        </ul>
-      </div>
-
-      <footer class="mt-8 text-center text-xs text-[var(--text-muted)]">
-        <a href="/graphable/" class="underline hover:text-[var(--text-secondary)]">graphable</a>
-      </footer>
     </div>
-  </div>
+
+    <div class="mt-8 rounded-lg border border-[var(--border-light)] bg-[var(--bg-surface-alt)] p-5">
+      <h3 class="text-sm font-semibold text-[var(--text-secondary)]">Based on</h3>
+      <ul class="mt-2 space-y-1.5 text-xs text-[var(--text-muted)] leading-relaxed">
+        <li>
+          Brehm, J.W. (1966). <em>A Theory of Psychological Reactance</em>. Academic Press.
+          — Disproportionate pressure triggers motivational pushback.
+        </li>
+        <li>
+          Zitek, E.M., Jordan, A.H., Monin, B. &amp; Leach, F.R. (2010).
+          <a href="https://pubmed.ncbi.nlm.nih.gov/20085398/" target="_blank" rel="noopener" class="underline hover:text-[var(--text-secondary)]">"Victim entitlement to behave selfishly"</a>,
+          <em>Journal of Personality and Social Psychology</em>.
+          — Perceived unfairness produces felt entitlement.
+        </li>
+        <li>
+          Gollwitzer, M. &amp; Okimoto, T.G. (2021).
+          <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8597191/" target="_blank" rel="noopener" class="underline hover:text-[var(--text-secondary)]">"Motive-attribution framework"</a>,
+          <em>Personality and Social Psychology Review</em>.
+          — Disproportionate punishment reads as competitive, blocking reconciliation.
+        </li>
+        <li>
+          Coulter, R.H. &amp; Pinto, M.B. (1995). "Guilt appeals in advertising."
+          — Curvilinear guilt threshold: moderate guilt maximizes compliance; excess triggers reactance.
+        </li>
+      </ul>
+    </div>
+  </GraphWrapper>
 </template>

@@ -4,19 +4,13 @@ import { Chart, LineController, LineElement, PointElement, LinearScale, Logarith
   Filler, Tooltip, Legend, CategoryScale } from 'chart.js'
 import { marked } from 'marked'
 import { professions, industryColors, industryGroups } from './data/service-cost-markup.ts'
-import { initTheme, toggleTheme, chartColors } from './theme.js'
+import { chartColors } from './theme.js'
+import GraphWrapper from './GraphWrapper.vue'
 
 Chart.register(LineController, LineElement, PointElement, LinearScale, LogarithmicScale,
   Filler, Tooltip, Legend, CategoryScale)
 
 const markdownFiles = import.meta.glob('../projects/service-cost-markup/results/*.md', { query: '?raw', import: 'default', eager: true })
-
-// Theme
-const isDark = ref(false)
-function onToggleTheme() {
-  isDark.value = toggleTheme()
-  rebuildCharts()
-}
 
 // State
 const selectedId = ref(null)
@@ -164,7 +158,6 @@ function showAll() { activeIndustries.value = new Set(industryGroups) }
 function soloIndustry(industry) { activeIndustries.value = new Set([industry]) }
 
 onMounted(async () => {
-  isDark.value = initTheme()
   rawChart = new Chart(rawChartEl.value, { type: 'line', data: { datasets: buildDatasets('raw') }, options: chartOpts('raw') })
   changeChart = new Chart(changeChartEl.value, { type: 'line', data: { datasets: buildDatasets('change') }, options: chartOpts('change') })
   // Load inflation data dynamically
@@ -351,24 +344,13 @@ const upCount = professions.filter(p => p.data[p.data.length - 1]?.ratio > p.dat
 </script>
 
 <template>
-  <div class="min-h-screen px-4 py-8">
-    <div class="max-w-7xl mx-auto">
-      <!-- Header + theme toggle -->
-      <div class="mb-8">
-        <div class="flex justify-between items-start">
-          <a href="/graphable/" class="text-sm text-[var(--text-muted)] hover:text-[var(--text-primary)] mb-2 inline-block">&larr; graphable</a>
-          <button @click="onToggleTheme" class="text-[var(--text-muted)] hover:text-[var(--text-primary)] text-sm cursor-pointer px-2 py-1 rounded border border-[var(--border)]">
-            {{ isDark ? 'Light' : 'Dark' }}
-          </button>
-        </div>
-        <h1 class="text-3xl font-bold mb-2">Where Does My Dollar Go?</h1>
-        <p class="text-[var(--text-secondary)] max-w-3xl">
-          For {{ professionCount }} service professions, we tracked how much of what you pay
-          actually reaches the person doing the work — and how that share has changed over
-          decades. Of {{ professionCount }} professions studied, {{ downCount }} saw their
-          share decline and only {{ upCount }} saw it grow.
-        </p>
-      </div>
+  <GraphWrapper title="Where Does My Dollar Go?" max-width="7xl" @theme-change="rebuildCharts">
+    <template #subtitle>
+      For {{ professionCount }} service professions, we tracked how much of what you pay
+      actually reaches the person doing the work — and how that share has changed over
+      decades. Of {{ professionCount }} professions studied, {{ downCount }} saw their
+      share decline and only {{ upCount }} saw it grow.
+    </template>
 
       <!-- Industry Legend -->
       <div class="flex flex-wrap gap-2 mb-6">
@@ -535,8 +517,7 @@ const upCount = professions.filter(p => p.data[p.data.length - 1]?.ratio > p.dat
           constant over time. This is approximate but preserves the trend.
         </p>
       </div>
-    </div>
-  </div>
+  </GraphWrapper>
 </template>
 
 <style scoped>

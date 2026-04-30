@@ -5,7 +5,8 @@ import { Chart, LineController, BarController, LineElement, BarElement, PointEle
 import annotationPlugin from 'chartjs-plugin-annotation'
 import { marked } from 'marked'
 import { systems } from './data/communication-spam-lifecycle.ts'
-import { initTheme, toggleTheme, chartColors } from './theme.js'
+import { chartColors } from './theme.js'
+import GraphWrapper from './GraphWrapper.vue'
 
 // ── Load research reports at build time ──
 const reportModules = import.meta.glob('../projects/communication-spam-lifecycle/results/*.md', { query: '?raw', eager: true })
@@ -18,8 +19,6 @@ for (const [path, mod] of Object.entries(reportModules)) {
 
 Chart.register(LineController, BarController, LineElement, BarElement, PointElement,
   LinearScale, CategoryScale, Tooltip, Legend, Filler, annotationPlugin)
-
-const isDark = ref(false)
 
 // ── Palette ──
 // 16 distinct colors for the systems
@@ -91,12 +90,27 @@ function buildTimelineChart() {
   if (!canvas) return
   const cc = chartColors()
 
+  // Dynamic x-axis range from active systems
+  const minYear = 1700 // floor to exclude face-to-face prehistory (1400)
+  const activePts = systems
+    .filter(s => activeIds.value.has(s.id))
+    .flatMap(s => s.dataPoints.filter(d => d.year >= minYear && d.spamPercentage != null))
+  let xMin = minYear
+  let xMax = 2025
+  if (activePts.length > 0) {
+    xMin = Math.min(...activePts.map(d => d.year))
+    xMax = Math.max(...activePts.map(d => d.year))
+  }
+  const xRange = xMax - xMin
+  const xPad = Math.max(2, Math.round(xRange * 0.03))
+  xMin = xMin - xPad
+  xMax = xMax + xPad
+
   const datasets = systems.map((sys, i) => {
     const color = getColor(i)
     const visible = activeIds.value.has(sys.id)
-    // Only include points from 1850+ to keep the chart readable (face-to-face has a 1400 point)
     const pts = sys.dataPoints
-      .filter(d => d.year >= 1840 && d.spamPercentage != null)
+      .filter(d => d.year >= minYear && d.spamPercentage != null)
       .map(d => ({ x: d.year, y: d.spamPercentage }))
 
     return {
@@ -127,9 +141,9 @@ function buildTimelineChart() {
         x: {
           type: 'linear',
           title: { display: true, text: 'Year', color: cc.text },
-          min: 1840,
-          max: 2030,
-          ticks: { color: cc.text, stepSize: 20 },
+          min: xMin,
+          max: xMax,
+          ticks: { color: cc.text, callback: (v) => String(v) },
           grid: { color: cc.grid },
         },
         y: {
@@ -150,6 +164,22 @@ function buildTimelineChart() {
         },
         annotation: {
           annotations: {
+            commoditizedLine: {
+              type: 'line',
+              yMin: 30,
+              yMax: 30,
+              borderColor: cc.text + '30',
+              borderWidth: 1,
+              borderDash: [4, 4],
+              label: {
+                display: true,
+                content: '30% — commoditized',
+                position: 'start',
+                backgroundColor: 'transparent',
+                color: cc.text + '60',
+                font: { size: 11 },
+              },
+            },
             crossoverLine: {
               type: 'line',
               yMin: 50,
@@ -159,7 +189,7 @@ function buildTimelineChart() {
               borderDash: [4, 4],
               label: {
                 display: true,
-                content: '50% — spam crossover',
+                content: '50% — effectively unusable',
                 position: 'start',
                 backgroundColor: 'transparent',
                 color: cc.text + '80',
@@ -234,38 +264,16 @@ watch(activeIds, () => { if (view.value === 'timeline') buildTimelineChart() })
 watch(view, () => nextTick(buildCharts))
 
 onMounted(() => {
-  isDark.value = initTheme()
   nextTick(buildCharts)
 })
-
-function onToggleTheme() {
-  isDark.value = toggleTheme()
-  nextTick(buildCharts)
-}
 </script>
 
 <template>
-  <div class="min-h-screen bg-[var(--bg-page)] text-[var(--text-primary)] transition-colors duration-150">
-    <div class="mx-auto max-w-6xl px-4 py-8 sm:px-6 lg:px-8">
-
-      <!-- Header -->
-      <header class="mb-8 flex items-start justify-between">
-        <div>
-          <h1 class="text-2xl font-bold sm:text-3xl">
-            How Fast Does Spam Kill a Communication System?
-          </h1>
-          <p class="mt-2 max-w-2xl text-[var(--text-secondary)]">
-            Every communication medium follows the same arc: invention, adoption, advertisers arrive,
-            signal-to-noise collapses. The pattern repeats faster each time.
-          </p>
-        </div>
-        <button
-          @click="onToggleTheme"
-          class="ml-4 mt-1 rounded-md border border-[var(--border)] bg-[var(--bg-surface)] px-3 py-1.5 text-sm text-[var(--text-secondary)] hover:bg-[var(--bg-surface-alt)]"
-        >
-          {{ isDark ? 'Light' : 'Dark' }}
-        </button>
-      </header>
+  <GraphWrapper title="How Fast Does Spam Kill a Communication System?" max-width="6xl" @theme-change="nextTick(buildCharts)">
+    <template #subtitle>
+      Every communication medium follows the same arc: invention, adoption, advertisers arrive,
+      signal-to-noise collapses. The pattern repeats faster each time.
+    </template>
 
       <!-- View toggle -->
       <div class="mb-4 flex items-center gap-4">
@@ -415,11 +423,5 @@ function onToggleTheme() {
         </table>
       </div>
 
-      <!-- Footer -->
-      <footer class="mt-8 text-center text-xs text-[var(--text-muted)]">
-        <a href="/graphable/" class="underline hover:text-[var(--text-secondary)]">graphable</a>
-        &mdash; research by AI agents, graphs by obsession
-      </footer>
-    </div>
-  </div>
+  </GraphWrapper>
 </template>

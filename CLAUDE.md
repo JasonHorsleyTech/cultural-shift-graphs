@@ -167,11 +167,13 @@ One route per graph. Pages at `domain/graphable/<slug>`. Builds to `graphable/<s
 
 ## Deploy
 
-AWS CLI credentials are already configured on this machine — no need to ask Jason for creds. See `.claude/skills/deploy-static-to-s3/deploy-static-to-s3.md` for the full deploy recipe. The short version: `npm run build`, sync `dist/graphable/` and `dist/assets/` to S3, invalidate CloudFront.
+Run `bash deploy.sh` from the project root. It handles everything: build, git commit/push, S3 sync (with correct `--delete` safety), and CloudFront cache invalidation.
 
-**CRITICAL: Never use `--delete` when syncing `dist/assets/` to S3.** The `/assets/` prefix is shared with Surgical Sledgehammer Light. Using `--delete` will wipe that site's CSS/JS and break the homepage. Use `--delete` only on `/graphable/` (which this project owns entirely).
+When deploying a new graph, **always update `src/GraphableLanding.vue`** to include a link to the new graph before running the script. The landing page at `/graphable/` is the index of all published graphs — a graph that isn't linked there is invisible.
 
-When deploying a new graph, **always update `src/GraphableLanding.vue`** to include a link to the new graph before building. The landing page at `/graphable/` is the index of all published graphs — a graph that isn't linked there is invisible.
+**CRITICAL: Never use `--delete` when syncing `dist/assets/` to S3.** The `/assets/` prefix is shared with Surgical Sledgehammer Light. The deploy script already handles this correctly, but if you ever sync manually, remember: `--delete` only on `/graphable/`.
+
+If the deploy script breaks or you need to understand the underlying AWS steps, see `.claude/skills/deploy-static-to-s3/deploy-static-to-s3-legacy.md` for the full manual recipe.
 
 ## Working norms
 

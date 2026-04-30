@@ -3,19 +3,13 @@ import { ref, computed, onMounted, nextTick } from 'vue'
 import { Chart, registerables } from 'chart.js'
 import annotationPlugin from 'chartjs-plugin-annotation'
 import { conflictData } from './data/disney-conflict-types.ts'
-import { initTheme, toggleTheme, chartColors } from './theme.js'
+import { chartColors } from './theme.js'
+import GraphWrapper from './GraphWrapper.vue'
 
 Chart.register(...registerables, annotationPlugin)
 
-// Theme
-const isDark = ref(false)
 let scatterChart = null
 let barChart = null
-
-function onToggleTheme() {
-  isDark.value = toggleTheme()
-  rebuildCharts()
-}
 
 // --- Data prep ---
 const filmCount = conflictData.length
@@ -242,7 +236,6 @@ function rebuildCharts() {
 }
 
 onMounted(async () => {
-  isDark.value = initTheme()
   await nextTick()
   scatterChart = buildScatterChart()
   barChart = buildBarChart()
@@ -250,20 +243,13 @@ onMounted(async () => {
 </script>
 
 <template>
-  <main class="max-w-5xl mx-auto px-6 py-12 font-sans">
-    <div class="flex justify-between items-start">
-      <a href="/graphable/" class="text-sm text-[var(--text-muted)] hover:text-[var(--text-primary)]">&larr; graphable</a>
-      <button @click="onToggleTheme" class="text-[var(--text-muted)] hover:text-[var(--text-primary)] text-sm cursor-pointer px-2 py-1 rounded border border-[var(--border)]">
-        {{ isDark ? 'Light' : 'Dark' }}
-      </button>
-    </div>
-    <h1 class="mt-4 text-3xl font-bold">Animated conflict types over time</h1>
-    <p class="mt-3 text-[var(--text-secondary)] leading-relaxed max-w-3xl">
+  <GraphWrapper title="Animated conflict types over time" max-width="5xl" @theme-change="rebuildCharts">
+    <template #subtitle>
       Hypothesis: over the last ~100 years, animated children's films have shifted from
       <em>real villains in real conflicts</em> to <em>misunderstandings resolved through
       empathy and self-understanding</em>. Data from <strong>{{ filmCount }}</strong> films
       scored on a 0–1 conflict spectrum, each weighted by estimated <strong>cultural reach</strong>.
-    </p>
+    </template>
 
     <!-- Findings summary -->
     <div class="mt-8 rounded-lg border border-[var(--border)] bg-[var(--bg-surface-alt)] p-6 max-w-3xl">
@@ -377,6 +363,5 @@ onMounted(async () => {
       </div>
     </section>
 
-    <div class="h-[80vh]"></div>
-  </main>
+  </GraphWrapper>
 </template>

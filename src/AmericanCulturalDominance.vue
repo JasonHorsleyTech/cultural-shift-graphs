@@ -3,17 +3,12 @@ import { ref, onMounted, nextTick } from 'vue'
 import { Chart, registerables } from 'chart.js'
 import annotationPlugin from 'chartjs-plugin-annotation'
 import { metrics } from './data/american-cultural-dominance.ts'
-import { initTheme, toggleTheme, chartColors } from './theme.js'
+import { chartColors } from './theme.js'
+import GraphWrapper from './GraphWrapper.vue'
 
 Chart.register(...registerables, annotationPlugin)
 
-const isDark = ref(false)
 let mainChart = null
-
-function onToggleTheme() {
-  isDark.value = toggleTheme()
-  rebuildChart()
-}
 
 const categoryMeta = {
   language: { label: 'Language', color: '#3b82f6' },
@@ -90,7 +85,7 @@ function buildChart() {
   datasets.push({
     label: 'Composite Index',
     data: compositeData,
-    borderColor: isDark.value ? '#ffffff' : '#000000',
+    borderColor: document.documentElement.classList.contains('dark') ? '#ffffff' : '#000000',
     borderWidth: 3,
     pointRadius: 0,
     pointHoverRadius: 5,
@@ -170,28 +165,19 @@ const metricsByCategory = Object.entries(categoryMeta).map(([key, meta]) => ({
 }))
 
 onMounted(async () => {
-  isDark.value = initTheme()
   await nextTick()
   mainChart = buildChart()
 })
 </script>
 
 <template>
-  <main class="max-w-5xl mx-auto px-6 py-12 font-sans">
-    <div class="flex justify-between items-start">
-      <a href="/graphable/" class="text-sm text-[var(--text-muted)] hover:text-[var(--text-primary)]">&larr; graphable</a>
-      <button @click="onToggleTheme" class="text-[var(--text-muted)] hover:text-[var(--text-primary)] text-sm cursor-pointer px-2 py-1 rounded border border-[var(--border)]">
-        {{ isDark ? 'Light' : 'Dark' }}
-      </button>
-    </div>
-
-    <h1 class="mt-4 text-3xl font-bold">American Cultural Dominance</h1>
-    <p class="mt-3 text-[var(--text-secondary)] leading-relaxed max-w-3xl">
+  <GraphWrapper title="American Cultural Dominance" max-width="5xl" @theme-change="rebuildChart">
+    <template #subtitle>
       How much of the world has America captured? <strong>{{ metrics.length }}</strong> metrics
       across {{ Object.keys(categoryMeta).length }} categories, each normalized to a 0&ndash;100%
       penetration score and tracked from as early as 1800. The composite index averages all
       active metrics at each point &mdash; growing more robust as more dimensions become measurable.
-    </p>
+    </template>
 
     <div class="mt-8 rounded-lg border border-[var(--border)] bg-[var(--bg-surface-alt)] p-6 max-w-3xl">
       <h2 class="text-lg font-semibold">What the data shows</h2>
@@ -302,6 +288,5 @@ onMounted(async () => {
       </div>
     </section>
 
-    <div class="h-[80vh]"></div>
-  </main>
+  </GraphWrapper>
 </template>

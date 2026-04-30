@@ -1,6 +1,6 @@
 ---
-name: deploy-static-to-s3
-description: Cheat sheet for deploying the graphable static build (or any static HTML bundle) to an S3 website bucket fronted by a Route 53 alias record. Use when Jason says "deploy", "push it live", "ship it to S3", or similar.
+name: deploy-static-to-s3-legacy
+description: Legacy manual deploy reference. The normal deploy path is `bash deploy.sh` at the project root. Use this doc only if the script breaks or you need to understand/modify the underlying AWS steps.
 ---
 
 # deploy-static-to-s3

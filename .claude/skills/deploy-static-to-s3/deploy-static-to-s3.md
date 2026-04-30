@@ -1,13 +1,13 @@
 ---
 name: deploy-static-to-s3
-description: Cheat sheet for deploying the cultural-shift-graphs static build (or any static HTML bundle) to an S3 website bucket fronted by a Route 53 alias record. Use when Jason says "deploy", "push it live", "ship it to S3", or similar.
+description: Cheat sheet for deploying the graphable static build (or any static HTML bundle) to an S3 website bucket fronted by a Route 53 alias record. Use when Jason says "deploy", "push it live", "ship it to S3", or similar.
 ---
 
 # deploy-static-to-s3
 
 Cheat sheet for getting a Vite static build (or any plain HTML bundle) onto an S3 bucket + a Route 53 custom domain. Not a script. Read it, understand what each step does, and then do whatever makes sense for the situation in front of you. If the defaults don't fit — improvise. If a step is already done idempotently, skip it.
 
-The defaults below are what currently works for this project (cultural-shift-graphs). Other setups are fine; this is the beaten path, not a cage.
+The defaults below are what currently works for this project (graphable). Other setups are fine; this is the beaten path, not a cage.
 
 ## What this produces
 
@@ -86,11 +86,16 @@ Pointing `error-document` at `index.html` means unknown paths render the landing
 
 ### 6. Upload the build
 
-Use `sync --delete` so removed pages actually disappear from the bucket:
+Graphable shares the `surgicalsledgehammer.com` bucket with Surgical Sledgehammer Light (which owns the root `/`). Both projects output hashed files to `/assets/` on S3.
+
+**Use `--delete` on `/graphable/` (graphable owns that prefix entirely), but NEVER use `--delete` on `/assets/`** — it will wipe Surgical Sledgehammer Light's CSS/JS and break the homepage.
 
 ```bash
-aws s3 sync dist/ s3://<domain>/ --delete
+aws s3 sync dist/graphable/ s3://<domain>/graphable/ --delete
+aws s3 sync dist/assets/ s3://<domain>/assets/
 ```
+
+The `/assets/` sync without `--delete` is safe because Vite uses content hashes in filenames — new builds get new filenames, old ones become orphans but don't conflict. Stale assets accumulate over time but are harmless. If the bucket needs cleanup, manually delete only files matching graphable's known prefixes (e.g. `theme-*`, `chart-*`, `graphable-*`).
 
 HTML content-types are usually set correctly by `sync`, but if you ever hit a page that downloads instead of renders, check that `.html` files have `Content-Type: text/html`. `aws s3 cp --content-type text/html` forces it.
 
@@ -149,29 +154,31 @@ curl -sI http://<domain>/
 
 Should return `200 OK` with `Server: AmazonS3`. For richer verification, open it in Chrome via `chrome-devtools` MCP and screenshot. Hit `/` AND at least one of the subpath routes — if `/` works but `/<slug>/` 404s, the `<slug>/index.html` probably wasn't in the build.
 
-## Known values for cultural-shift-graphs
+## Known values for graphable
 
 Use these if the task doesn't say otherwise:
 
-- **Smoke-test domain**: `test.surgicalsledgehammer.com` (currently deployed)
+- **Production domain**: `surgicalsledgehammer.com` (apex, HTTPS via CloudFront)
+- **CloudFront distribution ID**: `EC143K560K4AQ`
+- **CloudFront domain**: `d1qgd2n2y6te7.cloudfront.net`
+- **ACM certificate ARN**: `arn:aws:acm:us-east-1:539503476624:certificate/00a92e21-5cc0-4ff6-8f7d-0e693b9906d1`
+- **Smoke-test domain**: `test.surgicalsledgehammer.com` (HTTP only, direct S3)
 - **Parent Route 53 zone ID**: `Z10415082P0LS0WZ3YOBG` (for `surgicalsledgehammer.com`)
 - **Region**: `us-east-1`
 - **S3 website HostedZoneId**: `Z3AQBSTGFYJSTF`
 - **Bucket policy**: public-read (see step 4 above)
 
-Production domain is still TBD. When Jason picks it, the sub/root distinction may matter:
-- Subdomain (`graphs.surgicalsledgehammer.com`) → just add a new bucket + alias record. Straightforward.
-- Root apex (`surgicalsledgehammer.com`) → alias works on the zone apex in Route 53, but the existing apex is already in use; coordinate with Jason before overwriting.
+Production uses CloudFront (HTTPS, redirect HTTP→HTTPS). The S3 bucket `surgicalsledgehammer.com` is the origin. After syncing to S3, you may need to invalidate the CloudFront cache: `aws cloudfront create-invalidation --distribution-id EC143K560K4AQ --paths "/*"`
 
 ## Improvise zone (when the defaults don't fit)
 
 The recipe above is optimized for "I have a new domain and want a static site there". If the situation is different, don't force it:
 
-- **Already deployed, just pushing updates?** Steps 1 and 6 are all you need. Don't re-create the bucket, don't re-apply the policy, don't touch DNS.
+- **Already deployed, just pushing updates?** Steps 1 and 6 are all you need, plus a CloudFront cache invalidation for production: `aws cloudfront create-invalidation --distribution-id EC143K560K4AQ --paths "/*"`. Don't re-create the bucket, don't re-apply the policy, don't touch DNS.
 - **Root index is stale after a new page was added?** Re-run `npm run build` and sync — the new `index.html` will overwrite the old one. If Jason's root `index.html` is hand-curated (lists graphs explicitly), make sure to update the `src/App.vue` listing first.
 - **Bucket name clash in some other account?** S3 bucket names are globally unique. Pick a subdomain that avoids the collision or tell Jason.
 - **DNS change hangs on PENDING forever?** Usually means a typo in the change batch. `aws route53 get-change --id ...` will show it.
-- **HTTPS needed?** Stop. That's CloudFront + ACM territory. Tell Jason and ask whether to do it now or defer.
+- **HTTPS already set up for production.** CloudFront distribution `EC143K560K4AQ` handles it. If adding HTTPS to a new subdomain, create a new CloudFront distribution using the existing wildcard cert.
 - **Custom error pages / redirects / index fallback for SPAs?** S3 website hosting supports basic redirect rules via `aws s3api put-bucket-website` with a full website-config JSON. Read the docs before going down that path.
 - **Multiple sub-bundles from one build?** Nothing stops you from running the sync twice into two different buckets. They're just folders.
 
@@ -184,7 +191,7 @@ The recipe above is optimized for "I have a new domain and want a static site th
 ## When NOT to use this skill
 
 - The project has a backend, server-side rendering, or anything that's not pure static files.
-- Jason wants HTTPS — this skill deliberately doesn't cover it. That's a separate, larger task.
+- HTTPS is needed for a brand-new domain outside `*.surgicalsledgehammer.com` — you'd need a new ACM cert.
 - You're in an account you don't have permission to touch, or domains aren't in Route 53.
 - You're deploying somewhere that isn't AWS — this entire cheat sheet is AWS-specific.
 

@@ -46,6 +46,18 @@ On Jason's account, 4 of 9 hosted zones turned out to be orphans: `cs-chess.com`
 
 **Skill to build:** `deploy-static-to-s3` that takes `{domain, parent_zone_id, region, source_dir}` and runs all 7 steps idempotently. Should also print the final URL and a `curl -I` check.
 
+## Cron / orchestrator
+
+### Laptop sleep causes long-running processes and exit code 143 — this is fine (2026-04-19)
+
+**What it looks like:** A cron-spawned Claude process shows a run time of many hours (e.g. 556 minutes) and exits with code 143 (SIGTERM). The next few ticks after wake may show exit code 1 (auth failure, 401) for a few minutes before recovering. This looks alarming if you're investigating failures — a 9-hour process and a string of auth errors.
+
+**What's actually happening:** Jason closes the laptop lid. macOS suspends all processes. The wall clock keeps ticking but no tokens are burned, no CPU is used, no processes spawn. When the lid opens, the suspended Claude process resumes or gets killed (143), and the auth token may need a moment to refresh (the 401s). The cron catches up and resumes normal operation within a tick or two.
+
+**Why this is acceptable:** The pipeline does ~30 tickets per day with the lid open ~15 hours. If one ticket gets interrupted by a lid-close, it gets retried on the next tick — one wasted run out of 30 is noise. The 401 errors self-heal. No manual intervention needed.
+
+**Do not:** Create a HALT file for this. Investigate further. Try to add sleep detection. It's working as designed.
+
 ## Chart libraries
 
 ### RoughViz gotchas (2026-04-11)

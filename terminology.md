@@ -15,4 +15,29 @@ Originally described by Geoffrey Huntley in May 2025.
 
 ## Chief
 
-Chief is a terminal utility that runs Ralph Wiggum Loops. It's the thing that actually sits in the terminal, invokes the agent with the prompt, watches for the stop condition, and re-invokes until the work is done. From the perspective of anything inside the loop (including any PRDs or task lists being worked through), chief is the trigger — individual agents don't need to know how or when they'll be re-invoked, only that they will be.
+Chief is a terminal utility that runs Ralph Wiggum Loops. It's the thing that actually sits in the terminal, invokes the agent with the prompt, watches for the stop condition, and re-invokes until the work is done. Used for the early graphs; now superseded by the orchestrator for new work. The `.chief/` directory contains legacy PRDs from this era.
+
+## Orchestrator
+
+The orchestrator (`scripts/orchestrate.mjs`) is a Node script that runs on cron and implements the project pipeline. It's a Ralph Wiggum Loop variant: instead of repeating the same prompt, it inspects the filesystem state of all projects, picks the highest-priority one with pending work, constructs a phase-appropriate prompt, and spawns Claude Code to do one unit of work.
+
+Key properties:
+
+- **File-based state machine.** Each project's phase is tracked by a `status` file. The orchestrator reads it, the agent updates it. No database, no external services.
+- **One unit of work per tick.** Each cron invocation does one thing — one research pass, one ticket, one graph build. Keeps token usage predictable and makes the pipeline crash-safe.
+- **Self-sustaining.** When all projects are complete or awaiting manual deploy, the orchestrator generates a new question automatically. If Jason forgets about the laptop for days, it keeps working.
+- **Priority-driven.** Projects with lower `priority` numbers get worked first. Jason's manual projects (priority 1–10) always jump the queue ahead of auto-generated ones (priority 50).
+
+## Project phases
+
+The lifecycle of a project, tracked by the `status` file in `projects/<slug>/`:
+
+| Phase | What happens | Automated? |
+|-------|-------------|------------|
+| `explore` | 2–3 open-ended research passes from different angles | Yes |
+| `plan` | Define data format, break question into research tickets | Yes |
+| `research` | Execute tickets one per cron tick, collect results | Yes |
+| `graph` | Build TypeScript data file + Vue component + chart | Yes |
+| `review` | Sanity-check: typecheck, build, data validation | Yes |
+| `deploy` | Push to S3, update root index | Manual |
+| `done` | Complete, ignored by orchestrator | — |

@@ -20,6 +20,7 @@ export default defineConfig({
         apocalypticPopulationDropoff: resolve(root, 'graphable/apocalyptic-population-dropoff/index.html'),
         communicationSpamLifecycle: resolve(root, 'graphable/communication-spam-lifecycle/index.html'),
         howSorryYouFeel: resolve(root, 'graphable/how-sorry-you-feel/index.html'),
+        waterUsage: resolve(root, 'graphable/water-usage/index.html'),
       },
     },
   },

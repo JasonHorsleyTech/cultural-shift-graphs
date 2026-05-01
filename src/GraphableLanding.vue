@@ -75,6 +75,15 @@
         </a>
         <span class="text-[var(--text-muted)] text-sm ml-2">(16 systems from postal mail to LinkedIn, with full research reports)</span>
       </li>
+      <li>
+        <a
+          href="/graphable/water-usage/"
+          class="underline decoration-2 underline-offset-4 hover:decoration-[var(--text-muted)]"
+        >
+          Water usage of everything
+        </a>
+        <span class="text-[var(--text-muted)] text-sm ml-2">(where America's water actually goes, and why AI isn't the crisis)</span>
+      </li>
     </ul>
 
     <hr class="mt-12 border-[var(--border)]" />

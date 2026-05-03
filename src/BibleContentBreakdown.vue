@@ -273,7 +273,7 @@ function fmtChange(val) {
 <template>
   <GraphWrapper title="What Is the Bible Actually About?" maxWidth="6xl" @theme-change="onThemeChange">
     <template #subtitle>
-      Every verse in the Bible (NET translation, {{ totalVerses.toLocaleString() }} verses) categorized by what it's <em>doing</em>, plus {{ books.length }} books' worth of story-level moral themes. Spoiler: it's 0.5% sex rules.
+      Every verse in the Bible (NET translation, {{ totalVerses.toLocaleString() }} verses across {{ books.length }} books) categorized by what it's doing, plus story-level moral themes.
     </template>
 
     <!-- Tab switcher -->

@@ -91,7 +91,7 @@
         >
           What is the Bible actually about?
         </a>
-        <span class="text-[var(--text-muted)] text-sm ml-2">(31,085 verses categorized — it's 0.5% sex rules)</span>
+        <span class="text-[var(--text-muted)] text-sm ml-2">(31,085 verses categorized by function and moral theme)</span>
       </li>
     </ul>
 

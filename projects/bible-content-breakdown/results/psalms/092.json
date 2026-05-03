@@ -1,0 +1,101 @@
+{
+    "book": "Psalms",
+    "chapter": 92,
+    "verses": [
+        {
+            "ref": "Psalms 92:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 92:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 92:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 92:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 92:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 92:6",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Psalms 92:7",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Psalms 92:8",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalms 92:9",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalms 92:10",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 92:11",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 92:12",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 92:13",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 92:14",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 92:15",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Justice and the Righteous Flourish",
+            "start": "Psalms 92:1",
+            "end": "Psalms 92:15",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

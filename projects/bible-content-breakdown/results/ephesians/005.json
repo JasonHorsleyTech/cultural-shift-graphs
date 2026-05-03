@@ -1,0 +1,222 @@
+{
+    "book": "Ephesians",
+    "chapter": 5,
+    "verses": [
+        {
+            "ref": "Eph 5:1",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Eph 5:2",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Eph 5:3",
+            "function": "sexual_marital",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Eph 5:4",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Eph 5:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 5:6",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Eph 5:7",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Eph 5:8",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Eph 5:9",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Eph 5:10",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Eph 5:11",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Eph 5:12",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Eph 5:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 5:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 5:15",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Eph 5:16",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Eph 5:17",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Eph 5:18",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Eph 5:19",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Eph 5:20",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Eph 5:21",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Eph 5:22",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Eph 5:23",
+            "function": "sexual_marital",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Eph 5:24",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Eph 5:25",
+            "function": "sexual_marital",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Eph 5:26",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 5:27",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 5:28",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Eph 5:29",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Eph 5:30",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 5:31",
+            "function": "sexual_marital",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Eph 5:32",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 5:33",
+            "function": "sexual_marital"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Living as God's Children in Light",
+            "start": "Eph 5:1",
+            "end": "Eph 5:20",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "courage",
+                    "weight": 0.7
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Marriage Relationships",
+            "start": "Eph 5:21",
+            "end": "Eph 5:33",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.2
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 1.3
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

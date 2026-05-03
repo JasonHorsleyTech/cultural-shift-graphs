@@ -1,0 +1,210 @@
+{
+    "book": "1 Corinthians",
+    "chapter": 11,
+    "verses": [
+        {
+            "ref": "1 Cor 11:1",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Cor 11:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Cor 11:3",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 11:4",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "1 Cor 11:5",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "1 Cor 11:6",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "1 Cor 11:7",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 11:8",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 11:9",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 11:10",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Cor 11:11",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 11:12",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 11:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Cor 11:14",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Cor 11:15",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "1 Cor 11:16",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Cor 11:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Cor 11:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Cor 11:19",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Cor 11:20",
+            "function": "theological",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Cor 11:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Cor 11:22",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Cor 11:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Cor 11:24",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Cor 11:25",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Cor 11:26",
+            "function": "theological",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Cor 11:27",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 11:28",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Cor 11:29",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 11:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Cor 11:31",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Cor 11:32",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 11:33",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Cor 11:34",
+            "function": "moral_instruction"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Head Covering in Worship",
+            "start": "1 Cor 11:1",
+            "end": "1 Cor 11:16",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Conscience, Freedom, and Community Care in Eating",
+            "start": "1 Cor 11:17",
+            "end": "1 Cor 11:34",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

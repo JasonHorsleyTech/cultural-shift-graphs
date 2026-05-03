@@ -1,0 +1,113 @@
+{
+    "book": "Psalms",
+    "chapter": 83,
+    "verses": [
+        {
+            "ref": "Ps 83:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 83:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 83:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 83:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 83:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 83:6",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ps 83:7",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ps 83:8",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ps 83:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ps 83:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 83:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ps 83:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 83:13",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ps 83:14",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 83:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ps 83:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ps 83:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ps 83:18",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Prayer Against Israel's Enemies",
+            "start": "Ps 83:1",
+            "end": "Ps 83:18",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

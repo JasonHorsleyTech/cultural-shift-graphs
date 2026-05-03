@@ -1,0 +1,235 @@
+{
+    "book": "Matthew",
+    "chapter": 14,
+    "verses": [
+        {
+            "ref": "Matt 14:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 14:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 14:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 14:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 14:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 14:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 14:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 14:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 14:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 14:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 14:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 14:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 14:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 14:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 14:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 14:16",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Matt 14:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 14:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 14:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 14:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 14:21",
+            "function": "catalog"
+        },
+        {
+            "ref": "Matt 14:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 14:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 14:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 14:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 14:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 14:27",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Matt 14:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 14:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 14:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 14:31",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Matt 14:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 14:33",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Matt 14:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 14:35",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 14:36",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "John the Baptist's Execution",
+            "start": "Matt 14:1",
+            "end": "Matt 14:12",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "courage",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences_of_sin",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Feeding of the Five Thousand and Walking on Water",
+            "start": "Matt 14:13",
+            "end": "Matt 14:33",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Healings at Gennesaret",
+            "start": "Matt 14:34",
+            "end": "Matt 14:36",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.6
+                }
+            ]
+        }
+    ]
+}

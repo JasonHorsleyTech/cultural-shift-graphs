@@ -1,0 +1,181 @@
+{
+    "book": "Esther",
+    "chapter": 9,
+    "verses": [
+        {
+            "ref": "Est 9:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 9:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 9:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 9:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 9:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 9:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 9:7",
+            "function": "catalog"
+        },
+        {
+            "ref": "Est 9:8",
+            "function": "catalog"
+        },
+        {
+            "ref": "Est 9:9",
+            "function": "catalog"
+        },
+        {
+            "ref": "Est 9:10",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Est 9:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 9:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Est 9:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Est 9:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Est 9:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 9:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 9:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 9:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 9:19",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Est 9:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 9:21",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Est 9:22",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Est 9:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 9:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 9:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 9:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 9:27",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Est 9:28",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Est 9:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 9:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 9:31",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Est 9:32",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Reversal of Fortune and the Institution of Purim",
+            "start": "Est 9:1",
+            "end": "Est 9:32",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

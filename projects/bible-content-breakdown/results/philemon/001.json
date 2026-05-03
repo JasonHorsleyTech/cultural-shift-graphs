@@ -1,0 +1,161 @@
+{
+    "book": "Philemon",
+    "chapter": 1,
+    "verses": [
+        {
+            "ref": "Phlm 1:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Phlm 1:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Phlm 1:3",
+            "function": "theological"
+        },
+        {
+            "ref": "Phlm 1:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Phlm 1:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Phlm 1:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Phlm 1:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Phlm 1:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Phlm 1:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Phlm 1:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Phlm 1:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Phlm 1:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Phlm 1:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Phlm 1:14",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Phlm 1:15",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Phlm 1:16",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Phlm 1:17",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Phlm 1:18",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Phlm 1:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Phlm 1:20",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Phlm 1:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Phlm 1:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Phlm 1:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Phlm 1:24",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Phlm 1:25",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Paul's Appeal for Onesimus",
+            "start": "Phlm 1:1",
+            "end": "Phlm 1:25",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,169 @@
+{
+    "book": "Job",
+    "chapter": 36,
+    "verses": [
+        {
+            "ref": "Job 36:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 36:2",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Job 36:3",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 36:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 36:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 36:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 36:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 36:8",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 36:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 36:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 36:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 36:12",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 36:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Job 36:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 36:15",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 36:16",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Job 36:17",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Job 36:18",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Job 36:19",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 36:20",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Job 36:21",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Job 36:22",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 36:23",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 36:24",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Job 36:25",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 36:26",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 36:27",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 36:28",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 36:29",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 36:30",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 36:31",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 36:32",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 36:33",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Elihu's Fourth Speech",
+            "start": "Job 36:1",
+            "end": "Job 36:33",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

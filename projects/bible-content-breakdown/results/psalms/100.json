@@ -1,0 +1,65 @@
+{
+    "book": "Psalms",
+    "chapter": 100,
+    "verses": [
+        {
+            "ref": "Psalms 100:1",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalms 100:2",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalms 100:3",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Psalms 100:4",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Psalms 100:5",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "A Psalm of Thanksgiving and Praise",
+            "start": "Psalms 100:1",
+            "end": "Psalms 100:5",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

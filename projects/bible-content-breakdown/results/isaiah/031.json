@@ -1,0 +1,77 @@
+{
+    "book": "Isaiah",
+    "chapter": 31,
+    "verses": [
+        {
+            "ref": "Isa 31:1",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 31:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 31:3",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Isa 31:4",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Isa 31:5",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 31:6",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Isa 31:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 31:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 31:9",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Warning Against Misplaced Trust and Promise of Restoration",
+            "start": "Isa 31:1",
+            "end": "Isa 31:9",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,202 @@
+{
+    "book": "Proverbs",
+    "chapter": 31,
+    "verses": [
+        {
+            "ref": "Prov 31:1",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 31:2",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 31:3",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Prov 31:4",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 31:5",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 31:6",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 31:7",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 31:8",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 31:9",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Prov 31:10",
+            "function": "wisdom",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Prov 31:11",
+            "function": "wisdom",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Prov 31:12",
+            "function": "wisdom",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Prov 31:13",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 31:14",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 31:15",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 31:16",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 31:17",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 31:18",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 31:19",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 31:20",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 31:21",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 31:22",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 31:23",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 31:24",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 31:25",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 31:26",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 31:27",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 31:28",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 31:29",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 31:30",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Prov 31:31",
+            "function": "wisdom"
+        }
+    ],
+    "stories": [
+        {
+            "name": "King Lemuel's Instruction",
+            "start": "Prov 31:1",
+            "end": "Prov 31:9",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Portrait of the Excellent Wife",
+            "start": "Prov 31:10",
+            "end": "Prov 31:31",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "generosity",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

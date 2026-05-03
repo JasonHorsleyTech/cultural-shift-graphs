@@ -1,0 +1,361 @@
+{
+    "book": "1 Kings",
+    "chapter": 8,
+    "verses": [
+        {
+            "ref": "1 Kings 8:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 8:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 8:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 8:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Kings 8:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Kings 8:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Kings 8:7",
+            "function": "specifications",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Kings 8:8",
+            "function": "specifications",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Kings 8:9",
+            "function": "catalog",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Kings 8:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 8:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 8:12",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kings 8:13",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kings 8:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 8:15",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Kings 8:16",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kings 8:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Kings 8:18",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kings 8:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Kings 8:20",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Kings 8:21",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kings 8:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 8:23",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Kings 8:24",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kings 8:25",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kings 8:26",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kings 8:27",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kings 8:28",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kings 8:29",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kings 8:30",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kings 8:31",
+            "function": "civil_law",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Kings 8:32",
+            "function": "civil_law",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Kings 8:33",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kings 8:34",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kings 8:35",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kings 8:36",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kings 8:37",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kings 8:38",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kings 8:39",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kings 8:40",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kings 8:41",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kings 8:42",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kings 8:43",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Kings 8:44",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kings 8:45",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kings 8:46",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kings 8:47",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kings 8:48",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kings 8:49",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kings 8:50",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kings 8:51",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kings 8:52",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kings 8:53",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kings 8:54",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 8:55",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 8:56",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Kings 8:57",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Kings 8:58",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Kings 8:59",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kings 8:60",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kings 8:61",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Kings 8:62",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 8:63",
+            "function": "specifications",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Kings 8:64",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kings 8:65",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 8:66",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Dedication of Solomon's Temple",
+            "start": "1 Kings 8:1",
+            "end": "1 Kings 8:66",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

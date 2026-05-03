@@ -1,0 +1,113 @@
+{
+    "book": "Esther",
+    "chapter": 8,
+    "verses": [
+        {
+            "ref": "Esther 8:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Esther 8:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Esther 8:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Esther 8:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Esther 8:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Esther 8:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Esther 8:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Esther 8:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Esther 8:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Esther 8:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Esther 8:11",
+            "function": "civil_law",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Esther 8:12",
+            "function": "specifications"
+        },
+        {
+            "ref": "Esther 8:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Esther 8:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Esther 8:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Esther 8:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Esther 8:17",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Jews' Reversal and Defense",
+            "start": "Esther 8:1",
+            "end": "Esther 8:17",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "courage",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

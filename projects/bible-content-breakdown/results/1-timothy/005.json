@@ -1,0 +1,212 @@
+{
+    "book": "1 Timothy",
+    "chapter": 5,
+    "verses": [
+        {
+            "ref": "1 Tim 5:1",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Tim 5:2",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "1 Tim 5:3",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Tim 5:4",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Tim 5:5",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Tim 5:6",
+            "function": "wisdom"
+        },
+        {
+            "ref": "1 Tim 5:7",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Tim 5:8",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "1 Tim 5:9",
+            "function": "civil_law"
+        },
+        {
+            "ref": "1 Tim 5:10",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Tim 5:11",
+            "function": "civil_law",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Tim 5:12",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Tim 5:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Tim 5:14",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Tim 5:15",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Tim 5:16",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Tim 5:17",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "1 Tim 5:18",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Tim 5:19",
+            "function": "civil_law"
+        },
+        {
+            "ref": "1 Tim 5:20",
+            "function": "civil_law",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Tim 5:21",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Tim 5:22",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "1 Tim 5:23",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Tim 5:24",
+            "function": "wisdom"
+        },
+        {
+            "ref": "1 Tim 5:25",
+            "function": "wisdom"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Respectful Address to Different Groups",
+            "start": "1 Tim 5:1",
+            "end": "1 Tim 5:2",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Supporting Widows",
+            "start": "1 Tim 5:3",
+            "end": "1 Tim 5:16",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "generosity",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Elder Honor and Discipline",
+            "start": "1 Tim 5:17",
+            "end": "1 Tim 5:21",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Timothy's Personal Purity and Discernment",
+            "start": "1 Tim 5:22",
+            "end": "1 Tim 5:25",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "sexual_purity",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

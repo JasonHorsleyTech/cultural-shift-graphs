@@ -1,0 +1,113 @@
+{
+    "book": "Micah",
+    "chapter": 6,
+    "verses": [
+        {
+            "ref": "Mic 6:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mic 6:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mic 6:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mic 6:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mic 6:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mic 6:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Mic 6:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Mic 6:8",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Mic 6:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mic 6:10",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mic 6:11",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mic 6:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mic 6:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mic 6:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mic 6:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mic 6:16",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Purification of Israel",
+            "start": "Mic 6:1",
+            "end": "Mic 6:16",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.7
+                }
+            ]
+        }
+    ]
+}

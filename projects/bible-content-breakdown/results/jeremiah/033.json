@@ -1,0 +1,149 @@
+{
+    "book": "Jeremiah",
+    "chapter": 33,
+    "verses": [
+        {
+            "ref": "Jer 33:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 33:2",
+            "function": "theological"
+        },
+        {
+            "ref": "Jer 33:3",
+            "function": "theological"
+        },
+        {
+            "ref": "Jer 33:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 33:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 33:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 33:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 33:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 33:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 33:10",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jer 33:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 33:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 33:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 33:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 33:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 33:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 33:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 33:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 33:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 33:20",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 33:21",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 33:22",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 33:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 33:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 33:25",
+            "function": "theological"
+        },
+        {
+            "ref": "Jer 33:26",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Promise of Restoration to Israel",
+            "start": "Jer 33:1",
+            "end": "Jer 33:26",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

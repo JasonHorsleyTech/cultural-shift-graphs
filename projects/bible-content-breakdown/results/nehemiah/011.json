@@ -1,0 +1,201 @@
+{
+    "book": "Nehemiah",
+    "chapter": 11,
+    "verses": [
+        {
+            "ref": "Neh 11:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 11:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 11:3",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Neh 11:4",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 11:5",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 11:6",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 11:7",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 11:8",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 11:9",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Neh 11:10",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 11:11",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 11:12",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 11:13",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 11:14",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 11:15",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 11:16",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Neh 11:17",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Neh 11:18",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 11:19",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 11:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 11:21",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 11:22",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Neh 11:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 11:24",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Neh 11:25",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 11:26",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 11:27",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 11:28",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 11:29",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 11:30",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Neh 11:31",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 11:32",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 11:33",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 11:34",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 11:35",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 11:36",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Repopulation of Jerusalem",
+            "start": "Neh 11:1",
+            "end": "Neh 11:36",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "book": "Deuteronomy",
+    "chapter": 19,
+    "verses": [
+        {
+            "ref": "Deut 19:1",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 19:2",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 19:3",
+            "function": "specifications",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 19:4",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 19:5",
+            "function": "civil_law",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Deut 19:6",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 19:7",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 19:8",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 19:9",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Deut 19:10",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 19:11",
+            "function": "civil_law",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Deut 19:12",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 19:13",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 19:14",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 19:15",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 19:16",
+            "function": "civil_law",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Deut 19:17",
+            "function": "civil_law",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 19:18",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 19:19",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 19:20",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 19:21",
+            "function": "civil_law"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Cities of Refuge and Accidental Death",
+            "start": "Deut 19:1",
+            "end": "Deut 19:13",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Property Boundary Laws",
+            "start": "Deut 19:14",
+            "end": "Deut 19:14",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Witness Testimony and False Witnesses",
+            "start": "Deut 19:15",
+            "end": "Deut 19:21",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

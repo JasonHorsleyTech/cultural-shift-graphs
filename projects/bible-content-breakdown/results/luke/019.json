@@ -1,0 +1,313 @@
+{
+    "book": "Luke",
+    "chapter": 19,
+    "verses": [
+        {
+            "ref": "Luke 19:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 19:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 19:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 19:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 19:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 19:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 19:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 19:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Luke 19:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 19:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 19:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 19:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 19:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 19:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 19:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 19:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 19:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 19:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 19:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 19:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 19:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 19:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 19:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 19:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 19:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 19:26",
+            "function": "narrative",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 19:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 19:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 19:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 19:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 19:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 19:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 19:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 19:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 19:35",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 19:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 19:37",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 19:38",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 19:39",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 19:40",
+            "function": "narrative",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 19:41",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 19:42",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 19:43",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 19:44",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 19:45",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 19:46",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Luke 19:47",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 19:48",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Zacchaeus and Jesus",
+            "start": "Luke 19:1",
+            "end": "Luke 19:10",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "generosity",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Parable of the Minas",
+            "start": "Luke 19:11",
+            "end": "Luke 19:27",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Jesus's Triumphal Entry into Jerusalem",
+            "start": "Luke 19:28",
+            "end": "Luke 19:40",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Jesus's Lament over Jerusalem",
+            "start": "Luke 19:41",
+            "end": "Luke 19:44",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Jesus Cleanses the Temple",
+            "start": "Luke 19:45",
+            "end": "Luke 19:48",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

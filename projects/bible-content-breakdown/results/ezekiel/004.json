@@ -1,0 +1,113 @@
+{
+    "book": "Ezekiel",
+    "chapter": 4,
+    "verses": [
+        {
+            "ref": "Ezekiel 4:1",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezekiel 4:2",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezekiel 4:3",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ezekiel 4:4",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezekiel 4:5",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezekiel 4:6",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezekiel 4:7",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezekiel 4:8",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezekiel 4:9",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezekiel 4:10",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezekiel 4:11",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezekiel 4:12",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezekiel 4:13",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezekiel 4:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "purity_dietary",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ezekiel 4:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ezekiel 4:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 4:17",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Ezekiel's Symbolic Siege of Jerusalem",
+            "start": "Ezekiel 4:1",
+            "end": "Ezekiel 4:17",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+{
+    "book": "John",
+    "chapter": 21,
+    "verses": [
+        {
+            "ref": "John 21:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 21:2",
+            "function": "catalog"
+        },
+        {
+            "ref": "John 21:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 21:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 21:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 21:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 21:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 21:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 21:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 21:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 21:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 21:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 21:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 21:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 21:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "John 21:16",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "John 21:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "John 21:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "John 21:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 21:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 21:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 21:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "John 21:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 21:24",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 21:25",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Miraculous Catch",
+            "start": "John 21:1",
+            "end": "John 21:14",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Peter's Restoration and Commission",
+            "start": "John 21:15",
+            "end": "John 21:23",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

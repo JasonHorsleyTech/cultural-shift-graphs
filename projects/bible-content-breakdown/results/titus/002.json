@@ -1,0 +1,105 @@
+{
+    "book": "Titus",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "Titus 2:1",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Titus 2:2",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Titus 2:3",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Titus 2:4",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Titus 2:5",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Titus 2:6",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Titus 2:7",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Titus 2:8",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Titus 2:9",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Titus 2:10",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Titus 2:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Titus 2:12",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Titus 2:13",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Titus 2:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Titus 2:15",
+            "function": "moral_instruction"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Paul's Instructions for Godly Living",
+            "start": "Titus 2:1",
+            "end": "Titus 2:15",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 0.8
+                },
+                {
+                    "theme": "humility",
+                    "weight": 0.6
+                }
+            ]
+        }
+    ]
+}

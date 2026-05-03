@@ -1,0 +1,440 @@
+{
+    "book": "Luke",
+    "chapter": 9,
+    "verses": [
+        {
+            "ref": "Luke 9:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 9:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 9:3",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 9:4",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 9:5",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 9:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 9:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 9:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 9:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 9:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 9:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 9:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 9:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 9:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Luke 9:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 9:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 9:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 9:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 9:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 9:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 9:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 9:22",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Luke 9:23",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 9:24",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Luke 9:25",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Luke 9:26",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 9:27",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 9:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 9:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 9:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 9:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 9:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 9:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 9:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 9:35",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Luke 9:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 9:37",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 9:38",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 9:39",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 9:40",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 9:41",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 9:42",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 9:43",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 9:44",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Luke 9:45",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 9:46",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 9:47",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 9:48",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Luke 9:49",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 9:50",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 9:51",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 9:52",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 9:53",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 9:54",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 9:55",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 9:56",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 9:57",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 9:58",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 9:59",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 9:60",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 9:61",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 9:62",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Commissioning of the Twelve",
+            "start": "Luke 9:1",
+            "end": "Luke 9:6",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Herod Hears About Jesus",
+            "start": "Luke 9:7",
+            "end": "Luke 9:9",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Feeding of the Five Thousand",
+            "start": "Luke 9:10",
+            "end": "Luke 9:17",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "generosity",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Peter's Confession and Teaching on Discipleship",
+            "start": "Luke 9:18",
+            "end": "Luke 9:27",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Transfiguration",
+            "start": "Luke 9:28",
+            "end": "Luke 9:36",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Healing the Demon-Possessed Boy",
+            "start": "Luke 9:37",
+            "end": "Luke 9:45",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "On Humility and Inclusion",
+            "start": "Luke 9:46",
+            "end": "Luke 9:50",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "humility",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Journey to Jerusalem and Teaching on Discipleship",
+            "start": "Luke 9:51",
+            "end": "Luke 9:62",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

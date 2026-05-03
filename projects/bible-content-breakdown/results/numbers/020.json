@@ -1,0 +1,191 @@
+{
+    "book": "Numbers",
+    "chapter": 20,
+    "verses": [
+        {
+            "ref": "Num 20:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 20:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 20:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 20:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 20:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 20:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 20:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 20:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 20:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 20:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 20:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 20:12",
+            "function": "theological"
+        },
+        {
+            "ref": "Num 20:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 20:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 20:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 20:16",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 20:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 20:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 20:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 20:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 20:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 20:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 20:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 20:24",
+            "function": "theological"
+        },
+        {
+            "ref": "Num 20:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 20:26",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Num 20:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 20:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 20:29",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Waters of Meribah",
+            "start": "Num 20:1",
+            "end": "Num 20:13",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Request for Passage through Edom",
+            "start": "Num 20:14",
+            "end": "Num 20:21",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Aaron's Death and Priestly Succession",
+            "start": "Num 20:22",
+            "end": "Num 20:29",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

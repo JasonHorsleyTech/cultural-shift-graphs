@@ -1,0 +1,199 @@
+{
+    "book": "Deuteronomy",
+    "chapter": 15,
+    "verses": [
+        {
+            "ref": "Deut 15:1",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 15:2",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 15:3",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 15:4",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Deut 15:5",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 15:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 15:7",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 15:8",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 15:9",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Deut 15:10",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 15:11",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 15:12",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 15:13",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 15:14",
+            "function": "civil_law",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 15:15",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Deut 15:16",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 15:17",
+            "function": "civil_law",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 15:18",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 15:19",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 15:20",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 15:21",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 15:22",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "purity_dietary",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Deut 15:23",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "purity_dietary",
+                "weight": 0.4
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Debt Cancellation and Care for the Poor",
+            "start": "Deut 15:1",
+            "end": "Deut 15:11",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "generosity",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Hebrew Slave Release and Restitution",
+            "start": "Deut 15:12",
+            "end": "Deut 15:18",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "generosity",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Firstborn Animals Dedication",
+            "start": "Deut 15:19",
+            "end": "Deut 15:23",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "sacrifice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

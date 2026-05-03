@@ -1,0 +1,311 @@
+{
+    "book": "Luke",
+    "chapter": 23,
+    "verses": [
+        {
+            "ref": "Luke 23:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 23:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 23:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 23:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 23:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 23:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 23:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 23:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 23:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 23:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 23:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 23:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 23:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 23:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 23:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 23:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 23:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 23:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 23:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 23:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 23:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 23:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 23:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 23:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 23:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 23:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 23:28",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Luke 23:29",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 23:30",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 23:31",
+            "function": "prophecy",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Luke 23:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 23:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 23:34",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 23:35",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 23:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 23:37",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 23:38",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "Luke 23:39",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 23:40",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 23:41",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 23:42",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 23:43",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Luke 23:44",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 23:45",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Luke 23:46",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 23:47",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 23:48",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 23:49",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 23:50",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 23:51",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 23:52",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 23:53",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 23:54",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 23:55",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 23:56",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jesus Before Pilate and Herod",
+            "start": "Luke 23:1",
+            "end": "Luke 23:25",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 1.2
+                },
+                {
+                    "theme": "justice",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "The Crucifixion of Jesus",
+            "start": "Luke 23:26",
+            "end": "Luke 23:43",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "sacrifice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "The Death and Burial of Jesus",
+            "start": "Luke 23:44",
+            "end": "Luke 23:56",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

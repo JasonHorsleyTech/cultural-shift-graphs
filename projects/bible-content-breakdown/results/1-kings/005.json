@@ -1,0 +1,121 @@
+{
+    "book": "1 Kings",
+    "chapter": 5,
+    "verses": [
+        {
+            "ref": "1 Kings 5:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 5:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 5:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 5:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 5:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "1 Kings 5:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 5:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 5:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 5:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Kings 5:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 5:11",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kings 5:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Kings 5:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 5:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Kings 5:15",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kings 5:16",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kings 5:17",
+            "function": "specifications",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Kings 5:18",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Solomon Arranges Temple Construction",
+            "start": "1 Kings 5:1",
+            "end": "1 Kings 5:18",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

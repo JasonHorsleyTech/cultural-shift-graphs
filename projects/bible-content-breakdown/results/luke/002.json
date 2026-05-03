@@ -1,0 +1,308 @@
+{
+    "book": "Luke",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "Luke 2:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 2:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 2:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 2:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 2:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 2:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 2:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 2:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 2:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 2:10",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Luke 2:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 2:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 2:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 2:14",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Luke 2:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 2:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 2:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 2:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 2:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 2:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Luke 2:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 2:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Luke 2:23",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Luke 2:24",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Luke 2:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 2:26",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 2:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 2:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 2:29",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Luke 2:30",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Luke 2:31",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Luke 2:32",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 2:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 2:34",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 2:35",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 2:36",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Luke 2:37",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 2:38",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 2:39",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 2:40",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 2:41",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 2:42",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 2:43",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 2:44",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 2:45",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 2:46",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 2:47",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 2:48",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 2:49",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Luke 2:50",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 2:51",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 2:52",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Birth of Jesus",
+            "start": "Luke 2:1",
+            "end": "Luke 2:7",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "The Shepherds and the Angels",
+            "start": "Luke 2:8",
+            "end": "Luke 2:20",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Presentation at the Temple",
+            "start": "Luke 2:21",
+            "end": "Luke 2:40",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Jesus in the Temple at Age Twelve",
+            "start": "Luke 2:41",
+            "end": "Luke 2:52",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

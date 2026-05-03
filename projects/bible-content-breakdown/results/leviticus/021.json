@@ -1,0 +1,149 @@
+{
+    "book": "Leviticus",
+    "chapter": 21,
+    "verses": [
+        {
+            "ref": "Lev 21:1",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 21:2",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 21:3",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 21:4",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 21:5",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 21:6",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Lev 21:7",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Lev 21:8",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 21:9",
+            "function": "sexual_marital",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 21:10",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 21:11",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 21:12",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lev 21:13",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Lev 21:14",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Lev 21:15",
+            "function": "sexual_marital",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lev 21:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 21:17",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 21:18",
+            "function": "specifications",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 21:19",
+            "function": "specifications"
+        },
+        {
+            "ref": "Lev 21:20",
+            "function": "specifications"
+        },
+        {
+            "ref": "Lev 21:21",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 21:22",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 21:23",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 21:24",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God Establishes Priestly Standards",
+            "start": "Lev 21:1",
+            "end": "Lev 21:24",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "sexual_purity",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

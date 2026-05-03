@@ -1,0 +1,121 @@
+{
+    "book": "Psalms",
+    "chapter": 36,
+    "verses": [
+        {
+            "ref": "Ps 36:1",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ps 36:2",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 36:3",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 36:4",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 36:5",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ps 36:6",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ps 36:7",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 36:8",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 36:9",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ps 36:10",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 36:11",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 36:12",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Wicked and God's Righteousness",
+            "start": "Ps 36:1",
+            "end": "Ps 36:12",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

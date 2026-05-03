@@ -1,0 +1,137 @@
+{
+    "book": "Isaiah",
+    "chapter": 32,
+    "verses": [
+        {
+            "ref": "Isa 32:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 32:2",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Isa 32:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 32:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 32:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 32:6",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Isa 32:7",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Isa 32:8",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Isa 32:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 32:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 32:11",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 32:12",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 32:13",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 32:14",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 32:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 32:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 32:17",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 32:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 32:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 32:20",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Vision of Justice and Restoration",
+            "start": "Isa 32:1",
+            "end": "Isa 32:20",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

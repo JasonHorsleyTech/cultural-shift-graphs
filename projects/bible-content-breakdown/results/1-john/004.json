@@ -1,0 +1,154 @@
+{
+    "book": "1 John",
+    "chapter": 4,
+    "verses": [
+        {
+            "ref": "1 John 4:1",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 John 4:2",
+            "function": "theological"
+        },
+        {
+            "ref": "1 John 4:3",
+            "function": "theological"
+        },
+        {
+            "ref": "1 John 4:4",
+            "function": "theological"
+        },
+        {
+            "ref": "1 John 4:5",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 John 4:6",
+            "function": "theological"
+        },
+        {
+            "ref": "1 John 4:7",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 John 4:8",
+            "function": "theological"
+        },
+        {
+            "ref": "1 John 4:9",
+            "function": "theological"
+        },
+        {
+            "ref": "1 John 4:10",
+            "function": "theological"
+        },
+        {
+            "ref": "1 John 4:11",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 John 4:12",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 John 4:13",
+            "function": "theological"
+        },
+        {
+            "ref": "1 John 4:14",
+            "function": "theological"
+        },
+        {
+            "ref": "1 John 4:15",
+            "function": "theological"
+        },
+        {
+            "ref": "1 John 4:16",
+            "function": "theological"
+        },
+        {
+            "ref": "1 John 4:17",
+            "function": "theological"
+        },
+        {
+            "ref": "1 John 4:18",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 John 4:19",
+            "function": "theological"
+        },
+        {
+            "ref": "1 John 4:20",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 John 4:21",
+            "function": "moral_instruction"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Testing Spirits and Recognizing False Prophets",
+            "start": "1 John 4:1",
+            "end": "1 John 4:6",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Love as God's Nature and Our Command",
+            "start": "1 John 4:7",
+            "end": "1 John 4:21",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 0.7
+                }
+            ]
+        }
+    ]
+}

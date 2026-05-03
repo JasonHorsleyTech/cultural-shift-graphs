@@ -1,0 +1,235 @@
+{
+    "book": "Acts",
+    "chapter": 11,
+    "verses": [
+        {
+            "ref": "Acts 11:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 11:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 11:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "purity_dietary",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 11:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 11:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 11:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Acts 11:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 11:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "purity_dietary",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 11:9",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 11:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 11:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 11:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 11:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 11:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 11:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Acts 11:16",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 11:17",
+            "function": "theological"
+        },
+        {
+            "ref": "Acts 11:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 11:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 11:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 11:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Acts 11:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 11:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 11:24",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Acts 11:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 11:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 11:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 11:28",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Acts 11:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 11:30",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Peter's Defense and the Vision of Gentile Salvation",
+            "start": "Acts 11:1",
+            "end": "Acts 11:18",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.7
+                }
+            ]
+        },
+        {
+            "name": "The Gospel Reaches Antioch and the First Christians",
+            "start": "Acts 11:19",
+            "end": "Acts 11:26",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.8
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Agabus Prophecies a Famine; the Church Sends Relief",
+            "start": "Acts 11:27",
+            "end": "Acts 11:30",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "generosity",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

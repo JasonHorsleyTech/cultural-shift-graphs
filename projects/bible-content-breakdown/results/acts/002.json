@@ -1,0 +1,273 @@
+{
+    "book": "Acts",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "Acts 2:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 2:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 2:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 2:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 2:5",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Acts 2:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 2:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 2:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 2:9",
+            "function": "catalog"
+        },
+        {
+            "ref": "Acts 2:10",
+            "function": "catalog"
+        },
+        {
+            "ref": "Acts 2:11",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 2:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 2:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 2:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 2:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 2:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 2:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Acts 2:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Acts 2:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Acts 2:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Acts 2:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Acts 2:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 2:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 2:24",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 2:25",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Acts 2:26",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Acts 2:27",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Acts 2:28",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Acts 2:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 2:30",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Acts 2:31",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 2:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 2:33",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Acts 2:34",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Acts 2:35",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Acts 2:36",
+            "function": "theological"
+        },
+        {
+            "ref": "Acts 2:37",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 2:38",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Acts 2:39",
+            "function": "theological"
+        },
+        {
+            "ref": "Acts 2:40",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Acts 2:41",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Acts 2:42",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 2:43",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 2:44",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 2:45",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 2:46",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Acts 2:47",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Pentecost and the Birth of the Church",
+            "start": "Acts 2:1",
+            "end": "Acts 2:47",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "generosity",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

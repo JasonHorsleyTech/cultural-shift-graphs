@@ -1,0 +1,97 @@
+{
+    "book": "Ecclesiastes",
+    "chapter": 12,
+    "verses": [
+        {
+            "ref": "Ecc 12:1",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 12:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ecc 12:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ecc 12:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ecc 12:5",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Ecc 12:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ecc 12:7",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ecc 12:8",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 12:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ecc 12:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ecc 12:11",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ecc 12:12",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Ecc 12:13",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ecc 12:14",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Teacher's Final Exhortation",
+            "start": "Ecc 12:1",
+            "end": "Ecc 12:14",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.7
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,237 @@
+{
+    "book": "2 Kings",
+    "chapter": 19,
+    "verses": [
+        {
+            "ref": "2 Kings 19:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 19:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 19:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 19:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Kings 19:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 19:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Kings 19:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Kings 19:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 19:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 19:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 19:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 19:12",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Kings 19:13",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Kings 19:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 19:15",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Kings 19:16",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "2 Kings 19:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Kings 19:18",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Kings 19:19",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Kings 19:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Kings 19:21",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "2 Kings 19:22",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Kings 19:23",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Kings 19:24",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Kings 19:25",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Kings 19:26",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Kings 19:27",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Kings 19:28",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Kings 19:29",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Kings 19:30",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Kings 19:31",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Kings 19:32",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Kings 19:33",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Kings 19:34",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Kings 19:35",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Kings 19:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 19:37",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Hezekiah's Deliverance from the Assyrian Siege",
+            "start": "2 Kings 19:1",
+            "end": "2 Kings 19:37",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "book": "Numbers",
+    "chapter": 8,
+    "verses": [
+        {
+            "ref": "Num 8:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 8:2",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 8:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 8:4",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 8:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 8:6",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 8:7",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 8:8",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 8:9",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 8:10",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 8:11",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 8:12",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 8:13",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 8:14",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Num 8:15",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 8:16",
+            "function": "theological"
+        },
+        {
+            "ref": "Num 8:17",
+            "function": "theological"
+        },
+        {
+            "ref": "Num 8:18",
+            "function": "theological"
+        },
+        {
+            "ref": "Num 8:19",
+            "function": "theological"
+        },
+        {
+            "ref": "Num 8:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 8:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 8:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 8:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 8:24",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Num 8:25",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Num 8:26",
+            "function": "civil_law"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Lampstand Setup",
+            "start": "Num 8:1",
+            "end": "Num 8:4",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Levite Consecration and Service",
+            "start": "Num 8:5",
+            "end": "Num 8:26",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

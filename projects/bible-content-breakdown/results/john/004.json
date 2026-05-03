@@ -1,0 +1,322 @@
+{
+    "book": "John",
+    "chapter": 4,
+    "verses": [
+        {
+            "ref": "John 4:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 4:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 4:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 4:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 4:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 4:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 4:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 4:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 4:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "John 4:10",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 4:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 4:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 4:13",
+            "function": "theological"
+        },
+        {
+            "ref": "John 4:14",
+            "function": "theological"
+        },
+        {
+            "ref": "John 4:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 4:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 4:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 4:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "John 4:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 4:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 4:21",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 4:22",
+            "function": "theological"
+        },
+        {
+            "ref": "John 4:23",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "John 4:24",
+            "function": "theological"
+        },
+        {
+            "ref": "John 4:25",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "John 4:26",
+            "function": "theological"
+        },
+        {
+            "ref": "John 4:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 4:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 4:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 4:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 4:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 4:32",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 4:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 4:34",
+            "function": "theological"
+        },
+        {
+            "ref": "John 4:35",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "John 4:36",
+            "function": "theological"
+        },
+        {
+            "ref": "John 4:37",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "John 4:38",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "John 4:39",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 4:40",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 4:41",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 4:42",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 4:43",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 4:44",
+            "function": "narrative",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "John 4:45",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 4:46",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 4:47",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 4:48",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 4:49",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 4:50",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 4:51",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 4:52",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 4:53",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 4:54",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jesus and the Samaritan Woman",
+            "start": "John 4:1",
+            "end": "John 4:42",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "The Official's Son Healed",
+            "start": "John 4:46",
+            "end": "John 4:54",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

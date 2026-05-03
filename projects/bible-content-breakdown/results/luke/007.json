@@ -1,0 +1,324 @@
+{
+    "book": "Luke",
+    "chapter": 7,
+    "verses": [
+        {
+            "ref": "Luke 7:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 7:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 7:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 7:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 7:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 7:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 7:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 7:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Luke 7:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Luke 7:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 7:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 7:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 7:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 7:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 7:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 7:16",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 7:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 7:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 7:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 7:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 7:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 7:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Luke 7:23",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Luke 7:24",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Luke 7:25",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Luke 7:26",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 7:27",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 7:28",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 7:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 7:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 7:31",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Luke 7:32",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Luke 7:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 7:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 7:35",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Luke 7:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 7:37",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 7:38",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 7:39",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 7:40",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 7:41",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 7:42",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 7:43",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 7:44",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 7:45",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 7:46",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 7:47",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 7:48",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Luke 7:49",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 7:50",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Centurion's Servant Healed",
+            "start": "Luke 7:1",
+            "end": "Luke 7:10",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Widow's Son Raised at Nain",
+            "start": "Luke 7:11",
+            "end": "Luke 7:17",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "John's Question and Jesus's Teaching",
+            "start": "Luke 7:18",
+            "end": "Luke 7:35",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Woman Anoints Jesus",
+            "start": "Luke 7:36",
+            "end": "Luke 7:50",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

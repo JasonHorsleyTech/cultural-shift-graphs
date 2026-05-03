@@ -1,0 +1,157 @@
+{
+    "book": "Daniel",
+    "chapter": 7,
+    "verses": [
+        {
+            "ref": "Dan 7:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 7:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 7:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 7:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 7:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 7:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 7:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 7:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 7:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Dan 7:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Dan 7:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 7:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 7:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 7:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 7:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 7:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 7:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 7:18",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Dan 7:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 7:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 7:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Dan 7:22",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 7:23",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 7:24",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 7:25",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 7:26",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 7:27",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 7:28",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Daniel's Vision of the Four Beasts and the Son of Man",
+            "start": "Dan 7:1",
+            "end": "Dan 7:28",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,162 @@
+{
+    "book": "Acts",
+    "chapter": 1,
+    "verses": [
+        {
+            "ref": "Acts 1:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 1:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 1:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 1:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Acts 1:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Acts 1:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 1:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Acts 1:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Acts 1:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 1:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 1:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Acts 1:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 1:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 1:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 1:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 1:16",
+            "function": "theological"
+        },
+        {
+            "ref": "Acts 1:17",
+            "function": "theological"
+        },
+        {
+            "ref": "Acts 1:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 1:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 1:20",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 1:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 1:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 1:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 1:24",
+            "function": "theological"
+        },
+        {
+            "ref": "Acts 1:25",
+            "function": "theological"
+        },
+        {
+            "ref": "Acts 1:26",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jesus's Resurrection, Final Instructions, and Ascension",
+            "start": "Acts 1:1",
+            "end": "Acts 1:11",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Choosing Matthias to Replace Judas",
+            "start": "Acts 1:12",
+            "end": "Acts 1:26",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

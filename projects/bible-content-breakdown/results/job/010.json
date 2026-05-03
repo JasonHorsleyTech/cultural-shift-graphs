@@ -1,0 +1,133 @@
+{
+    "book": "Job",
+    "chapter": 10,
+    "verses": [
+        {
+            "ref": "Job 10:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 10:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 10:3",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 10:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 10:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 10:6",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 10:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 10:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Job 10:9",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 10:10",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 10:11",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 10:12",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 10:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 10:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 10:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 10:16",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 10:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 10:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 10:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 10:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 10:21",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 10:22",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Job's Complaint: Questioning God's Justice",
+            "start": "Job 10:1",
+            "end": "Job 10:22",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                }
+            ]
+        }
+    ]
+}

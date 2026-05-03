@@ -1,0 +1,87 @@
+{
+    "book": "1 Timothy",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "1 Tim 2:1",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Tim 2:2",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Tim 2:3",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Tim 2:4",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Tim 2:5",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Tim 2:6",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Tim 2:7",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Tim 2:8",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Tim 2:9",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Tim 2:10",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Tim 2:11",
+            "function": "sexual_marital",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "1 Tim 2:12",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "1 Tim 2:13",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "1 Tim 2:14",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Tim 2:15",
+            "function": "theological",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": []
+}

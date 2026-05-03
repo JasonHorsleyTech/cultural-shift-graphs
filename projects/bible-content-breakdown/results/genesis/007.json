@@ -1,0 +1,149 @@
+{
+    "book": "Genesis",
+    "chapter": 7,
+    "verses": [
+        {
+            "ref": "Gen 7:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 7:2",
+            "function": "specifications"
+        },
+        {
+            "ref": "Gen 7:3",
+            "function": "specifications"
+        },
+        {
+            "ref": "Gen 7:4",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Gen 7:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 7:6",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 7:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 7:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Gen 7:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 7:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 7:11",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Gen 7:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 7:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 7:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Gen 7:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 7:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 7:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 7:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 7:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 7:20",
+            "function": "specifications"
+        },
+        {
+            "ref": "Gen 7:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 7:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 7:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 7:24",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Flood",
+            "start": "Gen 7:1",
+            "end": "Gen 7:24",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

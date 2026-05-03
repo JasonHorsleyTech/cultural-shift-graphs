@@ -1,0 +1,166 @@
+{
+    "book": "Ezekiel",
+    "chapter": 17,
+    "verses": [
+        {
+            "ref": "Ezek 17:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 17:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 17:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 17:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 17:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 17:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 17:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 17:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 17:9",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezek 17:10",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezek 17:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 17:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezek 17:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 17:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Ezek 17:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezek 17:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 17:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 17:18",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezek 17:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 17:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 17:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 17:22",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 17:23",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 17:24",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Eagles and the Vine: Israel's Rebellion and Judgment",
+            "start": "Ezek 17:3",
+            "end": "Ezek 17:21",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "God's Restoration of the Cedar",
+            "start": "Ezek 17:22",
+            "end": "Ezek 17:24",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                }
+            ]
+        }
+    ]
+}

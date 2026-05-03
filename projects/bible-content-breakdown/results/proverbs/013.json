@@ -1,0 +1,139 @@
+{
+    "book": "Proverbs",
+    "chapter": 13,
+    "verses": [
+        {
+            "ref": "Prov 13:1",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 13:2",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 13:3",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 13:4",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Prov 13:5",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 13:6",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 13:7",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 13:8",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 13:9",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 13:10",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Prov 13:11",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 13:12",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 13:13",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 13:14",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 13:15",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 13:16",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 13:17",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Prov 13:18",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 13:19",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 13:20",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Prov 13:21",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 13:22",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 13:23",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 13:24",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Prov 13:25",
+            "function": "wisdom"
+        }
+    ],
+    "stories": []
+}

@@ -1,0 +1,177 @@
+{
+    "book": "Deuteronomy",
+    "chapter": 12,
+    "verses": [
+        {
+            "ref": "Deut 12:1",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 12:2",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 12:3",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 12:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 12:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 12:6",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 12:7",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 12:8",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 12:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 12:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Deut 12:11",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 12:12",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 12:13",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 12:14",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 12:15",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 12:16",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Deut 12:17",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 12:18",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 12:19",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 12:20",
+            "function": "civil_law",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 12:21",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 12:22",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Deut 12:23",
+            "function": "purity_dietary",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 12:24",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Deut 12:25",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Deut 12:26",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 12:27",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 12:28",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 12:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 12:30",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 12:31",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 12:32",
+            "function": "moral_instruction"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Worship in the Promised Land",
+            "start": "Deut 12:1",
+            "end": "Deut 12:32",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

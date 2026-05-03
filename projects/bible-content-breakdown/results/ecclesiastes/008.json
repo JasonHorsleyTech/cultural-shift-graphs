@@ -1,0 +1,147 @@
+{
+    "book": "Ecclesiastes",
+    "chapter": 8,
+    "verses": [
+        {
+            "ref": "Ecc 8:1",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 8:2",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 8:3",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 8:4",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 8:5",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 8:6",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 8:7",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 8:8",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 8:9",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 8:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ecc 8:11",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 8:12",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ecc 8:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Ecc 8:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Ecc 8:15",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 8:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ecc 8:17",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Wisdom on Authority and Human Limitation",
+            "start": "Ecc 8:1",
+            "end": "Ecc 8:8",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "humility",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Injustice Paradox",
+            "start": "Ecc 8:9",
+            "end": "Ecc 8:14",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Accepting What We Cannot Know",
+            "start": "Ecc 8:15",
+            "end": "Ecc 8:17",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "humility",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

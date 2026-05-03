@@ -1,0 +1,159 @@
+{
+    "book": "Malachi",
+    "chapter": 3,
+    "verses": [
+        {
+            "ref": "Mal 3:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mal 3:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mal 3:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mal 3:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mal 3:5",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Mal 3:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Mal 3:7",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Mal 3:8",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Mal 3:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mal 3:10",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mal 3:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mal 3:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mal 3:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mal 3:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mal 3:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mal 3:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mal 3:17",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mal 3:18",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Coming Messenger and Cleansing",
+            "start": "Mal 3:1",
+            "end": "Mal 3:4",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                }
+            ]
+        },
+        {
+            "name": "The Tithe and Blessing",
+            "start": "Mal 3:5",
+            "end": "Mal 3:12",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Faithful Remnant",
+            "start": "Mal 3:13",
+            "end": "Mal 3:18",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "book": "Job",
+    "chapter": 35,
+    "verses": [
+        {
+            "ref": "Job 35:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 35:2",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 35:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 35:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 35:5",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 35:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 35:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 35:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 35:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 35:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 35:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 35:12",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 35:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 35:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 35:15",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 35:16",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Elihu's Fourth Speech",
+            "start": "Job 35:1",
+            "end": "Job 35:16",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.6
+                }
+            ]
+        }
+    ]
+}

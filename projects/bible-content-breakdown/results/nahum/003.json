@@ -1,0 +1,153 @@
+{
+    "book": "Nahum",
+    "chapter": 3,
+    "verses": [
+        {
+            "ref": "Nah 3:1",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Nah 3:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Nah 3:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Nah 3:4",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Nah 3:5",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Nah 3:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Nah 3:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Nah 3:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Nah 3:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Nah 3:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Nah 3:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Nah 3:12",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Nah 3:13",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Nah 3:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Nah 3:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Nah 3:16",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Nah 3:17",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Nah 3:18",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Nah 3:19",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Oracle Against Nineveh",
+            "start": "Nah 3:1",
+            "end": "Nah 3:19",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

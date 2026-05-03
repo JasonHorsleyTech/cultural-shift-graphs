@@ -1,0 +1,81 @@
+{
+    "book": "Psalms",
+    "chapter": 98,
+    "verses": [
+        {
+            "ref": "Ps 98:1",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Ps 98:2",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Ps 98:3",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 98:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 98:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 98:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 98:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 98:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 98:9",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "A Call to Universal Praise",
+            "start": "Ps 98:1",
+            "end": "Ps 98:9",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

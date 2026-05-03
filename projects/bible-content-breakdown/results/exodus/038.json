@@ -1,0 +1,165 @@
+{
+    "book": "Exodus",
+    "chapter": 38,
+    "verses": [
+        {
+            "ref": "Exo 38:1",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exo 38:2",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exo 38:3",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exo 38:4",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exo 38:5",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exo 38:6",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exo 38:7",
+            "function": "specifications",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Exo 38:8",
+            "function": "specifications",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Exo 38:9",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exo 38:10",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exo 38:11",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exo 38:12",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exo 38:13",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exo 38:14",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exo 38:15",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exo 38:16",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exo 38:17",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exo 38:18",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exo 38:19",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exo 38:20",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exo 38:21",
+            "function": "catalog"
+        },
+        {
+            "ref": "Exo 38:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Exo 38:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Exo 38:24",
+            "function": "catalog"
+        },
+        {
+            "ref": "Exo 38:25",
+            "function": "catalog"
+        },
+        {
+            "ref": "Exo 38:26",
+            "function": "catalog"
+        },
+        {
+            "ref": "Exo 38:27",
+            "function": "catalog"
+        },
+        {
+            "ref": "Exo 38:28",
+            "function": "catalog"
+        },
+        {
+            "ref": "Exo 38:29",
+            "function": "catalog"
+        },
+        {
+            "ref": "Exo 38:30",
+            "function": "catalog"
+        },
+        {
+            "ref": "Exo 38:31",
+            "function": "catalog"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Construction of the Tabernacle",
+            "start": "Exo 35:1",
+            "end": "Exo 39:43",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

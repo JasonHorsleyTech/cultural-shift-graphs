@@ -1,0 +1,323 @@
+{
+    "book": "Mark",
+    "chapter": 9,
+    "verses": [
+        {
+            "ref": "Mark 9:1",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Mark 9:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 9:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 9:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 9:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 9:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 9:7",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Mark 9:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 9:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 9:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 9:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 9:12",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mark 9:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Mark 9:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 9:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 9:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 9:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 9:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 9:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Mark 9:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 9:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 9:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 9:23",
+            "function": "theological"
+        },
+        {
+            "ref": "Mark 9:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 9:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 9:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 9:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 9:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 9:29",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mark 9:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 9:31",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Mark 9:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 9:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 9:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 9:35",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Mark 9:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 9:37",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mark 9:38",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 9:39",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Mark 9:40",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mark 9:41",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Mark 9:42",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mark 9:43",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Mark 9:45",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Mark 9:47",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Mark 9:48",
+            "function": "theological"
+        },
+        {
+            "ref": "Mark 9:49",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Mark 9:50",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Transfiguration of Jesus",
+            "start": "Mark 9:1",
+            "end": "Mark 9:13",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Healing of the boy possessed by an unclean spirit",
+            "start": "Mark 9:14",
+            "end": "Mark 9:29",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Teaching on the passion and true discipleship",
+            "start": "Mark 9:30",
+            "end": "Mark 9:50",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "humility",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

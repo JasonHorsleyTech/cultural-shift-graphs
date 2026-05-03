@@ -1,0 +1,149 @@
+{
+    "book": "Jeremiah",
+    "chapter": 8,
+    "verses": [
+        {
+            "ref": "Jer 8:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 8:2",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 8:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 8:4",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Jer 8:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Jer 8:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Jer 8:7",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jer 8:8",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Jer 8:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 8:10",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 8:11",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 8:12",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 8:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 8:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 8:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 8:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 8:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 8:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 8:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jer 8:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 8:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 8:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Judgment Against Unfaithful Judah",
+            "start": "Jer 8:1",
+            "end": "Jer 8:22",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

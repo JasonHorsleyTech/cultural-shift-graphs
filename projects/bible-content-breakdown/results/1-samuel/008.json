@@ -1,0 +1,149 @@
+{
+    "book": "1 Samuel",
+    "chapter": 8,
+    "verses": [
+        {
+            "ref": "1 Sam 8:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 8:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Sam 8:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 8:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 8:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 8:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 8:7",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Sam 8:8",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Sam 8:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Sam 8:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 8:11",
+            "function": "specifications",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Sam 8:12",
+            "function": "specifications",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Sam 8:13",
+            "function": "specifications",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Sam 8:14",
+            "function": "specifications",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Sam 8:15",
+            "function": "specifications",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Sam 8:16",
+            "function": "specifications",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Sam 8:17",
+            "function": "specifications",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Sam 8:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Sam 8:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 8:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 8:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 8:22",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Israel Demands a King",
+            "start": "1 Sam 8:1",
+            "end": "1 Sam 8:22",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

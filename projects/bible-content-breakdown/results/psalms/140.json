@@ -1,0 +1,129 @@
+{
+    "book": "Psalms",
+    "chapter": 140,
+    "verses": [
+        {
+            "ref": "Psalm 140:1",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Psalm 140:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalm 140:3",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Psalm 140:4",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Psalm 140:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalm 140:6",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalm 140:7",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Psalm 140:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 140:9",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalm 140:10",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalm 140:11",
+            "function": "wisdom",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Psalm 140:12",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Psalm 140:13",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "David's Prayer for Protection from Enemies",
+            "start": "Psalm 140:1",
+            "end": "Psalm 140:13",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

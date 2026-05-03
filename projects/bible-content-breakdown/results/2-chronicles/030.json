@@ -1,0 +1,165 @@
+{
+    "book": "2 Chronicles",
+    "chapter": 30,
+    "verses": [
+        {
+            "ref": "2Ch 30:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Ch 30:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Ch 30:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Ch 30:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Ch 30:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Ch 30:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "2Ch 30:7",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "2Ch 30:8",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "2Ch 30:9",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2Ch 30:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Ch 30:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Ch 30:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2Ch 30:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Ch 30:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Ch 30:15",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "2Ch 30:16",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "2Ch 30:17",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "2Ch 30:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "2Ch 30:19",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2Ch 30:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "2Ch 30:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Ch 30:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Ch 30:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Ch 30:24",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2Ch 30:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Ch 30:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Ch 30:27",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Hezekiah's Passover Celebration",
+            "start": "2Ch 30:1",
+            "end": "2Ch 30:27",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

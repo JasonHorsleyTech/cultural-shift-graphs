@@ -1,0 +1,174 @@
+{
+    "book": "1 Samuel",
+    "chapter": 10,
+    "verses": [
+        {
+            "ref": "1 Samuel 10:1",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Samuel 10:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Samuel 10:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Samuel 10:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Samuel 10:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Samuel 10:6",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Samuel 10:7",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Samuel 10:8",
+            "function": "specifications",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Samuel 10:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Samuel 10:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Samuel 10:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Samuel 10:12",
+            "function": "wisdom"
+        },
+        {
+            "ref": "1 Samuel 10:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Samuel 10:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Samuel 10:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Samuel 10:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Samuel 10:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Samuel 10:18",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Samuel 10:19",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Samuel 10:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Samuel 10:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Samuel 10:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Samuel 10:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Samuel 10:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Samuel 10:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Samuel 10:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Samuel 10:27",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Samuel Anoints Saul",
+            "start": "1 Samuel 10:1",
+            "end": "1 Samuel 10:16",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Saul Publicly Selected at Mizpah",
+            "start": "1 Samuel 10:17",
+            "end": "1 Samuel 10:27",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "book": "Revelation",
+    "chapter": 8,
+    "verses": [
+        {
+            "ref": "Rev 8:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 8:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Rev 8:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rev 8:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 8:5",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Rev 8:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 8:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 8:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 8:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 8:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 8:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 8:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 8:13",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Opening the Seventh Seal and the First Four Trumpets",
+            "start": "Rev 8:1",
+            "end": "Rev 8:13",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

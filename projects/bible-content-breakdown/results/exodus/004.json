@@ -1,0 +1,181 @@
+{
+    "book": "Exodus",
+    "chapter": 4,
+    "verses": [
+        {
+            "ref": "Ex 4:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 4:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 4:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 4:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 4:5",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ex 4:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 4:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 4:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 4:9",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ex 4:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 4:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Ex 4:12",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ex 4:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 4:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 4:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ex 4:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 4:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 4:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 4:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 4:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 4:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Ex 4:22",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Ex 4:23",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ex 4:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 4:25",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Ex 4:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 4:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 4:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 4:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 4:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 4:31",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Moses Is Prepared for His Mission",
+            "start": "Ex 4:1",
+            "end": "Ex 4:31",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 0.7
+                }
+            ]
+        }
+    ]
+}

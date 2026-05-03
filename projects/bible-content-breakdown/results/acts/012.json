@@ -1,0 +1,175 @@
+{
+    "book": "Acts",
+    "chapter": 12,
+    "verses": [
+        {
+            "ref": "Acts 12:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 12:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 12:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 12:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 12:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 12:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 12:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Acts 12:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 12:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 12:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Acts 12:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Acts 12:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 12:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 12:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 12:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 12:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 12:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 12:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 12:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 12:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 12:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 12:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 12:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Acts 12:24",
+            "function": "theological"
+        },
+        {
+            "ref": "Acts 12:25",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Peter's Arrest and Miraculous Escape",
+            "start": "Acts 12:1",
+            "end": "Acts 12:17",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Herod's Judgment",
+            "start": "Acts 12:18",
+            "end": "Acts 12:23",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Gospel Continues to Spread",
+            "start": "Acts 12:24",
+            "end": "Acts 12:25",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

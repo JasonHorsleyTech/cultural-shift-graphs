@@ -1,0 +1,167 @@
+{
+    "book": "Matthew",
+    "chapter": 28,
+    "verses": [
+        {
+            "ref": "Matt 28:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 28:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 28:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 28:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 28:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 28:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 28:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 28:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 28:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 28:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 28:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 28:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 28:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 28:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 28:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 28:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 28:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 28:18",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 28:19",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 28:20",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Resurrection",
+            "start": "Matt 28:1",
+            "end": "Matt 28:10",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "The Cover-up",
+            "start": "Matt 28:11",
+            "end": "Matt 28:15",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "hypocrisy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "The Great Commission",
+            "start": "Matt 28:16",
+            "end": "Matt 28:20",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

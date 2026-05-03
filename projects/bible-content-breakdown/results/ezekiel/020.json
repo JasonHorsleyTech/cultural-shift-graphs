@@ -1,0 +1,278 @@
+{
+    "book": "Ezekiel",
+    "chapter": 20,
+    "verses": [
+        {
+            "ref": "Ezekiel 20:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 20:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 20:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 20:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 20:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ezekiel 20:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ezekiel 20:7",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Ezekiel 20:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 20:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Ezekiel 20:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 20:11",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Ezekiel 20:12",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezekiel 20:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 20:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Ezekiel 20:15",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezekiel 20:16",
+            "function": "theological"
+        },
+        {
+            "ref": "Ezekiel 20:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 20:18",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Ezekiel 20:19",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Ezekiel 20:20",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezekiel 20:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 20:22",
+            "function": "theological"
+        },
+        {
+            "ref": "Ezekiel 20:23",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 20:24",
+            "function": "theological"
+        },
+        {
+            "ref": "Ezekiel 20:25",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 20:26",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 20:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 20:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 20:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 20:30",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezekiel 20:31",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 20:32",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 20:33",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 20:34",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 20:35",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 20:36",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezekiel 20:37",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 20:38",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 20:39",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ezekiel 20:40",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 20:41",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 20:42",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 20:43",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 20:44",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezekiel 20:45",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 20:46",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ezekiel 20:47",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 20:48",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 20:49",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Judgment Oracle on Israel's History",
+            "start": "Ezekiel 20:1",
+            "end": "Ezekiel 20:44",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Oracle Against the Negev",
+            "start": "Ezekiel 20:45",
+            "end": "Ezekiel 20:49",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

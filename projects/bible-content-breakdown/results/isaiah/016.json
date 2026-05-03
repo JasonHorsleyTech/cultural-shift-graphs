@@ -1,0 +1,101 @@
+{
+    "book": "Isaiah",
+    "chapter": 16,
+    "verses": [
+        {
+            "ref": "Isa 16:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 16:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 16:3",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Isa 16:4",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Isa 16:5",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 16:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 16:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 16:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 16:9",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 16:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 16:11",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Isa 16:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 16:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 16:14",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Judgment Against Moab",
+            "start": "Isa 16:1",
+            "end": "Isa 16:14",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 0.7
+                }
+            ]
+        }
+    ]
+}

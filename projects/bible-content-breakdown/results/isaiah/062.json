@@ -1,0 +1,105 @@
+{
+    "book": "Isaiah",
+    "chapter": 62,
+    "verses": [
+        {
+            "ref": "Isa 62:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 62:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 62:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 62:4",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Isa 62:5",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Isa 62:6",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.45
+            }
+        },
+        {
+            "ref": "Isa 62:7",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Isa 62:8",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 62:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 62:10",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.55
+            }
+        },
+        {
+            "ref": "Isa 62:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 62:12",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jerusalem's Restoration and Vindication",
+            "start": "Isa 62:1",
+            "end": "Isa 62:12",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

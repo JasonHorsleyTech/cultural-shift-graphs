@@ -1,0 +1,97 @@
+{
+    "book": "Haggai",
+    "chapter": 1,
+    "verses": [
+        {
+            "ref": "Hag 1:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Hag 1:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Hag 1:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Hag 1:4",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Hag 1:5",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Hag 1:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Hag 1:7",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Hag 1:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Hag 1:9",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Hag 1:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Hag 1:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hag 1:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Hag 1:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Hag 1:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Hag 1:15",
+            "function": "catalog"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Call to Rebuild the Temple",
+            "start": "Hag 1:1",
+            "end": "Hag 1:15",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

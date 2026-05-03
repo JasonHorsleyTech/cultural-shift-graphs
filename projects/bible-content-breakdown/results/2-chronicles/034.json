@@ -1,0 +1,219 @@
+{
+    "book": "2 Chronicles",
+    "chapter": 34,
+    "verses": [
+        {
+            "ref": "2 Chronicles 34:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 34:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 34:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 34:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 34:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 34:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 34:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 34:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 34:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 34:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 34:11",
+            "function": "specifications",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "2 Chronicles 34:12",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Chronicles 34:13",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Chronicles 34:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 34:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 34:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 34:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 34:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 34:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 34:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 34:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "2 Chronicles 34:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "2 Chronicles 34:23",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Chronicles 34:24",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Chronicles 34:25",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Chronicles 34:26",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Chronicles 34:27",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Chronicles 34:28",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Chronicles 34:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 34:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 34:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 34:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 34:33",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Josiah's Removal of Idolatry",
+            "start": "2 Chronicles 34:1",
+            "end": "2 Chronicles 34:7",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Temple Restoration",
+            "start": "2 Chronicles 34:8",
+            "end": "2 Chronicles 34:13",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Discovery of the Law Scroll and Covenant Renewal",
+            "start": "2 Chronicles 34:14",
+            "end": "2 Chronicles 34:33",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences_of_sin",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

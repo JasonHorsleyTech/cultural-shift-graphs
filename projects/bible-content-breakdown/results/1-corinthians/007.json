@@ -1,0 +1,300 @@
+{
+    "book": "1 Corinthians",
+    "chapter": 7,
+    "verses": [
+        {
+            "ref": "1 Corinthians 7:1",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Corinthians 7:2",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "1 Corinthians 7:3",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "1 Corinthians 7:4",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "1 Corinthians 7:5",
+            "function": "sexual_marital",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Corinthians 7:6",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Corinthians 7:7",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "1 Corinthians 7:8",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "1 Corinthians 7:9",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "1 Corinthians 7:10",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "1 Corinthians 7:11",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "1 Corinthians 7:12",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "1 Corinthians 7:13",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "1 Corinthians 7:14",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Corinthians 7:15",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "1 Corinthians 7:16",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Corinthians 7:17",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Corinthians 7:18",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Corinthians 7:19",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Corinthians 7:20",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Corinthians 7:21",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Corinthians 7:22",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "1 Corinthians 7:23",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Corinthians 7:24",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Corinthians 7:25",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Corinthians 7:26",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Corinthians 7:27",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "1 Corinthians 7:28",
+            "function": "sexual_marital",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Corinthians 7:29",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "1 Corinthians 7:30",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Corinthians 7:31",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Corinthians 7:32",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Corinthians 7:33",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Corinthians 7:34",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Corinthians 7:35",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Corinthians 7:36",
+            "function": "sexual_marital",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Corinthians 7:37",
+            "function": "sexual_marital",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Corinthians 7:38",
+            "function": "sexual_marital",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "1 Corinthians 7:39",
+            "function": "sexual_marital",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Corinthians 7:40",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Sexual Ethics and Marital Relations",
+            "start": "1 Corinthians 7:1",
+            "end": "1 Corinthians 7:9",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "sexual_purity",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Divorce and Mixed Marriages",
+            "start": "1 Corinthians 7:10",
+            "end": "1 Corinthians 7:16",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Remaining in Your Calling",
+            "start": "1 Corinthians 7:17",
+            "end": "1 Corinthians 7:24",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Celibacy and Betrothal",
+            "start": "1 Corinthians 7:25",
+            "end": "1 Corinthians 7:40",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

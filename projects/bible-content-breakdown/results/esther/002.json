@@ -1,0 +1,154 @@
+{
+    "book": "Esther",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "Est 2:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 2:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 2:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Est 2:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 2:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Est 2:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 2:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 2:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 2:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 2:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 2:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 2:12",
+            "function": "specifications",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Est 2:13",
+            "function": "specifications"
+        },
+        {
+            "ref": "Est 2:14",
+            "function": "specifications",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Est 2:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 2:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 2:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 2:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 2:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 2:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 2:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 2:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 2:23",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Esther Becomes Queen",
+            "start": "Est 2:1",
+            "end": "Est 2:18",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "humility",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Mordecai Discovers an Assassination Plot",
+            "start": "Est 2:19",
+            "end": "Est 2:23",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

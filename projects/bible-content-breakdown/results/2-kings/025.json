@@ -1,0 +1,211 @@
+{
+    "book": "2 Kings",
+    "chapter": 25,
+    "verses": [
+        {
+            "ref": "2 Kings 25:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 25:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 25:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 25:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 25:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 25:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 25:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 25:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 25:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 25:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 25:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 25:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 25:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Kings 25:14",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Kings 25:15",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Kings 25:16",
+            "function": "specifications",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Kings 25:17",
+            "function": "specifications"
+        },
+        {
+            "ref": "2 Kings 25:18",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Kings 25:19",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Kings 25:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 25:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 25:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 25:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Kings 25:24",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "2 Kings 25:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 25:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 25:27",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Kings 25:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 25:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 25:30",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Fall of Jerusalem and Exile of Judah",
+            "start": "2 Kings 25:1",
+            "end": "2 Kings 25:21",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences_of_sin",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Gedaliah's Governorship and Assassination",
+            "start": "2 Kings 25:22",
+            "end": "2 Kings 25:26",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences_of_sin",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Jehoiachin's Release and Restoration",
+            "start": "2 Kings 25:27",
+            "end": "2 Kings 25:30",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

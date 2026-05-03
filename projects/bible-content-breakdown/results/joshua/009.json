@@ -1,0 +1,165 @@
+{
+    "book": "Joshua",
+    "chapter": 9,
+    "verses": [
+        {
+            "ref": "Josh 9:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 9:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 9:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 9:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Josh 9:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 9:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 9:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 9:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 9:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 9:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Josh 9:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 9:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 9:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 9:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Josh 9:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Josh 9:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 9:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 9:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Josh 9:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 9:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 9:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 9:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 9:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Josh 9:24",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Josh 9:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 9:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 9:27",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Gibeonite Deception and Treaty",
+            "start": "Josh 9:1",
+            "end": "Josh 9:27",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "humility",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

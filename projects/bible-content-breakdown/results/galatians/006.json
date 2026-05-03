@@ -1,0 +1,121 @@
+{
+    "book": "Galatians",
+    "chapter": 6,
+    "verses": [
+        {
+            "ref": "Gal 6:1",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Gal 6:2",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Gal 6:3",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Gal 6:4",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Gal 6:5",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Gal 6:6",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Gal 6:7",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gal 6:8",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gal 6:9",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Gal 6:10",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Gal 6:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gal 6:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Gal 6:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Gal 6:14",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Gal 6:15",
+            "function": "theological"
+        },
+        {
+            "ref": "Gal 6:16",
+            "function": "theological"
+        },
+        {
+            "ref": "Gal 6:17",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gal 6:18",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Living by the Spirit",
+            "start": "Gal 6:1",
+            "end": "Gal 6:18",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.2
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

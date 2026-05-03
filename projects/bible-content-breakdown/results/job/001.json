@@ -1,0 +1,141 @@
+{
+    "book": "Job",
+    "chapter": 1,
+    "verses": [
+        {
+            "ref": "Job 1:1",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 1:2",
+            "function": "catalog"
+        },
+        {
+            "ref": "Job 1:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 1:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 1:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 1:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 1:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 1:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 1:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 1:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 1:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 1:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 1:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 1:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 1:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 1:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 1:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 1:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 1:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 1:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 1:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Job 1:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Trial of Job Begins",
+            "start": "Job 1:1",
+            "end": "Job 1:22",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

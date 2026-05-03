@@ -1,0 +1,113 @@
+{
+    "book": "Ezekiel",
+    "chapter": 8,
+    "verses": [
+        {
+            "ref": "Ezek 8:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 8:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 8:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 8:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 8:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 8:6",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezek 8:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 8:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 8:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 8:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 8:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ezek 8:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 8:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 8:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 8:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 8:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 8:17",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ezek 8:18",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Ezekiel's Vision of Abominations in the Temple",
+            "start": "Ezek 8:1",
+            "end": "Ezek 8:18",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

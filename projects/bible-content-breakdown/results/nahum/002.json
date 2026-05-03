@@ -1,0 +1,117 @@
+{
+    "book": "Nahum",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "Nah 2:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Nah 2:2",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Nah 2:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Nah 2:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Nah 2:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Nah 2:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Nah 2:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Nah 2:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Nah 2:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Nah 2:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Nah 2:11",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Nah 2:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Nah 2:13",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Fall of Nineveh",
+            "start": "Nah 2:1",
+            "end": "Nah 2:13",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                }
+            ]
+        }
+    ]
+}

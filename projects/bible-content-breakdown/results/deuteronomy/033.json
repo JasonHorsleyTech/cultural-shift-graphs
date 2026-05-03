@@ -1,0 +1,185 @@
+{
+    "book": "Deuteronomy",
+    "chapter": 33,
+    "verses": [
+        {
+            "ref": "Deut 33:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 33:2",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Deut 33:3",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Deut 33:4",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 33:5",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 33:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Deut 33:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Deut 33:8",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 33:9",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 33:10",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 33:11",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Deut 33:12",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Deut 33:13",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Deut 33:14",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Deut 33:15",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Deut 33:16",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Deut 33:17",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Deut 33:18",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Deut 33:19",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 33:20",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Deut 33:21",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Deut 33:22",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Deut 33:23",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Deut 33:24",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Deut 33:25",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Deut 33:26",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Deut 33:27",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 33:28",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Deut 33:29",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Moses' Final Blessing to Israel's Tribes",
+            "start": "Deut 33:1",
+            "end": "Deut 33:29",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,328 @@
+{
+    "book": "Luke",
+    "chapter": 6,
+    "verses": [
+        {
+            "ref": "Luke 6:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 6:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 6:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 6:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 6:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 6:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 6:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 6:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 6:9",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 6:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 6:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 6:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 6:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 6:14",
+            "function": "catalog"
+        },
+        {
+            "ref": "Luke 6:15",
+            "function": "catalog"
+        },
+        {
+            "ref": "Luke 6:16",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 6:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 6:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 6:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 6:20",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Luke 6:21",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 6:22",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Luke 6:23",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 6:24",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 6:25",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Luke 6:26",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 6:27",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 6:28",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 6:29",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 6:30",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 6:31",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 6:32",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 6:33",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 6:34",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 6:35",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 6:36",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 6:37",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 6:38",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 6:39",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Luke 6:40",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Luke 6:41",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Luke 6:42",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 6:43",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Luke 6:44",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Luke 6:45",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Luke 6:46",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Luke 6:47",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Luke 6:48",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Luke 6:49",
+            "function": "wisdom"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Sabbath Grain Picking Controversy",
+            "start": "Luke 6:1",
+            "end": "Luke 6:5",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Healing a Withered Hand on the Sabbath",
+            "start": "Luke 6:6",
+            "end": "Luke 6:11",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Jesus Chooses the Twelve Apostles",
+            "start": "Luke 6:12",
+            "end": "Luke 6:16",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "The Sermon on the Plain",
+            "start": "Luke 6:17",
+            "end": "Luke 6:49",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

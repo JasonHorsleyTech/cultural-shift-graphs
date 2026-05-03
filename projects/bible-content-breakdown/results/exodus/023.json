@@ -1,0 +1,193 @@
+{
+    "book": "Exodus",
+    "chapter": 23,
+    "verses": [
+        {
+            "ref": "Exo 23:1",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Exo 23:2",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Exo 23:3",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Exo 23:4",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Exo 23:5",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Exo 23:6",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Exo 23:7",
+            "function": "civil_law",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Exo 23:8",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Exo 23:9",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Exo 23:10",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exo 23:11",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Exo 23:12",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exo 23:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Exo 23:14",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exo 23:15",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "Exo 23:16",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exo 23:17",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exo 23:18",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exo 23:19",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exo 23:20",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Exo 23:21",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Exo 23:22",
+            "function": "theological"
+        },
+        {
+            "ref": "Exo 23:23",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Exo 23:24",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exo 23:25",
+            "function": "theological"
+        },
+        {
+            "ref": "Exo 23:26",
+            "function": "theological"
+        },
+        {
+            "ref": "Exo 23:27",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Exo 23:28",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Exo 23:29",
+            "function": "theological"
+        },
+        {
+            "ref": "Exo 23:30",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Exo 23:31",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Exo 23:32",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Exo 23:33",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Covenant with Israel",
+            "start": "Exo 23:1",
+            "end": "Exo 23:33",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

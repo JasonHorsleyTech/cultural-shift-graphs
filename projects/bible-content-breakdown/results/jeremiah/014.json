@@ -1,0 +1,141 @@
+{
+    "book": "Jeremiah",
+    "chapter": 14,
+    "verses": [
+        {
+            "ref": "Jer 14:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 14:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 14:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 14:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 14:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 14:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Jer 14:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 14:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 14:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 14:10",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Jer 14:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 14:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 14:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 14:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 14:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 14:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 14:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Jer 14:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 14:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 14:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 14:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 14:22",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.15
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jeremiah's Intercession and God's Judgment in the Drought Crisis",
+            "start": "Jer 14:1",
+            "end": "Jer 14:22",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

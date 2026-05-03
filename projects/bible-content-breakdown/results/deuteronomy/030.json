@@ -1,0 +1,133 @@
+{
+    "book": "Deuteronomy",
+    "chapter": 30,
+    "verses": [
+        {
+            "ref": "Deut 30:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 30:2",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 30:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Deut 30:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Deut 30:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Deut 30:6",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Deut 30:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Deut 30:8",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 30:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Deut 30:10",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 30:11",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 30:12",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Deut 30:13",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Deut 30:14",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Deut 30:15",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 30:16",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 30:17",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 30:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Deut 30:19",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 30:20",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Moses' Final Covenant Appeal",
+            "start": "Deut 30:1",
+            "end": "Deut 30:20",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

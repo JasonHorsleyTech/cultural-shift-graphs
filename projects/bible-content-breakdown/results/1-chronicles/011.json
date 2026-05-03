@@ -1,0 +1,275 @@
+{
+    "book": "1 Chronicles",
+    "chapter": 11,
+    "verses": [
+        {
+            "ref": "1 Chr 11:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 11:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Chr 11:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 11:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 11:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 11:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 11:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 11:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "1 Chr 11:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 11:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 11:11",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Chr 11:12",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 11:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 11:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 11:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 11:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 11:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 11:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 11:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "1 Chr 11:20",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "1 Chr 11:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 11:22",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "1 Chr 11:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 11:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 11:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 11:26",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 11:27",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 11:28",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 11:29",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 11:30",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 11:31",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 11:32",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 11:33",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 11:34",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 11:35",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 11:36",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 11:37",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 11:38",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 11:39",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 11:40",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 11:41",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 11:42",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 11:43",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 11:44",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 11:45",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 11:46",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 11:47",
+            "function": "catalog"
+        }
+    ],
+    "stories": [
+        {
+            "name": "David Anointed King of Israel",
+            "start": "1 Chr 11:1",
+            "end": "1 Chr 11:3",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "David Conquers Jerusalem",
+            "start": "1 Chr 11:4",
+            "end": "1 Chr 11:9",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "David's Mighty Warriors",
+            "start": "1 Chr 11:10",
+            "end": "1 Chr 11:47",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "book": "The Song of Songs",
+    "chapter": 6,
+    "verses": [
+        {
+            "ref": "Song 6:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Song 6:2",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Song 6:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 6:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 6:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 6:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 6:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 6:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 6:9",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Song 6:10",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 6:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Song 6:12",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 6:13",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Beloved's Night of Separation and Longing",
+            "start": "Song 6:1",
+            "end": "Song 6:13",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

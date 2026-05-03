@@ -1,0 +1,263 @@
+{
+    "book": "1 Kings",
+    "chapter": 20,
+    "verses": [
+        {
+            "ref": "1 Kings 20:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 20:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 20:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 20:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 20:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 20:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 20:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 20:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 20:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 20:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 20:11",
+            "function": "wisdom"
+        },
+        {
+            "ref": "1 Kings 20:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 20:13",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Kings 20:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Kings 20:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 20:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 20:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 20:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 20:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 20:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 20:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 20:22",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Kings 20:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Kings 20:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 20:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 20:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 20:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 20:28",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Kings 20:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 20:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 20:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 20:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 20:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 20:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 20:35",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 20:36",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Kings 20:37",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 20:38",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 20:39",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 20:40",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 20:41",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 20:42",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Kings 20:43",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Ben Hadad's First Invasion and Israel's Victory",
+            "start": "1 Kings 20:1",
+            "end": "1 Kings 20:21",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Ben Hadad's Second Invasion and Ahab's Mercy",
+            "start": "1 Kings 20:22",
+            "end": "1 Kings 20:34",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "theological",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "The Prophet's Judgment on Ahab",
+            "start": "1 Kings 20:35",
+            "end": "1 Kings 20:43",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

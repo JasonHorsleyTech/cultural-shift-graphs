@@ -1,0 +1,215 @@
+{
+    "book": "Isaiah",
+    "chapter": 28,
+    "verses": [
+        {
+            "ref": "Isa 28:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 28:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 28:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 28:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 28:5",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 28:6",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 28:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 28:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 28:9",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 28:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 28:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 28:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 28:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 28:14",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 28:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 28:16",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Isa 28:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 28:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 28:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 28:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 28:21",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 28:22",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 28:23",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Isa 28:24",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Isa 28:25",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Isa 28:26",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Isa 28:27",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Isa 28:28",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Isa 28:29",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Judgment on Ephraim's Drunkenness",
+            "start": "Isa 28:1",
+            "end": "Isa 28:13",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences_of_sin",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Judgment on Jerusalem's False Hope",
+            "start": "Isa 28:14",
+            "end": "Isa 28:22",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences_of_sin",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Farmer's Wisdom Parable",
+            "start": "Isa 28:23",
+            "end": "Isa 28:29",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

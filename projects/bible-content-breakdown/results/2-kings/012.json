@@ -1,0 +1,155 @@
+{
+    "book": "2 Kings",
+    "chapter": 12,
+    "verses": [
+        {
+            "ref": "2 Kings 12:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 12:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Kings 12:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 12:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 12:5",
+            "function": "specifications"
+        },
+        {
+            "ref": "2 Kings 12:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 12:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 12:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 12:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Kings 12:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 12:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 12:12",
+            "function": "specifications"
+        },
+        {
+            "ref": "2 Kings 12:13",
+            "function": "specifications"
+        },
+        {
+            "ref": "2 Kings 12:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 12:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Kings 12:16",
+            "function": "specifications",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Kings 12:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 12:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 12:19",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Kings 12:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 12:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Temple Restoration under Jehoash",
+            "start": "2 Kings 12:1",
+            "end": "2 Kings 12:16",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Attack from Syria and Ransom",
+            "start": "2 Kings 12:17",
+            "end": "2 Kings 12:18",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "sacrifice",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Assassination of Jehoash",
+            "start": "2 Kings 12:20",
+            "end": "2 Kings 12:21",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

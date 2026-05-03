@@ -1,0 +1,149 @@
+{
+    "book": "Judges",
+    "chapter": 21,
+    "verses": [
+        {
+            "ref": "Judges 21:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 21:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 21:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 21:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Judges 21:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 21:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 21:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 21:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 21:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 21:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 21:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Judges 21:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 21:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 21:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 21:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Judges 21:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 21:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 21:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 21:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 21:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 21:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 21:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Judges 21:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 21:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 21:25",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Israel's War Against Benjamin",
+            "start": "Judges 21:1",
+            "end": "Judges 21:25",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences_of_sin",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

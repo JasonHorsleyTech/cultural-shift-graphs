@@ -1,0 +1,143 @@
+{
+    "book": "Amos",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "Amos 2:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 2:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 2:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 2:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 2:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 2:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 2:7",
+            "function": "prophecy",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Amos 2:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 2:9",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Amos 2:10",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Amos 2:11",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Amos 2:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 2:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 2:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 2:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 2:16",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Judgment Against Moab",
+            "start": "Amos 2:1",
+            "end": "Amos 2:3",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Judgment Against Judah",
+            "start": "Amos 2:4",
+            "end": "Amos 2:5",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Judgment Against Israel",
+            "start": "Amos 2:6",
+            "end": "Amos 2:16",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

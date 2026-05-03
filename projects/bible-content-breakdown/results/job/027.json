@@ -1,0 +1,145 @@
+{
+    "book": "Job",
+    "chapter": 27,
+    "verses": [
+        {
+            "ref": "Job 27:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 27:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 27:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 27:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 27:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 27:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 27:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 27:8",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 27:9",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 27:10",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 27:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 27:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 27:13",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 27:14",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 27:15",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 27:16",
+            "function": "wisdom",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 27:17",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 27:18",
+            "function": "wisdom",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 27:19",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 27:20",
+            "function": "wisdom",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Job 27:21",
+            "function": "wisdom",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Job 27:22",
+            "function": "wisdom",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Job 27:23",
+            "function": "wisdom",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Job's Declaration and Teaching on Divine Justice",
+            "start": "Job 27:1",
+            "end": "Job 27:23",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

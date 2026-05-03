@@ -1,0 +1,189 @@
+{
+    "book": "Exodus",
+    "chapter": 36,
+    "verses": [
+        {
+            "ref": "Ex 36:1",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ex 36:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 36:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 36:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 36:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 36:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 36:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 36:8",
+            "function": "specifications",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ex 36:9",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 36:10",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 36:11",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 36:12",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 36:13",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 36:14",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 36:15",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 36:16",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 36:17",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 36:18",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 36:19",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 36:20",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 36:21",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 36:22",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 36:23",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 36:24",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 36:25",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 36:26",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 36:27",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 36:28",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 36:29",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 36:30",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 36:31",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 36:32",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 36:33",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 36:34",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 36:35",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 36:36",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 36:37",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 36:38",
+            "function": "specifications"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Construction of the Tabernacle",
+            "start": "Ex 36:1",
+            "end": "Ex 36:38",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "generosity",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

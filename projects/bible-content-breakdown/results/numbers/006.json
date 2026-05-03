@@ -1,0 +1,154 @@
+{
+    "book": "Numbers",
+    "chapter": 6,
+    "verses": [
+        {
+            "ref": "Num 6:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 6:2",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 6:3",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 6:4",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 6:5",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 6:6",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 6:7",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 6:8",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 6:9",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 6:10",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 6:11",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 6:12",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 6:13",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 6:14",
+            "function": "specifications",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 6:15",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 6:16",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 6:17",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 6:18",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 6:19",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 6:20",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 6:21",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 6:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 6:23",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 6:24",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Num 6:25",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Num 6:26",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Num 6:27",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Nazirite Vow Instructions",
+            "start": "Num 6:1",
+            "end": "Num 6:21",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "The Priestly Blessing",
+            "start": "Num 6:22",
+            "end": "Num 6:27",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                }
+            ]
+        }
+    ]
+}

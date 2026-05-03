@@ -1,0 +1,97 @@
+{
+    "book": "Isaiah",
+    "chapter": 61,
+    "verses": [
+        {
+            "ref": "Isa 61:1",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 61:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 61:3",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 61:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 61:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 61:6",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 61:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 61:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 61:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 61:10",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 61:11",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Anointed One's Proclamation of Israel's Restoration",
+            "start": "Isa 61:1",
+            "end": "Isa 61:11",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

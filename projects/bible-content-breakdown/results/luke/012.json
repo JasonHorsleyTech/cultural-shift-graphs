@@ -1,0 +1,435 @@
+{
+    "book": "Luke",
+    "chapter": 12,
+    "verses": [
+        {
+            "ref": "Luke 12:1",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Luke 12:2",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 12:3",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 12:4",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 12:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 12:6",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Luke 12:7",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Luke 12:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 12:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 12:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 12:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 12:12",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 12:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 12:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 12:15",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 12:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 12:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 12:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 12:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 12:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 12:21",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Luke 12:22",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 12:23",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Luke 12:24",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Luke 12:25",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Luke 12:26",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Luke 12:27",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Luke 12:28",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Luke 12:29",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 12:30",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 12:31",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 12:32",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 12:33",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 12:34",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Luke 12:35",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 12:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 12:37",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 12:38",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 12:39",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Luke 12:40",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Luke 12:41",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 12:42",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 12:43",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 12:44",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 12:45",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 12:46",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 12:47",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 12:48",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 12:49",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Luke 12:50",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Luke 12:51",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 12:52",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 12:53",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 12:54",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 12:55",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 12:56",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 12:57",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 12:58",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Luke 12:59",
+            "function": "moral_instruction"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Warning Against Hypocrisy and Fear of God",
+            "start": "Luke 12:1",
+            "end": "Luke 12:12",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Rich Fool",
+            "start": "Luke 12:13",
+            "end": "Luke 12:21",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "generosity",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Do Not Worry, Trust God",
+            "start": "Luke 12:22",
+            "end": "Luke 12:34",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "generosity",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Be Ready and Watchful",
+            "start": "Luke 12:35",
+            "end": "Luke 12:40",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "The Faithful and Unfaithful Managers",
+            "start": "Luke 12:41",
+            "end": "Luke 12:48",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Jesus Brings Division",
+            "start": "Luke 12:49",
+            "end": "Luke 12:53",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Reconciliation and Justice",
+            "start": "Luke 12:54",
+            "end": "Luke 12:59",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

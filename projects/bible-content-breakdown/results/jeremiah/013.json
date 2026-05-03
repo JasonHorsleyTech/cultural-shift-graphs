@@ -1,0 +1,173 @@
+{
+    "book": "Jeremiah",
+    "chapter": 13,
+    "verses": [
+        {
+            "ref": "Jer 13:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 13:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 13:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 13:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 13:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 13:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 13:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 13:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 13:9",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 13:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 13:11",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Jer 13:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 13:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 13:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 13:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 13:16",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Jer 13:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jer 13:18",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jer 13:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 13:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 13:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 13:22",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 13:23",
+            "function": "prophecy",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Jer 13:24",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 13:25",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 13:26",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 13:27",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jeremiah's Prophecy of Judgment on Judah",
+            "start": "Jer 13:1",
+            "end": "Jer 13:27",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

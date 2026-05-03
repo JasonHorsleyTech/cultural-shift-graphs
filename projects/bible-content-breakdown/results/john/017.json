@@ -1,0 +1,169 @@
+{
+    "book": "John",
+    "chapter": 17,
+    "verses": [
+        {
+            "ref": "John 17:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 17:2",
+            "function": "theological"
+        },
+        {
+            "ref": "John 17:3",
+            "function": "theological"
+        },
+        {
+            "ref": "John 17:4",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "John 17:5",
+            "function": "theological"
+        },
+        {
+            "ref": "John 17:6",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 17:7",
+            "function": "theological"
+        },
+        {
+            "ref": "John 17:8",
+            "function": "theological"
+        },
+        {
+            "ref": "John 17:9",
+            "function": "theological"
+        },
+        {
+            "ref": "John 17:10",
+            "function": "theological"
+        },
+        {
+            "ref": "John 17:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 17:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 17:13",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "John 17:14",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "John 17:15",
+            "function": "theological"
+        },
+        {
+            "ref": "John 17:16",
+            "function": "theological"
+        },
+        {
+            "ref": "John 17:17",
+            "function": "theological"
+        },
+        {
+            "ref": "John 17:18",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "John 17:19",
+            "function": "theological"
+        },
+        {
+            "ref": "John 17:20",
+            "function": "theological"
+        },
+        {
+            "ref": "John 17:21",
+            "function": "theological"
+        },
+        {
+            "ref": "John 17:22",
+            "function": "theological"
+        },
+        {
+            "ref": "John 17:23",
+            "function": "theological"
+        },
+        {
+            "ref": "John 17:24",
+            "function": "theological"
+        },
+        {
+            "ref": "John 17:25",
+            "function": "theological"
+        },
+        {
+            "ref": "John 17:26",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jesus's High Priestly Prayer",
+            "start": "John 17:1",
+            "end": "John 17:26",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

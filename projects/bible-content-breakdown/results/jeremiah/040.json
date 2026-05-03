@@ -1,0 +1,139 @@
+{
+    "book": "Jeremiah",
+    "chapter": 40,
+    "verses": [
+        {
+            "ref": "Jer 40:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 40:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 40:3",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 40:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 40:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 40:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 40:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 40:8",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jer 40:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 40:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 40:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 40:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 40:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 40:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 40:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 40:16",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jeremiah Released and Settles with Gedaliah",
+            "start": "Jer 40:1",
+            "end": "Jer 40:6",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Gedaliah Governs and Refugees Return",
+            "start": "Jer 40:7",
+            "end": "Jer 40:12",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "The Warning of Assassination",
+            "start": "Jer 40:13",
+            "end": "Jer 40:16",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

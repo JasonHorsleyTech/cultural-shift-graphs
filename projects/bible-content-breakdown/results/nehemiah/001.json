@@ -1,0 +1,89 @@
+{
+    "book": "Nehemiah",
+    "chapter": 1,
+    "verses": [
+        {
+            "ref": "Neh 1:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 1:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 1:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 1:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 1:5",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Neh 1:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Neh 1:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Neh 1:8",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Neh 1:9",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Neh 1:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Neh 1:11",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Nehemiah Learns of Jerusalem's Destruction and Intercedes",
+            "start": "Neh 1:1",
+            "end": "Neh 1:11",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

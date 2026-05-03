@@ -1,0 +1,223 @@
+{
+    "book": "Galatians",
+    "chapter": 4,
+    "verses": [
+        {
+            "ref": "Gal 4:1",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gal 4:2",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gal 4:3",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gal 4:4",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gal 4:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Gal 4:6",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gal 4:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Gal 4:8",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gal 4:9",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gal 4:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gal 4:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gal 4:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gal 4:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gal 4:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gal 4:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gal 4:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gal 4:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gal 4:18",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Gal 4:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gal 4:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gal 4:21",
+            "function": "theological"
+        },
+        {
+            "ref": "Gal 4:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gal 4:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gal 4:24",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gal 4:25",
+            "function": "theological"
+        },
+        {
+            "ref": "Gal 4:26",
+            "function": "theological"
+        },
+        {
+            "ref": "Gal 4:27",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Gal 4:28",
+            "function": "theological"
+        },
+        {
+            "ref": "Gal 4:29",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gal 4:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gal 4:31",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Heir Parable and Christian Adoption",
+            "start": "Gal 4:1",
+            "end": "Gal 4:7",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Warning Against Regression and Personal Appeal",
+            "start": "Gal 4:8",
+            "end": "Gal 4:20",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Abraham and Sarah Allegory",
+            "start": "Gal 4:21",
+            "end": "Gal 4:31",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

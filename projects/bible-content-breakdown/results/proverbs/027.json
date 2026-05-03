@@ -1,0 +1,171 @@
+{
+    "book": "Proverbs",
+    "chapter": 27,
+    "verses": [
+        {
+            "ref": "Proverbs 27:1",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 27:2",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 27:3",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 27:4",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 27:5",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 27:6",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 27:7",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 27:8",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 27:9",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 27:10",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 27:11",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 27:12",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 27:13",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Proverbs 27:14",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 27:15",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 27:16",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 27:17",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 27:18",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 27:19",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 27:20",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 27:21",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 27:22",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 27:23",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 27:24",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 27:25",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 27:26",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 27:27",
+            "function": "wisdom"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Humility and Relational Wisdom",
+            "start": "Proverbs 27:1",
+            "end": "Proverbs 27:10",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "humility",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Wisdom, Prudence, and Consequences",
+            "start": "Proverbs 27:11",
+            "end": "Proverbs 27:22",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Diligence and Provision",
+            "start": "Proverbs 27:23",
+            "end": "Proverbs 27:27",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,177 @@
+{
+    "book": "Job",
+    "chapter": 20,
+    "verses": [
+        {
+            "ref": "Job 20:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 20:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 20:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 20:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 20:5",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 20:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 20:7",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 20:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 20:9",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 20:10",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 20:11",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 20:12",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 20:13",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 20:14",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 20:15",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 20:16",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 20:17",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 20:18",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 20:19",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 20:20",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 20:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Job 20:22",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Job 20:23",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Job 20:24",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 20:25",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 20:26",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Job 20:27",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 20:28",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Job 20:29",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Zophar's Discourse on the Fate of the Wicked",
+            "start": "Job 20:1",
+            "end": "Job 20:29",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

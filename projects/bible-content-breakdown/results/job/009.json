@@ -1,0 +1,197 @@
+{
+    "book": "Job",
+    "chapter": 9,
+    "verses": [
+        {
+            "ref": "Job 9:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 9:2",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 9:3",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 9:4",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 9:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 9:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 9:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 9:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 9:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 9:10",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 9:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 9:12",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 9:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 9:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 9:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 9:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 9:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 9:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 9:19",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 9:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 9:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 9:22",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 9:23",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 9:24",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 9:25",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 9:26",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Job 9:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 9:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 9:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 9:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 9:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 9:32",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 9:33",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 9:34",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 9:35",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Job's Complaint About God's Justice and Power",
+            "start": "Job 9:1",
+            "end": "Job 9:35",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

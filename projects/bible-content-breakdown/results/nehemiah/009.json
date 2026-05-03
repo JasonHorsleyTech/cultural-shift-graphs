@@ -1,0 +1,201 @@
+{
+    "book": "Nehemiah",
+    "chapter": 9,
+    "verses": [
+        {
+            "ref": "Neh 9:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 9:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 9:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 9:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 9:5",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "Neh 9:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Neh 9:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Neh 9:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Neh 9:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 9:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Neh 9:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 9:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 9:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Neh 9:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Neh 9:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 9:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 9:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Neh 9:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 9:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 9:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "Neh 9:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 9:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 9:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 9:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 9:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 9:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 9:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 9:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 9:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 9:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 9:31",
+            "function": "theological"
+        },
+        {
+            "ref": "Neh 9:32",
+            "function": "theological"
+        },
+        {
+            "ref": "Neh 9:33",
+            "function": "theological"
+        },
+        {
+            "ref": "Neh 9:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 9:35",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 9:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 9:37",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 9:38",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "National Confession and Covenant Renewal",
+            "start": "Neh 9:1",
+            "end": "Neh 9:38",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

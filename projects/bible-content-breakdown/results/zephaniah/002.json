@@ -1,0 +1,176 @@
+{
+    "book": "Zephaniah",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "Zeph 2:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zeph 2:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zeph 2:3",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Zeph 2:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zeph 2:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zeph 2:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zeph 2:7",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Zeph 2:8",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Zeph 2:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zeph 2:10",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Zeph 2:11",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Zeph 2:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zeph 2:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zeph 2:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zeph 2:15",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Call for Repentance",
+            "start": "Zeph 2:1",
+            "end": "Zeph 2:3",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Oracle Against the Philistines",
+            "start": "Zeph 2:4",
+            "end": "Zeph 2:7",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Oracle Against Moab and Ammon",
+            "start": "Zeph 2:8",
+            "end": "Zeph 2:11",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Judgment of Ethiopia and Destruction of Assyria",
+            "start": "Zeph 2:12",
+            "end": "Zeph 2:15",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

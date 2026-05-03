@@ -1,0 +1,81 @@
+{
+    "book": "Ezekiel",
+    "chapter": 9,
+    "verses": [
+        {
+            "ref": "Ezek 9:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 9:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 9:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 9:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezek 9:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 9:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 9:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 9:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 9:9",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ezek 9:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Ezek 9:11",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Marking and Destruction of Jerusalem",
+            "start": "Ezek 9:1",
+            "end": "Ezek 9:11",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

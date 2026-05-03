@@ -1,0 +1,145 @@
+{
+    "book": "2 Chronicles",
+    "chapter": 4,
+    "verses": [
+        {
+            "ref": "2 Chron 4:1",
+            "function": "specifications"
+        },
+        {
+            "ref": "2 Chron 4:2",
+            "function": "specifications"
+        },
+        {
+            "ref": "2 Chron 4:3",
+            "function": "specifications"
+        },
+        {
+            "ref": "2 Chron 4:4",
+            "function": "specifications"
+        },
+        {
+            "ref": "2 Chron 4:5",
+            "function": "specifications"
+        },
+        {
+            "ref": "2 Chron 4:6",
+            "function": "specifications",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "2 Chron 4:7",
+            "function": "specifications"
+        },
+        {
+            "ref": "2 Chron 4:8",
+            "function": "specifications"
+        },
+        {
+            "ref": "2 Chron 4:9",
+            "function": "specifications"
+        },
+        {
+            "ref": "2 Chron 4:10",
+            "function": "specifications"
+        },
+        {
+            "ref": "2 Chron 4:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chron 4:12",
+            "function": "catalog",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "2 Chron 4:13",
+            "function": "catalog",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "2 Chron 4:14",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Chron 4:15",
+            "function": "catalog",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "2 Chron 4:16",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Chron 4:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chron 4:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chron 4:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chron 4:20",
+            "function": "catalog",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "2 Chron 4:21",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Chron 4:22",
+            "function": "catalog"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Solomon's Temple Furnishings",
+            "start": "2 Chron 4:1",
+            "end": "2 Chron 4:22",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

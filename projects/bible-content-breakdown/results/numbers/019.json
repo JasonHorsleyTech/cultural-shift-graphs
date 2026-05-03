@@ -1,0 +1,133 @@
+{
+    "book": "Numbers",
+    "chapter": 19,
+    "verses": [
+        {
+            "ref": "Num 19:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 19:2",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 19:3",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 19:4",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 19:5",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 19:6",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 19:7",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 19:8",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 19:9",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 19:10",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 19:11",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Num 19:12",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Num 19:13",
+            "function": "purity_dietary",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Num 19:14",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Num 19:15",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Num 19:16",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Num 19:17",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 19:18",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "purity_dietary",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Num 19:19",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "purity_dietary",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Num 19:20",
+            "function": "purity_dietary",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Num 19:21",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "purity_dietary",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 19:22",
+            "function": "purity_dietary"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Red Heifer and Purification from Death Contamination",
+            "start": "Num 19:1",
+            "end": "Num 19:22",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

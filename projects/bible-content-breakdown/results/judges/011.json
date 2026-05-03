@@ -1,0 +1,221 @@
+{
+    "book": "Judges",
+    "chapter": 11,
+    "verses": [
+        {
+            "ref": "Jdg 11:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 11:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 11:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 11:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 11:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 11:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 11:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 11:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 11:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 11:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jdg 11:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 11:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 11:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 11:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 11:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 11:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 11:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 11:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 11:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 11:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 11:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jdg 11:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 11:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Jdg 11:24",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Jdg 11:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 11:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 11:27",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jdg 11:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 11:29",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jdg 11:30",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jdg 11:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 11:32",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jdg 11:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 11:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 11:35",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 11:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 11:37",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 11:38",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 11:39",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 11:40",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jephthah",
+            "start": "Jdg 11:1",
+            "end": "Jdg 11:40",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

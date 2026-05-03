@@ -1,0 +1,129 @@
+{
+    "book": "Isaiah",
+    "chapter": 36,
+    "verses": [
+        {
+            "ref": "Isa 36:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 36:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 36:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 36:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 36:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 36:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 36:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 36:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 36:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 36:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 36:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 36:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 36:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 36:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 36:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 36:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 36:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 36:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 36:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 36:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 36:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 36:22",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Assyrian Siege and Challenge to Faith",
+            "start": "Isa 36:1",
+            "end": "Isa 36:22",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

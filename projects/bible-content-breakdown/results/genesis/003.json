@@ -1,0 +1,161 @@
+{
+    "book": "Genesis",
+    "chapter": 3,
+    "verses": [
+        {
+            "ref": "Gen 3:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 3:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 3:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 3:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 3:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 3:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 3:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 3:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 3:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 3:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 3:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 3:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 3:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 3:14",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 3:15",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Gen 3:16",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 3:17",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 3:18",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 3:19",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 3:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 3:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 3:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 3:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 3:24",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Fall of Man",
+            "start": "Gen 3:1",
+            "end": "Gen 3:24",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 0.6
+                }
+            ]
+        }
+    ]
+}

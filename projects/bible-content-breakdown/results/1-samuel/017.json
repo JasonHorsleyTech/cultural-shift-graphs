@@ -1,0 +1,293 @@
+{
+    "book": "1 Samuel",
+    "chapter": 17,
+    "verses": [
+        {
+            "ref": "1 Sam 17:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 17:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 17:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 17:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 17:5",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Sam 17:6",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Sam 17:7",
+            "function": "specifications",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Sam 17:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 17:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 17:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 17:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 17:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Sam 17:13",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Sam 17:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 17:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 17:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 17:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 17:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 17:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 17:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 17:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 17:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 17:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 17:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 17:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 17:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 17:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 17:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 17:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 17:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 17:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 17:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 17:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 17:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 17:35",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 17:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 17:37",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Sam 17:38",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 17:39",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 17:40",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Sam 17:41",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 17:42",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 17:43",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 17:44",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 17:45",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Sam 17:46",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Sam 17:47",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Sam 17:48",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 17:49",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 17:50",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 17:51",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 17:52",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 17:53",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 17:54",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 17:55",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 17:56",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 17:57",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 17:58",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "David Defeats Goliath",
+            "start": "1 Sam 17:1",
+            "end": "1 Sam 17:58",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

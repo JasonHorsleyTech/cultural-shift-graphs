@@ -1,0 +1,134 @@
+{
+    "book": "Hebrews",
+    "chapter": 5,
+    "verses": [
+        {
+            "ref": "Heb 5:1",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 5:2",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Heb 5:3",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Heb 5:4",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Heb 5:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 5:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 5:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Heb 5:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 5:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 5:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 5:11",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Heb 5:12",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Heb 5:13",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Heb 5:14",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Christ as the High Priest in the Order of Melchizedek",
+            "start": "Heb 5:1",
+            "end": "Heb 5:10",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 0.6
+                }
+            ]
+        },
+        {
+            "name": "Exhortation to Spiritual Maturity",
+            "start": "Heb 5:11",
+            "end": "Heb 5:14",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "humility",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

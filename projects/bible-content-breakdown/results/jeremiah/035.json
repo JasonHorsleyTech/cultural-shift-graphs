@@ -1,0 +1,125 @@
+{
+    "book": "Jeremiah",
+    "chapter": 35,
+    "verses": [
+        {
+            "ref": "Jer 35:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 35:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 35:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 35:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 35:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 35:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 35:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jer 35:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 35:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 35:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 35:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 35:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 35:13",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 35:14",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jer 35:15",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Jer 35:16",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Jer 35:17",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jer 35:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jer 35:19",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Rechabites' Faithfulness",
+            "start": "Jer 35:1",
+            "end": "Jer 35:19",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,214 @@
+{
+    "book": "1 Kings",
+    "chapter": 10,
+    "verses": [
+        {
+            "ref": "1 Kings 10:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 10:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 10:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 10:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 10:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Kings 10:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 10:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 10:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 10:9",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Kings 10:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Kings 10:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Kings 10:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Kings 10:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 10:14",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kings 10:15",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kings 10:16",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kings 10:17",
+            "function": "specifications",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Kings 10:18",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kings 10:19",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kings 10:20",
+            "function": "specifications",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Kings 10:21",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Kings 10:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Kings 10:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 10:24",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Kings 10:25",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Kings 10:26",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Kings 10:27",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Kings 10:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 10:29",
+            "function": "specifications",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Queen of Sheba's Visit",
+            "start": "1 Kings 10:1",
+            "end": "1 Kings 10:13",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 0.6
+                },
+                {
+                    "theme": "generosity",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Solomon's Wealth and International Trade",
+            "start": "1 Kings 10:14",
+            "end": "1 Kings 10:29",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "book": "Proverbs",
+    "chapter": 19,
+    "verses": [
+        {
+            "ref": "Proverbs 19:1",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 19:2",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 19:3",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Proverbs 19:4",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 19:5",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 19:6",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 19:7",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 19:8",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 19:9",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 19:10",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 19:11",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 19:12",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 19:13",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 19:14",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Proverbs 19:15",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 19:16",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Proverbs 19:17",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Proverbs 19:18",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Proverbs 19:19",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 19:20",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 19:21",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Proverbs 19:22",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 19:23",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Proverbs 19:24",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 19:25",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 19:26",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 19:27",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 19:28",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 19:29",
+            "function": "wisdom"
+        }
+    ],
+    "stories": []
+}

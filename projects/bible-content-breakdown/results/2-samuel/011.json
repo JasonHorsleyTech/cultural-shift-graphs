@@ -1,0 +1,162 @@
+{
+    "book": "2 Samuel",
+    "chapter": 11,
+    "verses": [
+        {
+            "ref": "2 Samuel 11:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 11:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 11:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 11:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "purity_dietary",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Samuel 11:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 11:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 11:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 11:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 11:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 11:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 11:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Samuel 11:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 11:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 11:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 11:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 11:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 11:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 11:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 11:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 11:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 11:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 11:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 11:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 11:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 11:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 11:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 11:27",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "David's War with Ammon",
+            "start": "2 Samuel 11:1",
+            "end": "2 Samuel 11:25",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "David's Adultery and Murder of Uriah",
+            "start": "2 Samuel 11:2",
+            "end": "2 Samuel 11:27",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 0.6
+                }
+            ]
+        }
+    ]
+}

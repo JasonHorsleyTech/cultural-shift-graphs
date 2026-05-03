@@ -1,0 +1,73 @@
+{
+    "book": "Psalms",
+    "chapter": 82,
+    "verses": [
+        {
+            "ref": "Ps 82:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 82:2",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Ps 82:3",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Ps 82:4",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Ps 82:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ps 82:6",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 82:7",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ps 82:8",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Judgment Against Unjust Judges",
+            "start": "Ps 82:1",
+            "end": "Ps 82:8",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "book": "Mark",
+    "chapter": 16,
+    "verses": [
+        {
+            "ref": "Mark 16:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 16:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 16:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 16:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 16:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 16:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Mark 16:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 16:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 16:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 16:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 16:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 16:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 16:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 16:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mark 16:15",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mark 16:16",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Mark 16:17",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Mark 16:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mark 16:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 16:20",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Passion of Jesus",
+            "start": "Mark 16:1",
+            "end": "Mark 16:8",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Post-Resurrection Appearances",
+            "start": "Mark 16:9",
+            "end": "Mark 16:20",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

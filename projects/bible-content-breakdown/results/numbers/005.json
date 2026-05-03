@@ -1,0 +1,235 @@
+{
+    "book": "Numbers",
+    "chapter": 5,
+    "verses": [
+        {
+            "ref": "Num 5:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 5:2",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Num 5:3",
+            "function": "purity_dietary",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 5:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 5:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 5:6",
+            "function": "civil_law",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 5:7",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Num 5:8",
+            "function": "civil_law",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 5:9",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Num 5:10",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Num 5:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 5:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 5:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Num 5:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 5:15",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 5:16",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 5:17",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 5:18",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Num 5:19",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 5:20",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 5:21",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Num 5:22",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 5:23",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Num 5:24",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 5:25",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 5:26",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 5:27",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Num 5:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 5:29",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Num 5:30",
+            "function": "civil_law",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Num 5:31",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Expulsion of the Defiled from Camp",
+            "start": "Num 5:1",
+            "end": "Num 5:4",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Law of Restitution for Wrongs",
+            "start": "Num 5:5",
+            "end": "Num 5:10",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Test for Suspected Adultery",
+            "start": "Num 5:11",
+            "end": "Num 5:31",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "sexual_purity",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

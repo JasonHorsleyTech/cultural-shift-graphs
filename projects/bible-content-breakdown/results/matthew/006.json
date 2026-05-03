@@ -1,0 +1,193 @@
+{
+    "book": "Matthew",
+    "chapter": 6,
+    "verses": [
+        {
+            "ref": "Matt 6:1",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 6:2",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 6:3",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 6:4",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 6:5",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 6:6",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 6:7",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 6:8",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Matt 6:9",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 6:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Matt 6:11",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 6:12",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 6:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 6:14",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 6:15",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 6:16",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 6:17",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 6:18",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 6:19",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 6:20",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 6:21",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Matt 6:22",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Matt 6:23",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Matt 6:24",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Matt 6:25",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 6:26",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Matt 6:27",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 6:28",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 6:29",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 6:30",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Matt 6:31",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 6:32",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Matt 6:33",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 6:34",
+            "function": "moral_instruction"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Sermon on the Mount",
+            "start": "Matt 6:1",
+            "end": "Matt 6:34",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "hypocrisy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

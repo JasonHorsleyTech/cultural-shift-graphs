@@ -1,0 +1,129 @@
+{
+    "book": "1 Samuel",
+    "chapter": 3,
+    "verses": [
+        {
+            "ref": "1 Sam 3:1",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Sam 3:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 3:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 3:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 3:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 3:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 3:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Sam 3:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 3:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 3:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 3:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Sam 3:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Sam 3:13",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Sam 3:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Sam 3:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 3:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 3:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Sam 3:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 3:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 3:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 3:21",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Samuel's Call",
+            "start": "1 Sam 3:1",
+            "end": "1 Sam 3:21",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

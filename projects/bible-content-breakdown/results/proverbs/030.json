@@ -1,0 +1,247 @@
+{
+    "book": "Proverbs",
+    "chapter": 30,
+    "verses": [
+        {
+            "ref": "Prov 30:1",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 30:2",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 30:3",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 30:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Prov 30:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Prov 30:6",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 30:7",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 30:8",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 30:9",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 30:10",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 30:11",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 30:12",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 30:13",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 30:14",
+            "function": "wisdom",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 30:15",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 30:16",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 30:17",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 30:18",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 30:19",
+            "function": "wisdom",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 30:20",
+            "function": "sexual_marital",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 30:21",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 30:22",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 30:23",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 30:24",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 30:25",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 30:26",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 30:27",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 30:28",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 30:29",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 30:30",
+            "function": "wisdom",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 30:31",
+            "function": "wisdom",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 30:32",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 30:33",
+            "function": "wisdom"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Agur's Foundation: Humility and God's Majesty",
+            "start": "Prov 30:1",
+            "end": "Prov 30:9",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "humility"
+                },
+                {
+                    "theme": "gods_power"
+                },
+                {
+                    "theme": "obey_god"
+                },
+                {
+                    "theme": "generosity",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Observations of Wickedness and Folly",
+            "start": "Prov 30:10",
+            "end": "Prov 30:20",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 0.8
+                },
+                {
+                    "theme": "sexual_purity"
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Observations of Society and Nature",
+            "start": "Prov 30:21",
+            "end": "Prov 30:28",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "justice"
+                },
+                {
+                    "theme": "obey_god"
+                },
+                {
+                    "theme": "humility",
+                    "weight": 0.8
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Majesty and the Power of Speech",
+            "start": "Prov 30:29",
+            "end": "Prov 30:33",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power"
+                },
+                {
+                    "theme": "obey_god"
+                },
+                {
+                    "theme": "consequences"
+                }
+            ]
+        }
+    ]
+}

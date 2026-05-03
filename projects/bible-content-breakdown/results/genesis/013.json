@@ -1,0 +1,113 @@
+{
+    "book": "Genesis",
+    "chapter": 13,
+    "verses": [
+        {
+            "ref": "Gen 13:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 13:2",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 13:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 13:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 13:5",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 13:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 13:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 13:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Gen 13:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 13:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 13:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 13:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 13:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Gen 13:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 13:15",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Gen 13:16",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Gen 13:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 13:18",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Separation of Abram and Lot",
+            "start": "Gen 13:1",
+            "end": "Gen 13:18",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

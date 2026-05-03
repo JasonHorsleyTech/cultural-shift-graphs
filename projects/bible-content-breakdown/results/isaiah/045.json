@@ -1,0 +1,197 @@
+{
+    "book": "Isaiah",
+    "chapter": 45,
+    "verses": [
+        {
+            "ref": "Isa 45:1",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 45:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 45:3",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Isa 45:4",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Isa 45:5",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Isa 45:6",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Isa 45:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 45:8",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Isa 45:9",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 45:10",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 45:11",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 45:12",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 45:13",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 45:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 45:15",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Isa 45:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 45:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 45:18",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 45:19",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 45:20",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 45:21",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Isa 45:22",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 45:23",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 45:24",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 45:25",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Commissioning of Cyrus and Israel's Redemption",
+            "start": "Isa 45:1",
+            "end": "Isa 45:25",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.9
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.7
+                }
+            ]
+        }
+    ]
+}

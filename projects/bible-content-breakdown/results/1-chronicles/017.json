@@ -1,0 +1,161 @@
+{
+    "book": "1 Chronicles",
+    "chapter": 17,
+    "verses": [
+        {
+            "ref": "1 Chr 17:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 17:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 17:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 17:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Chr 17:5",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Chr 17:6",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Chr 17:7",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Chr 17:8",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Chr 17:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Chr 17:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Chr 17:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Chr 17:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Chr 17:13",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Chr 17:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Chr 17:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 17:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 17:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Chr 17:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 17:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Chr 17:20",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Chr 17:21",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Chr 17:22",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Chr 17:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 17:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 17:25",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Chr 17:26",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Chr 17:27",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Promise to Build David's Dynasty",
+            "start": "1 Chr 17:1",
+            "end": "1 Chr 17:27",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,277 @@
+{
+    "book": "Matthew",
+    "chapter": 5,
+    "verses": [
+        {
+            "ref": "Matt 5:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 5:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 5:3",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Matt 5:4",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Matt 5:5",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Matt 5:6",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Matt 5:7",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Matt 5:8",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Matt 5:9",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Matt 5:10",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Matt 5:11",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Matt 5:12",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Matt 5:13",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 5:14",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 5:15",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 5:16",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 5:17",
+            "function": "theological"
+        },
+        {
+            "ref": "Matt 5:18",
+            "function": "theological"
+        },
+        {
+            "ref": "Matt 5:19",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 5:20",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 5:21",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Matt 5:22",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 5:23",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 5:24",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 5:25",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 5:26",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 5:27",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Matt 5:28",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Matt 5:29",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 5:30",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 5:31",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Matt 5:32",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Matt 5:33",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Matt 5:34",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 5:35",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 5:36",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 5:37",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 5:38",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Matt 5:39",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 5:40",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 5:41",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 5:42",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 5:43",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 5:44",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 5:45",
+            "function": "theological"
+        },
+        {
+            "ref": "Matt 5:46",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 5:47",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 5:48",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Sermon on the Mount",
+            "start": "Matt 5:1",
+            "end": "Matt 5:48",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

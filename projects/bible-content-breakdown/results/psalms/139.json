@@ -1,0 +1,153 @@
+{
+    "book": "Psalms",
+    "chapter": 139,
+    "verses": [
+        {
+            "ref": "Ps 139:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 139:2",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 139:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 139:4",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 139:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 139:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 139:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 139:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 139:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 139:10",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 139:11",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 139:12",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 139:13",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Ps 139:14",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Ps 139:15",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 139:16",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Ps 139:17",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 139:18",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 139:19",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Ps 139:20",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 139:21",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 139:22",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 139:23",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 139:24",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.25
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "The God Who Knows and Created Me",
+            "start": "Ps 139:1",
+            "end": "Ps 139:24",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.6
+                }
+            ]
+        }
+    ]
+}

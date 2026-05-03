@@ -1,0 +1,243 @@
+{
+    "book": "Jeremiah",
+    "chapter": 46,
+    "verses": [
+        {
+            "ref": "Jer 46:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 46:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 46:3",
+            "function": "prophecy",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 46:4",
+            "function": "specifications",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 46:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 46:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 46:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Jer 46:8",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jer 46:9",
+            "function": "prophecy",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 46:10",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 46:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 46:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 46:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 46:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 46:15",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jer 46:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 46:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 46:18",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jer 46:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 46:20",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jer 46:21",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jer 46:22",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jer 46:23",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jer 46:24",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 46:25",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Jer 46:26",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 46:27",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jer 46:28",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.5
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Prophecy Against Egypt's Military Defeat",
+            "start": "Jer 46:1",
+            "end": "Jer 46:12",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Prophecy of Egypt's Coming Destruction",
+            "start": "Jer 46:13",
+            "end": "Jer 46:26",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Reassurance to Israel",
+            "start": "Jer 46:27",
+            "end": "Jer 46:28",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

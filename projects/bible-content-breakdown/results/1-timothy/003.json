@@ -1,0 +1,87 @@
+{
+    "book": "1 Timothy",
+    "chapter": 3,
+    "verses": [
+        {
+            "ref": "1 Tim 3:1",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Tim 3:2",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Tim 3:3",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Tim 3:4",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Tim 3:5",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Tim 3:6",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Tim 3:7",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Tim 3:8",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Tim 3:9",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Tim 3:10",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "1 Tim 3:11",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Tim 3:12",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Tim 3:13",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Tim 3:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Tim 3:15",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Tim 3:16",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        }
+    ],
+    "stories": []
+}

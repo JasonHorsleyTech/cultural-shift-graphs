@@ -1,0 +1,69 @@
+{
+    "book": "Psalms",
+    "chapter": 28,
+    "verses": [
+        {
+            "ref": "Ps 28:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 28:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 28:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 28:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 28:5",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 28:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 28:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 28:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 28:9",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Prayer for Protection and Justice",
+            "start": "Ps 28:1",
+            "end": "Ps 28:9",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

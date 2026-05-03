@@ -1,0 +1,125 @@
+{
+    "book": "Hosea",
+    "chapter": 4,
+    "verses": [
+        {
+            "ref": "Hos 4:1",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Hos 4:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 4:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 4:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 4:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 4:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 4:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 4:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 4:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 4:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 4:11",
+            "function": "prophecy",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Hos 4:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 4:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 4:14",
+            "function": "prophecy",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Hos 4:15",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Hos 4:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 4:17",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Hos 4:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 4:19",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Covenant Lawsuit Against Israel",
+            "start": "Hos 4:1",
+            "end": "Hos 4:19",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "sexual_purity",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

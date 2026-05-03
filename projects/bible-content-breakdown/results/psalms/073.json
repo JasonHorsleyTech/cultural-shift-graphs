@@ -1,0 +1,173 @@
+{
+    "book": "Psalms",
+    "chapter": 73,
+    "verses": [
+        {
+            "ref": "Ps 73:1",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 73:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 73:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 73:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 73:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 73:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 73:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 73:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 73:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 73:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 73:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 73:12",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 73:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 73:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 73:15",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Ps 73:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 73:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 73:18",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 73:19",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 73:20",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ps 73:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 73:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 73:23",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 73:24",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 73:25",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 73:26",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 73:27",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 73:28",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Asaph's Crisis and Resolution of Faith",
+            "start": "Ps 73:1",
+            "end": "Ps 73:28",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

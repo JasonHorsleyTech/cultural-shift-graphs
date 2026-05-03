@@ -1,0 +1,65 @@
+{
+    "book": "Psalms",
+    "chapter": 11,
+    "verses": [
+        {
+            "ref": "Ps 11:1",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ps 11:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 11:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 11:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 11:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 11:6",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 11:7",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Trust in God's Justice Against Threats",
+            "start": "Ps 11:1",
+            "end": "Ps 11:7",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "book": "1 Samuel",
+    "chapter": 31,
+    "verses": [
+        {
+            "ref": "1 Sam 31:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 31:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 31:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 31:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 31:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 31:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 31:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 31:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 31:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 31:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 31:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 31:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 31:13",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Death of Saul and His Sons",
+            "start": "1 Sam 31:1",
+            "end": "1 Sam 31:13",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

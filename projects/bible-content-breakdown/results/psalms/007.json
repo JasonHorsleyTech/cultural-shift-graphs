@@ -1,0 +1,117 @@
+{
+    "book": "Psalms",
+    "chapter": 7,
+    "verses": [
+        {
+            "ref": "Ps 7:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 7:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 7:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 7:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 7:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 7:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 7:7",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Ps 7:8",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Ps 7:9",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ps 7:10",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 7:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 7:12",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 7:13",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.45
+            }
+        },
+        {
+            "ref": "Ps 7:14",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 7:15",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ps 7:16",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ps 7:17",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "David's Prayer for Vindication",
+            "start": "Ps 7:1",
+            "end": "Ps 7:17",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

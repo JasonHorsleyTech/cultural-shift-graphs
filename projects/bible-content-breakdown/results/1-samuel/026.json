@@ -1,0 +1,149 @@
+{
+    "book": "1 Samuel",
+    "chapter": 26,
+    "verses": [
+        {
+            "ref": "1 Sam 26:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 26:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 26:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 26:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 26:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 26:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 26:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 26:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 26:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "1 Sam 26:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "1 Sam 26:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 26:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 26:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 26:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 26:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 26:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 26:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 26:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 26:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "1 Sam 26:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 26:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 26:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 26:23",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "1 Sam 26:24",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "1 Sam 26:25",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "David Spares Saul",
+            "start": "1 Sam 26:1",
+            "end": "1 Sam 26:25",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

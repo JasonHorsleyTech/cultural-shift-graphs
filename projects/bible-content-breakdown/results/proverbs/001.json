@@ -1,0 +1,190 @@
+{
+    "book": "Proverbs",
+    "chapter": 1,
+    "verses": [
+        {
+            "ref": "Prov 1:1",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 1:2",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 1:3",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 1:4",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 1:5",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 1:6",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 1:7",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Prov 1:8",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 1:9",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 1:10",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 1:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Prov 1:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Prov 1:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Prov 1:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Prov 1:15",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 1:16",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 1:17",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 1:18",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 1:19",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 1:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Prov 1:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Prov 1:22",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 1:23",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 1:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Prov 1:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Prov 1:26",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Prov 1:27",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 1:28",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Prov 1:29",
+            "function": "theological"
+        },
+        {
+            "ref": "Prov 1:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Prov 1:31",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 1:32",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 1:33",
+            "function": "wisdom",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Father's Warning Against Sinners",
+            "start": "Prov 1:8",
+            "end": "Prov 1:19",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Wisdom's Call and Warning to the Foolish",
+            "start": "Prov 1:20",
+            "end": "Prov 1:33",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                }
+            ]
+        }
+    ]
+}

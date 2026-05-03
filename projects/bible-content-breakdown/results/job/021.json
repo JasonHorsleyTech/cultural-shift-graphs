@@ -1,0 +1,177 @@
+{
+    "book": "Job",
+    "chapter": 21,
+    "verses": [
+        {
+            "ref": "Job 21:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 21:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 21:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 21:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Job 21:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 21:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 21:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 21:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 21:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 21:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 21:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 21:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 21:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 21:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 21:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 21:16",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 21:17",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 21:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 21:19",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 21:20",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 21:21",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 21:22",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 21:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 21:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 21:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 21:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 21:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 21:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 21:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 21:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 21:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 21:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 21:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 21:34",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Job's Discourse on the Prosperity of the Wicked",
+            "start": "Job 21:1",
+            "end": "Job 21:34",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "book": "Psalms",
+    "chapter": 56,
+    "verses": [
+        {
+            "ref": "Psalm 56:1",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalm 56:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalm 56:3",
+            "function": "theological"
+        },
+        {
+            "ref": "Psalm 56:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Psalm 56:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalm 56:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalm 56:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 56:8",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Psalm 56:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Psalm 56:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Psalm 56:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Psalm 56:12",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 56:13",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Prayer for Deliverance from Enemies",
+            "start": "Psalm 56:1",
+            "end": "Psalm 56:13",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

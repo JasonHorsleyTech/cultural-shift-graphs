@@ -1,0 +1,193 @@
+{
+    "book": "Job",
+    "chapter": 19,
+    "verses": [
+        {
+            "ref": "Job 19:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 19:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 19:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 19:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 19:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 19:6",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 19:7",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 19:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 19:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 19:10",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 19:11",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 19:12",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 19:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 19:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 19:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 19:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 19:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 19:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 19:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 19:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "Job 19:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 19:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 19:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 19:24",
+            "function": "narrative",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 19:25",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 19:26",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 19:27",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Job 19:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 19:29",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.25
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Job's Response and Affirmation of Faith",
+            "start": "Job 19:1",
+            "end": "Job 19:29",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

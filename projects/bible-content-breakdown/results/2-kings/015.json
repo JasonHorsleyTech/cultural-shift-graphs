@@ -1,0 +1,243 @@
+{
+    "book": "2 Kings",
+    "chapter": 15,
+    "verses": [
+        {
+            "ref": "2Ki 15:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Ki 15:2",
+            "function": "catalog"
+        },
+        {
+            "ref": "2Ki 15:3",
+            "function": "theological"
+        },
+        {
+            "ref": "2Ki 15:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2Ki 15:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "2Ki 15:6",
+            "function": "catalog"
+        },
+        {
+            "ref": "2Ki 15:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Ki 15:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Ki 15:9",
+            "function": "theological"
+        },
+        {
+            "ref": "2Ki 15:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Ki 15:11",
+            "function": "catalog"
+        },
+        {
+            "ref": "2Ki 15:12",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2Ki 15:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Ki 15:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Ki 15:15",
+            "function": "catalog"
+        },
+        {
+            "ref": "2Ki 15:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Ki 15:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Ki 15:18",
+            "function": "theological"
+        },
+        {
+            "ref": "2Ki 15:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2Ki 15:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Ki 15:21",
+            "function": "catalog"
+        },
+        {
+            "ref": "2Ki 15:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Ki 15:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Ki 15:24",
+            "function": "theological"
+        },
+        {
+            "ref": "2Ki 15:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Ki 15:26",
+            "function": "catalog"
+        },
+        {
+            "ref": "2Ki 15:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Ki 15:28",
+            "function": "theological"
+        },
+        {
+            "ref": "2Ki 15:29",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2Ki 15:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Ki 15:31",
+            "function": "catalog"
+        },
+        {
+            "ref": "2Ki 15:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Ki 15:33",
+            "function": "catalog"
+        },
+        {
+            "ref": "2Ki 15:34",
+            "function": "theological"
+        },
+        {
+            "ref": "2Ki 15:35",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2Ki 15:36",
+            "function": "catalog"
+        },
+        {
+            "ref": "2Ki 15:37",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2Ki 15:38",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Azariah's Reign in Judah",
+            "start": "2Ki 15:1",
+            "end": "2Ki 15:7",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Israel's Political Turmoil and Conquest",
+            "start": "2Ki 15:8",
+            "end": "2Ki 15:31",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Jotham's Reign in Judah",
+            "start": "2Ki 15:32",
+            "end": "2Ki 15:38",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

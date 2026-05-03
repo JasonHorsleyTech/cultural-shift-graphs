@@ -1,0 +1,161 @@
+{
+    "book": "Revelation",
+    "chapter": 18,
+    "verses": [
+        {
+            "ref": "Rev 18:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 18:2",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Rev 18:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 18:4",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rev 18:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Rev 18:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 18:7",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rev 18:8",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rev 18:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 18:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 18:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 18:12",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rev 18:13",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rev 18:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 18:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 18:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 18:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 18:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 18:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 18:20",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rev 18:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Rev 18:22",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 18:23",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rev 18:24",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Fall of Babylon",
+            "start": "Rev 18:1",
+            "end": "Rev 18:24",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

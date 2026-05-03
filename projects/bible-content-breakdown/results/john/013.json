@@ -1,0 +1,247 @@
+{
+    "book": "John",
+    "chapter": 13,
+    "verses": [
+        {
+            "ref": "John 13:1",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "John 13:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 13:3",
+            "function": "theological"
+        },
+        {
+            "ref": "John 13:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 13:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 13:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 13:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 13:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "John 13:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 13:10",
+            "function": "theological"
+        },
+        {
+            "ref": "John 13:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "John 13:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 13:13",
+            "function": "theological"
+        },
+        {
+            "ref": "John 13:14",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "John 13:15",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "John 13:16",
+            "function": "wisdom"
+        },
+        {
+            "ref": "John 13:17",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "John 13:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "John 13:19",
+            "function": "theological"
+        },
+        {
+            "ref": "John 13:20",
+            "function": "theological"
+        },
+        {
+            "ref": "John 13:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 13:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 13:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 13:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 13:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 13:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 13:27",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "John 13:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 13:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 13:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 13:31",
+            "function": "theological"
+        },
+        {
+            "ref": "John 13:32",
+            "function": "theological"
+        },
+        {
+            "ref": "John 13:33",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "John 13:34",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "John 13:35",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "John 13:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 13:37",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 13:38",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jesus Washes the Disciples' Feet",
+            "start": "John 13:1",
+            "end": "John 13:17",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "humility",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "The Identification of the Betrayer",
+            "start": "John 13:18",
+            "end": "John 13:30",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "The New Commandment and Farewell",
+            "start": "John 13:31",
+            "end": "John 13:38",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.7
+                }
+            ]
+        }
+    ]
+}

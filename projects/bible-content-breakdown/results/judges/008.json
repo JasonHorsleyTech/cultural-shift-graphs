@@ -1,0 +1,227 @@
+{
+    "book": "Judges",
+    "chapter": 8,
+    "verses": [
+        {
+            "ref": "Jdg 8:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 8:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 8:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jdg 8:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 8:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 8:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 8:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 8:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 8:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 8:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jdg 8:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 8:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 8:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 8:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jdg 8:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 8:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 8:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 8:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 8:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jdg 8:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 8:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 8:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 8:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jdg 8:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 8:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 8:26",
+            "function": "catalog"
+        },
+        {
+            "ref": "Jdg 8:27",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Jdg 8:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 8:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 8:30",
+            "function": "catalog"
+        },
+        {
+            "ref": "Jdg 8:31",
+            "function": "catalog"
+        },
+        {
+            "ref": "Jdg 8:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 8:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 8:34",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Jdg 8:35",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Ephraim's Complaint",
+            "start": "Jdg 8:1",
+            "end": "Jdg 8:3",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "humility",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Gideon and the Midianites",
+            "start": "Jdg 8:4",
+            "end": "Jdg 8:21",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Gideon's Fall and Legacy",
+            "start": "Jdg 8:22",
+            "end": "Jdg 8:35",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

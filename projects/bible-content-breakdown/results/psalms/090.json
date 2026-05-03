@@ -1,0 +1,101 @@
+{
+    "book": "Psalms",
+    "chapter": 90,
+    "verses": [
+        {
+            "ref": "Ps 90:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 90:2",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 90:3",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 90:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 90:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 90:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 90:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 90:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 90:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 90:10",
+            "function": "wisdom",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ps 90:11",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 90:12",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Ps 90:13",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 90:14",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 90:15",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 90:16",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 90:17",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Prayer for Mercy amid Human Mortality",
+            "start": "Ps 90:1",
+            "end": "Ps 90:17",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

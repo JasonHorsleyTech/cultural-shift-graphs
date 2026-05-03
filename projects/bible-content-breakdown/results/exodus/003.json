@@ -1,0 +1,133 @@
+{
+    "book": "Exodus",
+    "chapter": 3,
+    "verses": [
+        {
+            "ref": "Exod 3:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exod 3:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exod 3:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exod 3:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exod 3:5",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Exod 3:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Exod 3:7",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exod 3:8",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Exod 3:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Exod 3:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exod 3:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exod 3:12",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exod 3:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exod 3:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Exod 3:15",
+            "function": "theological"
+        },
+        {
+            "ref": "Exod 3:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exod 3:17",
+            "function": "theological"
+        },
+        {
+            "ref": "Exod 3:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exod 3:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Exod 3:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Exod 3:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Exod 3:22",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God Calls Moses at Horeb",
+            "start": "Exod 3:1",
+            "end": "Exod 3:22",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

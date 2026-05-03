@@ -1,0 +1,186 @@
+{
+    "book": "Ezekiel",
+    "chapter": 32,
+    "verses": [
+        {
+            "ref": "Ezekiel 32:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 32:2",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezekiel 32:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 32:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 32:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 32:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 32:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 32:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 32:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 32:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 32:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 32:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 32:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 32:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 32:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 32:16",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ezekiel 32:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 32:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 32:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 32:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 32:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 32:22",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 32:23",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 32:24",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 32:25",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 32:26",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 32:27",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 32:28",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 32:29",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 32:30",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 32:31",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 32:32",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Pharaoh's Destruction",
+            "start": "Ezekiel 32:1",
+            "end": "Ezekiel 32:16",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Egypt Among the Nations in Sheol",
+            "start": "Ezekiel 32:17",
+            "end": "Ezekiel 32:32",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "book": "Psalms",
+    "chapter": 96,
+    "verses": [
+        {
+            "ref": "Ps 96:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 96:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 96:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 96:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 96:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 96:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 96:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 96:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 96:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 96:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 96:11",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 96:12",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 96:13",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "A Call to Universal Worship",
+            "start": "Ps 96:1",
+            "end": "Ps 96:13",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                }
+            ]
+        }
+    ]
+}

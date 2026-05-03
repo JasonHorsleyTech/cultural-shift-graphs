@@ -1,0 +1,61 @@
+{
+    "book": "Isaiah",
+    "chapter": 20,
+    "verses": [
+        {
+            "ref": "Isa 20:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 20:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 20:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 20:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 20:5",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Isa 20:6",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Isaiah's Sign Against Egypt and Cush",
+            "start": "Isa 20:1",
+            "end": "Isa 20:6",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.8
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.7
+                }
+            ]
+        }
+    ]
+}

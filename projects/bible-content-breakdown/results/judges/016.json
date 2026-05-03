@@ -1,0 +1,169 @@
+{
+    "book": "Judges",
+    "chapter": 16,
+    "verses": [
+        {
+            "ref": "Judges 16:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 16:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 16:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 16:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 16:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 16:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 16:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 16:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 16:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 16:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 16:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 16:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 16:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 16:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 16:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 16:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 16:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Judges 16:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 16:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 16:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Judges 16:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 16:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 16:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Judges 16:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 16:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 16:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 16:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 16:28",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Judges 16:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 16:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 16:31",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Samson's Revenge Against the Philistines",
+            "start": "Judges 16:1",
+            "end": "Judges 16:31",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

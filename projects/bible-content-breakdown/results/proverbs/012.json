@@ -1,0 +1,169 @@
+{
+    "book": "Proverbs",
+    "chapter": 12,
+    "verses": [
+        {
+            "ref": "Prov 12:1",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 12:2",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Prov 12:3",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 12:4",
+            "function": "wisdom",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 12:5",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 12:6",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 12:7",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 12:8",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 12:9",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 12:10",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 12:11",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 12:12",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 12:13",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 12:14",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 12:15",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 12:16",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 12:17",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 12:18",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 12:19",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 12:20",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 12:21",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 12:22",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Prov 12:23",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 12:24",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 12:25",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 12:26",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 12:27",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 12:28",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.5
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Wisdom of the Righteous Path",
+            "start": "Prov 12:1",
+            "end": "Prov 12:28",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

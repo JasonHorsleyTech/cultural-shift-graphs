@@ -1,0 +1,117 @@
+{
+    "book": "Ezekiel",
+    "chapter": 38,
+    "verses": [
+        {
+            "ref": "Ezek 38:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 38:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 38:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 38:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 38:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 38:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 38:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 38:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 38:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 38:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 38:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 38:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 38:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 38:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 38:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 38:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 38:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 38:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 38:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 38:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 38:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 38:22",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 38:23",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Gog and Magog",
+            "start": "Ezek 38:1",
+            "end": "Ezek 38:23",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

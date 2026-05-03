@@ -1,0 +1,149 @@
+{
+    "book": "2 Chronicles",
+    "chapter": 25,
+    "verses": [
+        {
+            "ref": "2 Chronicles 25:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 25:2",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Chronicles 25:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 25:4",
+            "function": "civil_law",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chronicles 25:5",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Chronicles 25:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 25:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 25:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Chronicles 25:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 25:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 25:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 25:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 25:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 25:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 25:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Chronicles 25:16",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "2 Chronicles 25:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 25:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chronicles 25:19",
+            "function": "wisdom"
+        },
+        {
+            "ref": "2 Chronicles 25:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 25:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 25:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 25:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 25:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 25:25",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Chronicles 25:26",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Chronicles 25:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 25:28",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Amaziah's Reign",
+            "start": "2 Chronicles 25:1",
+            "end": "2 Chronicles 25:28",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                }
+            ]
+        }
+    ]
+}

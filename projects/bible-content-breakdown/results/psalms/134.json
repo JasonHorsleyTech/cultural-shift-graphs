@@ -1,0 +1,41 @@
+{
+    "book": "Psalms",
+    "chapter": 134,
+    "verses": [
+        {
+            "ref": "Ps 134:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 134:2",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 134:3",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "A Call to Praise the Lord",
+            "start": "Ps 134:1",
+            "end": "Ps 134:3",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                }
+            ]
+        }
+    ]
+}

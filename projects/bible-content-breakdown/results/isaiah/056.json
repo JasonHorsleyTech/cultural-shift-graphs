@@ -1,0 +1,126 @@
+{
+    "book": "Isaiah",
+    "chapter": 56,
+    "verses": [
+        {
+            "ref": "Isa 56:1",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Isa 56:2",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Isa 56:3",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 56:4",
+            "function": "theological",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 56:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 56:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 56:7",
+            "function": "prophecy",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 56:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 56:9",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 56:10",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Isa 56:11",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 56:12",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Promise of Inclusion for Foreigners and Eunuchs",
+            "start": "Isa 56:1",
+            "end": "Isa 56:8",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Judgment Against Corrupt Leaders",
+            "start": "Isa 56:9",
+            "end": "Isa 56:12",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

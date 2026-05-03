@@ -1,0 +1,113 @@
+{
+    "book": "Isaiah",
+    "chapter": 58,
+    "verses": [
+        {
+            "ref": "Isa 58:1",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 58:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 58:3",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "Isa 58:4",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Isa 58:5",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Isa 58:6",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Isa 58:7",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Isa 58:8",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "Isa 58:9",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 58:10",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Isa 58:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 58:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 58:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Isa 58:14",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.15
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Call for True Righteousness",
+            "start": "Isa 58:1",
+            "end": "Isa 58:14",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "hypocrisy",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

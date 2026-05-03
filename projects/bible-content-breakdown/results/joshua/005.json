@@ -1,0 +1,131 @@
+{
+    "book": "Joshua",
+    "chapter": 5,
+    "verses": [
+        {
+            "ref": "Josh 5:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 5:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 5:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 5:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 5:5",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 5:6",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Josh 5:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 5:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 5:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 5:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 5:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 5:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 5:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 5:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 5:15",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Israel Circumcised and Disgrace Removed",
+            "start": "Josh 5:1",
+            "end": "Josh 5:9",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Celebrating the First Passover in the Promised Land",
+            "start": "Josh 5:10",
+            "end": "Josh 5:12",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Commander of the Lord's Army",
+            "start": "Josh 5:13",
+            "end": "Josh 5:15",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

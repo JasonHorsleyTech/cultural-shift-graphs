@@ -1,0 +1,253 @@
+{
+    "book": "Proverbs",
+    "chapter": 16,
+    "verses": [
+        {
+            "ref": "Proverbs 16:1",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Proverbs 16:2",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Proverbs 16:3",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Proverbs 16:4",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Proverbs 16:5",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Proverbs 16:6",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Proverbs 16:7",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 16:8",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Proverbs 16:9",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Proverbs 16:10",
+            "function": "civil_law",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Proverbs 16:11",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Proverbs 16:12",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Proverbs 16:13",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 16:14",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 16:15",
+            "function": "wisdom",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Proverbs 16:16",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 16:17",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Proverbs 16:18",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 16:19",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Proverbs 16:20",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Proverbs 16:21",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 16:22",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 16:23",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 16:24",
+            "function": "wisdom",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Proverbs 16:25",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Proverbs 16:26",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 16:27",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Proverbs 16:28",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Proverbs 16:29",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Proverbs 16:30",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 16:31",
+            "function": "wisdom",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Proverbs 16:32",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Proverbs 16:33",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Wisdom on Righteousness and Consequences",
+            "start": "Proverbs 16:1",
+            "end": "Proverbs 16:33",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

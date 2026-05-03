@@ -1,0 +1,160 @@
+{
+    "book": "Revelation",
+    "chapter": 20,
+    "verses": [
+        {
+            "ref": "Rev 20:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 20:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 20:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Rev 20:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 20:5",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rev 20:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Rev 20:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 20:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 20:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 20:10",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rev 20:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 20:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 20:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 20:14",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rev 20:15",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Satan Bound",
+            "start": "Rev 20:1",
+            "end": "Rev 20:3",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Millennial Reign of the Saints",
+            "start": "Rev 20:4",
+            "end": "Rev 20:6",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Gog and Magog Final Rebellion",
+            "start": "Rev 20:7",
+            "end": "Rev 20:10",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Great White Throne Judgment",
+            "start": "Rev 20:11",
+            "end": "Rev 20:15",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

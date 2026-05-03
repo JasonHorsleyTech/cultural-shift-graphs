@@ -1,0 +1,173 @@
+{
+    "book": "Job",
+    "chapter": 6,
+    "verses": [
+        {
+            "ref": "Job 6:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 6:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 6:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 6:4",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 6:5",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 6:6",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 6:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Job 6:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 6:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 6:10",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 6:11",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 6:12",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 6:13",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 6:14",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Job 6:15",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 6:16",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 6:17",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 6:18",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 6:19",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 6:20",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 6:21",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Job 6:22",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Job 6:23",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Job 6:24",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Job 6:25",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 6:26",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Job 6:27",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Job 6:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 6:29",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 6:30",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Job's Response to His Friends",
+            "start": "Job 6:1",
+            "end": "Job 6:30",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

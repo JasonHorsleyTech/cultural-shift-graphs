@@ -1,0 +1,109 @@
+{
+    "book": "2 Corinthians",
+    "chapter": 3,
+    "verses": [
+        {
+            "ref": "2 Cor 3:1",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Cor 3:2",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Cor 3:3",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Cor 3:4",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Cor 3:5",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Cor 3:6",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "2 Cor 3:7",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Cor 3:8",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Cor 3:9",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Cor 3:10",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Cor 3:11",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Cor 3:12",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Cor 3:13",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Cor 3:14",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Cor 3:15",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Cor 3:16",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Cor 3:17",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.28
+            }
+        },
+        {
+            "ref": "2 Cor 3:18",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Glory and Freedom of the New Covenant in the Spirit",
+            "start": "2 Cor 3:1",
+            "end": "2 Cor 3:18",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "courage",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

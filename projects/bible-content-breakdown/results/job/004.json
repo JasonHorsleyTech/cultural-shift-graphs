@@ -1,0 +1,137 @@
+{
+    "book": "Job",
+    "chapter": 4,
+    "verses": [
+        {
+            "ref": "Job 4:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 4:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 4:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 4:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 4:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 4:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 4:7",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 4:8",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 4:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 4:10",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 4:11",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 4:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 4:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 4:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 4:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 4:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 4:17",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 4:18",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 4:19",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 4:20",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 4:21",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Eliphaz's First Response to Job",
+            "start": "Job 4:1",
+            "end": "Job 4:21",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

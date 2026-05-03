@@ -1,0 +1,165 @@
+{
+    "book": "Genesis",
+    "chapter": 10,
+    "verses": [
+        {
+            "ref": "Gen 10:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 10:2",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 10:3",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 10:4",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 10:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Gen 10:6",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 10:7",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 10:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 10:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 10:10",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 10:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 10:12",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 10:13",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 10:14",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 10:15",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 10:16",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 10:17",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 10:18",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 10:19",
+            "function": "specifications"
+        },
+        {
+            "ref": "Gen 10:20",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 10:21",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 10:22",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 10:23",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 10:24",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 10:25",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 10:26",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 10:27",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 10:28",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 10:29",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 10:30",
+            "function": "specifications"
+        },
+        {
+            "ref": "Gen 10:31",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 10:32",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Table of Nations",
+            "start": "Gen 10:1",
+            "end": "Gen 10:32",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

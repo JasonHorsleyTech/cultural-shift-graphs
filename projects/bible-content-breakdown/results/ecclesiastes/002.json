@@ -1,0 +1,216 @@
+{
+    "book": "Ecclesiastes",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "Eccl 2:1",
+            "function": "wisdom",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Eccl 2:2",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Eccl 2:3",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Eccl 2:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Eccl 2:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Eccl 2:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Eccl 2:7",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Eccl 2:8",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Eccl 2:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Eccl 2:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Eccl 2:11",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Eccl 2:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Eccl 2:13",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Eccl 2:14",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Eccl 2:15",
+            "function": "wisdom",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Eccl 2:16",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Eccl 2:17",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Eccl 2:18",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Eccl 2:19",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Eccl 2:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Eccl 2:21",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Eccl 2:22",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Eccl 2:23",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Eccl 2:24",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Eccl 2:25",
+            "function": "theological"
+        },
+        {
+            "ref": "Eccl 2:26",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Testing Indulgence and Accumulation",
+            "start": "Eccl 2:1",
+            "end": "Eccl 2:11",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                }
+            ]
+        },
+        {
+            "name": "Testing Wisdom",
+            "start": "Eccl 2:12",
+            "end": "Eccl 2:17",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                }
+            ]
+        },
+        {
+            "name": "Despair over Labor and Mortality",
+            "start": "Eccl 2:18",
+            "end": "Eccl 2:23",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Finding Contentment in God",
+            "start": "Eccl 2:24",
+            "end": "Eccl 2:26",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

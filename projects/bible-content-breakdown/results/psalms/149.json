@@ -1,0 +1,77 @@
+{
+    "book": "Psalms",
+    "chapter": 149,
+    "verses": [
+        {
+            "ref": "Psalm 149:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 149:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 149:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 149:4",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Psalm 149:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 149:6",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalm 149:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Psalm 149:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Psalm 149:9",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Vindication of the Righteous",
+            "start": "Psalm 149:1",
+            "end": "Psalm 149:9",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

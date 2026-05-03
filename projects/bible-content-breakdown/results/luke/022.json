@@ -1,0 +1,505 @@
+{
+    "book": "Luke",
+    "chapter": 22,
+    "verses": [
+        {
+            "ref": "Luke 22:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 22:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 22:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 22:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Luke 22:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Luke 22:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:22",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Luke 22:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:25",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 22:26",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 22:27",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 22:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:29",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 22:30",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 22:31",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 22:32",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 22:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:34",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 22:35",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:36",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 22:37",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 22:38",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:39",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:40",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 22:41",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:42",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 22:43",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:44",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:45",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:46",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 22:47",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:48",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:49",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:50",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:51",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:52",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:53",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 22:54",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:55",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:56",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:57",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:58",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:59",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:60",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:61",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:62",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:63",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:64",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:65",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:66",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:67",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:68",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:69",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 22:70",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 22:71",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Conspiracy to Betray Jesus",
+            "start": "Luke 22:1",
+            "end": "Luke 22:6",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Preparing the Passover Meal",
+            "start": "Luke 22:7",
+            "end": "Luke 22:13",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "The Last Supper",
+            "start": "Luke 22:14",
+            "end": "Luke 22:20",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "sacrifice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Teaching at the Table",
+            "start": "Luke 22:21",
+            "end": "Luke 22:38",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "humility",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Prayer in Gethsemane",
+            "start": "Luke 22:39",
+            "end": "Luke 22:46",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Arrest of Jesus",
+            "start": "Luke 22:47",
+            "end": "Luke 22:53",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Peter Denies Jesus",
+            "start": "Luke 22:54",
+            "end": "Luke 22:62",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Jesus Mocked by the Guards",
+            "start": "Luke 22:63",
+            "end": "Luke 22:65",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Jesus Questioned by the Sanhedrin",
+            "start": "Luke 22:66",
+            "end": "Luke 22:71",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

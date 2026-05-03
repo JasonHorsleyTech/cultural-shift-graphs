@@ -1,0 +1,274 @@
+{
+    "book": "1 Kings",
+    "chapter": 7,
+    "verses": [
+        {
+            "ref": "1 Kgs 7:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 7:2",
+            "function": "specifications",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Kgs 7:3",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kgs 7:4",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kgs 7:5",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kgs 7:6",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kgs 7:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Kgs 7:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 7:9",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kgs 7:10",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kgs 7:11",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kgs 7:12",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kgs 7:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 7:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Kgs 7:15",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kgs 7:16",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kgs 7:17",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kgs 7:18",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kgs 7:19",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kgs 7:20",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kgs 7:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 7:22",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kgs 7:23",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kgs 7:24",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kgs 7:25",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kgs 7:26",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kgs 7:27",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kgs 7:28",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kgs 7:29",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kgs 7:30",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kgs 7:31",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kgs 7:32",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kgs 7:33",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kgs 7:34",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kgs 7:35",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kgs 7:36",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kgs 7:37",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kgs 7:38",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kgs 7:39",
+            "function": "specifications",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Kgs 7:40",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Kgs 7:41",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kgs 7:42",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kgs 7:43",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kgs 7:44",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kgs 7:45",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kgs 7:46",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 7:47",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 7:48",
+            "function": "catalog",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Kgs 7:49",
+            "function": "catalog",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Kgs 7:50",
+            "function": "catalog",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Kgs 7:51",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Solomon Builds His Palace",
+            "start": "1 Kgs 7:1",
+            "end": "1 Kgs 7:12",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Hiram Crafts the Temple's Bronze and Gold Furnishings",
+            "start": "1 Kgs 7:13",
+            "end": "1 Kgs 7:51",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

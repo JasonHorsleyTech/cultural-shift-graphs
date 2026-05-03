@@ -1,0 +1,313 @@
+{
+    "book": "Joshua",
+    "chapter": 19,
+    "verses": [
+        {
+            "ref": "Josh 19:1",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Josh 19:2",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 19:3",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 19:4",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 19:5",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 19:6",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 19:7",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 19:8",
+            "function": "catalog",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Josh 19:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Josh 19:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Josh 19:11",
+            "function": "specifications"
+        },
+        {
+            "ref": "Josh 19:12",
+            "function": "specifications"
+        },
+        {
+            "ref": "Josh 19:13",
+            "function": "specifications"
+        },
+        {
+            "ref": "Josh 19:14",
+            "function": "specifications"
+        },
+        {
+            "ref": "Josh 19:15",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Josh 19:16",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Josh 19:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Josh 19:18",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 19:19",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 19:20",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 19:21",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 19:22",
+            "function": "specifications",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Josh 19:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Josh 19:24",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Josh 19:25",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 19:26",
+            "function": "catalog",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Josh 19:27",
+            "function": "specifications",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Josh 19:28",
+            "function": "catalog",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Josh 19:29",
+            "function": "specifications"
+        },
+        {
+            "ref": "Josh 19:30",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 19:31",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Josh 19:32",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Josh 19:33",
+            "function": "specifications"
+        },
+        {
+            "ref": "Josh 19:34",
+            "function": "specifications"
+        },
+        {
+            "ref": "Josh 19:35",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 19:36",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 19:37",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 19:38",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 19:39",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Josh 19:40",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Josh 19:41",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 19:42",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 19:43",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 19:44",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 19:45",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 19:46",
+            "function": "catalog",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Josh 19:47",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 19:48",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Josh 19:49",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 19:50",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Josh 19:51",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Land Distribution to the Remaining Tribes",
+            "start": "Josh 19:1",
+            "end": "Josh 19:51",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

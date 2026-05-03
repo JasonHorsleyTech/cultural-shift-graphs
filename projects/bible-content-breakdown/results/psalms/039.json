@@ -1,0 +1,105 @@
+{
+    "book": "Psalms",
+    "chapter": 39,
+    "verses": [
+        {
+            "ref": "Psalm 39:1",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalm 39:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalm 39:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalm 39:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Psalm 39:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Psalm 39:6",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Psalm 39:7",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Psalm 39:8",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Psalm 39:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalm 39:10",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 39:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Psalm 39:12",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Psalm 39:13",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "David's Prayer on Life's Brevity",
+            "start": "Psalm 39:1",
+            "end": "Psalm 39:13",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "humility",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "book": "2 Samuel",
+    "chapter": 20,
+    "verses": [
+        {
+            "ref": "2 Sam 20:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 20:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 20:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "2 Sam 20:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 20:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 20:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 20:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 20:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 20:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 20:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 20:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 20:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 20:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 20:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 20:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 20:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 20:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 20:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Sam 20:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Sam 20:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 20:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 20:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 20:23",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Sam 20:24",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Sam 20:25",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Sam 20:26",
+            "function": "catalog"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Sheba son of Bikri's Rebellion",
+            "start": "2 Sam 20:1",
+            "end": "2 Sam 20:22",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

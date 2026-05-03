@@ -1,0 +1,113 @@
+{
+    "book": "Hebrews",
+    "chapter": 4,
+    "verses": [
+        {
+            "ref": "Heb 4:1",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Heb 4:2",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 4:3",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Heb 4:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 4:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Heb 4:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 4:7",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Heb 4:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 4:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 4:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 4:11",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Heb 4:12",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Heb 4:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 4:14",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Heb 4:15",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 4:16",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Entering God's Rest",
+            "start": "Heb 4:1",
+            "end": "Heb 4:16",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

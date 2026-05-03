@@ -1,0 +1,133 @@
+{
+    "book": "Job",
+    "chapter": 12,
+    "verses": [
+        {
+            "ref": "Job 12:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 12:2",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Job 12:3",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Job 12:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 12:5",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 12:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 12:7",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 12:8",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 12:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 12:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 12:11",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 12:12",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 12:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 12:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 12:15",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 12:16",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 12:17",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 12:18",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 12:19",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 12:20",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 12:21",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 12:22",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 12:23",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 12:24",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 12:25",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Job's Response to His Friends",
+            "start": "Job 12:1",
+            "end": "Job 12:25",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 0.8
+                },
+                {
+                    "theme": "humility",
+                    "weight": 0.6
+                }
+            ]
+        }
+    ]
+}

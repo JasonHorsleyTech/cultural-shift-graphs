@@ -1,0 +1,171 @@
+{
+    "book": "Isaiah",
+    "chapter": 7,
+    "verses": [
+        {
+            "ref": "Isa 7:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 7:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 7:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 7:4",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 7:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 7:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 7:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 7:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 7:9",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Isa 7:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 7:11",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Isa 7:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 7:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Isa 7:14",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 7:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 7:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 7:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 7:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 7:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 7:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 7:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 7:22",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 7:23",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 7:24",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 7:25",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Isaiah Comforts King Ahaz",
+            "start": "Isa 7:1",
+            "end": "Isa 7:9",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Sign of Immanuel",
+            "start": "Isa 7:10",
+            "end": "Isa 7:16",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Prophecy of Assyrian Judgment",
+            "start": "Isa 7:17",
+            "end": "Isa 7:25",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

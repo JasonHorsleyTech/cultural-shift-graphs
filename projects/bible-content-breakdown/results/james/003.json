@@ -1,0 +1,117 @@
+{
+    "book": "James",
+    "chapter": 3,
+    "verses": [
+        {
+            "ref": "James 3:1",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "James 3:2",
+            "function": "wisdom"
+        },
+        {
+            "ref": "James 3:3",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "James 3:4",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "James 3:5",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "James 3:6",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "James 3:7",
+            "function": "theological"
+        },
+        {
+            "ref": "James 3:8",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "James 3:9",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "James 3:10",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "James 3:11",
+            "function": "wisdom"
+        },
+        {
+            "ref": "James 3:12",
+            "function": "wisdom"
+        },
+        {
+            "ref": "James 3:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "James 3:14",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "James 3:15",
+            "function": "theological"
+        },
+        {
+            "ref": "James 3:16",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "James 3:17",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "James 3:18",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Tongue and Wisdom",
+            "start": "James 3:1",
+            "end": "James 3:18",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

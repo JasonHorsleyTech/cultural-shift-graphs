@@ -1,0 +1,141 @@
+{
+    "book": "Colossians",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "Col 2:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Col 2:2",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Col 2:3",
+            "function": "theological"
+        },
+        {
+            "ref": "Col 2:4",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Col 2:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Col 2:6",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Col 2:7",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Col 2:8",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Col 2:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Col 2:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Col 2:11",
+            "function": "theological",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Col 2:12",
+            "function": "theological",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Col 2:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Col 2:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Col 2:15",
+            "function": "theological"
+        },
+        {
+            "ref": "Col 2:16",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Col 2:17",
+            "function": "theological"
+        },
+        {
+            "ref": "Col 2:18",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Col 2:19",
+            "function": "theological"
+        },
+        {
+            "ref": "Col 2:20",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Col 2:21",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Col 2:22",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Col 2:23",
+            "function": "moral_instruction"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Paul's Teaching on Christ's Sufficiency and Freedom from False Teaching",
+            "start": "Col 2:1",
+            "end": "Col 2:23",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

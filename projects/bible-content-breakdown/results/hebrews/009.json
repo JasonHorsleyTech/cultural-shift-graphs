@@ -1,0 +1,153 @@
+{
+    "book": "Hebrews",
+    "chapter": 9,
+    "verses": [
+        {
+            "ref": "Heb 9:1",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 9:2",
+            "function": "specifications"
+        },
+        {
+            "ref": "Heb 9:3",
+            "function": "specifications"
+        },
+        {
+            "ref": "Heb 9:4",
+            "function": "specifications"
+        },
+        {
+            "ref": "Heb 9:5",
+            "function": "specifications"
+        },
+        {
+            "ref": "Heb 9:6",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Heb 9:7",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Heb 9:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 9:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 9:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 9:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 9:12",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 9:13",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.7
+            }
+        },
+        {
+            "ref": "Heb 9:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 9:15",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 9:16",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 9:17",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 9:18",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 9:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Heb 9:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Heb 9:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Heb 9:22",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 9:23",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 9:24",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 9:25",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 9:26",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 9:27",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 9:28",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Christ as the Fulfillment of the Covenant",
+            "start": "Heb 9:1",
+            "end": "Heb 9:28",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

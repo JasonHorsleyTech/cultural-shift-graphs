@@ -1,0 +1,73 @@
+{
+    "book": "Joshua",
+    "chapter": 16,
+    "verses": [
+        {
+            "ref": "Josh 16:1",
+            "function": "specifications",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Josh 16:2",
+            "function": "specifications"
+        },
+        {
+            "ref": "Josh 16:3",
+            "function": "specifications"
+        },
+        {
+            "ref": "Josh 16:4",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 16:5",
+            "function": "specifications",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Josh 16:6",
+            "function": "specifications"
+        },
+        {
+            "ref": "Josh 16:7",
+            "function": "specifications"
+        },
+        {
+            "ref": "Josh 16:8",
+            "function": "specifications"
+        },
+        {
+            "ref": "Josh 16:9",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 16:10",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Territorial Allotment to Joseph's Descendants",
+            "start": "Josh 16:1",
+            "end": "Josh 16:10",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "book": "Habakkuk",
+    "chapter": 1,
+    "verses": [
+        {
+            "ref": "Hab 1:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Hab 1:2",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Hab 1:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Hab 1:4",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Hab 1:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hab 1:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hab 1:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hab 1:8",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Hab 1:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hab 1:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hab 1:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hab 1:12",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Hab 1:13",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Hab 1:14",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Hab 1:15",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Hab 1:16",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Hab 1:17",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Habakkuk's Complaint and God's Response",
+            "start": "Hab 1:1",
+            "end": "Hab 1:17",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,300 @@
+{
+    "book": "Isaiah",
+    "chapter": 10,
+    "verses": [
+        {
+            "ref": "Isa 10:1",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Isa 10:2",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Isa 10:3",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 10:4",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 10:5",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 10:6",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 10:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 10:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 10:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 10:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 10:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 10:12",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 10:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 10:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 10:15",
+            "function": "wisdom",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 10:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 10:17",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 10:18",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 10:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 10:20",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 10:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 10:22",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 10:23",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 10:24",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 10:25",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 10:26",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 10:27",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 10:28",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 10:29",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 10:30",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 10:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 10:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 10:33",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 10:34",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Beware the Unjust Lawmakers",
+            "start": "Isa 10:1",
+            "end": "Isa 10:4",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Assyria: God's Rod of Judgment",
+            "start": "Isa 10:5",
+            "end": "Isa 10:23",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Do Not Fear: The Lord's Deliverance",
+            "start": "Isa 10:24",
+            "end": "Isa 10:27",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "The Invader's March and God's Swift Destruction",
+            "start": "Isa 10:28",
+            "end": "Isa 10:34",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "book": "The Song of Songs",
+    "chapter": 5,
+    "verses": [
+        {
+            "ref": "Song 5:1",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Song 5:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Song 5:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Song 5:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Song 5:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Song 5:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Song 5:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Song 5:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Song 5:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Song 5:10",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 5:11",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 5:12",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 5:13",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 5:14",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 5:15",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 5:16",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Beloved's Night of Separation and Longing",
+            "start": "Song 5:1",
+            "end": "Song 5:16",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "book": "Ecclesiastes",
+    "chapter": 7,
+    "verses": [
+        {
+            "ref": "Eccl 7:1",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Eccl 7:2",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Eccl 7:3",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Eccl 7:4",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Eccl 7:5",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Eccl 7:6",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Eccl 7:7",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Eccl 7:8",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Eccl 7:9",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Eccl 7:10",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Eccl 7:11",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Eccl 7:12",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Eccl 7:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Eccl 7:14",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Eccl 7:15",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Eccl 7:16",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Eccl 7:17",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Eccl 7:18",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Eccl 7:19",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Eccl 7:20",
+            "function": "theological"
+        },
+        {
+            "ref": "Eccl 7:21",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Eccl 7:22",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Eccl 7:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Eccl 7:24",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Eccl 7:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Eccl 7:26",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Eccl 7:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Eccl 7:28",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Eccl 7:29",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Teacher's Reflections on Wisdom, Death, and Human Nature",
+            "start": "Eccl 7:1",
+            "end": "Eccl 7:29",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "humility",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.2
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

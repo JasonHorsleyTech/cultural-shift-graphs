@@ -1,0 +1,333 @@
+{
+    "book": "Mark",
+    "chapter": 10,
+    "verses": [
+        {
+            "ref": "Mark 10:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 10:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 10:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 10:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 10:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Mark 10:6",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Mark 10:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Mark 10:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Mark 10:9",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mark 10:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 10:11",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Mark 10:12",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Mark 10:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 10:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mark 10:15",
+            "function": "theological"
+        },
+        {
+            "ref": "Mark 10:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 10:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 10:18",
+            "function": "theological"
+        },
+        {
+            "ref": "Mark 10:19",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Mark 10:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 10:21",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Mark 10:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 10:23",
+            "function": "theological"
+        },
+        {
+            "ref": "Mark 10:24",
+            "function": "theological"
+        },
+        {
+            "ref": "Mark 10:25",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mark 10:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 10:27",
+            "function": "theological"
+        },
+        {
+            "ref": "Mark 10:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 10:29",
+            "function": "theological"
+        },
+        {
+            "ref": "Mark 10:30",
+            "function": "theological"
+        },
+        {
+            "ref": "Mark 10:31",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Mark 10:32",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mark 10:33",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mark 10:34",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mark 10:35",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 10:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 10:37",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 10:38",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 10:39",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 10:40",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 10:41",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 10:42",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mark 10:43",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Mark 10:44",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Mark 10:45",
+            "function": "theological"
+        },
+        {
+            "ref": "Mark 10:46",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 10:47",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 10:48",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 10:49",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 10:50",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 10:51",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 10:52",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Divorce Debate",
+            "start": "Mark 10:1",
+            "end": "Mark 10:12",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "sexual_purity",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Jesus Blesses the Children",
+            "start": "Mark 10:13",
+            "end": "Mark 10:16",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Rich Young Man",
+            "start": "Mark 10:17",
+            "end": "Mark 10:27",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "generosity",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "The Road to Jerusalem: Sacrifice, Prediction, and Servanthood",
+            "start": "Mark 10:28",
+            "end": "Mark 10:45",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "sacrifice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Bartimaeus the Blind Beggar",
+            "start": "Mark 10:46",
+            "end": "Mark 10:52",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

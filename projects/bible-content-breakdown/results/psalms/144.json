@@ -1,0 +1,109 @@
+{
+    "book": "Psalms",
+    "chapter": 144,
+    "verses": [
+        {
+            "ref": "Psalm 144:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 144:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 144:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 144:4",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalm 144:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 144:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 144:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 144:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 144:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 144:10",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 144:11",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 144:12",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalm 144:13",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalm 144:14",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalm 144:15",
+            "function": "wisdom",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "David's Prayer for Deliverance and Blessing",
+            "start": "Psalm 144:1",
+            "end": "Psalm 144:15",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

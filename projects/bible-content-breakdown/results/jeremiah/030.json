@@ -1,0 +1,149 @@
+{
+    "book": "Jeremiah",
+    "chapter": 30,
+    "verses": [
+        {
+            "ref": "Jer 30:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 30:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 30:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 30:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 30:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 30:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 30:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 30:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 30:9",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 30:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 30:11",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Jer 30:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 30:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 30:14",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 30:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 30:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 30:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 30:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 30:19",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jer 30:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 30:21",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jer 30:22",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Jer 30:23",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 30:24",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Restoration of Israel and Judah",
+            "start": "Jer 30:1",
+            "end": "Jer 30:24",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

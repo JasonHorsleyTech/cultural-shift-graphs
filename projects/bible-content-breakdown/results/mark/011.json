@@ -1,0 +1,215 @@
+{
+    "book": "Mark",
+    "chapter": 11,
+    "verses": [
+        {
+            "ref": "Mark 11:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 11:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 11:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 11:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 11:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 11:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 11:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 11:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 11:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Mark 11:10",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mark 11:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 11:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 11:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 11:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Mark 11:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 11:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 11:17",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Mark 11:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 11:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 11:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 11:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 11:22",
+            "function": "theological"
+        },
+        {
+            "ref": "Mark 11:23",
+            "function": "theological"
+        },
+        {
+            "ref": "Mark 11:24",
+            "function": "theological"
+        },
+        {
+            "ref": "Mark 11:25",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mark 11:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 11:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 11:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 11:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 11:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 11:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 11:33",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Road to Jerusalem: Sacrifice, Prediction, and Servanthood",
+            "start": "Mark 11:1",
+            "end": "Mark 11:11",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "The Fig Tree, Temple, and Faith",
+            "start": "Mark 11:12",
+            "end": "Mark 11:25",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 0.6
+                }
+            ]
+        },
+        {
+            "name": "Jesus's Authority Questioned",
+            "start": "Mark 11:27",
+            "end": "Mark 11:33",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "hypocrisy",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

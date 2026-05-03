@@ -1,0 +1,165 @@
+{
+    "book": "Ezekiel",
+    "chapter": 43,
+    "verses": [
+        {
+            "ref": "Ezekiel 43:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 43:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezekiel 43:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 43:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 43:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 43:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 43:7",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezekiel 43:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Ezekiel 43:9",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ezekiel 43:10",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ezekiel 43:11",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezekiel 43:12",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezekiel 43:13",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezekiel 43:14",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezekiel 43:15",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezekiel 43:16",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezekiel 43:17",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezekiel 43:18",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezekiel 43:19",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezekiel 43:20",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezekiel 43:21",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezekiel 43:22",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezekiel 43:23",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezekiel 43:24",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezekiel 43:25",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezekiel 43:26",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezekiel 43:27",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Vision of the Restored Temple",
+            "start": "Ezekiel 43:1",
+            "end": "Ezekiel 43:27",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

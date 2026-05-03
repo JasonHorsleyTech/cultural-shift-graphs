@@ -1,0 +1,161 @@
+{
+    "book": "1 Chronicles",
+    "chapter": 27,
+    "verses": [
+        {
+            "ref": "1Ch 27:1",
+            "function": "specifications"
+        },
+        {
+            "ref": "1Ch 27:2",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 27:3",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 27:4",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 27:5",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 27:6",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 27:7",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 27:8",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 27:9",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 27:10",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 27:11",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 27:12",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 27:13",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 27:14",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 27:15",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 27:16",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 27:17",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 27:18",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 27:19",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 27:20",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 27:21",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 27:22",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 27:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "1Ch 27:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "1Ch 27:25",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 27:26",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 27:27",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 27:28",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 27:29",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 27:30",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 27:31",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 27:32",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 27:33",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 27:34",
+            "function": "catalog"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Census and God's Judgment",
+            "start": "1Ch 27:23",
+            "end": "1Ch 27:24",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences_of_sin",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

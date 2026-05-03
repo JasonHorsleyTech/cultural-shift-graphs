@@ -1,0 +1,301 @@
+{
+    "book": "Luke",
+    "chapter": 14,
+    "verses": [
+        {
+            "ref": "Luke 14:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 14:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 14:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Luke 14:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 14:5",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Luke 14:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 14:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 14:8",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 14:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Luke 14:10",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 14:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 14:12",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 14:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 14:14",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 14:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Luke 14:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 14:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 14:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 14:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 14:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 14:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 14:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 14:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Luke 14:24",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 14:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 14:26",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 14:27",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 14:28",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 14:29",
+            "function": "narrative",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 14:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 14:31",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 14:32",
+            "function": "narrative",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 14:33",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 14:34",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Luke 14:35",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Healing on the Sabbath",
+            "start": "Luke 14:1",
+            "end": "Luke 14:6",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Humility and Generosity in Hospitality",
+            "start": "Luke 14:7",
+            "end": "Luke 14:14",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "humility",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "generosity",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Great Banquet",
+            "start": "Luke 14:16",
+            "end": "Luke 14:24",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Cost of Discipleship",
+            "start": "Luke 14:25",
+            "end": "Luke 14:33",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Salt Saying",
+            "start": "Luke 14:34",
+            "end": "Luke 14:35",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

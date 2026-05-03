@@ -1,0 +1,274 @@
+{
+    "book": "John",
+    "chapter": 10,
+    "verses": [
+        {
+            "ref": "John 10:1",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 10:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 10:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "John 10:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "John 10:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 10:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 10:7",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "John 10:8",
+            "function": "theological"
+        },
+        {
+            "ref": "John 10:9",
+            "function": "theological"
+        },
+        {
+            "ref": "John 10:10",
+            "function": "theological"
+        },
+        {
+            "ref": "John 10:11",
+            "function": "theological"
+        },
+        {
+            "ref": "John 10:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 10:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 10:14",
+            "function": "theological"
+        },
+        {
+            "ref": "John 10:15",
+            "function": "theological"
+        },
+        {
+            "ref": "John 10:16",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 10:17",
+            "function": "theological"
+        },
+        {
+            "ref": "John 10:18",
+            "function": "theological"
+        },
+        {
+            "ref": "John 10:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 10:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 10:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 10:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 10:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 10:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 10:25",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "John 10:26",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "John 10:27",
+            "function": "theological"
+        },
+        {
+            "ref": "John 10:28",
+            "function": "theological"
+        },
+        {
+            "ref": "John 10:29",
+            "function": "theological"
+        },
+        {
+            "ref": "John 10:30",
+            "function": "theological"
+        },
+        {
+            "ref": "John 10:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 10:32",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "John 10:33",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "John 10:34",
+            "function": "theological"
+        },
+        {
+            "ref": "John 10:35",
+            "function": "theological"
+        },
+        {
+            "ref": "John 10:36",
+            "function": "theological"
+        },
+        {
+            "ref": "John 10:37",
+            "function": "theological"
+        },
+        {
+            "ref": "John 10:38",
+            "function": "theological"
+        },
+        {
+            "ref": "John 10:39",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 10:40",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 10:41",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 10:42",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Good Shepherd Teaching",
+            "start": "John 10:1",
+            "end": "John 10:21",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequence",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "The Feast of Dedication Confrontation",
+            "start": "John 10:22",
+            "end": "John 10:42",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequence",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

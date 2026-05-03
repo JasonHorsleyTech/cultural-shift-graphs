@@ -1,0 +1,158 @@
+{
+    "book": "Romans",
+    "chapter": 7,
+    "verses": [
+        {
+            "ref": "Rom 7:1",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 7:2",
+            "function": "sexual_marital",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Rom 7:3",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Rom 7:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 7:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 7:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 7:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 7:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 7:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 7:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 7:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 7:12",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 7:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 7:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 7:15",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 7:16",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 7:17",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 7:18",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 7:19",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 7:20",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 7:21",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 7:22",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 7:23",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 7:24",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rom 7:25",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Released from the Law Through Christ",
+            "start": "Rom 7:1",
+            "end": "Rom 7:6",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Law Reveals Sin, Sin Enslaves",
+            "start": "Rom 7:7",
+            "end": "Rom 7:25",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

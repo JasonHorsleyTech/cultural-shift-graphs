@@ -1,0 +1,141 @@
+{
+    "book": "Joshua",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "Josh 2:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 2:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 2:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 2:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 2:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 2:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 2:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 2:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 2:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Josh 2:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Josh 2:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Josh 2:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 2:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 2:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 2:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 2:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 2:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 2:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 2:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 2:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 2:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 2:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 2:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 2:24",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Rahab and the Spies",
+            "start": "Josh 2:1",
+            "end": "Josh 2:24",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

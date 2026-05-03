@@ -1,0 +1,269 @@
+{
+    "book": "Numbers",
+    "chapter": 31,
+    "verses": [
+        {
+            "ref": "Num 31:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 31:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 31:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 31:4",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Num 31:5",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Num 31:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 31:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 31:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 31:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 31:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 31:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 31:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 31:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 31:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 31:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 31:16",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 31:17",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Num 31:18",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Num 31:19",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 31:20",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 31:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 31:22",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 31:23",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 31:24",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 31:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 31:26",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Num 31:27",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Num 31:28",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Num 31:29",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Num 31:30",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Num 31:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 31:32",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 31:33",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 31:34",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 31:35",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 31:36",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 31:37",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 31:38",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 31:39",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 31:40",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 31:41",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 31:42",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 31:43",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 31:44",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 31:45",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 31:46",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 31:47",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 31:48",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 31:49",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 31:50",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 31:51",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Num 31:52",
+            "function": "catalog",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 31:53",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 31:54",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "War against Midian",
+            "start": "Num 31:1",
+            "end": "Num 31:54",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "book": "1 Chronicles",
+    "chapter": 20,
+    "verses": [
+        {
+            "ref": "1 Chronicles 20:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chronicles 20:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "1 Chronicles 20:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chronicles 20:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chronicles 20:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chronicles 20:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chronicles 20:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chronicles 20:8",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "War Against the Ammonites",
+            "start": "1 Chronicles 20:1",
+            "end": "1 Chronicles 20:3",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.8
+                }
+            ]
+        },
+        {
+            "name": "Battles Against the Philistine Giants",
+            "start": "1 Chronicles 20:4",
+            "end": "1 Chronicles 20:8",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

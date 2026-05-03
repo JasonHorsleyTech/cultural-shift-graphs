@@ -1,0 +1,169 @@
+{
+    "book": "Genesis",
+    "chapter": 34,
+    "verses": [
+        {
+            "ref": "Gen 34:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 34:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 34:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 34:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 34:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 34:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 34:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 34:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 34:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 34:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 34:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 34:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 34:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 34:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 34:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 34:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 34:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 34:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 34:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 34:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 34:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 34:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 34:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 34:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 34:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 34:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 34:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 34:28",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 34:29",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 34:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 34:31",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Dinah's Violation and the Sons' Revenge",
+            "start": "Gen 34:1",
+            "end": "Gen 34:31",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "sexual_purity",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

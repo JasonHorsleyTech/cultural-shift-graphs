@@ -1,0 +1,217 @@
+{
+    "book": "Exodus",
+    "chapter": 25,
+    "verses": [
+        {
+            "ref": "Exod 25:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exod 25:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exod 25:3",
+            "function": "catalog"
+        },
+        {
+            "ref": "Exod 25:4",
+            "function": "catalog"
+        },
+        {
+            "ref": "Exod 25:5",
+            "function": "catalog"
+        },
+        {
+            "ref": "Exod 25:6",
+            "function": "catalog"
+        },
+        {
+            "ref": "Exod 25:7",
+            "function": "catalog"
+        },
+        {
+            "ref": "Exod 25:8",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Exod 25:9",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Exod 25:10",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 25:11",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 25:12",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 25:13",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 25:14",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 25:15",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 25:16",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 25:17",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 25:18",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 25:19",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 25:20",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 25:21",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 25:22",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Exod 25:23",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 25:24",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 25:25",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 25:26",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 25:27",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 25:28",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 25:29",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 25:30",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exod 25:31",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 25:32",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 25:33",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 25:34",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 25:35",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 25:36",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 25:37",
+            "function": "specifications",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exod 25:38",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 25:39",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 25:40",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "God Commands the Tabernacle Construction",
+            "start": "Exod 25:1",
+            "end": "Exod 25:40",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "generosity",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

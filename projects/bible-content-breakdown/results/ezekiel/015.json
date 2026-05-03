@@ -1,0 +1,61 @@
+{
+    "book": "Ezekiel",
+    "chapter": 15,
+    "verses": [
+        {
+            "ref": "Ezekiel 15:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 15:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 15:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 15:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 15:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 15:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 15:7",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Ezekiel 15:8",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jerusalem Like Useless Vine Wood",
+            "start": "Ezekiel 15:1",
+            "end": "Ezekiel 15:8",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

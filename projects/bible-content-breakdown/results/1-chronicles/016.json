@@ -1,0 +1,277 @@
+{
+    "book": "1 Chronicles",
+    "chapter": 16,
+    "verses": [
+        {
+            "ref": "1 Chronicles 16:1",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Chronicles 16:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chronicles 16:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chronicles 16:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "1 Chronicles 16:5",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chronicles 16:6",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "1 Chronicles 16:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chronicles 16:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "1 Chronicles 16:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "1 Chronicles 16:10",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "1 Chronicles 16:11",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Chronicles 16:12",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "1 Chronicles 16:13",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "1 Chronicles 16:14",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "1 Chronicles 16:15",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Chronicles 16:16",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "1 Chronicles 16:17",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "1 Chronicles 16:18",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "1 Chronicles 16:19",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "1 Chronicles 16:20",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "1 Chronicles 16:21",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "1 Chronicles 16:22",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "1 Chronicles 16:23",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "1 Chronicles 16:24",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "1 Chronicles 16:25",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Chronicles 16:26",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Chronicles 16:27",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "1 Chronicles 16:28",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "1 Chronicles 16:29",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "1 Chronicles 16:30",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Chronicles 16:31",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "1 Chronicles 16:32",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "1 Chronicles 16:33",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "1 Chronicles 16:34",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "1 Chronicles 16:35",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Chronicles 16:36",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Chronicles 16:37",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chronicles 16:38",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "1 Chronicles 16:39",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Chronicles 16:40",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Chronicles 16:41",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "1 Chronicles 16:42",
+            "function": "catalog",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Chronicles 16:43",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Bringing the Ark to Jerusalem",
+            "start": "1 Chronicles 16:1",
+            "end": "1 Chronicles 16:43",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

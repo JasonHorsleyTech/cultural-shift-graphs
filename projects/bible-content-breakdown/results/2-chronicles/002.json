@@ -1,0 +1,113 @@
+{
+    "book": "2 Chronicles",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "2 Chr 2:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 2:2",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Chr 2:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 2:4",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Chr 2:5",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Chr 2:6",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Chr 2:7",
+            "function": "specifications",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Chr 2:8",
+            "function": "specifications"
+        },
+        {
+            "ref": "2 Chr 2:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chr 2:10",
+            "function": "specifications"
+        },
+        {
+            "ref": "2 Chr 2:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 2:12",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chr 2:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 2:14",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Chr 2:15",
+            "function": "specifications"
+        },
+        {
+            "ref": "2 Chr 2:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 2:17",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Chr 2:18",
+            "function": "catalog"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Solomon's Preparation for the Temple",
+            "start": "2 Chr 2:1",
+            "end": "2 Chr 2:18",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

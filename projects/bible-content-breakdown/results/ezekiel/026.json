@@ -1,0 +1,125 @@
+{
+    "book": "Ezekiel",
+    "chapter": 26,
+    "verses": [
+        {
+            "ref": "Ezek 26:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 26:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 26:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 26:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 26:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 26:6",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezek 26:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 26:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 26:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 26:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 26:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 26:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 26:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 26:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 26:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 26:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 26:17",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ezek 26:18",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ezek 26:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 26:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 26:21",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Judgment on Tyre",
+            "start": "Ezek 26:1",
+            "end": "Ezek 26:21",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 0.7
+                }
+            ]
+        }
+    ]
+}

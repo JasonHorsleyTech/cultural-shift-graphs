@@ -1,0 +1,370 @@
+{
+    "book": "Nehemiah",
+    "chapter": 7,
+    "verses": [
+        {
+            "ref": "Neh 7:1",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Neh 7:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Neh 7:3",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Neh 7:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 7:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Neh 7:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 7:7",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:8",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:9",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:10",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:11",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:12",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:13",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:14",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:15",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:16",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:17",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:18",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:19",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:20",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:21",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:22",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:23",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:24",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:25",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:26",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:27",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:28",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:29",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:30",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:31",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:32",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:33",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:34",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:35",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:36",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:37",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:38",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:39",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:40",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:41",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:42",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:43",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:44",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:45",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:46",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:47",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:48",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:49",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:50",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:51",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:52",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:53",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:54",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:55",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:56",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:57",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:58",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:59",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:60",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:61",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:62",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:63",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:64",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Neh 7:65",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Neh 7:66",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:67",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:68",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:69",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 7:70",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Neh 7:71",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Neh 7:72",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Neh 7:73",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Nehemiah Establishes Leadership and Security",
+            "start": "Neh 7:1",
+            "end": "Neh 7:4",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.2
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Census and Settlement of Returned Exiles",
+            "start": "Neh 7:5",
+            "end": "Neh 7:73",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

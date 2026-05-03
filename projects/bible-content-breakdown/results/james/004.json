@@ -1,0 +1,163 @@
+{
+    "book": "James",
+    "chapter": 4,
+    "verses": [
+        {
+            "ref": "James 4:1",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "James 4:2",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "James 4:3",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "James 4:4",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "James 4:5",
+            "function": "theological"
+        },
+        {
+            "ref": "James 4:6",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "James 4:7",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "James 4:8",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "James 4:9",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "James 4:10",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "James 4:11",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "James 4:12",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "James 4:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "James 4:14",
+            "function": "wisdom"
+        },
+        {
+            "ref": "James 4:15",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "James 4:16",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "James 4:17",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Source of Conflict and the Path to Grace",
+            "start": "James 4:1",
+            "end": "James 4:10",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Only God Judges",
+            "start": "James 4:11",
+            "end": "James 4:12",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Submission to God's Will",
+            "start": "James 4:13",
+            "end": "James 4:17",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "humility",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

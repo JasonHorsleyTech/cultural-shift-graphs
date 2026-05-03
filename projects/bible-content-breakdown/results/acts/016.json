@@ -1,0 +1,276 @@
+{
+    "book": "Acts",
+    "chapter": 16,
+    "verses": [
+        {
+            "ref": "Acts 16:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 16:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 16:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 16:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 16:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 16:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Acts 16:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Acts 16:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 16:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Acts 16:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 16:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 16:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 16:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 16:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 16:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 16:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 16:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 16:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 16:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 16:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 16:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 16:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 16:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 16:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 16:25",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 16:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 16:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 16:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 16:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 16:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 16:31",
+            "function": "theological"
+        },
+        {
+            "ref": "Acts 16:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 16:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 16:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 16:35",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 16:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 16:37",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 16:38",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 16:39",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 16:40",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Timothy Joins Paul",
+            "start": "Acts 16:1",
+            "end": "Acts 16:5",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "God Directs Paul to Macedonia",
+            "start": "Acts 16:6",
+            "end": "Acts 16:10",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Lydia's Conversion",
+            "start": "Acts 16:11",
+            "end": "Acts 16:15",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "generosity",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Jailer's Conversion",
+            "start": "Acts 16:16",
+            "end": "Acts 16:40",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

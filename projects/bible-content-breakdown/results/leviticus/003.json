@@ -1,0 +1,117 @@
+{
+    "book": "Leviticus",
+    "chapter": 3,
+    "verses": [
+        {
+            "ref": "Lev 3:1",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 3:2",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 3:3",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 3:4",
+            "function": "specifications",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Lev 3:5",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 3:6",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 3:7",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 3:8",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 3:9",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 3:10",
+            "function": "specifications",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Lev 3:11",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 3:12",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 3:13",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 3:14",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 3:15",
+            "function": "specifications",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Lev 3:16",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 3:17",
+            "function": "purity_dietary"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Peace-Offering Sacrifice Instruction",
+            "start": "Lev 3:1",
+            "end": "Lev 3:17",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

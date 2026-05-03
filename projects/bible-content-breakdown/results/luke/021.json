@@ -1,0 +1,230 @@
+{
+    "book": "Luke",
+    "chapter": 21,
+    "verses": [
+        {
+            "ref": "Luke 21:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 21:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 21:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 21:4",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 21:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 21:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 21:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 21:8",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Luke 21:9",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Luke 21:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 21:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 21:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 21:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 21:14",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 21:15",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 21:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 21:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 21:18",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 21:19",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Luke 21:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 21:21",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 21:22",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 21:23",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 21:24",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 21:25",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 21:26",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 21:27",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 21:28",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 21:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 21:30",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Luke 21:31",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 21:32",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 21:33",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 21:34",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Luke 21:35",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 21:36",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Luke 21:37",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 21:38",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Widow's Offering",
+            "start": "Luke 21:1",
+            "end": "Luke 21:4",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "generosity",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Jesus's Discourse on the End Times",
+            "start": "Luke 21:5",
+            "end": "Luke 21:36",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

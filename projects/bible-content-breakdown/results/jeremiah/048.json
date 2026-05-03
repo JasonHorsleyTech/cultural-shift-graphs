@@ -1,0 +1,289 @@
+{
+    "book": "Jeremiah",
+    "chapter": 48,
+    "verses": [
+        {
+            "ref": "Jer 48:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 48:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 48:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 48:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 48:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 48:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 48:7",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 48:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 48:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 48:10",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 48:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 48:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 48:13",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 48:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 48:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 48:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 48:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 48:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 48:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 48:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 48:21",
+            "function": "prophecy",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 48:22",
+            "function": "catalog",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 48:23",
+            "function": "catalog",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 48:24",
+            "function": "prophecy",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 48:25",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 48:26",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 48:27",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jer 48:28",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 48:29",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 48:30",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 48:31",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 48:32",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jer 48:33",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 48:34",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 48:35",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 48:36",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 48:37",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 48:38",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 48:39",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jer 48:40",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 48:41",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jer 48:42",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 48:43",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 48:44",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 48:45",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jer 48:46",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 48:47",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Judgment Against Moab",
+            "start": "Jer 48:1",
+            "end": "Jer 48:47",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 0.3
+                }
+            ]
+        }
+    ]
+}

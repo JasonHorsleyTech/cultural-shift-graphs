@@ -1,0 +1,199 @@
+{
+    "book": "Ecclesiastes",
+    "chapter": 3,
+    "verses": [
+        {
+            "ref": "Ecc 3:1",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 3:2",
+            "function": "wisdom",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ecc 3:3",
+            "function": "wisdom",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ecc 3:4",
+            "function": "wisdom",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ecc 3:5",
+            "function": "wisdom",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ecc 3:6",
+            "function": "wisdom",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ecc 3:7",
+            "function": "wisdom",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ecc 3:8",
+            "function": "wisdom",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ecc 3:9",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 3:10",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 3:11",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ecc 3:12",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 3:13",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 3:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Ecc 3:15",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ecc 3:16",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 3:17",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ecc 3:18",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ecc 3:19",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ecc 3:20",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 3:21",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ecc 3:22",
+            "function": "wisdom"
+        }
+    ],
+    "stories": [
+        {
+            "name": "A Time for Every Purpose",
+            "start": "Ecc 3:1",
+            "end": "Ecc 3:8",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "God's Design and Human Labor",
+            "start": "Ecc 3:9",
+            "end": "Ecc 3:15",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Mortality and the Search for Meaning",
+            "start": "Ecc 3:16",
+            "end": "Ecc 3:22",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "humility",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

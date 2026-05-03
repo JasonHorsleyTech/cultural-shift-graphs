@@ -1,0 +1,230 @@
+{
+    "book": "2 Kings",
+    "chapter": 23,
+    "verses": [
+        {
+            "ref": "2 Kgs 23:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kgs 23:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kgs 23:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Kgs 23:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kgs 23:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kgs 23:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kgs 23:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kgs 23:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kgs 23:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kgs 23:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kgs 23:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kgs 23:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kgs 23:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kgs 23:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kgs 23:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kgs 23:16",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Kgs 23:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kgs 23:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kgs 23:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kgs 23:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kgs 23:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "2 Kgs 23:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kgs 23:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kgs 23:24",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Kgs 23:25",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Kgs 23:26",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Kgs 23:27",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Kgs 23:28",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Kgs 23:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kgs 23:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kgs 23:31",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Kgs 23:32",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Kgs 23:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kgs 23:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kgs 23:35",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kgs 23:36",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Kgs 23:37",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Josiah's Covenant Renewal and Religious Reforms",
+            "start": "2 Kgs 23:1",
+            "end": "2 Kgs 23:27",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Josiah's Death and the Succession of Kings",
+            "start": "2 Kgs 23:28",
+            "end": "2 Kgs 23:37",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "book": "Psalms",
+    "chapter": 85,
+    "verses": [
+        {
+            "ref": "Ps 85:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 85:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 85:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 85:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 85:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 85:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 85:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 85:8",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 85:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ps 85:10",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 85:11",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 85:12",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 85:13",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Prayer for Restoration and God's Promised Peace",
+            "start": "Ps 85:1",
+            "end": "Ps 85:13",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

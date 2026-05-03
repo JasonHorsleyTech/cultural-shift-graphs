@@ -1,0 +1,77 @@
+{
+    "book": "Jonah",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "Jon 2:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jon 2:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Jon 2:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Jon 2:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Jon 2:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Jon 2:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Jon 2:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Jon 2:8",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jon 2:9",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jon 2:10",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jonah's Prayer and Deliverance",
+            "start": "Jon 2:1",
+            "end": "Jon 2:10",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

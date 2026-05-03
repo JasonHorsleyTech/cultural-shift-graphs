@@ -1,0 +1,214 @@
+{
+    "book": "Matthew",
+    "chapter": 7,
+    "verses": [
+        {
+            "ref": "Matt 7:1",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 7:2",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 7:3",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Matt 7:4",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Matt 7:5",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 7:6",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 7:7",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Matt 7:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Matt 7:9",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Matt 7:10",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Matt 7:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Matt 7:12",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 7:13",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 7:14",
+            "function": "prophecy",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 7:15",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 7:16",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Matt 7:17",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Matt 7:18",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Matt 7:19",
+            "function": "prophecy",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 7:20",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Matt 7:21",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Matt 7:22",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 7:23",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 7:24",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Matt 7:25",
+            "function": "narrative",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 7:26",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Matt 7:27",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 7:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 7:29",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Sermon on the Mount: Teaching on Righteousness, Faith, and Obedience",
+            "start": "Matt 7:1",
+            "end": "Matt 7:27",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Crowds' Amazement at Jesus's Teaching Authority",
+            "start": "Matt 7:28",
+            "end": "Matt 7:29",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

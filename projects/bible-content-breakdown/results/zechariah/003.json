@@ -1,0 +1,77 @@
+{
+    "book": "Zechariah",
+    "chapter": 3,
+    "verses": [
+        {
+            "ref": "Zech 3:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Zech 3:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Zech 3:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Zech 3:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.45
+            }
+        },
+        {
+            "ref": "Zech 3:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Zech 3:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Zech 3:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Zech 3:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 3:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 3:10",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Joshua's Cleansing and Restoration",
+            "start": "Zech 3:1",
+            "end": "Zech 3:10",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

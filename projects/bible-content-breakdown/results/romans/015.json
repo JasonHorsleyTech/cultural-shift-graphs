@@ -1,0 +1,223 @@
+{
+    "book": "Romans",
+    "chapter": 15,
+    "verses": [
+        {
+            "ref": "Rom 15:1",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Rom 15:2",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Rom 15:3",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Rom 15:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 15:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Rom 15:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Rom 15:7",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Rom 15:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 15:9",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rom 15:10",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Rom 15:11",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Rom 15:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rom 15:13",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Rom 15:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rom 15:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rom 15:16",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Rom 15:17",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 15:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rom 15:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rom 15:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rom 15:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rom 15:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rom 15:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rom 15:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rom 15:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rom 15:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rom 15:27",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Rom 15:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rom 15:29",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Rom 15:30",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Rom 15:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rom 15:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rom 15:33",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Mutual Support and Unity in Christ",
+            "start": "Rom 15:1",
+            "end": "Rom 15:13",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "generosity",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Paul's Apostolic Authority and Mission to the Gentiles",
+            "start": "Rom 15:14",
+            "end": "Rom 15:21",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faithfulness",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Paul's Journey and Request for Prayer Support",
+            "start": "Rom 15:22",
+            "end": "Rom 15:33",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.2
+                },
+                {
+                    "theme": "faithfulness",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

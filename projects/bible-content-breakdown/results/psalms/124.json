@@ -1,0 +1,69 @@
+{
+    "book": "Psalms",
+    "chapter": 124,
+    "verses": [
+        {
+            "ref": "Ps 124:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 124:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 124:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 124:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 124:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 124:6",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ps 124:7",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 124:8",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Deliverance from Enemies",
+            "start": "Ps 124:1",
+            "end": "Ps 124:8",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

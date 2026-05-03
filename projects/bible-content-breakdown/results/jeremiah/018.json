@@ -1,0 +1,171 @@
+{
+    "book": "Jeremiah",
+    "chapter": 18,
+    "verses": [
+        {
+            "ref": "Jer 18:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 18:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 18:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 18:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 18:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 18:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Jer 18:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Jer 18:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Jer 18:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Jer 18:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Jer 18:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jer 18:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 18:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 18:14",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 18:15",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jer 18:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 18:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 18:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 18:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 18:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 18:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 18:22",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 18:23",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Potter's House Vision",
+            "start": "Jer 18:1",
+            "end": "Jer 18:10",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "God's Warning to Judah",
+            "start": "Jer 18:11",
+            "end": "Jer 18:17",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Jeremiah's Persecution and Prayer",
+            "start": "Jer 18:18",
+            "end": "Jer 18:23",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

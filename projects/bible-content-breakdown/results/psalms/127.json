@@ -1,0 +1,57 @@
+{
+    "book": "Psalms",
+    "chapter": 127,
+    "verses": [
+        {
+            "ref": "Psalms 127:1",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Psalms 127:2",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Psalms 127:3",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalms 127:4",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Psalms 127:5",
+            "function": "wisdom"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Trust in God for Building, Protection, and Provision",
+            "start": "Psalms 127:1",
+            "end": "Psalms 127:5",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

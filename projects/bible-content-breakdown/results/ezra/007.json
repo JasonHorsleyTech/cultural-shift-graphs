@@ -1,0 +1,157 @@
+{
+    "book": "Ezra",
+    "chapter": 7,
+    "verses": [
+        {
+            "ref": "Ezra 7:1",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezra 7:2",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 7:3",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 7:4",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 7:5",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 7:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezra 7:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezra 7:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezra 7:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezra 7:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Ezra 7:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezra 7:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezra 7:13",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Ezra 7:14",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Ezra 7:15",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezra 7:16",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezra 7:17",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezra 7:18",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Ezra 7:19",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezra 7:20",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Ezra 7:21",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Ezra 7:22",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezra 7:23",
+            "function": "theological",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ezra 7:24",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Ezra 7:25",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Ezra 7:26",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Ezra 7:27",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ezra 7:28",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Ezra Returns and Receives Commission",
+            "start": "Ezra 7:1",
+            "end": "Ezra 7:28",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

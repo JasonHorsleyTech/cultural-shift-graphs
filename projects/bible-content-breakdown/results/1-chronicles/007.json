@@ -1,0 +1,193 @@
+{
+    "book": "1 Chronicles",
+    "chapter": 7,
+    "verses": [
+        {
+            "ref": "1 Chr 7:1",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 7:2",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 7:3",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 7:4",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 7:5",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 7:6",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 7:7",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 7:8",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 7:9",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 7:10",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 7:11",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 7:12",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 7:13",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 7:14",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 7:15",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 7:16",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 7:17",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 7:18",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 7:19",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 7:20",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 7:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Chr 7:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 7:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 7:24",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Chr 7:25",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 7:26",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 7:27",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 7:28",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 7:29",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 7:30",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 7:31",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 7:32",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 7:33",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 7:34",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 7:35",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 7:36",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 7:37",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 7:38",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 7:39",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 7:40",
+            "function": "catalog"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Birth of Beriah",
+            "start": "1 Chr 7:21",
+            "end": "1 Chr 7:23",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                }
+            ]
+        }
+    ]
+}

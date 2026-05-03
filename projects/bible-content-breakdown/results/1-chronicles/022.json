@@ -1,0 +1,137 @@
+{
+    "book": "1 Chronicles",
+    "chapter": 22,
+    "verses": [
+        {
+            "ref": "1 Chr 22:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 22:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 22:3",
+            "function": "specifications",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Chr 22:4",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Chr 22:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 22:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 22:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 22:8",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Chr 22:9",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Chr 22:10",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Chr 22:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Chr 22:12",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Chr 22:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Chr 22:14",
+            "function": "specifications",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Chr 22:15",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.1
+            }
+        },
+        {
+            "ref": "1 Chr 22:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 22:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 22:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Chr 22:19",
+            "function": "moral_instruction"
+        }
+    ],
+    "stories": [
+        {
+            "name": "David's Temple Preparation and Charge to Solomon",
+            "start": "1 Chr 22:1",
+            "end": "1 Chr 22:19",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

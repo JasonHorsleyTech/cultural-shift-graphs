@@ -1,0 +1,374 @@
+{
+    "book": "John",
+    "chapter": 8,
+    "verses": [
+        {
+            "ref": "John 8:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 8:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 8:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 8:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 8:5",
+            "function": "civil_law",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 8:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 8:7",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 8:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 8:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 8:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 8:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "John 8:12",
+            "function": "theological"
+        },
+        {
+            "ref": "John 8:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 8:14",
+            "function": "theological"
+        },
+        {
+            "ref": "John 8:15",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "John 8:16",
+            "function": "theological"
+        },
+        {
+            "ref": "John 8:17",
+            "function": "civil_law",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 8:18",
+            "function": "theological"
+        },
+        {
+            "ref": "John 8:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "John 8:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 8:21",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "John 8:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 8:23",
+            "function": "theological"
+        },
+        {
+            "ref": "John 8:24",
+            "function": "theological"
+        },
+        {
+            "ref": "John 8:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 8:26",
+            "function": "theological"
+        },
+        {
+            "ref": "John 8:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 8:28",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "John 8:29",
+            "function": "theological"
+        },
+        {
+            "ref": "John 8:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 8:31",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 8:32",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 8:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 8:34",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "John 8:35",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "John 8:36",
+            "function": "theological"
+        },
+        {
+            "ref": "John 8:37",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "John 8:38",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 8:39",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "John 8:40",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 8:41",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 8:42",
+            "function": "theological"
+        },
+        {
+            "ref": "John 8:43",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "John 8:44",
+            "function": "theological"
+        },
+        {
+            "ref": "John 8:45",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 8:46",
+            "function": "theological"
+        },
+        {
+            "ref": "John 8:47",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 8:48",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 8:49",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 8:50",
+            "function": "theological"
+        },
+        {
+            "ref": "John 8:51",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "John 8:52",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 8:53",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 8:54",
+            "function": "theological"
+        },
+        {
+            "ref": "John 8:55",
+            "function": "theological"
+        },
+        {
+            "ref": "John 8:56",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 8:57",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 8:58",
+            "function": "theological"
+        },
+        {
+            "ref": "John 8:59",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Woman Caught in Adultery",
+            "start": "John 8:1",
+            "end": "John 8:11",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Jesus Teaches on Identity and Truth",
+            "start": "John 8:12",
+            "end": "John 8:59",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

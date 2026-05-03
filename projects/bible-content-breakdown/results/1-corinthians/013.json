@@ -1,0 +1,113 @@
+{
+    "book": "1 Corinthians",
+    "chapter": 13,
+    "verses": [
+        {
+            "ref": "1 Cor 13:1",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Cor 13:2",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Cor 13:3",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Cor 13:4",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Cor 13:5",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "1 Cor 13:6",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 13:7",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "1 Cor 13:8",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 13:9",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 13:10",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 13:11",
+            "function": "wisdom",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Cor 13:12",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "1 Cor 13:13",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.25
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Supremacy and Nature of Love",
+            "start": "1 Cor 13:1",
+            "end": "1 Cor 13:13",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

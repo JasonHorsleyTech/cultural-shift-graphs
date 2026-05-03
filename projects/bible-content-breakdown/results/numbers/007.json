@@ -1,0 +1,389 @@
+{
+    "book": "Numbers",
+    "chapter": 7,
+    "verses": [
+        {
+            "ref": "Num 7:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 7:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 7:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Num 7:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 7:5",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 7:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 7:7",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:8",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:9",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 7:11",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 7:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 7:13",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:14",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:15",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:16",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:17",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 7:19",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:20",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:21",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:22",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:23",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 7:25",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:26",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:27",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:28",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:29",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 7:31",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:32",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:33",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:34",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:35",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 7:37",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:38",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:39",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:40",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:41",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:42",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 7:43",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:44",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:45",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:46",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:47",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:48",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 7:49",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:50",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:51",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:52",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:53",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:54",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 7:55",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:56",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:57",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:58",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:59",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:60",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 7:61",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:62",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:63",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:64",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:65",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:66",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 7:67",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:68",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:69",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:70",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:71",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:72",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 7:73",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:74",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:75",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:76",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:77",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:78",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 7:79",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:80",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:81",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:82",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:83",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:84",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:85",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:86",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 7:87",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 7:88",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 7:89",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Dedication of the Tabernacle and Altar",
+            "start": "Num 7:1",
+            "end": "Num 7:89",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,183 @@
+{
+    "book": "Deuteronomy",
+    "chapter": 18,
+    "verses": [
+        {
+            "ref": "Deut 18:1",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 18:2",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 18:3",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Deut 18:4",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 18:5",
+            "function": "theological",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 18:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 18:7",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 18:8",
+            "function": "civil_law",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 18:9",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 18:10",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 18:11",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 18:12",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Deut 18:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 18:14",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 18:15",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Deut 18:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 18:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 18:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Deut 18:19",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 18:20",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 18:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 18:22",
+            "function": "moral_instruction"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Levitical Priests' Support and Inheritance",
+            "start": "Deut 18:1",
+            "end": "Deut 18:8",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Prohibition Against Occult Practices",
+            "start": "Deut 18:9",
+            "end": "Deut 18:14",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Promise of a Prophet Like Moses",
+            "start": "Deut 18:15",
+            "end": "Deut 18:22",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

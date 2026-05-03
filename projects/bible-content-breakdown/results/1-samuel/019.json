@@ -1,0 +1,200 @@
+{
+    "book": "1 Samuel",
+    "chapter": 19,
+    "verses": [
+        {
+            "ref": "1 Sam 19:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 19:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 19:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 19:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "1 Sam 19:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "1 Sam 19:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 19:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 19:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 19:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Sam 19:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 19:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 19:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 19:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 19:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 19:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 19:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 19:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 19:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 19:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 19:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "1 Sam 19:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "1 Sam 19:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 19:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "1 Sam 19:24",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.5
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jonathan Defends David",
+            "start": "1 Sam 19:1",
+            "end": "1 Sam 19:7",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Saul's Jealous Attack",
+            "start": "1 Sam 19:8",
+            "end": "1 Sam 19:10",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Michal Helps David Escape",
+            "start": "1 Sam 19:11",
+            "end": "1 Sam 19:17",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "God Stops Saul at Naioth",
+            "start": "1 Sam 19:18",
+            "end": "1 Sam 19:24",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,248 @@
+{
+    "book": "Revelation",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "Rev 2:1",
+            "function": "theological"
+        },
+        {
+            "ref": "Rev 2:2",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rev 2:3",
+            "function": "theological"
+        },
+        {
+            "ref": "Rev 2:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Rev 2:5",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Rev 2:6",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Rev 2:7",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "Rev 2:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Rev 2:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Rev 2:10",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.45
+            }
+        },
+        {
+            "ref": "Rev 2:11",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.1
+            }
+        },
+        {
+            "ref": "Rev 2:12",
+            "function": "theological"
+        },
+        {
+            "ref": "Rev 2:13",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Rev 2:14",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Rev 2:15",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Rev 2:16",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Rev 2:17",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "Rev 2:18",
+            "function": "theological"
+        },
+        {
+            "ref": "Rev 2:19",
+            "function": "theological"
+        },
+        {
+            "ref": "Rev 2:20",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Rev 2:21",
+            "function": "theological"
+        },
+        {
+            "ref": "Rev 2:22",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Rev 2:23",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 2:24",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Rev 2:25",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Rev 2:26",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 2:27",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 2:28",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Rev 2:29",
+            "function": "moral_instruction"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Message to Ephesus",
+            "start": "Rev 2:1",
+            "end": "Rev 2:7",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Message to Smyrna",
+            "start": "Rev 2:8",
+            "end": "Rev 2:11",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Message to Pergamum",
+            "start": "Rev 2:12",
+            "end": "Rev 2:17",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "sexual_purity",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Message to Thyatira",
+            "start": "Rev 2:18",
+            "end": "Rev 2:29",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "sexual_purity",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

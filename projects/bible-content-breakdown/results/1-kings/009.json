@@ -1,0 +1,220 @@
+{
+    "book": "1 Kings",
+    "chapter": 9,
+    "verses": [
+        {
+            "ref": "1 Kings 9:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 9:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 9:3",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Kings 9:4",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Kings 9:5",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Kings 9:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Kings 9:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Kings 9:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Kings 9:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Kings 9:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 9:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 9:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 9:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 9:14",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kings 9:15",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kings 9:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 9:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 9:18",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kings 9:19",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kings 9:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Kings 9:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Kings 9:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 9:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Kings 9:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 9:25",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Kings 9:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 9:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 9:28",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Covenant Promise and Warning to Solomon",
+            "start": "1 Kings 9:1",
+            "end": "1 Kings 9:9",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Solomon's Exchange with King Hiram",
+            "start": "1 Kings 9:10",
+            "end": "1 Kings 9:14",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Solomon's Extensive Building Program",
+            "start": "1 Kings 9:15",
+            "end": "1 Kings 9:25",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Solomon's Maritime Trade Expedition",
+            "start": "1 Kings 9:26",
+            "end": "1 Kings 9:28",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.6
+                }
+            ]
+        }
+    ]
+}

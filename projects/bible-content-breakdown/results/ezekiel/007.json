@@ -1,0 +1,161 @@
+{
+    "book": "Ezekiel",
+    "chapter": 7,
+    "verses": [
+        {
+            "ref": "Ezekiel 7:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 7:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 7:3",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezekiel 7:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 7:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 7:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 7:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 7:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 7:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 7:10",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezekiel 7:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 7:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 7:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 7:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 7:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 7:16",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ezekiel 7:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 7:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 7:19",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezekiel 7:20",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ezekiel 7:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 7:22",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 7:23",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Ezekiel 7:24",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 7:25",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 7:26",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 7:27",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Judgment on Israel for Idolatry and Violence",
+            "start": "Ezekiel 7:1",
+            "end": "Ezekiel 7:27",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

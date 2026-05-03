@@ -1,0 +1,298 @@
+{
+    "book": "Numbers",
+    "chapter": 33,
+    "verses": [
+        {
+            "ref": "Num 33:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 33:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 33:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 33:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Num 33:5",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 33:6",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 33:7",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 33:8",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Num 33:9",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 33:10",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 33:11",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 33:12",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 33:13",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 33:14",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 33:15",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 33:16",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 33:17",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 33:18",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 33:19",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 33:20",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 33:21",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 33:22",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 33:23",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 33:24",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 33:25",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 33:26",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 33:27",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 33:28",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 33:29",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 33:30",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 33:31",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 33:32",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 33:33",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 33:34",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 33:35",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 33:36",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 33:37",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 33:38",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 33:39",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 33:40",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 33:41",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 33:42",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 33:43",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 33:44",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 33:45",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 33:46",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 33:47",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 33:48",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 33:49",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 33:50",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 33:51",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Num 33:52",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Num 33:53",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 33:54",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Num 33:55",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "consequences",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Num 33:56",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Exodus Journey from Egypt to Moab",
+            "start": "Num 33:1",
+            "end": "Num 33:49",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.6
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Instructions for Conquest and Division of Canaan",
+            "start": "Num 33:50",
+            "end": "Num 33:56",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.7
+                }
+            ]
+        }
+    ]
+}

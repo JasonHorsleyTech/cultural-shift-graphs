@@ -1,0 +1,185 @@
+{
+    "book": "Job",
+    "chapter": 29,
+    "verses": [
+        {
+            "ref": "Job 29:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 29:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 29:3",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 29:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 29:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 29:6",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Job 29:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 29:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 29:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 29:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 29:11",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 29:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Job 29:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 29:14",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Job 29:15",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Job 29:16",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Job 29:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 29:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 29:19",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 29:20",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 29:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 29:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 29:23",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 29:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 29:25",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Job Recounts His Former Prosperity and Righteousness",
+            "start": "Job 29:1",
+            "end": "Job 29:25",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "humility",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "book": "2 Peter",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "2 Pet 2:1",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Pet 2:2",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Pet 2:3",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Pet 2:4",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Pet 2:5",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Pet 2:6",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Pet 2:7",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Pet 2:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Pet 2:9",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Pet 2:10",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Pet 2:11",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Pet 2:12",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Pet 2:13",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Pet 2:14",
+            "function": "theological",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Pet 2:15",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Pet 2:16",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Pet 2:17",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Pet 2:18",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Pet 2:19",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "2 Pet 2:20",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Pet 2:21",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Pet 2:22",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Judgment on False Teachers",
+            "start": "2 Pet 2:1",
+            "end": "2 Pet 2:22",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,230 @@
+{
+    "book": "2 Corinthians",
+    "chapter": 1,
+    "verses": [
+        {
+            "ref": "2Cor 1:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Cor 1:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "2Cor 1:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "2Cor 1:4",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "2Cor 1:5",
+            "function": "theological"
+        },
+        {
+            "ref": "2Cor 1:6",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2Cor 1:7",
+            "function": "theological"
+        },
+        {
+            "ref": "2Cor 1:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Cor 1:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Cor 1:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2Cor 1:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Cor 1:12",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2Cor 1:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Cor 1:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Cor 1:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Cor 1:16",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2Cor 1:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "2Cor 1:18",
+            "function": "theological"
+        },
+        {
+            "ref": "2Cor 1:19",
+            "function": "theological"
+        },
+        {
+            "ref": "2Cor 1:20",
+            "function": "theological"
+        },
+        {
+            "ref": "2Cor 1:21",
+            "function": "theological"
+        },
+        {
+            "ref": "2Cor 1:22",
+            "function": "theological"
+        },
+        {
+            "ref": "2Cor 1:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Cor 1:24",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Letter Opening",
+            "start": "2Cor 1:1",
+            "end": "2Cor 1:2",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "God's Comfort in Affliction",
+            "start": "2Cor 1:3",
+            "end": "2Cor 1:7",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Paul's Testimony: Affliction and Deliverance in Asia",
+            "start": "2Cor 1:8",
+            "end": "2Cor 1:11",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Paul's Apostolic Integrity and Consistency",
+            "start": "2Cor 1:12",
+            "end": "2Cor 1:17",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "God's Faithfulness in Christ",
+            "start": "2Cor 1:18",
+            "end": "2Cor 1:22",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Pastoral Relationship",
+            "start": "2Cor 1:23",
+            "end": "2Cor 1:24",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

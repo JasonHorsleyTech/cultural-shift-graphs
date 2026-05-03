@@ -1,0 +1,182 @@
+{
+    "book": "2 Chronicles",
+    "chapter": 7,
+    "verses": [
+        {
+            "ref": "2 Chr 7:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 7:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 7:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "2 Chr 7:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 7:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chr 7:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Chr 7:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "2 Chr 7:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 7:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 7:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 7:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 7:12",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Chr 7:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Chr 7:14",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "2 Chr 7:15",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "2 Chr 7:16",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "2 Chr 7:17",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "2 Chr 7:18",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Chr 7:19",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "2 Chr 7:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Chr 7:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Chr 7:22",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Temple Dedication Ceremony",
+            "start": "2 Chr 7:1",
+            "end": "2 Chr 7:10",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "God's Covenant Promise to Solomon",
+            "start": "2 Chr 7:11",
+            "end": "2 Chr 7:22",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

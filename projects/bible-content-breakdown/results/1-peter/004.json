@@ -1,0 +1,175 @@
+{
+    "book": "1 Peter",
+    "chapter": 4,
+    "verses": [
+        {
+            "ref": "1 Peter 4:1",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Peter 4:2",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Peter 4:3",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Peter 4:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Peter 4:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Peter 4:6",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Peter 4:7",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Peter 4:8",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Peter 4:9",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Peter 4:10",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Peter 4:11",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Peter 4:12",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Peter 4:13",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Peter 4:14",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Peter 4:15",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Peter 4:16",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Peter 4:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Peter 4:18",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Peter 4:19",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Christ's Suffering as the Model",
+            "start": "1 Peter 4:1",
+            "end": "1 Peter 4:6",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Christian Community and Faithfulness",
+            "start": "1 Peter 4:7",
+            "end": "1 Peter 4:11",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 1.2
+                },
+                {
+                    "theme": "generosity",
+                    "weight": 1.1
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Rejoicing in Persecution",
+            "start": "1 Peter 4:12",
+            "end": "1 Peter 4:19",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "courage",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.3
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "book": "Psalms",
+    "chapter": 64,
+    "verses": [
+        {
+            "ref": "Psalm 64:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 64:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 64:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalm 64:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalm 64:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalm 64:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Psalm 64:7",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalm 64:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Psalm 64:9",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalm 64:10",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Deliverance from Deceitful Enemies",
+            "start": "Psalm 64:1",
+            "end": "Psalm 64:10",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

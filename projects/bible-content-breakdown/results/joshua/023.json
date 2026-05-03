@@ -1,0 +1,113 @@
+{
+    "book": "Joshua",
+    "chapter": 23,
+    "verses": [
+        {
+            "ref": "Josh 23:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 23:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 23:3",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Josh 23:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 23:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Josh 23:6",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Josh 23:7",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Josh 23:8",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Josh 23:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Josh 23:10",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Josh 23:11",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Josh 23:12",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Josh 23:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Josh 23:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Josh 23:15",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Josh 23:16",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Joshua's Farewell to Israel",
+            "start": "Josh 23:1",
+            "end": "Josh 23:16",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

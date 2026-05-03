@@ -1,0 +1,121 @@
+{
+    "book": "Psalms",
+    "chapter": 80,
+    "verses": [
+        {
+            "ref": "Psalm 80:1",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalm 80:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 80:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 80:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 80:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 80:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 80:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 80:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Psalm 80:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Psalm 80:10",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 80:11",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 80:12",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 80:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Psalm 80:14",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 80:15",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 80:16",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 80:17",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 80:18",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 80:19",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Lament for Israel's Restoration",
+            "start": "Psalm 80:1",
+            "end": "Psalm 80:19",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

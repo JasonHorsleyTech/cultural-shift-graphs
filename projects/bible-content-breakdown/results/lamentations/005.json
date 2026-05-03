@@ -1,0 +1,129 @@
+{
+    "book": "Lamentations",
+    "chapter": 5,
+    "verses": [
+        {
+            "ref": "Lam 5:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Lam 5:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lam 5:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lam 5:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lam 5:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lam 5:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lam 5:7",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lam 5:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lam 5:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lam 5:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lam 5:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lam 5:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lam 5:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lam 5:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lam 5:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lam 5:16",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Lam 5:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lam 5:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lam 5:19",
+            "function": "theological"
+        },
+        {
+            "ref": "Lam 5:20",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lam 5:21",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Lam 5:22",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Lament for Jerusalem's Destruction",
+            "start": "Lam 5:1",
+            "end": "Lam 5:22",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences_of_sin",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

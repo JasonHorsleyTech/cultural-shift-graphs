@@ -1,0 +1,237 @@
+{
+    "book": "Matthew",
+    "chapter": 23,
+    "verses": [
+        {
+            "ref": "Matt 23:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 23:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 23:3",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 23:4",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 23:5",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 23:6",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 23:7",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 23:8",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 23:9",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 23:10",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 23:11",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 23:12",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Matt 23:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 23:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 23:16",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 23:17",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 23:18",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 23:19",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 23:20",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 23:21",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 23:22",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 23:23",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Matt 23:24",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Matt 23:25",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 23:26",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 23:27",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 23:28",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 23:29",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 23:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 23:31",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 23:32",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 23:33",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 23:34",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 23:35",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 23:36",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 23:37",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 23:38",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 23:39",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jesus Condemns the Pharisees and Laments Over Jerusalem",
+            "start": "Matt 23:1",
+            "end": "Matt 23:39",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "hypocrisy",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

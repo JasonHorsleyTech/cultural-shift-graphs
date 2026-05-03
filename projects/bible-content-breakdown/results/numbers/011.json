@@ -1,0 +1,197 @@
+{
+    "book": "Numbers",
+    "chapter": 11,
+    "verses": [
+        {
+            "ref": "Num 11:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 11:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 11:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 11:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 11:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 11:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 11:7",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 11:8",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 11:9",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 11:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 11:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 11:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 11:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 11:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 11:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 11:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 11:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Num 11:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 11:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 11:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 11:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 11:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 11:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Num 11:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 11:25",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 11:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 11:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 11:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 11:29",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Num 11:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 11:31",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Num 11:32",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Num 11:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 11:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 11:35",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Journey from Sinai",
+            "start": "Num 11:1",
+            "end": "Num 11:35",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

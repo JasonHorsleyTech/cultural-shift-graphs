@@ -1,0 +1,141 @@
+{
+    "book": "Nehemiah",
+    "chapter": 5,
+    "verses": [
+        {
+            "ref": "Neh 5:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 5:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 5:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 5:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 5:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Neh 5:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 5:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Neh 5:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Neh 5:9",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Neh 5:10",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Neh 5:11",
+            "function": "civil_law",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Neh 5:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 5:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Neh 5:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Neh 5:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Neh 5:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 5:17",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 5:18",
+            "function": "specifications",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Neh 5:19",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Nehemiah's Just and Selfless Governance",
+            "start": "Neh 5:1",
+            "end": "Neh 5:19",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

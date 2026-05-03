@@ -1,0 +1,173 @@
+{
+    "book": "Exodus",
+    "chapter": 14,
+    "verses": [
+        {
+            "ref": "Exo 14:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 14:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 14:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 14:4",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exo 14:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 14:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 14:7",
+            "function": "catalog"
+        },
+        {
+            "ref": "Exo 14:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 14:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 14:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 14:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 14:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 14:13",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Exo 14:14",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exo 14:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 14:16",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exo 14:17",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exo 14:18",
+            "function": "theological"
+        },
+        {
+            "ref": "Exo 14:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 14:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 14:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 14:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 14:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 14:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 14:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 14:26",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exo 14:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 14:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 14:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 14:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 14:31",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Parting of the Red Sea",
+            "start": "Exo 14:1",
+            "end": "Exo 14:31",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,290 @@
+{
+    "book": "Joshua",
+    "chapter": 15,
+    "verses": [
+        {
+            "ref": "Joshua 15:1",
+            "function": "specifications"
+        },
+        {
+            "ref": "Joshua 15:2",
+            "function": "specifications"
+        },
+        {
+            "ref": "Joshua 15:3",
+            "function": "specifications"
+        },
+        {
+            "ref": "Joshua 15:4",
+            "function": "specifications"
+        },
+        {
+            "ref": "Joshua 15:5",
+            "function": "specifications"
+        },
+        {
+            "ref": "Joshua 15:6",
+            "function": "specifications"
+        },
+        {
+            "ref": "Joshua 15:7",
+            "function": "specifications"
+        },
+        {
+            "ref": "Joshua 15:8",
+            "function": "specifications"
+        },
+        {
+            "ref": "Joshua 15:9",
+            "function": "specifications"
+        },
+        {
+            "ref": "Joshua 15:10",
+            "function": "specifications"
+        },
+        {
+            "ref": "Joshua 15:11",
+            "function": "specifications"
+        },
+        {
+            "ref": "Joshua 15:12",
+            "function": "specifications"
+        },
+        {
+            "ref": "Joshua 15:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Joshua 15:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Joshua 15:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Joshua 15:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Joshua 15:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Joshua 15:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Joshua 15:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Joshua 15:20",
+            "function": "catalog"
+        },
+        {
+            "ref": "Joshua 15:21",
+            "function": "catalog"
+        },
+        {
+            "ref": "Joshua 15:22",
+            "function": "catalog"
+        },
+        {
+            "ref": "Joshua 15:23",
+            "function": "catalog"
+        },
+        {
+            "ref": "Joshua 15:24",
+            "function": "catalog"
+        },
+        {
+            "ref": "Joshua 15:25",
+            "function": "catalog"
+        },
+        {
+            "ref": "Joshua 15:26",
+            "function": "catalog"
+        },
+        {
+            "ref": "Joshua 15:27",
+            "function": "catalog"
+        },
+        {
+            "ref": "Joshua 15:28",
+            "function": "catalog"
+        },
+        {
+            "ref": "Joshua 15:29",
+            "function": "catalog"
+        },
+        {
+            "ref": "Joshua 15:30",
+            "function": "catalog"
+        },
+        {
+            "ref": "Joshua 15:31",
+            "function": "catalog"
+        },
+        {
+            "ref": "Joshua 15:32",
+            "function": "catalog"
+        },
+        {
+            "ref": "Joshua 15:33",
+            "function": "catalog"
+        },
+        {
+            "ref": "Joshua 15:34",
+            "function": "catalog"
+        },
+        {
+            "ref": "Joshua 15:35",
+            "function": "catalog"
+        },
+        {
+            "ref": "Joshua 15:36",
+            "function": "catalog"
+        },
+        {
+            "ref": "Joshua 15:37",
+            "function": "catalog"
+        },
+        {
+            "ref": "Joshua 15:38",
+            "function": "catalog"
+        },
+        {
+            "ref": "Joshua 15:39",
+            "function": "catalog"
+        },
+        {
+            "ref": "Joshua 15:40",
+            "function": "catalog"
+        },
+        {
+            "ref": "Joshua 15:41",
+            "function": "catalog"
+        },
+        {
+            "ref": "Joshua 15:42",
+            "function": "catalog"
+        },
+        {
+            "ref": "Joshua 15:43",
+            "function": "catalog"
+        },
+        {
+            "ref": "Joshua 15:44",
+            "function": "catalog"
+        },
+        {
+            "ref": "Joshua 15:45",
+            "function": "catalog"
+        },
+        {
+            "ref": "Joshua 15:46",
+            "function": "catalog"
+        },
+        {
+            "ref": "Joshua 15:47",
+            "function": "catalog"
+        },
+        {
+            "ref": "Joshua 15:48",
+            "function": "catalog"
+        },
+        {
+            "ref": "Joshua 15:49",
+            "function": "catalog"
+        },
+        {
+            "ref": "Joshua 15:50",
+            "function": "catalog"
+        },
+        {
+            "ref": "Joshua 15:51",
+            "function": "catalog"
+        },
+        {
+            "ref": "Joshua 15:52",
+            "function": "catalog"
+        },
+        {
+            "ref": "Joshua 15:53",
+            "function": "catalog"
+        },
+        {
+            "ref": "Joshua 15:54",
+            "function": "catalog"
+        },
+        {
+            "ref": "Joshua 15:55",
+            "function": "catalog"
+        },
+        {
+            "ref": "Joshua 15:56",
+            "function": "catalog"
+        },
+        {
+            "ref": "Joshua 15:57",
+            "function": "catalog"
+        },
+        {
+            "ref": "Joshua 15:58",
+            "function": "catalog"
+        },
+        {
+            "ref": "Joshua 15:59",
+            "function": "catalog"
+        },
+        {
+            "ref": "Joshua 15:60",
+            "function": "catalog"
+        },
+        {
+            "ref": "Joshua 15:61",
+            "function": "catalog"
+        },
+        {
+            "ref": "Joshua 15:62",
+            "function": "catalog"
+        },
+        {
+            "ref": "Joshua 15:63",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Caleb's Conquest of His Inheritance",
+            "start": "Joshua 15:13",
+            "end": "Joshua 15:19",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Jebusites in Jerusalem",
+            "start": "Joshua 15:63",
+            "end": "Joshua 15:63",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

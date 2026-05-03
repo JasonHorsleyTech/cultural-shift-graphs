@@ -1,0 +1,145 @@
+{
+    "book": "Lamentations",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "Lam 2:1",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Lam 2:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lam 2:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lam 2:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lam 2:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lam 2:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lam 2:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lam 2:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lam 2:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lam 2:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lam 2:11",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Lam 2:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lam 2:13",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Lam 2:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Lam 2:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lam 2:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lam 2:17",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lam 2:18",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Lam 2:19",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Lam 2:20",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Lam 2:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lam 2:22",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jerusalem's Destruction and Lament",
+            "start": "Lam 2:1",
+            "end": "Lam 2:22",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

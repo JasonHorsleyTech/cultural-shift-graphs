@@ -1,0 +1,225 @@
+{
+    "book": "Job",
+    "chapter": 31,
+    "verses": [
+        {
+            "ref": "Job 31:1",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Job 31:2",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 31:3",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 31:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 31:5",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Job 31:6",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Job 31:7",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Job 31:8",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 31:9",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Job 31:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Job 31:11",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 31:12",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 31:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Job 31:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 31:15",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 31:16",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Job 31:17",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Job 31:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Job 31:19",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Job 31:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Job 31:21",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Job 31:22",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Job 31:23",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 31:24",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 31:25",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Job 31:26",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 31:27",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Job 31:28",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 31:29",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Job 31:30",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Job 31:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 31:32",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Job 31:33",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Job 31:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 31:35",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Job 31:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 31:37",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 31:38",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 31:39",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Job 31:40",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Job's Lament: From Honored Benefactor to Despised Sufferer",
+            "start": "Job 31:1",
+            "end": "Job 31:40",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

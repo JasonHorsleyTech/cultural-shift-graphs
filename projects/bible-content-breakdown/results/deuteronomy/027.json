@@ -1,0 +1,197 @@
+{
+    "book": "Deuteronomy",
+    "chapter": 27,
+    "verses": [
+        {
+            "ref": "Deut 27:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 27:2",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 27:3",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 27:4",
+            "function": "specifications"
+        },
+        {
+            "ref": "Deut 27:5",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 27:6",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 27:7",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 27:8",
+            "function": "specifications"
+        },
+        {
+            "ref": "Deut 27:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Deut 27:10",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 27:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 27:12",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Deut 27:13",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Deut 27:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 27:15",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 27:16",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 27:17",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 27:18",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 27:19",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 27:20",
+            "function": "sexual_marital",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Deut 27:21",
+            "function": "sexual_marital",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Deut 27:22",
+            "function": "sexual_marital",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Deut 27:23",
+            "function": "sexual_marital",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Deut 27:24",
+            "function": "civil_law",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 27:25",
+            "function": "civil_law",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 27:26",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Covenant Ceremony Instructions at Mount Ebal",
+            "start": "Deut 27:1",
+            "end": "Deut 27:26",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 0.5
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

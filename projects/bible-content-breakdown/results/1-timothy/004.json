@@ -1,0 +1,113 @@
+{
+    "book": "1 Timothy",
+    "chapter": 4,
+    "verses": [
+        {
+            "ref": "1Tim 4:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1Tim 4:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1Tim 4:3",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1Tim 4:4",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1Tim 4:5",
+            "function": "theological"
+        },
+        {
+            "ref": "1Tim 4:6",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1Tim 4:7",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1Tim 4:8",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1Tim 4:9",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1Tim 4:10",
+            "function": "theological"
+        },
+        {
+            "ref": "1Tim 4:11",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1Tim 4:12",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1Tim 4:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1Tim 4:14",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1Tim 4:15",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1Tim 4:16",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Paul Instructs Timothy on False Teachers and Sound Doctrine",
+            "start": "1Tim 4:1",
+            "end": "1Tim 4:16",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

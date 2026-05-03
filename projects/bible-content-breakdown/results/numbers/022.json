@@ -1,0 +1,217 @@
+{
+    "book": "Numbers",
+    "chapter": 22,
+    "verses": [
+        {
+            "ref": "Num 22:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 22:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 22:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 22:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 22:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 22:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 22:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 22:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 22:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 22:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 22:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 22:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 22:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 22:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 22:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 22:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 22:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 22:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Num 22:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 22:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 22:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 22:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 22:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 22:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 22:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 22:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 22:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 22:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 22:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 22:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 22:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 22:32",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 22:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 22:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 22:35",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 22:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 22:37",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 22:38",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 22:39",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 22:40",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 22:41",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Balak and Balaam",
+            "start": "Num 22:1",
+            "end": "Num 22:41",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

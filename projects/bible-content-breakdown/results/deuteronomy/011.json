@@ -1,0 +1,217 @@
+{
+    "book": "Deuteronomy",
+    "chapter": 11,
+    "verses": [
+        {
+            "ref": "Deut 11:1",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 11:2",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 11:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 11:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 11:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 11:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 11:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 11:8",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 11:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 11:10",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 11:11",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 11:12",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 11:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 11:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 11:15",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 11:16",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 11:17",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 11:18",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 11:19",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 11:20",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 11:21",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 11:22",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 11:23",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 11:24",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Deut 11:25",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 11:26",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 11:27",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 11:28",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 11:29",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 11:30",
+            "function": "catalog"
+        },
+        {
+            "ref": "Deut 11:31",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 11:32",
+            "function": "moral_instruction"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Moses Teaches the Covenant Choice",
+            "start": "Deut 11:1",
+            "end": "Deut 11:32",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,236 @@
+{
+    "book": "John",
+    "chapter": 20,
+    "verses": [
+        {
+            "ref": "John 20:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 20:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 20:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 20:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 20:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 20:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 20:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 20:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 20:9",
+            "function": "theological"
+        },
+        {
+            "ref": "John 20:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 20:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 20:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 20:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 20:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 20:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 20:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 20:17",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 20:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 20:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 20:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 20:21",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 20:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "John 20:23",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 20:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 20:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 20:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 20:27",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 20:28",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "John 20:29",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "John 20:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 20:31",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Empty Tomb Discovery",
+            "start": "John 20:1",
+            "end": "John 20:10",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.7
+                }
+            ]
+        },
+        {
+            "name": "Mary Magdalene's Encounter with the Risen Jesus",
+            "start": "John 20:11",
+            "end": "John 20:18",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Disciples' First Encounter with the Risen Jesus",
+            "start": "John 20:19",
+            "end": "John 20:23",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Thomas's Doubt and Belief",
+            "start": "John 20:24",
+            "end": "John 20:29",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

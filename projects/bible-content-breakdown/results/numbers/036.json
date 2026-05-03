@@ -1,0 +1,93 @@
+{
+    "book": "Numbers",
+    "chapter": 36,
+    "verses": [
+        {
+            "ref": "Num 36:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 36:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 36:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 36:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 36:5",
+            "function": "civil_law",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Num 36:6",
+            "function": "sexual_marital",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Num 36:7",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Num 36:8",
+            "function": "sexual_marital",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Num 36:9",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Num 36:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 36:11",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 36:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 36:13",
+            "function": "theological",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Zelophehad's Daughters",
+            "start": "Num 36:1",
+            "end": "Num 36:13",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

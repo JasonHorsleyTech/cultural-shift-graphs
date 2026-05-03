@@ -1,0 +1,149 @@
+{
+    "book": "Judges",
+    "chapter": 7,
+    "verses": [
+        {
+            "ref": "Judges 7:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 7:2",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Judges 7:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 7:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Judges 7:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 7:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 7:7",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Judges 7:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 7:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 7:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 7:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 7:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 7:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 7:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 7:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 7:16",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Judges 7:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 7:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 7:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 7:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 7:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 7:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Judges 7:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 7:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 7:25",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Gideon Defeats Midian",
+            "start": "Judges 7:1",
+            "end": "Judges 7:25",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "courage",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

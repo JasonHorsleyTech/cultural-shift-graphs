@@ -1,0 +1,209 @@
+{
+    "book": "Isaiah",
+    "chapter": 5,
+    "verses": [
+        {
+            "ref": "Isa 5:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Isa 5:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 5:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 5:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 5:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 5:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 5:7",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Isa 5:8",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 5:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 5:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 5:11",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 5:12",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 5:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 5:14",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Isa 5:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 5:16",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 5:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 5:18",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 5:19",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Isa 5:20",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Isa 5:21",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Isa 5:22",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Isa 5:23",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Isa 5:24",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Isa 5:25",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 5:26",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 5:27",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 5:28",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Isa 5:29",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Isa 5:30",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Judgment on Israel",
+            "start": "Isa 5:1",
+            "end": "Isa 5:30",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,238 @@
+{
+    "book": "Joshua",
+    "chapter": 8,
+    "verses": [
+        {
+            "ref": "Josh 8:1",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Josh 8:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 8:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 8:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Josh 8:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 8:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 8:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Josh 8:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 8:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 8:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 8:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 8:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Josh 8:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Josh 8:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 8:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 8:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 8:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 8:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Josh 8:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 8:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 8:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 8:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 8:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 8:24",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Josh 8:25",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 8:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 8:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 8:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 8:29",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Josh 8:30",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Josh 8:31",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Josh 8:32",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.1
+            }
+        },
+        {
+            "ref": "Josh 8:33",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Josh 8:34",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Josh 8:35",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Battle of Ai",
+            "start": "Josh 8:1",
+            "end": "Josh 8:29",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Covenant Renewal at Mount Ebal",
+            "start": "Josh 8:30",
+            "end": "Josh 8:35",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                }
+            ]
+        }
+    ]
+}

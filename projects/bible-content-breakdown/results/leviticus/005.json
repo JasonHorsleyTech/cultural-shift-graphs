@@ -1,0 +1,174 @@
+{
+    "book": "Leviticus",
+    "chapter": 5,
+    "verses": [
+        {
+            "ref": "Lev 5:1",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Lev 5:2",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "purity_dietary",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lev 5:3",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "purity_dietary",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lev 5:4",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 5:5",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 5:6",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 5:7",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 5:8",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Lev 5:9",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 5:10",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 5:11",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Lev 5:12",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 5:13",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 5:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 5:15",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 5:16",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Lev 5:17",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 5:18",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Lev 5:19",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Sin Offerings for Unintentional Sins",
+            "start": "Lev 5:1",
+            "end": "Lev 5:13",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences_of_sin",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Guilt Offering for Trespass Against Holy Things",
+            "start": "Lev 5:14",
+            "end": "Lev 5:19",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences_of_sin",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

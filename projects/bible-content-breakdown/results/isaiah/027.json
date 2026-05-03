@@ -1,0 +1,110 @@
+{
+    "book": "Isaiah",
+    "chapter": 27,
+    "verses": [
+        {
+            "ref": "Isa 27:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 27:2",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 27:3",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 27:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 27:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 27:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 27:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 27:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 27:9",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 27:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 27:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 27:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 27:13",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Israel as God's Vineyard",
+            "start": "Isa 27:1",
+            "end": "Isa 27:6",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Israel Refined and Gathered",
+            "start": "Isa 27:7",
+            "end": "Isa 27:13",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

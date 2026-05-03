@@ -1,0 +1,149 @@
+{
+    "book": "Deuteronomy",
+    "chapter": 8,
+    "verses": [
+        {
+            "ref": "Deut 8:1",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 8:2",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 8:3",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 8:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 8:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 8:6",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 8:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 8:8",
+            "function": "specifications",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Deut 8:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 8:10",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 8:11",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 8:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 8:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 8:14",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 8:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 8:16",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 8:17",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 8:18",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 8:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Deut 8:20",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Do Not Forget the Lord Your God",
+            "start": "Deut 8:1",
+            "end": "Deut 8:20",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

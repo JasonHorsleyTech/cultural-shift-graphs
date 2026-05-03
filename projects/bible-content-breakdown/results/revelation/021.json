@@ -1,0 +1,169 @@
+{
+    "book": "Revelation",
+    "chapter": 21,
+    "verses": [
+        {
+            "ref": "Rev 21:1",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Rev 21:2",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Rev 21:3",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rev 21:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 21:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 21:6",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rev 21:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 21:8",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Rev 21:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 21:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 21:11",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rev 21:12",
+            "function": "specifications"
+        },
+        {
+            "ref": "Rev 21:13",
+            "function": "specifications"
+        },
+        {
+            "ref": "Rev 21:14",
+            "function": "specifications"
+        },
+        {
+            "ref": "Rev 21:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 21:16",
+            "function": "specifications"
+        },
+        {
+            "ref": "Rev 21:17",
+            "function": "specifications"
+        },
+        {
+            "ref": "Rev 21:18",
+            "function": "specifications"
+        },
+        {
+            "ref": "Rev 21:19",
+            "function": "specifications"
+        },
+        {
+            "ref": "Rev 21:20",
+            "function": "specifications"
+        },
+        {
+            "ref": "Rev 21:21",
+            "function": "specifications"
+        },
+        {
+            "ref": "Rev 21:22",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Rev 21:23",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 21:24",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 21:25",
+            "function": "specifications"
+        },
+        {
+            "ref": "Rev 21:26",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 21:27",
+            "function": "prophecy",
+            "secondary": {
+                "function": "purity_dietary",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Vision of the New Jerusalem",
+            "start": "Rev 21:1",
+            "end": "Rev 21:27",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

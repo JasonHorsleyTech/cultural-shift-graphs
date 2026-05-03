@@ -1,0 +1,160 @@
+{
+    "book": "Ezekiel",
+    "chapter": 25,
+    "verses": [
+        {
+            "ref": "Ezek 25:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 25:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 25:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 25:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 25:5",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ezek 25:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 25:7",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ezek 25:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 25:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 25:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 25:11",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Ezek 25:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 25:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 25:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 25:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 25:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 25:17",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Oracle Against Ammon",
+            "start": "Ezek 25:1",
+            "end": "Ezek 25:7",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences_of_sin",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Oracle Against Moab",
+            "start": "Ezek 25:8",
+            "end": "Ezek 25:11",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences_of_sin",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Oracle Against Edom",
+            "start": "Ezek 25:12",
+            "end": "Ezek 25:14",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences_of_sin",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Oracle Against Philistines",
+            "start": "Ezek 25:15",
+            "end": "Ezek 25:17",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences_of_sin",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

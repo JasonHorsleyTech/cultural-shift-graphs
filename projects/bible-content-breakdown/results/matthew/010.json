@@ -1,0 +1,253 @@
+{
+    "book": "Matthew",
+    "chapter": 10,
+    "verses": [
+        {
+            "ref": "Matt 10:1",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 10:2",
+            "function": "catalog"
+        },
+        {
+            "ref": "Matt 10:3",
+            "function": "catalog"
+        },
+        {
+            "ref": "Matt 10:4",
+            "function": "catalog"
+        },
+        {
+            "ref": "Matt 10:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Matt 10:6",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 10:7",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 10:8",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 10:9",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 10:10",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 10:11",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 10:12",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 10:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 10:14",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 10:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 10:16",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 10:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 10:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 10:19",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 10:20",
+            "function": "theological"
+        },
+        {
+            "ref": "Matt 10:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 10:22",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 10:23",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Matt 10:24",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Matt 10:25",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Matt 10:26",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 10:27",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 10:28",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 10:29",
+            "function": "theological"
+        },
+        {
+            "ref": "Matt 10:30",
+            "function": "theological"
+        },
+        {
+            "ref": "Matt 10:31",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 10:32",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 10:33",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 10:34",
+            "function": "theological"
+        },
+        {
+            "ref": "Matt 10:35",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 10:36",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 10:37",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 10:38",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 10:39",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 10:40",
+            "function": "theological"
+        },
+        {
+            "ref": "Matt 10:41",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 10:42",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jesus Commissions and Instructs the Twelve Apostles",
+            "start": "Matt 10:1",
+            "end": "Matt 10:42",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

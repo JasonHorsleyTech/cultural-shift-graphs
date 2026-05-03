@@ -1,0 +1,121 @@
+{
+    "book": "Psalms",
+    "chapter": 17,
+    "verses": [
+        {
+            "ref": "Ps 17:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 17:2",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 17:3",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 17:4",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 17:5",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Ps 17:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 17:7",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ps 17:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 17:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 17:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 17:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 17:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 17:13",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 17:14",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ps 17:15",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "David's Prayer for Protection and Vindication",
+            "start": "Ps 17:1",
+            "end": "Ps 17:15",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

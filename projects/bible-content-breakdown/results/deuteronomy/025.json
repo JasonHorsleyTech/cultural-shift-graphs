@@ -1,0 +1,198 @@
+{
+    "book": "Deuteronomy",
+    "chapter": 25,
+    "verses": [
+        {
+            "ref": "Deu 25:1",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deu 25:2",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deu 25:3",
+            "function": "civil_law",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deu 25:4",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deu 25:5",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Deu 25:6",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Deu 25:7",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Deu 25:8",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Deu 25:9",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Deu 25:10",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Deu 25:11",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deu 25:12",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deu 25:13",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deu 25:14",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deu 25:15",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deu 25:16",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Deu 25:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deu 25:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deu 25:19",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.25
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Judicial Beating Limits",
+            "start": "Deu 25:1",
+            "end": "Deu 25:3",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 1.2
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Animal Care",
+            "start": "Deu 25:4",
+            "end": "Deu 25:4",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 0.6
+                }
+            ]
+        },
+        {
+            "name": "Levirate Marriage",
+            "start": "Deu 25:5",
+            "end": "Deu 25:10",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.2
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.6
+                }
+            ]
+        },
+        {
+            "name": "Hand Grab Punishment",
+            "start": "Deu 25:11",
+            "end": "Deu 25:12",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Fair Weights and Measures",
+            "start": "Deu 25:13",
+            "end": "Deu 25:16",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 1.2
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Amalekite Vengeance",
+            "start": "Deu 25:17",
+            "end": "Deu 25:19",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

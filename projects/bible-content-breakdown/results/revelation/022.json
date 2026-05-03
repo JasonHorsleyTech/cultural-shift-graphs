@@ -1,0 +1,161 @@
+{
+    "book": "Revelation",
+    "chapter": 22,
+    "verses": [
+        {
+            "ref": "Rev 22:1",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Rev 22:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rev 22:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 22:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 22:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 22:6",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Rev 22:7",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rev 22:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 22:9",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Rev 22:10",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rev 22:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Rev 22:12",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rev 22:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Rev 22:14",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rev 22:15",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Rev 22:16",
+            "function": "theological"
+        },
+        {
+            "ref": "Rev 22:17",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rev 22:18",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rev 22:19",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rev 22:20",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rev 22:21",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Vision of God's Final Restoration and the Call to Faithfulness",
+            "start": "Rev 22:1",
+            "end": "Rev 22:21",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

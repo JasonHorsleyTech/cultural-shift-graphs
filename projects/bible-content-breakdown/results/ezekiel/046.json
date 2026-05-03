@@ -1,0 +1,133 @@
+{
+    "book": "Ezekiel",
+    "chapter": 46,
+    "verses": [
+        {
+            "ref": "Ezek 46:1",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezek 46:2",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezek 46:3",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezek 46:4",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezek 46:5",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezek 46:6",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezek 46:7",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezek 46:8",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezek 46:9",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezek 46:10",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezek 46:11",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezek 46:12",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezek 46:13",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezek 46:14",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezek 46:15",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezek 46:16",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Ezek 46:17",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Ezek 46:18",
+            "function": "civil_law",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Ezek 46:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 46:20",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Ezek 46:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 46:22",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezek 46:23",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezek 46:24",
+            "function": "specifications"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Restored Temple and Land Division",
+            "start": "Ezek 46:1",
+            "end": "Ezek 46:24",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.7
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,375 @@
+{
+    "book": "Psalms",
+    "chapter": 107,
+    "verses": [
+        {
+            "ref": "Ps 107:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 107:2",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 107:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 107:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 107:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 107:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 107:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 107:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 107:9",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 107:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 107:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ps 107:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 107:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 107:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 107:15",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 107:16",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 107:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 107:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 107:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 107:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 107:21",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 107:22",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ps 107:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 107:24",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 107:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 107:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 107:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 107:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 107:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 107:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 107:31",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 107:32",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ps 107:33",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Ps 107:34",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Ps 107:35",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 107:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 107:37",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 107:38",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 107:39",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 107:40",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 107:41",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Ps 107:42",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 107:43",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Call to Thanksgiving",
+            "start": "Ps 107:1",
+            "end": "Ps 107:3",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "The Wanderers in the Wilderness",
+            "start": "Ps 107:4",
+            "end": "Ps 107:9",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.3
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 0.9
+                }
+            ]
+        },
+        {
+            "name": "The Prisoners in Darkness",
+            "start": "Ps 107:10",
+            "end": "Ps 107:16",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "The Sick and Dying",
+            "start": "Ps 107:17",
+            "end": "Ps 107:22",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 1.4
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.4
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 0.9
+                }
+            ]
+        },
+        {
+            "name": "The Sailors in the Storm",
+            "start": "Ps 107:23",
+            "end": "Ps 107:31",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.6
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.1
+                },
+                {
+                    "theme": "courage",
+                    "weight": 0.7
+                }
+            ]
+        },
+        {
+            "name": "God's Providential Rule",
+            "start": "Ps 107:32",
+            "end": "Ps 107:42",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.6
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.3
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.1
+                },
+                {
+                    "theme": "humility",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Wisdom Exhortation",
+            "start": "Ps 107:43",
+            "end": "Ps 107:43",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.1
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "book": "Psalms",
+    "chapter": 113,
+    "verses": [
+        {
+            "ref": "Ps 113:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 113:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 113:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 113:4",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Ps 113:5",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ps 113:6",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 113:7",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ps 113:8",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 113:9",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Power and Mercy",
+            "start": "Ps 113:1",
+            "end": "Ps 113:9",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

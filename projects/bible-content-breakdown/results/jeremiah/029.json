@@ -1,0 +1,185 @@
+{
+    "book": "Jeremiah",
+    "chapter": 29,
+    "verses": [
+        {
+            "ref": "Jer 29:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 29:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 29:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 29:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 29:5",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Jer 29:6",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Jer 29:7",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Jer 29:8",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Jer 29:9",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Jer 29:10",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 29:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Jer 29:12",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Jer 29:13",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 29:14",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Jer 29:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 29:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 29:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 29:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 29:19",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Jer 29:20",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Jer 29:21",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jer 29:22",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 29:23",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Jer 29:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 29:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 29:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 29:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 29:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 29:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 29:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 29:31",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "Jer 29:32",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jeremiah's Letter to the Babylonian Exiles",
+            "start": "Jer 29:1",
+            "end": "Jer 29:32",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

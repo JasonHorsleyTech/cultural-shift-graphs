@@ -1,0 +1,309 @@
+{
+    "book": "Numbers",
+    "chapter": 26,
+    "verses": [
+        {
+            "ref": "Num 26:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 26:2",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 26:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 26:4",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 26:5",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 26:6",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 26:7",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 26:8",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 26:9",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Num 26:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 26:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 26:12",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 26:13",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 26:14",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 26:15",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 26:16",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 26:17",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 26:18",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 26:19",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 26:20",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 26:21",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 26:22",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 26:23",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 26:24",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 26:25",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 26:26",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 26:27",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 26:28",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 26:29",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 26:30",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 26:31",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 26:32",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 26:33",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 26:34",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 26:35",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 26:36",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 26:37",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 26:38",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 26:39",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 26:40",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 26:41",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 26:42",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 26:43",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 26:44",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 26:45",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 26:46",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 26:47",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 26:48",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 26:49",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 26:50",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 26:51",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 26:52",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 26:53",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 26:54",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 26:55",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 26:56",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 26:57",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 26:58",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 26:59",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Num 26:60",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 26:61",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 26:62",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 26:63",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 26:64",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 26:65",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Second Census",
+            "start": "Num 26:1",
+            "end": "Num 26:65",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

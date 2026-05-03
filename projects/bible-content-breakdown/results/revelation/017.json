@@ -1,0 +1,113 @@
+{
+    "book": "Revelation",
+    "chapter": 17,
+    "verses": [
+        {
+            "ref": "Rev 17:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 17:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 17:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 17:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 17:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 17:6",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Rev 17:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 17:8",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rev 17:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 17:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 17:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 17:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 17:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 17:14",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Rev 17:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 17:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 17:17",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Rev 17:18",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Vision of Babylon",
+            "start": "Rev 17:1",
+            "end": "Rev 17:18",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,186 @@
+{
+    "book": "Ezekiel",
+    "chapter": 24,
+    "verses": [
+        {
+            "ref": "Ezek 24:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 24:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 24:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 24:4",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezek 24:5",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezek 24:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 24:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 24:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 24:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 24:10",
+            "function": "specifications",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Ezek 24:11",
+            "function": "specifications",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Ezek 24:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 24:13",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezek 24:14",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezek 24:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 24:16",
+            "function": "prophecy",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ezek 24:17",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezek 24:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 24:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 24:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 24:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 24:22",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 24:23",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 24:24",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezek 24:25",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 24:26",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 24:27",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Parable of the Burning Pot",
+            "start": "Ezek 24:1",
+            "end": "Ezek 24:14",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Ezekiel's Wife's Death as a Sign",
+            "start": "Ezek 24:15",
+            "end": "Ezek 24:27",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 0.7
+                }
+            ]
+        }
+    ]
+}

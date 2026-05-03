@@ -1,0 +1,161 @@
+{
+    "book": "2 Chronicles",
+    "chapter": 36,
+    "verses": [
+        {
+            "ref": "2 Chr 36:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 36:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "2 Chr 36:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chr 36:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 36:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "2 Chr 36:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 36:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 36:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 36:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "2 Chr 36:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 36:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "2 Chr 36:12",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Chr 36:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chr 36:14",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Chr 36:15",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Chr 36:16",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chr 36:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 36:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Chr 36:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 36:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 36:21",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chr 36:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chr 36:23",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Fall of Judah and Babylonian Exile",
+            "start": "2 Chr 36:1",
+            "end": "2 Chr 36:23",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

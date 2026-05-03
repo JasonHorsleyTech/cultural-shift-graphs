@@ -1,0 +1,161 @@
+{
+    "book": "Job",
+    "chapter": 28,
+    "verses": [
+        {
+            "ref": "Job 28:1",
+            "function": "wisdom",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 28:2",
+            "function": "wisdom",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 28:3",
+            "function": "wisdom",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 28:4",
+            "function": "wisdom",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 28:5",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 28:6",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 28:7",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 28:8",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 28:9",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 28:10",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 28:11",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 28:12",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 28:13",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 28:14",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 28:15",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 28:16",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 28:17",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 28:18",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 28:19",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 28:20",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 28:21",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 28:22",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 28:23",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 28:24",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 28:25",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 28:26",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 28:27",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 28:28",
+            "function": "wisdom"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Where Wisdom is Found",
+            "start": "Job 28:1",
+            "end": "Job 28:28",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

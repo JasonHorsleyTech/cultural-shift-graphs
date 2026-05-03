@@ -1,0 +1,297 @@
+{
+    "book": "Mark",
+    "chapter": 8,
+    "verses": [
+        {
+            "ref": "Mark 8:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 8:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mark 8:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 8:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 8:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 8:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 8:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 8:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 8:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 8:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 8:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 8:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Mark 8:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 8:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 8:15",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Mark 8:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 8:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mark 8:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mark 8:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 8:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 8:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 8:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 8:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 8:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 8:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 8:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 8:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 8:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 8:29",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Mark 8:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 8:31",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Mark 8:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 8:33",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Mark 8:34",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Mark 8:35",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Mark 8:36",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Mark 8:37",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Mark 8:38",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Feeding of the Four Thousand",
+            "start": "Mark 8:1",
+            "end": "Mark 8:9",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Pharisees Test Jesus for a Sign",
+            "start": "Mark 8:10",
+            "end": "Mark 8:13",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Warning Against Spiritual Blindness",
+            "start": "Mark 8:14",
+            "end": "Mark 8:21",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Healing of the Blind Man at Bethsaida",
+            "start": "Mark 8:22",
+            "end": "Mark 8:26",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Peter's Confession and Teaching on Discipleship",
+            "start": "Mark 8:27",
+            "end": "Mark 8:38",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

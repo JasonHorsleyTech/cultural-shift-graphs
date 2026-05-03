@@ -1,0 +1,154 @@
+{
+    "book": "Genesis",
+    "chapter": 12,
+    "verses": [
+        {
+            "ref": "Gen 12:1",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 12:2",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 12:3",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 12:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 12:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 12:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 12:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 12:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 12:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 12:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 12:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 12:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 12:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 12:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 12:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 12:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 12:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 12:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 12:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 12:20",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Call and Journey of Abram",
+            "start": "Gen 12:1",
+            "end": "Gen 12:9",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Egypt Incident",
+            "start": "Gen 12:10",
+            "end": "Gen 12:20",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences_of_sin",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

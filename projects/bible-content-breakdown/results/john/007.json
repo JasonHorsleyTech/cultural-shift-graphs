@@ -1,0 +1,297 @@
+{
+    "book": "John",
+    "chapter": 7,
+    "verses": [
+        {
+            "ref": "Jn 7:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 7:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 7:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 7:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jn 7:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 7:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 7:7",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jn 7:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 7:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 7:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 7:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 7:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 7:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 7:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 7:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 7:16",
+            "function": "theological"
+        },
+        {
+            "ref": "Jn 7:17",
+            "function": "theological"
+        },
+        {
+            "ref": "Jn 7:18",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jn 7:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jn 7:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 7:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 7:22",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jn 7:23",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Jn 7:24",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Jn 7:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 7:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 7:27",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jn 7:28",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jn 7:29",
+            "function": "theological"
+        },
+        {
+            "ref": "Jn 7:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 7:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 7:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 7:33",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jn 7:34",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jn 7:35",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 7:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 7:37",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jn 7:38",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jn 7:39",
+            "function": "theological"
+        },
+        {
+            "ref": "Jn 7:40",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 7:41",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 7:42",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jn 7:43",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 7:44",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 7:45",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 7:46",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 7:47",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 7:48",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 7:49",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jn 7:50",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 7:51",
+            "function": "civil_law",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jn 7:52",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 7:53",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jesus at the Feast of Shelters",
+            "start": "Jn 7:1",
+            "end": "Jn 7:53",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

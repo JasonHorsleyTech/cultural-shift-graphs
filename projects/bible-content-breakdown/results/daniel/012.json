@@ -1,0 +1,97 @@
+{
+    "book": "Daniel",
+    "chapter": 12,
+    "verses": [
+        {
+            "ref": "Dan 12:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 12:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 12:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 12:4",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Dan 12:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 12:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 12:7",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Dan 12:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 12:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 12:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 12:11",
+            "function": "prophecy",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Dan 12:12",
+            "function": "prophecy",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Dan 12:13",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The End Times Revelation",
+            "start": "Dan 12:1",
+            "end": "Dan 12:13",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

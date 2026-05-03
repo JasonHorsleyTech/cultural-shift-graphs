@@ -1,0 +1,185 @@
+{
+    "book": "Proverbs",
+    "chapter": 15,
+    "verses": [
+        {
+            "ref": "Prov 15:1",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 15:2",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 15:3",
+            "function": "theological"
+        },
+        {
+            "ref": "Prov 15:4",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 15:5",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 15:6",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 15:7",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 15:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Prov 15:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Prov 15:10",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 15:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Prov 15:12",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 15:13",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 15:14",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 15:15",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 15:16",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 15:17",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 15:18",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 15:19",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 15:20",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 15:21",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 15:22",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 15:23",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 15:24",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 15:25",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Prov 15:26",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 15:27",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 15:28",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 15:29",
+            "function": "theological"
+        },
+        {
+            "ref": "Prov 15:30",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 15:31",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 15:32",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 15:33",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Proverbs 15: Wisdom on Righteousness and Consequences",
+            "start": "Prov 15:1",
+            "end": "Prov 15:33",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

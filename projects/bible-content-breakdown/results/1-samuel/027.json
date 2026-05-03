@@ -1,0 +1,81 @@
+{
+    "book": "1 Samuel",
+    "chapter": 27,
+    "verses": [
+        {
+            "ref": "1 Sam 27:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 27:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 27:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Sam 27:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 27:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 27:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 27:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 27:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Sam 27:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 27:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 27:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 27:12",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "David in Gath and Ziklag",
+            "start": "1 Sam 27:1",
+            "end": "1 Sam 27:12",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

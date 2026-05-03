@@ -1,0 +1,179 @@
+{
+    "book": "Deuteronomy",
+    "chapter": 6,
+    "verses": [
+        {
+            "ref": "Deu 6:1",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deu 6:2",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deu 6:3",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deu 6:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Deu 6:5",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deu 6:6",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deu 6:7",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deu 6:8",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deu 6:9",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deu 6:10",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deu 6:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deu 6:12",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deu 6:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deu 6:14",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deu 6:15",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Deu 6:16",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deu 6:17",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deu 6:18",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deu 6:19",
+            "function": "theological"
+        },
+        {
+            "ref": "Deu 6:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deu 6:21",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Deu 6:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deu 6:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deu 6:24",
+            "function": "theological"
+        },
+        {
+            "ref": "Deu 6:25",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Shema and Teaching the Law",
+            "start": "Deu 6:1",
+            "end": "Deu 6:9",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Warning Against Forgetting in Prosperity",
+            "start": "Deu 6:10",
+            "end": "Deu 6:19",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Teaching the Next Generation the Exodus",
+            "start": "Deu 6:20",
+            "end": "Deu 6:25",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

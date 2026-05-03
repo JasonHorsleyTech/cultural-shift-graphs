@@ -1,0 +1,77 @@
+{
+    "book": "Psalms",
+    "chapter": 29,
+    "verses": [
+        {
+            "ref": "Ps 29:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 29:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 29:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 29:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 29:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 29:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 29:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 29:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 29:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 29:10",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ps 29:11",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Power and Majesty",
+            "start": "Ps 29:1",
+            "end": "Ps 29:11",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

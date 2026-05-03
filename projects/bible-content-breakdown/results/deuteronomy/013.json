@@ -1,0 +1,125 @@
+{
+    "book": "Deuteronomy",
+    "chapter": 13,
+    "verses": [
+        {
+            "ref": "Deut 13:1",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 13:2",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 13:3",
+            "function": "civil_law",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 13:4",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 13:5",
+            "function": "civil_law",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 13:6",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 13:7",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 13:8",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 13:9",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 13:10",
+            "function": "civil_law",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 13:11",
+            "function": "civil_law",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 13:12",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 13:13",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 13:14",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 13:15",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 13:16",
+            "function": "civil_law",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Deut 13:17",
+            "function": "civil_law",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Deut 13:18",
+            "function": "moral_instruction"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Laws Against False Prophets and Idolatry",
+            "start": "Deut 13:1",
+            "end": "Deut 13:18",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

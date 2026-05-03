@@ -1,0 +1,69 @@
+{
+    "book": "Isaiah",
+    "chapter": 15,
+    "verses": [
+        {
+            "ref": "Isa 15:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 15:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 15:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 15:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 15:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 15:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 15:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 15:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 15:9",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Judgment Against Moab",
+            "start": "Isa 15:1",
+            "end": "Isa 15:9",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

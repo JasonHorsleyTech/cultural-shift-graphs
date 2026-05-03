@@ -1,0 +1,89 @@
+{
+    "book": "Ezekiel",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "Ez 2:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ez 2:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ez 2:3",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Ez 2:4",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ez 2:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ez 2:6",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ez 2:7",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Ez 2:8",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ez 2:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ez 2:10",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God Commissions Ezekiel",
+            "start": "Ez 2:1",
+            "end": "Ez 2:10",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

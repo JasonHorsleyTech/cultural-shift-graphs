@@ -1,0 +1,97 @@
+{
+    "book": "Psalms",
+    "chapter": 148,
+    "verses": [
+        {
+            "ref": "Psalm 148:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 148:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 148:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 148:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 148:5",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Psalm 148:6",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalm 148:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 148:8",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Psalm 148:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 148:10",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 148:11",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 148:12",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 148:13",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalm 148:14",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Universal Praise of God",
+            "start": "Psalm 148:1",
+            "end": "Psalm 148:14",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,257 @@
+{
+    "book": "Daniel",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "Dan 2:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 2:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 2:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 2:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 2:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 2:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 2:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 2:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 2:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 2:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 2:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 2:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 2:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 2:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 2:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 2:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 2:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 2:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 2:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Dan 2:20",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Dan 2:21",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Dan 2:22",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Dan 2:23",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Dan 2:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 2:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 2:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 2:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 2:28",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Dan 2:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 2:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 2:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 2:32",
+            "function": "specifications"
+        },
+        {
+            "ref": "Dan 2:33",
+            "function": "specifications"
+        },
+        {
+            "ref": "Dan 2:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 2:35",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Dan 2:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 2:37",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Dan 2:38",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 2:39",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 2:40",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 2:41",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 2:42",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 2:43",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 2:44",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Dan 2:45",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 2:46",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 2:47",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Dan 2:48",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 2:49",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Daniel Interprets Nebuchadnezzar's Dream",
+            "start": "Dan 2:1",
+            "end": "Dan 2:49",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

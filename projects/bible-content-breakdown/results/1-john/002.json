@@ -1,0 +1,250 @@
+{
+    "book": "1 John",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "1 John 2:1",
+            "function": "theological"
+        },
+        {
+            "ref": "1 John 2:2",
+            "function": "theological"
+        },
+        {
+            "ref": "1 John 2:3",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 John 2:4",
+            "function": "theological"
+        },
+        {
+            "ref": "1 John 2:5",
+            "function": "theological"
+        },
+        {
+            "ref": "1 John 2:6",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 John 2:7",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 John 2:8",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 John 2:9",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 John 2:10",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 John 2:11",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 John 2:12",
+            "function": "theological"
+        },
+        {
+            "ref": "1 John 2:13",
+            "function": "theological"
+        },
+        {
+            "ref": "1 John 2:14",
+            "function": "theological"
+        },
+        {
+            "ref": "1 John 2:15",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 John 2:16",
+            "function": "theological"
+        },
+        {
+            "ref": "1 John 2:17",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "1 John 2:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 John 2:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 John 2:20",
+            "function": "theological"
+        },
+        {
+            "ref": "1 John 2:21",
+            "function": "theological"
+        },
+        {
+            "ref": "1 John 2:22",
+            "function": "theological"
+        },
+        {
+            "ref": "1 John 2:23",
+            "function": "theological"
+        },
+        {
+            "ref": "1 John 2:24",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 John 2:25",
+            "function": "theological"
+        },
+        {
+            "ref": "1 John 2:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 John 2:27",
+            "function": "theological"
+        },
+        {
+            "ref": "1 John 2:28",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 John 2:29",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Christ the Advocate and Knowing God Through Obedience",
+            "start": "1 John 2:1",
+            "end": "1 John 2:6",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "The Commandment of Love",
+            "start": "1 John 2:7",
+            "end": "1 John 2:11",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Assurance for All Believers",
+            "start": "1 John 2:12",
+            "end": "1 John 2:14",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "courage",
+                    "weight": 0.8
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The World and Its Values",
+            "start": "1 John 2:15",
+            "end": "1 John 2:17",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Antichrists and Remaining in the Truth",
+            "start": "1 John 2:18",
+            "end": "1 John 2:27",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Practicing Righteousness",
+            "start": "1 John 2:28",
+            "end": "1 John 2:29",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

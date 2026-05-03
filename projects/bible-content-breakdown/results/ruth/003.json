@@ -1,0 +1,113 @@
+{
+    "book": "Ruth",
+    "chapter": 3,
+    "verses": [
+        {
+            "ref": "Ruth 3:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ruth 3:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ruth 3:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ruth 3:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ruth 3:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ruth 3:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ruth 3:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ruth 3:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ruth 3:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ruth 3:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ruth 3:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ruth 3:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ruth 3:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Ruth 3:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ruth 3:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ruth 3:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ruth 3:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ruth 3:18",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Ruth and Boaz at the Threshing Floor",
+            "start": "Ruth 3:1",
+            "end": "Ruth 3:18",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.8
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.2
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

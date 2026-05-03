@@ -1,0 +1,289 @@
+{
+    "book": "Luke",
+    "chapter": 5,
+    "verses": [
+        {
+            "ref": "Luke 5:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 5:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 5:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 5:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 5:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 5:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 5:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 5:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 5:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 5:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Luke 5:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 5:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 5:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 5:14",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 5:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 5:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 5:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 5:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 5:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 5:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 5:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 5:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 5:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Luke 5:24",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Luke 5:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 5:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 5:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 5:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 5:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 5:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 5:31",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 5:32",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 5:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 5:34",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Luke 5:35",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 5:36",
+            "function": "wisdom",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Luke 5:37",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Luke 5:38",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Luke 5:39",
+            "function": "wisdom"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Calling of Simon Peter (The Great Catch)",
+            "start": "Luke 5:1",
+            "end": "Luke 5:11",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Healing of the Leper",
+            "start": "Luke 5:12",
+            "end": "Luke 5:15",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Healing of the Paralytic",
+            "start": "Luke 5:17",
+            "end": "Luke 5:26",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Calling of Levi",
+            "start": "Luke 5:27",
+            "end": "Luke 5:32",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Teaching About Fasting and the New Age",
+            "start": "Luke 5:33",
+            "end": "Luke 5:39",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

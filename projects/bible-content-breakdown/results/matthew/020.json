@@ -1,0 +1,228 @@
+{
+    "book": "Matthew",
+    "chapter": 20,
+    "verses": [
+        {
+            "ref": "Matt 20:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 20:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 20:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 20:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 20:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 20:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 20:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 20:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 20:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 20:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 20:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 20:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 20:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 20:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 20:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Matt 20:16",
+            "function": "theological"
+        },
+        {
+            "ref": "Matt 20:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 20:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 20:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 20:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 20:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 20:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 20:23",
+            "function": "theological"
+        },
+        {
+            "ref": "Matt 20:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 20:25",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 20:26",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 20:27",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 20:28",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 20:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 20:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 20:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 20:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 20:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 20:34",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Parable of the Workers in the Vineyard",
+            "start": "Matt 20:1",
+            "end": "Matt 20:16",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "generosity",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Jesus predicts his death and resurrection",
+            "start": "Matt 20:17",
+            "end": "Matt 20:19",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "sacrifice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Request for places of honor and teaching about servanthood",
+            "start": "Matt 20:20",
+            "end": "Matt 20:28",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "humility",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Healing of two blind men",
+            "start": "Matt 20:29",
+            "end": "Matt 20:34",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

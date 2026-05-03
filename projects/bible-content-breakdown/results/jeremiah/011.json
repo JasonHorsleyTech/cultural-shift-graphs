@@ -1,0 +1,178 @@
+{
+    "book": "Jeremiah",
+    "chapter": 11,
+    "verses": [
+        {
+            "ref": "Jer 11:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 11:2",
+            "function": "theological"
+        },
+        {
+            "ref": "Jer 11:3",
+            "function": "theological"
+        },
+        {
+            "ref": "Jer 11:4",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Jer 11:5",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jer 11:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 11:7",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Jer 11:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 11:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 11:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 11:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 11:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 11:13",
+            "function": "theological",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jer 11:14",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Jer 11:15",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 11:16",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jer 11:17",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Jer 11:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 11:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jer 11:20",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 11:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 11:22",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 11:23",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Condemnation of Idolatry and Declaration of God's Supremacy",
+            "start": "Jer 11:1",
+            "end": "Jer 11:17",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Coming Siege and Jeremiah's Lament",
+            "start": "Jer 11:18",
+            "end": "Jer 11:23",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

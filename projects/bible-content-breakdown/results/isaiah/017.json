@@ -1,0 +1,117 @@
+{
+    "book": "Isaiah",
+    "chapter": 17,
+    "verses": [
+        {
+            "ref": "Isa 17:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 17:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 17:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 17:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 17:5",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 17:6",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 17:7",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Isa 17:8",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 17:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 17:10",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Isa 17:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 17:12",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 17:13",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Isa 17:14",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Oracle Against Damascus and Israel",
+            "start": "Isa 17:1",
+            "end": "Isa 17:14",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

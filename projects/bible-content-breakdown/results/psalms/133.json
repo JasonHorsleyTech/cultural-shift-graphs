@@ -1,0 +1,45 @@
+{
+    "book": "Psalms",
+    "chapter": 133,
+    "verses": [
+        {
+            "ref": "Ps 133:1",
+            "function": "wisdom",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 133:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 133:3",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Song of Unity",
+            "start": "Ps 133:1",
+            "end": "Ps 133:3",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

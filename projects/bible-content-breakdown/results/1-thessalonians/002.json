@@ -1,0 +1,159 @@
+{
+    "book": "1 Thessalonians",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "1 Thess 2:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Thess 2:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Thess 2:3",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Thess 2:4",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Thess 2:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Thess 2:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Thess 2:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Thess 2:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Thess 2:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Thess 2:10",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Thess 2:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Thess 2:12",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Thess 2:13",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Thess 2:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Thess 2:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Thess 2:16",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Thess 2:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Thess 2:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Thess 2:19",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Thess 2:20",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Paul's Apostolic Ministry and Care",
+            "start": "1 Thess 2:1",
+            "end": "1 Thess 2:12",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "courage",
+                    "weight": 1.2
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.3
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Thessalonians' Reception of God's Word and Persecution",
+            "start": "1 Thess 2:13",
+            "end": "1 Thess 2:16",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.2
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Paul's Longing for the Thessalonians",
+            "start": "1 Thess 2:17",
+            "end": "1 Thess 2:20",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.3
+                }
+            ]
+        }
+    ]
+}

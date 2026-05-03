@@ -1,0 +1,77 @@
+{
+    "book": "Psalms",
+    "chapter": 137,
+    "verses": [
+        {
+            "ref": "Ps 137:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 137:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 137:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 137:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 137:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 137:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 137:7",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 137:8",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 137:9",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Lamentation in Babylonian Exile",
+            "start": "Ps 137:1",
+            "end": "Ps 137:9",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

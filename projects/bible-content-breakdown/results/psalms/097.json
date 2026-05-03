@@ -1,0 +1,85 @@
+{
+    "book": "Psalms",
+    "chapter": 97,
+    "verses": [
+        {
+            "ref": "Ps 97:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 97:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 97:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 97:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 97:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 97:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 97:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 97:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 97:9",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 97:10",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ps 97:11",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ps 97:12",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Lord Reigns",
+            "start": "Ps 97:1",
+            "end": "Ps 97:12",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

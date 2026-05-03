@@ -1,0 +1,326 @@
+{
+    "book": "Hebrews",
+    "chapter": 11,
+    "verses": [
+        {
+            "ref": "Heb 11:1",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Heb 11:2",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 11:3",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 11:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Heb 11:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Heb 11:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 11:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Heb 11:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Heb 11:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Heb 11:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 11:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Heb 11:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Heb 11:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Heb 11:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 11:15",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 11:16",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 11:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Heb 11:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Heb 11:19",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 11:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Heb 11:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Heb 11:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Heb 11:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Heb 11:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Heb 11:25",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Heb 11:26",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Heb 11:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Heb 11:28",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Heb 11:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Heb 11:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Heb 11:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Heb 11:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Heb 11:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Heb 11:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "Heb 11:35",
+            "function": "narrative"
+        },
+        {
+            "ref": "Heb 11:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "Heb 11:37",
+            "function": "narrative"
+        },
+        {
+            "ref": "Heb 11:38",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Heb 11:39",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 11:40",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Faith's Foundation and Early Witnesses",
+            "start": "Heb 11:1",
+            "end": "Heb 11:7",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Abraham's Faith: Promise and Testing",
+            "start": "Heb 11:8",
+            "end": "Heb 11:19",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Heirs Continue in Faith",
+            "start": "Heb 11:20",
+            "end": "Heb 11:22",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Moses and the Deliverance from Egypt",
+            "start": "Heb 11:23",
+            "end": "Heb 11:29",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Conquest and Mercy in Action",
+            "start": "Heb 11:30",
+            "end": "Heb 11:31",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Testimony of All the Faithful",
+            "start": "Heb 11:32",
+            "end": "Heb 11:40",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

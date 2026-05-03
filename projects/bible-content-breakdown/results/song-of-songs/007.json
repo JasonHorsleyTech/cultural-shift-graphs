@@ -1,0 +1,73 @@
+{
+    "book": "The Song of Songs",
+    "chapter": 7,
+    "verses": [
+        {
+            "ref": "Song 7:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 7:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 7:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 7:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 7:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 7:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 7:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 7:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 7:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 7:10",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 7:11",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 7:12",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 7:13",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Lover's Admiration and the Beloved's Invitation",
+            "start": "Song 7:1",
+            "end": "Song 7:13",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

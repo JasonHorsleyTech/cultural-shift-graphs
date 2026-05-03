@@ -1,0 +1,188 @@
+{
+    "book": "Exodus",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "Ex 2:1",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ex 2:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 2:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "Ex 2:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 2:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 2:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 2:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 2:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 2:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 2:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 2:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 2:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 2:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 2:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 2:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 2:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 2:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 2:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 2:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 2:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 2:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 2:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 2:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 2:24",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ex 2:25",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Baby Moses Hidden and Rescued",
+            "start": "Ex 2:1",
+            "end": "Ex 2:10",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Moses Flees Egypt",
+            "start": "Ex 2:11",
+            "end": "Ex 2:15",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences_of_sin",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Moses in Midian",
+            "start": "Ex 2:16",
+            "end": "Ex 2:22",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Israel Enslaved in Egypt",
+            "start": "Ex 2:23",
+            "end": "Ex 2:25",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

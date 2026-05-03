@@ -1,0 +1,137 @@
+{
+    "book": "Psalms",
+    "chapter": 66,
+    "verses": [
+        {
+            "ref": "Ps 66:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 66:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 66:3",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 66:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 66:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 66:6",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 66:7",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 66:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 66:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 66:10",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 66:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 66:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 66:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 66:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 66:15",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 66:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 66:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 66:18",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 66:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 66:20",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "A Testimony of Divine Deliverance",
+            "start": "Ps 66:1",
+            "end": "Ps 66:20",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

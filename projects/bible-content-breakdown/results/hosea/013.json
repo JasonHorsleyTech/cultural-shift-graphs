@@ -1,0 +1,121 @@
+{
+    "book": "Hosea",
+    "chapter": 13,
+    "verses": [
+        {
+            "ref": "Hos 13:1",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Hos 13:2",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Hos 13:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 13:4",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Hos 13:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Hos 13:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Hos 13:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 13:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 13:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 13:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 13:11",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Hos 13:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 13:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 13:14",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Hos 13:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 13:16",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Judgment Against Israel's Idolatry",
+            "start": "Hos 13:1",
+            "end": "Hos 13:16",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

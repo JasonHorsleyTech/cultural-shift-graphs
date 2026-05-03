@@ -1,0 +1,142 @@
+{
+    "book": "2 Kings",
+    "chapter": 20,
+    "verses": [
+        {
+            "ref": "2 Kings 20:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 20:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 20:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "2 Kings 20:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 20:5",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "2 Kings 20:6",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "2 Kings 20:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 20:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 20:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 20:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 20:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 20:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 20:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 20:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 20:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 20:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 20:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Kings 20:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Kings 20:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 20:20",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Kings 20:21",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Hezekiah's Illness and Healing",
+            "start": "2 Kings 20:1",
+            "end": "2 Kings 20:11",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Babylonian Embassy and Exile Prophecy",
+            "start": "2 Kings 20:12",
+            "end": "2 Kings 20:19",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

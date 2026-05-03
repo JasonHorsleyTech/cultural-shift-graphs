@@ -1,0 +1,65 @@
+{
+    "book": "Psalms",
+    "chapter": 121,
+    "verses": [
+        {
+            "ref": "Psalm 121:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 121:2",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalm 121:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 121:4",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalm 121:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 121:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 121:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 121:8",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Trust in God's Constant Protection",
+            "start": "Psalm 121:1",
+            "end": "Psalm 121:8",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,225 @@
+{
+    "book": "2 Chronicles",
+    "chapter": 29,
+    "verses": [
+        {
+            "ref": "2 Chr 29:1",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Chr 29:2",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Chr 29:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 29:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 29:5",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Chr 29:6",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Chr 29:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Chr 29:8",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Chr 29:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Chr 29:10",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Chr 29:11",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "2 Chr 29:12",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Chr 29:13",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Chr 29:14",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Chr 29:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Chr 29:16",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "2 Chr 29:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "2 Chr 29:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 29:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 29:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 29:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "2 Chr 29:22",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "2 Chr 29:23",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "2 Chr 29:24",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "2 Chr 29:25",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Chr 29:26",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Chr 29:27",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Chr 29:28",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Chr 29:29",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "2 Chr 29:30",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chr 29:31",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "2 Chr 29:32",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Chr 29:33",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Chr 29:34",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "2 Chr 29:35",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 29:36",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Hezekiah's Temple Purification and Restoration",
+            "start": "2 Chr 29:1",
+            "end": "2 Chr 29:36",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

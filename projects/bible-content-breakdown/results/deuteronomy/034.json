@@ -1,0 +1,85 @@
+{
+    "book": "Deuteronomy",
+    "chapter": 34,
+    "verses": [
+        {
+            "ref": "Deut 34:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 34:2",
+            "function": "catalog"
+        },
+        {
+            "ref": "Deut 34:3",
+            "function": "catalog"
+        },
+        {
+            "ref": "Deut 34:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Deut 34:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 34:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 34:7",
+            "function": "catalog"
+        },
+        {
+            "ref": "Deut 34:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 34:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 34:10",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 34:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 34:12",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Death of Moses",
+            "start": "Deut 34:1",
+            "end": "Deut 34:12",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequence",
+                    "weight": 1.2
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.9
+                }
+            ]
+        }
+    ]
+}

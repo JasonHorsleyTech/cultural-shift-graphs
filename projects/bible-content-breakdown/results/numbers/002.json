@@ -1,0 +1,177 @@
+{
+    "book": "Numbers",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "Num 2:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 2:2",
+            "function": "specifications",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 2:3",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 2:4",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 2:5",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 2:6",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 2:7",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 2:8",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 2:9",
+            "function": "catalog",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Num 2:10",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 2:11",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 2:12",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 2:13",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 2:14",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 2:15",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 2:16",
+            "function": "catalog",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Num 2:17",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 2:18",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 2:19",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 2:20",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 2:21",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 2:22",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 2:23",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 2:24",
+            "function": "catalog",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Num 2:25",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 2:26",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 2:27",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 2:28",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 2:29",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 2:30",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 2:31",
+            "function": "catalog",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Num 2:32",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 2:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 2:34",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Organization of the Israelite Camp",
+            "start": "Num 2:1",
+            "end": "Num 2:34",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "book": "Zechariah",
+    "chapter": 7,
+    "verses": [
+        {
+            "ref": "Zech 7:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Zech 7:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Zech 7:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Zech 7:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Zech 7:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Zech 7:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Zech 7:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Zech 7:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Zech 7:9",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Zech 7:10",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Zech 7:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Zech 7:12",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Zech 7:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 7:14",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.4
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "True Obedience and Justice",
+            "start": "Zech 7:1",
+            "end": "Zech 7:14",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "book": "Job",
+    "chapter": 32,
+    "verses": [
+        {
+            "ref": "Job 32:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 32:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 32:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 32:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 32:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 32:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 32:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 32:8",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 32:9",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 32:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 32:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 32:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 32:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 32:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 32:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 32:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 32:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 32:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 32:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 32:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 32:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 32:22",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Elihu Prepares to Speak",
+            "start": "Job 32:1",
+            "end": "Job 32:22",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

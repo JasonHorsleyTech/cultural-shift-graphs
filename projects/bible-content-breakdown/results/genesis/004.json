@@ -1,0 +1,163 @@
+{
+    "book": "Genesis",
+    "chapter": 4,
+    "verses": [
+        {
+            "ref": "Gen 4:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 4:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 4:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 4:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 4:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 4:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 4:7",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Gen 4:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 4:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 4:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 4:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 4:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 4:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 4:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 4:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 4:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 4:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 4:18",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 4:19",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 4:20",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 4:21",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 4:22",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 4:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 4:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 4:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 4:26",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Cain and Abel",
+            "start": "Gen 4:1",
+            "end": "Gen 4:16",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Cain's Line and Civilization",
+            "start": "Gen 4:17",
+            "end": "Gen 4:24",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Seth and the Worship of the Lord",
+            "start": "Gen 4:25",
+            "end": "Gen 4:26",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

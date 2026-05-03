@@ -1,0 +1,73 @@
+{
+    "book": "Psalms",
+    "chapter": 146,
+    "verses": [
+        {
+            "ref": "Ps 146:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 146:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 146:3",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ps 146:4",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ps 146:5",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ps 146:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 146:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 146:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 146:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 146:10",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Psalm of Praise and Trust",
+            "start": "Ps 146:1",
+            "end": "Ps 146:10",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "book": "Jeremiah",
+    "chapter": 20,
+    "verses": [
+        {
+            "ref": "Jer 20:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 20:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 20:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jer 20:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 20:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 20:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 20:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Jer 20:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 20:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Jer 20:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 20:11",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 20:12",
+            "function": "theological"
+        },
+        {
+            "ref": "Jer 20:13",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Jer 20:14",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Jer 20:15",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Jer 20:16",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Jer 20:17",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Jer 20:18",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Pashhur Beats Jeremiah and Receives God's Judgment",
+            "start": "Jer 20:1",
+            "end": "Jer 20:6",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Jeremiah's Lament and Faith Amid Persecution",
+            "start": "Jer 20:7",
+            "end": "Jer 20:18",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

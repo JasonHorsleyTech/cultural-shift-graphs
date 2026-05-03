@@ -1,0 +1,185 @@
+{
+    "book": "Ezekiel",
+    "chapter": 27,
+    "verses": [
+        {
+            "ref": "Ezek 27:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 27:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 27:3",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Ezek 27:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 27:5",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezek 27:6",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezek 27:7",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezek 27:8",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezek 27:9",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezek 27:10",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezek 27:11",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezek 27:12",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezek 27:13",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezek 27:14",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezek 27:15",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezek 27:16",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezek 27:17",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezek 27:18",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezek 27:19",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezek 27:20",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezek 27:21",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezek 27:22",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezek 27:23",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezek 27:24",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezek 27:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 27:26",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 27:27",
+            "function": "prophecy",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ezek 27:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 27:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 27:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 27:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 27:32",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ezek 27:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 27:34",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 27:35",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 27:36",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Fall of Tyre",
+            "start": "Ezek 27:1",
+            "end": "Ezek 27:36",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,201 @@
+{
+    "book": "2 Kings",
+    "chapter": 9,
+    "verses": [
+        {
+            "ref": "2 Kings 9:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 9:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 9:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Kings 9:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 9:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 9:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "2 Kings 9:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Kings 9:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Kings 9:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Kings 9:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Kings 9:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 9:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 9:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 9:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 9:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 9:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 9:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 9:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 9:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 9:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 9:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 9:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Kings 9:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 9:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 9:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 9:26",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "2 Kings 9:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 9:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 9:29",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Kings 9:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 9:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 9:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 9:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 9:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 9:35",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 9:36",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Kings 9:37",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jehu's Anointing and Purge of Ahab's House",
+            "start": "2 Kings 9:1",
+            "end": "2 Kings 9:37",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,198 @@
+{
+    "book": "Deuteronomy",
+    "chapter": 9,
+    "verses": [
+        {
+            "ref": "Deut 9:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 9:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 9:3",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 9:4",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 9:5",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 9:6",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 9:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 9:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 9:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 9:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 9:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 9:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 9:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 9:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 9:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 9:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 9:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 9:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 9:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 9:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 9:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 9:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 9:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 9:24",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 9:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 9:26",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 9:27",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 9:28",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 9:29",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Coming Conquest: A Warning Against Self-Righteousness",
+            "start": "Deut 9:1",
+            "end": "Deut 9:6",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "humility",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "The Wilderness Journey: Rebellion and Intercession",
+            "start": "Deut 9:7",
+            "end": "Deut 9:29",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

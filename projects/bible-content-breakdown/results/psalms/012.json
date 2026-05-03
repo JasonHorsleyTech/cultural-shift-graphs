@@ -1,0 +1,73 @@
+{
+    "book": "Psalms",
+    "chapter": 12,
+    "verses": [
+        {
+            "ref": "Ps 12:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 12:2",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 12:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 12:4",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 12:5",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 12:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 12:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 12:8",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Lament Against Deception",
+            "start": "Ps 12:1",
+            "end": "Ps 12:8",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

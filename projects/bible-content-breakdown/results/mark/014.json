@@ -1,0 +1,451 @@
+{
+    "book": "Mark",
+    "chapter": 14,
+    "verses": [
+        {
+            "ref": "Mark 14:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mark 14:7",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Mark 14:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mark 14:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mark 14:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mark 14:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mark 14:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mark 14:22",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Mark 14:23",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Mark 14:24",
+            "function": "theological",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mark 14:25",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mark 14:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:27",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mark 14:28",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mark 14:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:30",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mark 14:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:35",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:36",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mark 14:37",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:38",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Mark 14:39",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:40",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:41",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:42",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:43",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:44",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:45",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:46",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:47",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:48",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:49",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Mark 14:50",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:51",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:52",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:53",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:54",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:55",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:56",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:57",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:58",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:59",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:60",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:61",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:62",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Mark 14:63",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:64",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:65",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:66",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:67",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:68",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:69",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:70",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:71",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 14:72",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Woman Anoints Jesus",
+            "start": "Mark 14:3",
+            "end": "Mark 14:9",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "sacrifice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "generosity",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Judas Agrees to Betray Jesus",
+            "start": "Mark 14:10",
+            "end": "Mark 14:11",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences_of_sin",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "The Last Supper",
+            "start": "Mark 14:12",
+            "end": "Mark 14:26",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "sacrifice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Jesus's Prayer in Gethsemane",
+            "start": "Mark 14:27",
+            "end": "Mark 14:42",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Arrest of Jesus",
+            "start": "Mark 14:43",
+            "end": "Mark 14:52",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences_of_sin",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Trial Before the Sanhedrin",
+            "start": "Mark 14:53",
+            "end": "Mark 14:65",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "courage",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Peter's Denial",
+            "start": "Mark 14:66",
+            "end": "Mark 14:72",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences_of_sin",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

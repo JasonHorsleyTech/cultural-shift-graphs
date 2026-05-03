@@ -1,0 +1,311 @@
+{
+    "book": "1 Chronicles",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "1 Chr 2:1",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 2:2",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 2:3",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "1 Chr 2:4",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 2:5",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 2:6",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 2:7",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Chr 2:8",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 2:9",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 2:10",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 2:11",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 2:12",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 2:13",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 2:14",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 2:15",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 2:16",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 2:17",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 2:18",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 2:19",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "1 Chr 2:20",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 2:21",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Chr 2:22",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 2:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Chr 2:24",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Chr 2:25",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 2:26",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 2:27",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 2:28",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 2:29",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 2:30",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 2:31",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 2:32",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 2:33",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 2:34",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Chr 2:35",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "1 Chr 2:36",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 2:37",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 2:38",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 2:39",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 2:40",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 2:41",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 2:42",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 2:43",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 2:44",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 2:45",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 2:46",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Chr 2:47",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 2:48",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Chr 2:49",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 2:50",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 2:51",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 2:52",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 2:53",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 2:54",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 2:55",
+            "function": "catalog"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Judah Line and God's Judgment",
+            "start": "1 Chr 2:1",
+            "end": "1 Chr 2:8",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Lineage of David",
+            "start": "1 Chr 2:9",
+            "end": "1 Chr 2:17",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                }
+            ]
+        },
+        {
+            "name": "The Extended Descendants of Hezron",
+            "start": "1 Chr 2:18",
+            "end": "1 Chr 2:55",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,221 @@
+{
+    "book": "Proverbs",
+    "chapter": 8,
+    "verses": [
+        {
+            "ref": "Prov 8:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Prov 8:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Prov 8:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Prov 8:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Prov 8:5",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 8:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Prov 8:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Prov 8:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Prov 8:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Prov 8:10",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 8:11",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 8:12",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Prov 8:13",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Prov 8:14",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Prov 8:15",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Prov 8:16",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Prov 8:17",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 8:18",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 8:19",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 8:20",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Prov 8:21",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Prov 8:22",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Prov 8:23",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Prov 8:24",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Prov 8:25",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Prov 8:26",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Prov 8:27",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Prov 8:28",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Prov 8:29",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Prov 8:30",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Prov 8:31",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Prov 8:32",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 8:33",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 8:34",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 8:35",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Prov 8:36",
+            "function": "wisdom"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Wisdom's Call and Self-Revelation",
+            "start": "Prov 8:1",
+            "end": "Prov 8:36",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 0.6
+                }
+            ]
+        }
+    ]
+}

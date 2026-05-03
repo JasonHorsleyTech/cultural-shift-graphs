@@ -1,0 +1,174 @@
+{
+    "book": "Exodus",
+    "chapter": 7,
+    "verses": [
+        {
+            "ref": "Ex 7:1",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ex 7:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 7:3",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ex 7:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ex 7:5",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Ex 7:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 7:7",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ex 7:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 7:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ex 7:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 7:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 7:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 7:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "Ex 7:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 7:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 7:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 7:17",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Ex 7:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ex 7:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 7:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 7:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 7:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "Ex 7:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 7:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 7:25",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Promise and Commission to Moses and Aaron",
+            "start": "Ex 7:1",
+            "end": "Ex 7:6",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "The Plagues of Egypt Begin",
+            "start": "Ex 7:7",
+            "end": "Ex 7:25",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

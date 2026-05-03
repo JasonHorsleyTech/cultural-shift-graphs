@@ -1,0 +1,155 @@
+{
+    "book": "Zechariah",
+    "chapter": 9,
+    "verses": [
+        {
+            "ref": "Zech 9:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 9:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 9:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Zech 9:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 9:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 9:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 9:7",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Zech 9:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 9:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 9:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 9:11",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Zech 9:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 9:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 9:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 9:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 9:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 9:17",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.5
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Judgment on the Nations",
+            "start": "Zech 9:1",
+            "end": "Zech 9:8",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "humility",
+                    "weight": 0.7
+                }
+            ]
+        },
+        {
+            "name": "The Coming King",
+            "start": "Zech 9:9",
+            "end": "Zech 9:10",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Restoration and Victory of God's People",
+            "start": "Zech 9:11",
+            "end": "Zech 9:17",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

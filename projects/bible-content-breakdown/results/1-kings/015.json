@@ -1,0 +1,260 @@
+{
+    "book": "1 Kings",
+    "chapter": 15,
+    "verses": [
+        {
+            "ref": "1 Kgs 15:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 15:2",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Kgs 15:3",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kgs 15:4",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kgs 15:5",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kgs 15:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 15:7",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kgs 15:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 15:9",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kgs 15:10",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kgs 15:11",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kgs 15:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Kgs 15:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 15:14",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kgs 15:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Kgs 15:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 15:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 15:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Kgs 15:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 15:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Kgs 15:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 15:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Kgs 15:23",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Kgs 15:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 15:25",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kgs 15:26",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kgs 15:27",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Kgs 15:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 15:29",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Kgs 15:30",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kgs 15:31",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kgs 15:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 15:33",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kgs 15:34",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Abijah's Reign",
+            "start": "1 Kgs 15:1",
+            "end": "1 Kgs 15:8",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Asa's Reign and Reforms",
+            "start": "1 Kgs 15:9",
+            "end": "1 Kgs 15:24",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Nadab's Reign and Assassination",
+            "start": "1 Kgs 15:25",
+            "end": "1 Kgs 15:28",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Baasha's Rise to Power",
+            "start": "1 Kgs 15:29",
+            "end": "1 Kgs 15:34",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

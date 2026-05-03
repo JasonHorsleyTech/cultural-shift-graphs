@@ -1,0 +1,117 @@
+{
+    "book": "Ezra",
+    "chapter": 5,
+    "verses": [
+        {
+            "ref": "Ezra 5:1",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ezra 5:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezra 5:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezra 5:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezra 5:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Ezra 5:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezra 5:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezra 5:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezra 5:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezra 5:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezra 5:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezra 5:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ezra 5:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezra 5:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ezra 5:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezra 5:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezra 5:17",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Opposition to the Temple Rebuilding",
+            "start": "Ezra 5:1",
+            "end": "Ezra 5:17",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

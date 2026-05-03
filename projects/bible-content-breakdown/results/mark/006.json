@@ -1,0 +1,345 @@
+{
+    "book": "Mark",
+    "chapter": 6,
+    "verses": [
+        {
+            "ref": "Mark 6:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 6:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 6:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 6:4",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Mark 6:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 6:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 6:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 6:8",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Mark 6:9",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Mark 6:10",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Mark 6:11",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Mark 6:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 6:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 6:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 6:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 6:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 6:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 6:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mark 6:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 6:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 6:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 6:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 6:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 6:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 6:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 6:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 6:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 6:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 6:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 6:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 6:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 6:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 6:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 6:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 6:35",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 6:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 6:37",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 6:38",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 6:39",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 6:40",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 6:41",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 6:42",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 6:43",
+            "function": "catalog"
+        },
+        {
+            "ref": "Mark 6:44",
+            "function": "catalog"
+        },
+        {
+            "ref": "Mark 6:45",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 6:46",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 6:47",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 6:48",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 6:49",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 6:50",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 6:51",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 6:52",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Mark 6:53",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 6:54",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 6:55",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 6:56",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Rejection at Hometown",
+            "start": "Mark 6:1",
+            "end": "Mark 6:6",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Sending Out the Twelve",
+            "start": "Mark 6:7",
+            "end": "Mark 6:13",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "The Death of John the Baptist",
+            "start": "Mark 6:14",
+            "end": "Mark 6:29",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Feeding the Five Thousand",
+            "start": "Mark 6:30",
+            "end": "Mark 6:44",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "generosity",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Walking on Water and Healings at Gennesaret",
+            "start": "Mark 6:45",
+            "end": "Mark 6:56",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

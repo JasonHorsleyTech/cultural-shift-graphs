@@ -1,0 +1,133 @@
+{
+    "book": "Deuteronomy",
+    "chapter": 20,
+    "verses": [
+        {
+            "ref": "Deut 20:1",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Deut 20:2",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 20:3",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 20:4",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 20:5",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 20:6",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 20:7",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 20:8",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 20:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 20:10",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 20:11",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 20:12",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 20:13",
+            "function": "civil_law",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Deut 20:14",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 20:15",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 20:16",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 20:17",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 20:18",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Deut 20:19",
+            "function": "civil_law",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Deut 20:20",
+            "function": "civil_law"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Warfare Instructions",
+            "start": "Deut 20:1",
+            "end": "Deut 20:20",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,169 @@
+{
+    "book": "John",
+    "chapter": 14,
+    "verses": [
+        {
+            "ref": "John 14:1",
+            "function": "theological"
+        },
+        {
+            "ref": "John 14:2",
+            "function": "theological"
+        },
+        {
+            "ref": "John 14:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "John 14:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 14:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 14:6",
+            "function": "theological"
+        },
+        {
+            "ref": "John 14:7",
+            "function": "theological"
+        },
+        {
+            "ref": "John 14:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 14:9",
+            "function": "theological"
+        },
+        {
+            "ref": "John 14:10",
+            "function": "theological"
+        },
+        {
+            "ref": "John 14:11",
+            "function": "theological"
+        },
+        {
+            "ref": "John 14:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "John 14:13",
+            "function": "theological"
+        },
+        {
+            "ref": "John 14:14",
+            "function": "theological"
+        },
+        {
+            "ref": "John 14:15",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "John 14:16",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 14:17",
+            "function": "theological"
+        },
+        {
+            "ref": "John 14:18",
+            "function": "theological"
+        },
+        {
+            "ref": "John 14:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "John 14:20",
+            "function": "theological"
+        },
+        {
+            "ref": "John 14:21",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 14:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 14:23",
+            "function": "theological"
+        },
+        {
+            "ref": "John 14:24",
+            "function": "theological"
+        },
+        {
+            "ref": "John 14:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 14:26",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 14:27",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 14:28",
+            "function": "theological"
+        },
+        {
+            "ref": "John 14:29",
+            "function": "theological"
+        },
+        {
+            "ref": "John 14:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 14:31",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jesus's Farewell Promise and Teaching at the Last Supper",
+            "start": "John 14:1",
+            "end": "John 14:31",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

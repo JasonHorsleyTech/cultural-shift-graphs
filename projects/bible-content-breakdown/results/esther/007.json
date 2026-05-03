@@ -1,0 +1,69 @@
+{
+    "book": "Esther",
+    "chapter": 7,
+    "verses": [
+        {
+            "ref": "Est 7:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 7:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 7:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 7:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 7:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 7:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 7:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 7:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 7:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 7:10",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Haman's Downfall",
+            "start": "Est 7:1",
+            "end": "Est 7:10",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

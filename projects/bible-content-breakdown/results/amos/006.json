@@ -1,0 +1,117 @@
+{
+    "book": "Amos",
+    "chapter": 6,
+    "verses": [
+        {
+            "ref": "Amos 6:1",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Amos 6:2",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Amos 6:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 6:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Amos 6:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Amos 6:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Amos 6:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 6:8",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Amos 6:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 6:10",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Amos 6:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 6:12",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Amos 6:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 6:14",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Amos's Oracle of Judgment",
+            "start": "Amos 6:1",
+            "end": "Amos 6:14",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

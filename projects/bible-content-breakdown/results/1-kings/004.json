@@ -1,0 +1,185 @@
+{
+    "book": "1 Kings",
+    "chapter": 4,
+    "verses": [
+        {
+            "ref": "1 Kings 4:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 4:2",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kings 4:3",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kings 4:4",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kings 4:5",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kings 4:6",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kings 4:7",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Kings 4:8",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kings 4:9",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kings 4:10",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kings 4:11",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kings 4:12",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kings 4:13",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kings 4:14",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kings 4:15",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kings 4:16",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kings 4:17",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kings 4:18",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kings 4:19",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kings 4:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Kings 4:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 4:22",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kings 4:23",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kings 4:24",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Kings 4:25",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Kings 4:26",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kings 4:27",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kings 4:28",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kings 4:29",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kings 4:30",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Kings 4:31",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Kings 4:32",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kings 4:33",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kings 4:34",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Solomon's Administration and Prosperity",
+            "start": "1 Kings 4:1",
+            "end": "1 Kings 4:34",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

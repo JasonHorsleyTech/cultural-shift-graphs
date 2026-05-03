@@ -1,0 +1,113 @@
+{
+    "book": "Romans",
+    "chapter": 13,
+    "verses": [
+        {
+            "ref": "Rom 13:1",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rom 13:2",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 13:3",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Rom 13:4",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rom 13:5",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rom 13:6",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Rom 13:7",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Rom 13:8",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Rom 13:9",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rom 13:10",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Rom 13:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 13:12",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Rom 13:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Rom 13:14",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Submission to Authority and the Law of Love",
+            "start": "Rom 13:1",
+            "end": "Rom 13:14",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "book": "Genesis",
+    "chapter": 42,
+    "verses": [
+        {
+            "ref": "Gen 42:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 42:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 42:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 42:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 42:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 42:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 42:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 42:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 42:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 42:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 42:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 42:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 42:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 42:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 42:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 42:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 42:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 42:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 42:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 42:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 42:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Gen 42:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 42:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 42:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 42:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 42:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 42:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 42:28",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 42:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 42:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 42:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 42:32",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "Gen 42:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 42:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 42:35",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 42:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 42:37",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 42:38",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Joseph Encounters His Brothers in Egypt",
+            "start": "Gen 42:1",
+            "end": "Gen 42:38",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

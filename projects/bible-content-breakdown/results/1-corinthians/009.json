@@ -1,0 +1,185 @@
+{
+    "book": "1 Corinthians",
+    "chapter": 9,
+    "verses": [
+        {
+            "ref": "1 Cor 9:1",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 9:2",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 9:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Cor 9:4",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Cor 9:5",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Cor 9:6",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Cor 9:7",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Cor 9:8",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 9:9",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 9:10",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 9:11",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Cor 9:12",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Cor 9:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Cor 9:14",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 9:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Cor 9:16",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 9:17",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 9:18",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 9:19",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Cor 9:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Cor 9:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Cor 9:22",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Cor 9:23",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 9:24",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Cor 9:25",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Cor 9:26",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Cor 9:27",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Paul's Apostolic Authority and Ministry Practice",
+            "start": "1 Cor 9:1",
+            "end": "1 Cor 9:27",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

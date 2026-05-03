@@ -1,0 +1,117 @@
+{
+    "book": "The Song of Songs",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "Song 2:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 2:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 2:3",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Song 2:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Song 2:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 2:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Song 2:7",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Song 2:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Song 2:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 2:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Song 2:11",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 2:12",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 2:13",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 2:14",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 2:15",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Song 2:16",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 2:17",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Lovers' Dialogue and Invitation",
+            "start": "Song 2:1",
+            "end": "Song 2:17",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "generosity",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

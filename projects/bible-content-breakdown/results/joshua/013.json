@@ -1,0 +1,193 @@
+{
+    "book": "Joshua",
+    "chapter": 13,
+    "verses": [
+        {
+            "ref": "Josh 13:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 13:2",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Josh 13:3",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 13:4",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 13:5",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 13:6",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Josh 13:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 13:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Josh 13:9",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 13:10",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 13:11",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 13:12",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Josh 13:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 13:14",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Josh 13:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 13:16",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 13:17",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 13:18",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 13:19",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 13:20",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 13:21",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Josh 13:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 13:23",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Josh 13:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 13:25",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 13:26",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 13:27",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 13:28",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Josh 13:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 13:30",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 13:31",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 13:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 13:33",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Land Allotments East of the Jordan",
+            "start": "Josh 13:1",
+            "end": "Josh 13:33",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,157 @@
+{
+    "book": "Genesis",
+    "chapter": 17,
+    "verses": [
+        {
+            "ref": "Gen 17:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 17:2",
+            "function": "theological"
+        },
+        {
+            "ref": "Gen 17:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 17:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Gen 17:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Gen 17:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Gen 17:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Gen 17:8",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 17:9",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Gen 17:10",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Gen 17:11",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Gen 17:12",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Gen 17:13",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Gen 17:14",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Gen 17:15",
+            "function": "theological"
+        },
+        {
+            "ref": "Gen 17:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Gen 17:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 17:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 17:19",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 17:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Gen 17:21",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 17:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 17:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 17:24",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 17:25",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 17:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 17:27",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Covenant with Abraham",
+            "start": "Gen 17:1",
+            "end": "Gen 17:27",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

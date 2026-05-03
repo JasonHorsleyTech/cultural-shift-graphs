@@ -1,0 +1,211 @@
+{
+    "book": "1 Kings",
+    "chapter": 12,
+    "verses": [
+        {
+            "ref": "1Ki 12:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1Ki 12:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "1Ki 12:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "1Ki 12:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "1Ki 12:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "1Ki 12:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "1Ki 12:7",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1Ki 12:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "1Ki 12:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "1Ki 12:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "1Ki 12:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "1Ki 12:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "1Ki 12:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "1Ki 12:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "1Ki 12:15",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1Ki 12:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "1Ki 12:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "1Ki 12:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "1Ki 12:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "1Ki 12:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "1Ki 12:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "1Ki 12:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "1Ki 12:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "1Ki 12:24",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1Ki 12:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "1Ki 12:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "1Ki 12:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "1Ki 12:28",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1Ki 12:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "1Ki 12:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "1Ki 12:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "1Ki 12:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "1Ki 12:33",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Division of the Kingdom",
+            "start": "1Ki 12:1",
+            "end": "1Ki 12:20",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "humility",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "God Prevents Civil War",
+            "start": "1Ki 12:21",
+            "end": "1Ki 12:24",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Jeroboam's False Worship",
+            "start": "1Ki 12:25",
+            "end": "1Ki 12:33",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

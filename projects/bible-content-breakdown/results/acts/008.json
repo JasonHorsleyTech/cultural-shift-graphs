@@ -1,0 +1,214 @@
+{
+    "book": "Acts",
+    "chapter": 8,
+    "verses": [
+        {
+            "ref": "Acts 8:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 8:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 8:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 8:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 8:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 8:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 8:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 8:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 8:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 8:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 8:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 8:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 8:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 8:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 8:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 8:16",
+            "function": "theological"
+        },
+        {
+            "ref": "Acts 8:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 8:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 8:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 8:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 8:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 8:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Acts 8:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 8:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 8:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 8:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 8:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 8:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 8:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 8:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 8:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 8:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 8:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 8:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 8:35",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 8:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 8:38",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 8:39",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 8:40",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Persecution and the Gospel Spreading to Samaria",
+            "start": "Acts 8:1",
+            "end": "Acts 8:25",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "courage",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Philip and the Ethiopian Eunuch",
+            "start": "Acts 8:26",
+            "end": "Acts 8:40",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

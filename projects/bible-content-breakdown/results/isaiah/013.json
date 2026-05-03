@@ -1,0 +1,129 @@
+{
+    "book": "Isaiah",
+    "chapter": 13,
+    "verses": [
+        {
+            "ref": "Isa 13:1",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 13:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 13:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 13:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 13:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 13:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 13:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 13:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 13:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 13:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 13:11",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 13:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 13:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 13:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 13:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 13:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 13:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 13:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 13:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 13:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 13:21",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 13:22",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Oracle Against Babylon",
+            "start": "Isa 13:1",
+            "end": "Isa 13:22",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

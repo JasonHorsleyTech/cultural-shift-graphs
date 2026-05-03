@@ -1,0 +1,171 @@
+{
+    "book": "2 Kings",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "2 Kings 2:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 2:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 2:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 2:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 2:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 2:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 2:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 2:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 2:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 2:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Kings 2:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 2:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 2:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 2:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 2:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 2:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 2:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 2:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 2:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 2:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 2:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "2 Kings 2:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 2:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 2:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 2:25",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Elijah's Ascension and Elisha's Succession",
+            "start": "2 Kings 2:1",
+            "end": "2 Kings 2:18",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Elisha Heals Jericho's Water",
+            "start": "2 Kings 2:19",
+            "end": "2 Kings 2:22",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Elisha's Judgment on the Mocking Boys",
+            "start": "2 Kings 2:23",
+            "end": "2 Kings 2:24",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

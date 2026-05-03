@@ -1,0 +1,361 @@
+{
+    "book": "Luke",
+    "chapter": 11,
+    "verses": [
+        {
+            "ref": "Luke 11:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 11:2",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 11:3",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 11:4",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 11:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 11:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 11:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 11:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 11:9",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 11:10",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 11:11",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Luke 11:12",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Luke 11:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 11:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 11:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 11:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 11:17",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 11:18",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 11:19",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 11:20",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 11:21",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 11:22",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 11:23",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 11:24",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 11:25",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 11:26",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 11:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 11:28",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Luke 11:29",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Luke 11:30",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Luke 11:31",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 11:32",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 11:33",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Luke 11:34",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Luke 11:35",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 11:36",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Luke 11:37",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 11:38",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 11:39",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 11:40",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 11:41",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 11:42",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 11:43",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 11:44",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 11:45",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 11:46",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 11:47",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 11:48",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 11:49",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Luke 11:50",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 11:51",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 11:52",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 11:53",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 11:54",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jesus Teaches Prayer and Asking God",
+            "start": "Luke 11:1",
+            "end": "Luke 11:13",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Demon and Satan's Divided Kingdom",
+            "start": "Luke 11:14",
+            "end": "Luke 11:26",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "The Sign of Jonah and Judgment",
+            "start": "Luke 11:27",
+            "end": "Luke 11:32",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Lamp Within",
+            "start": "Luke 11:33",
+            "end": "Luke 11:36",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "humility",
+                    "weight": 0.7
+                }
+            ]
+        },
+        {
+            "name": "Jesus Denounces the Pharisees and Lawyers",
+            "start": "Luke 11:37",
+            "end": "Luke 11:54",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "hypocrisy",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

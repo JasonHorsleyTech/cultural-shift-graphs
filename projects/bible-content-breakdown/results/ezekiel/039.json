@@ -1,0 +1,217 @@
+{
+    "book": "Ezekiel",
+    "chapter": 39,
+    "verses": [
+        {
+            "ref": "Ezekiel 39:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 39:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 39:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 39:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 39:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 39:6",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezekiel 39:7",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ezekiel 39:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 39:9",
+            "function": "prophecy",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezekiel 39:10",
+            "function": "prophecy",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezekiel 39:11",
+            "function": "prophecy",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ezekiel 39:12",
+            "function": "prophecy",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezekiel 39:13",
+            "function": "prophecy",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezekiel 39:14",
+            "function": "prophecy",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezekiel 39:15",
+            "function": "prophecy",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezekiel 39:16",
+            "function": "prophecy",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ezekiel 39:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 39:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 39:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 39:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 39:21",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ezekiel 39:22",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ezekiel 39:23",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ezekiel 39:24",
+            "function": "theological"
+        },
+        {
+            "ref": "Ezekiel 39:25",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ezekiel 39:26",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 39:27",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezekiel 39:28",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ezekiel 39:29",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Gog's Defeat and Israel's Restoration",
+            "start": "Ezekiel 39:1",
+            "end": "Ezekiel 39:29",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences_of_sin",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

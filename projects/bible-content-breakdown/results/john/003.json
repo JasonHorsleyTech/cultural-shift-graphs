@@ -1,0 +1,202 @@
+{
+    "book": "John",
+    "chapter": 3,
+    "verses": [
+        {
+            "ref": "John 3:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 3:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 3:3",
+            "function": "theological"
+        },
+        {
+            "ref": "John 3:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 3:5",
+            "function": "theological"
+        },
+        {
+            "ref": "John 3:6",
+            "function": "theological"
+        },
+        {
+            "ref": "John 3:7",
+            "function": "theological"
+        },
+        {
+            "ref": "John 3:8",
+            "function": "theological"
+        },
+        {
+            "ref": "John 3:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 3:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 3:11",
+            "function": "theological"
+        },
+        {
+            "ref": "John 3:12",
+            "function": "theological"
+        },
+        {
+            "ref": "John 3:13",
+            "function": "theological"
+        },
+        {
+            "ref": "John 3:14",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 3:15",
+            "function": "theological"
+        },
+        {
+            "ref": "John 3:16",
+            "function": "theological"
+        },
+        {
+            "ref": "John 3:17",
+            "function": "theological"
+        },
+        {
+            "ref": "John 3:18",
+            "function": "theological"
+        },
+        {
+            "ref": "John 3:19",
+            "function": "theological"
+        },
+        {
+            "ref": "John 3:20",
+            "function": "theological"
+        },
+        {
+            "ref": "John 3:21",
+            "function": "theological"
+        },
+        {
+            "ref": "John 3:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 3:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 3:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 3:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 3:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 3:27",
+            "function": "theological"
+        },
+        {
+            "ref": "John 3:28",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "John 3:29",
+            "function": "theological"
+        },
+        {
+            "ref": "John 3:30",
+            "function": "theological"
+        },
+        {
+            "ref": "John 3:31",
+            "function": "theological"
+        },
+        {
+            "ref": "John 3:32",
+            "function": "theological"
+        },
+        {
+            "ref": "John 3:33",
+            "function": "theological"
+        },
+        {
+            "ref": "John 3:34",
+            "function": "theological"
+        },
+        {
+            "ref": "John 3:35",
+            "function": "theological"
+        },
+        {
+            "ref": "John 3:36",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Nicodemus and the new birth",
+            "start": "John 3:1",
+            "end": "John 3:21",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "John the Baptist's testimony",
+            "start": "John 3:22",
+            "end": "John 3:36",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "humility",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

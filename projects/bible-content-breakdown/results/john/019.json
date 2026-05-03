@@ -1,0 +1,245 @@
+{
+    "book": "John",
+    "chapter": 19,
+    "verses": [
+        {
+            "ref": "John 19:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 19:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 19:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 19:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 19:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 19:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 19:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 19:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 19:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 19:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 19:11",
+            "function": "theological"
+        },
+        {
+            "ref": "John 19:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 19:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 19:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "John 19:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 19:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 19:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 19:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 19:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "John 19:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 19:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 19:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 19:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "John 19:24",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 19:25",
+            "function": "catalog"
+        },
+        {
+            "ref": "John 19:26",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 19:27",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 19:28",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 19:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 19:30",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "John 19:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 19:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 19:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 19:34",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 19:35",
+            "function": "theological"
+        },
+        {
+            "ref": "John 19:36",
+            "function": "theological"
+        },
+        {
+            "ref": "John 19:37",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 19:38",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 19:39",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 19:40",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 19:41",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 19:42",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Passion of Jesus",
+            "start": "John 19:1",
+            "end": "John 19:42",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "sacrifice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

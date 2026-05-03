@@ -1,0 +1,282 @@
+{
+    "book": "Exodus",
+    "chapter": 12,
+    "verses": [
+        {
+            "ref": "Exo 12:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 12:2",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exo 12:3",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exo 12:4",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exo 12:5",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exo 12:6",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exo 12:7",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exo 12:8",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exo 12:9",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exo 12:10",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exo 12:11",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exo 12:12",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exo 12:13",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exo 12:14",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exo 12:15",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exo 12:16",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exo 12:17",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exo 12:18",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exo 12:19",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exo 12:20",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exo 12:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 12:22",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exo 12:23",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Exo 12:24",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exo 12:25",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exo 12:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 12:27",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exo 12:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 12:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 12:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 12:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 12:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 12:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 12:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 12:35",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 12:36",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Exo 12:37",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 12:38",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 12:39",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 12:40",
+            "function": "catalog"
+        },
+        {
+            "ref": "Exo 12:41",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Exo 12:42",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Exo 12:43",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exo 12:44",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exo 12:45",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exo 12:46",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exo 12:47",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exo 12:48",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exo 12:49",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exo 12:50",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 12:51",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Tenth Plague Announced",
+            "start": "Exo 12:1",
+            "end": "Exo 12:28",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Tenth Plague Executed",
+            "start": "Exo 12:29",
+            "end": "Exo 12:51",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

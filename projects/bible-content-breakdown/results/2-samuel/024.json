@@ -1,0 +1,141 @@
+{
+    "book": "2 Samuel",
+    "chapter": 24,
+    "verses": [
+        {
+            "ref": "2 Samuel 24:1",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Samuel 24:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 24:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 24:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 24:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 24:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 24:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 24:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 24:9",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Samuel 24:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 24:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 24:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Samuel 24:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 24:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 24:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 24:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 24:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 24:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Samuel 24:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 24:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 24:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 24:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 24:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 24:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 24:25",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "David's Census and Redemption",
+            "start": "2 Samuel 24:1",
+            "end": "2 Samuel 24:25",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

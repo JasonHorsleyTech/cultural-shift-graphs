@@ -1,0 +1,69 @@
+{
+    "book": "Psalms",
+    "chapter": 101,
+    "verses": [
+        {
+            "ref": "Ps 101:1",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 101:2",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Ps 101:3",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Ps 101:4",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Ps 101:5",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Ps 101:6",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Ps 101:7",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Ps 101:8",
+            "function": "moral_instruction"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Psalmist's Commitment to Righteous Governance",
+            "start": "Ps 101:1",
+            "end": "Ps 101:8",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

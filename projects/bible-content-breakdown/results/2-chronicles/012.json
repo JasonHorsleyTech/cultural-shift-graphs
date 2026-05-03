@@ -1,0 +1,113 @@
+{
+    "book": "2 Chronicles",
+    "chapter": 12,
+    "verses": [
+        {
+            "ref": "2 Chr 12:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 12:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 12:3",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Chr 12:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 12:5",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Chr 12:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 12:7",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Chr 12:8",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Chr 12:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 12:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 12:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Chr 12:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chr 12:13",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Chr 12:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "2 Chr 12:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 12:16",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Rehoboam's Reign",
+            "start": "2 Chr 12:1",
+            "end": "2 Chr 12:16",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

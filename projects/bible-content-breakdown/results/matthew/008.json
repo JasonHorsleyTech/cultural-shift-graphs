@@ -1,0 +1,290 @@
+{
+    "book": "Matthew",
+    "chapter": 8,
+    "verses": [
+        {
+            "ref": "Matt 8:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 8:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 8:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 8:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 8:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 8:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 8:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 8:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 8:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 8:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 8:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 8:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 8:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 8:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 8:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 8:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 8:17",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 8:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 8:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 8:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 8:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 8:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Matt 8:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 8:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 8:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 8:26",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 8:27",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 8:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 8:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 8:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 8:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 8:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 8:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 8:34",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Leper",
+            "start": "Matt 8:1",
+            "end": "Matt 8:4",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.8
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.6
+                }
+            ]
+        },
+        {
+            "name": "The Centurion's Servant",
+            "start": "Matt 8:5",
+            "end": "Matt 8:13",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Peter's Mother-in-Law and Evening Healings",
+            "start": "Matt 8:14",
+            "end": "Matt 8:17",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Cost of Discipleship",
+            "start": "Matt 8:18",
+            "end": "Matt 8:22",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "sacrifice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Jesus Stills the Storm",
+            "start": "Matt 8:23",
+            "end": "Matt 8:27",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "The Demon-Possessed Men of Gadarenes",
+            "start": "Matt 8:28",
+            "end": "Matt 8:34",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 0.7
+                }
+            ]
+        }
+    ]
+}

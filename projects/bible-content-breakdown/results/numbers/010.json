@@ -1,0 +1,218 @@
+{
+    "book": "Numbers",
+    "chapter": 10,
+    "verses": [
+        {
+            "ref": "Num 10:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 10:2",
+            "function": "specifications",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Num 10:3",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 10:4",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 10:5",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 10:6",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 10:7",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 10:8",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 10:9",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 10:10",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Num 10:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 10:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 10:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 10:14",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 10:15",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 10:16",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 10:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 10:18",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 10:19",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 10:20",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 10:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 10:22",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 10:23",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 10:24",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 10:25",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Num 10:26",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 10:27",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 10:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 10:29",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Num 10:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 10:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 10:32",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Num 10:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 10:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 10:35",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 10:36",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Trumpet Instructions",
+            "start": "Num 10:1",
+            "end": "Num 10:10",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Journey from Sinai",
+            "start": "Num 10:11",
+            "end": "Num 10:36",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "book": "Leviticus",
+    "chapter": 19,
+    "verses": [
+        {
+            "ref": "Lev 19:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 19:2",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Lev 19:3",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 19:4",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Lev 19:5",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 19:6",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 19:7",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 19:8",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 19:9",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Lev 19:10",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Lev 19:11",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Lev 19:12",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Lev 19:13",
+            "function": "civil_law",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 19:14",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Lev 19:15",
+            "function": "civil_law",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 19:16",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Lev 19:17",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Lev 19:18",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Lev 19:19",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 19:20",
+            "function": "sexual_marital",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 19:21",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 19:22",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 19:23",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 19:24",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 19:25",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 19:26",
+            "function": "purity_dietary",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 19:27",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 19:28",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 19:29",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Lev 19:30",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 19:31",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 19:32",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Lev 19:33",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Lev 19:34",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Lev 19:35",
+            "function": "civil_law",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lev 19:36",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 19:37",
+            "function": "moral_instruction"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Holiness Code",
+            "start": "Lev 19:1",
+            "end": "Lev 19:37",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

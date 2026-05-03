@@ -1,0 +1,142 @@
+{
+    "book": "Leviticus",
+    "chapter": 24,
+    "verses": [
+        {
+            "ref": "Lev 24:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 24:2",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 24:3",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 24:4",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 24:5",
+            "function": "specifications"
+        },
+        {
+            "ref": "Lev 24:6",
+            "function": "specifications"
+        },
+        {
+            "ref": "Lev 24:7",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 24:8",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "Lev 24:9",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 24:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 24:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.1
+            }
+        },
+        {
+            "ref": "Lev 24:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 24:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 24:14",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 24:15",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 24:16",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 24:17",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 24:18",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 24:19",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 24:20",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 24:21",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 24:22",
+            "function": "civil_law",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lev 24:23",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Lamp and Bread of Presence",
+            "start": "Lev 24:1",
+            "end": "Lev 24:9",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                }
+            ]
+        },
+        {
+            "name": "The Blasphemer and Laws",
+            "start": "Lev 24:10",
+            "end": "Lev 24:23",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

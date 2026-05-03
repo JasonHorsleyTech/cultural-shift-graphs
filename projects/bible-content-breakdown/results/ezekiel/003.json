@@ -1,0 +1,161 @@
+{
+    "book": "Ezekiel",
+    "chapter": 3,
+    "verses": [
+        {
+            "ref": "Ezek 3:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 3:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 3:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezek 3:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 3:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 3:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 3:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 3:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 3:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 3:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 3:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 3:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 3:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 3:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 3:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 3:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 3:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 3:18",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ezek 3:19",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ezek 3:20",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ezek 3:21",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ezek 3:22",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 3:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 3:24",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ezek 3:25",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 3:26",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 3:27",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Ezekiel Commissioned as Watchman",
+            "start": "Ezek 3:1",
+            "end": "Ezek 3:27",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

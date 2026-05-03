@@ -1,0 +1,194 @@
+{
+    "book": "1 Kings",
+    "chapter": 14,
+    "verses": [
+        {
+            "ref": "1 Kings 14:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 14:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 14:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 14:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 14:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Kings 14:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 14:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Kings 14:8",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "1 Kings 14:9",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Kings 14:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Kings 14:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Kings 14:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Kings 14:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Kings 14:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Kings 14:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Kings 14:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Kings 14:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 14:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 14:19",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kings 14:20",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kings 14:21",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kings 14:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Kings 14:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 14:24",
+            "function": "narrative",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Kings 14:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 14:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 14:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 14:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 14:29",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kings 14:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 14:31",
+            "function": "catalog"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Ahijah's Prophecy Against Jeroboam",
+            "start": "1 Kings 14:1",
+            "end": "1 Kings 14:18",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Rehoboam's Reign and Judah's Idolatry",
+            "start": "1 Kings 14:21",
+            "end": "1 Kings 14:31",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

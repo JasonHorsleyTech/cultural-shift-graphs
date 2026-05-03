@@ -1,0 +1,178 @@
+{
+    "book": "2 Chronicles",
+    "chapter": 35,
+    "verses": [
+        {
+            "ref": "2 Chronicles 35:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 35:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 35:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chronicles 35:4",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "2 Chronicles 35:5",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "2 Chronicles 35:6",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "2 Chronicles 35:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "2 Chronicles 35:8",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chronicles 35:9",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Chronicles 35:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 35:11",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "2 Chronicles 35:12",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "2 Chronicles 35:13",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "2 Chronicles 35:14",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "2 Chronicles 35:15",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "2 Chronicles 35:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 35:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 35:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "2 Chronicles 35:19",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Chronicles 35:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 35:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chronicles 35:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 35:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 35:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 35:25",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "2 Chronicles 35:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 35:27",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Josiah's Passover",
+            "start": "2 Chronicles 35:1",
+            "end": "2 Chronicles 35:19",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "generosity",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Josiah's Death at Megiddo",
+            "start": "2 Chronicles 35:20",
+            "end": "2 Chronicles 35:27",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

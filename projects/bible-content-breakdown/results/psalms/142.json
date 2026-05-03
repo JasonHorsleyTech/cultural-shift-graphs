@@ -1,0 +1,57 @@
+{
+    "book": "Psalms",
+    "chapter": 142,
+    "verses": [
+        {
+            "ref": "Ps 142:1",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 142:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 142:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 142:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 142:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 142:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 142:7",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "David's Prayer from the Cave",
+            "start": "Ps 142:1",
+            "end": "Ps 142:7",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

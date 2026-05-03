@@ -1,0 +1,125 @@
+{
+    "book": "Ezekiel",
+    "chapter": 13,
+    "verses": [
+        {
+            "ref": "Ezek 13:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 13:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 13:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 13:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 13:5",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezek 13:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 13:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 13:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 13:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 13:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 13:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 13:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 13:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 13:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 13:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 13:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 13:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 13:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 13:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 13:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 13:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 13:22",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 13:23",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Judgment Against False Prophets",
+            "start": "Ezek 13:1",
+            "end": "Ezek 13:23",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

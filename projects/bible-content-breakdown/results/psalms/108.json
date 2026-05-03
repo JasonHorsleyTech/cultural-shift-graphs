@@ -1,0 +1,97 @@
+{
+    "book": "Psalms",
+    "chapter": 108,
+    "verses": [
+        {
+            "ref": "Ps 108:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 108:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 108:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 108:4",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 108:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 108:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 108:7",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 108:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ps 108:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ps 108:10",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 108:11",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 108:12",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 108:13",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Prayer for Deliverance with Divine Oracle",
+            "start": "Ps 108:1",
+            "end": "Ps 108:13",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

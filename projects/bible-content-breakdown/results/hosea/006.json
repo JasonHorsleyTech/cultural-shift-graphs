@@ -1,0 +1,101 @@
+{
+    "book": "Hosea",
+    "chapter": 6,
+    "verses": [
+        {
+            "ref": "Hos 6:1",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Hos 6:2",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Hos 6:3",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Hos 6:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Hos 6:5",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Hos 6:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Hos 6:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Hos 6:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Hos 6:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Hos 6:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Hos 6:11",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Judgment on Israel's Unfaithfulness",
+            "start": "Hos 6:1",
+            "end": "Hos 6:11",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

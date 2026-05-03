@@ -1,0 +1,219 @@
+{
+    "book": "Joel",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "Joel 2:1",
+            "function": "prophecy",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Joel 2:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Joel 2:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Joel 2:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Joel 2:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Joel 2:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Joel 2:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Joel 2:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Joel 2:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Joel 2:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Joel 2:11",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Joel 2:12",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Joel 2:13",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Joel 2:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Joel 2:15",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Joel 2:16",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Joel 2:17",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Joel 2:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Joel 2:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Joel 2:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Joel 2:21",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Joel 2:22",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Joel 2:23",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Joel 2:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Joel 2:25",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Joel 2:26",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Joel 2:27",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Joel 2:28",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Joel 2:29",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Joel 2:30",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Joel 2:31",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Joel 2:32",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Day of the Lord and the Invading Army",
+            "start": "Joel 2:1",
+            "end": "Joel 2:11",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Repentance and Restoration",
+            "start": "Joel 2:12",
+            "end": "Joel 2:27",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Outpouring of the Spirit and Final Judgment",
+            "start": "Joel 2:28",
+            "end": "Joel 2:32",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

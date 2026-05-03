@@ -1,0 +1,89 @@
+{
+    "book": "The Song of Songs",
+    "chapter": 8,
+    "verses": [
+        {
+            "ref": "Song 8:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 8:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 8:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 8:4",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Song 8:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 8:6",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Song 8:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 8:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Song 8:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Song 8:10",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 8:11",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 8:12",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 8:13",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 8:14",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Lovers' Final Declarations",
+            "start": "Song 8:1",
+            "end": "Song 8:14",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,312 @@
+{
+    "book": "Psalms",
+    "chapter": 106,
+    "verses": [
+        {
+            "ref": "Ps 106:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 106:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 106:3",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ps 106:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 106:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 106:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 106:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 106:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 106:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 106:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 106:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 106:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 106:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 106:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 106:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 106:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 106:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 106:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 106:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 106:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ps 106:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 106:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 106:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 106:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 106:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 106:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 106:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 106:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 106:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 106:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 106:31",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 106:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 106:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 106:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 106:35",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 106:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 106:37",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 106:38",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 106:39",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 106:40",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 106:41",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 106:42",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 106:43",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 106:44",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 106:45",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 106:46",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 106:47",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 106:48",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Red Sea Deliverance",
+            "start": "Ps 106:7",
+            "end": "Ps 106:12",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Wilderness Rebellions",
+            "start": "Ps 106:13",
+            "end": "Ps 106:27",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Canaan Idolatry and Oppression",
+            "start": "Ps 106:28",
+            "end": "Ps 106:43",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "God's Covenant Mercy",
+            "start": "Ps 106:44",
+            "end": "Ps 106:46",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 2.0
+                }
+            ]
+        }
+    ]
+}

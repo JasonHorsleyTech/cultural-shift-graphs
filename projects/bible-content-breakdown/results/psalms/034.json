@@ -1,0 +1,129 @@
+{
+    "book": "Psalms",
+    "chapter": 34,
+    "verses": [
+        {
+            "ref": "Ps 34:1",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 34:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 34:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 34:4",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 34:5",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Ps 34:6",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 34:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 34:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 34:9",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Ps 34:10",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ps 34:11",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Ps 34:12",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Ps 34:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Ps 34:14",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Ps 34:15",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 34:16",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 34:17",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 34:18",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 34:19",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 34:20",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 34:21",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 34:22",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "David's Praise and Teaching After Deliverance",
+            "start": "Ps 34:1",
+            "end": "Ps 34:22",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

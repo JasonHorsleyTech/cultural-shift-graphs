@@ -1,0 +1,69 @@
+{
+    "book": "1 Samuel",
+    "chapter": 29,
+    "verses": [
+        {
+            "ref": "1 Sam 29:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 29:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 29:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 29:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 29:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 29:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 29:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 29:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 29:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 29:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 29:11",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "David Dismissed by the Philistines",
+            "start": "1 Sam 29:1",
+            "end": "1 Sam 29:11",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

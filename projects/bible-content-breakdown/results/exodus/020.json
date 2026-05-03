@@ -1,0 +1,195 @@
+{
+    "book": "Exodus",
+    "chapter": 20,
+    "verses": [
+        {
+            "ref": "Exodus 20:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exodus 20:2",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exodus 20:3",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Exodus 20:4",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exodus 20:5",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Exodus 20:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Exodus 20:7",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Exodus 20:8",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Exodus 20:9",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exodus 20:10",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exodus 20:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Exodus 20:12",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Exodus 20:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Exodus 20:14",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Exodus 20:15",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Exodus 20:16",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Exodus 20:17",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Exodus 20:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exodus 20:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exodus 20:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Exodus 20:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exodus 20:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Exodus 20:23",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Exodus 20:24",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exodus 20:25",
+            "function": "specifications",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Exodus 20:26",
+            "function": "ritual_instruction"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Ten Commandments Given",
+            "start": "Exodus 20:1",
+            "end": "Exodus 20:17",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "The People's Fearful Reaction",
+            "start": "Exodus 20:18",
+            "end": "Exodus 20:21",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Altar Construction and Worship Instructions",
+            "start": "Exodus 20:22",
+            "end": "Exodus 20:26",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "book": "Proverbs",
+    "chapter": 9,
+    "verses": [
+        {
+            "ref": "Proverbs 9:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Proverbs 9:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Proverbs 9:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Proverbs 9:4",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Proverbs 9:5",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Proverbs 9:6",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Proverbs 9:7",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 9:8",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 9:9",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 9:10",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Proverbs 9:11",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Proverbs 9:12",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 9:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Proverbs 9:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Proverbs 9:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Proverbs 9:16",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Proverbs 9:17",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Proverbs 9:18",
+            "function": "moral_instruction"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Wisdom's Invitation",
+            "start": "Proverbs 9:1",
+            "end": "Proverbs 9:12",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Folly's Deception",
+            "start": "Proverbs 9:13",
+            "end": "Proverbs 9:18",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

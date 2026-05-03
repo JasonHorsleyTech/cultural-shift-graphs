@@ -1,0 +1,125 @@
+{
+    "book": "Job",
+    "chapter": 8,
+    "verses": [
+        {
+            "ref": "Job 8:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 8:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 8:3",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 8:4",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 8:5",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Job 8:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 8:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Job 8:8",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Job 8:9",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 8:10",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Job 8:11",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 8:12",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 8:13",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 8:14",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 8:15",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 8:16",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 8:17",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 8:18",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 8:19",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 8:20",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 8:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Job 8:22",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Bildad's Response to Job",
+            "start": "Job 8:1",
+            "end": "Job 8:22",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

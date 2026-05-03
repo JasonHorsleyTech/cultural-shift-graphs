@@ -1,0 +1,137 @@
+{
+    "book": "Ezekiel",
+    "chapter": 45,
+    "verses": [
+        {
+            "ref": "Ezekiel 45:1",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezekiel 45:2",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezekiel 45:3",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezekiel 45:4",
+            "function": "specifications",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezekiel 45:5",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezekiel 45:6",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezekiel 45:7",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezekiel 45:8",
+            "function": "specifications",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ezekiel 45:9",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Ezekiel 45:10",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Ezekiel 45:11",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezekiel 45:12",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezekiel 45:13",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezekiel 45:14",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezekiel 45:15",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezekiel 45:16",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezekiel 45:17",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezekiel 45:18",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezekiel 45:19",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezekiel 45:20",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezekiel 45:21",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezekiel 45:22",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezekiel 45:23",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezekiel 45:24",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezekiel 45:25",
+            "function": "ritual_instruction"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Restored Temple and Land Division",
+            "start": "Ezekiel 45:1",
+            "end": "Ezekiel 45:25",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

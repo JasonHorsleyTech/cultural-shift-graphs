@@ -1,0 +1,93 @@
+{
+    "book": "1 Corinthians",
+    "chapter": 5,
+    "verses": [
+        {
+            "ref": "1 Cor 5:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Cor 5:2",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Cor 5:3",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Cor 5:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Cor 5:5",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Cor 5:6",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Cor 5:7",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "1 Cor 5:8",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Cor 5:9",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Cor 5:10",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Cor 5:11",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Cor 5:12",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Cor 5:13",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Addressing Sexual Immorality in the Church",
+            "start": "1 Cor 5:1",
+            "end": "1 Cor 5:13",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "sexual_purity",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

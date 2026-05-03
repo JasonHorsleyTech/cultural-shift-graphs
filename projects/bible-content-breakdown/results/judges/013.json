@@ -1,0 +1,165 @@
+{
+    "book": "Judges",
+    "chapter": 13,
+    "verses": [
+        {
+            "ref": "Judges 13:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 13:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 13:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Judges 13:4",
+            "function": "purity_dietary",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Judges 13:5",
+            "function": "prophecy",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Judges 13:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 13:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Judges 13:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 13:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 13:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 13:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 13:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 13:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Judges 13:14",
+            "function": "purity_dietary",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Judges 13:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 13:16",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Judges 13:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 13:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Judges 13:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 13:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 13:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 13:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 13:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Judges 13:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 13:25",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Samson's Annunciation and Birth",
+            "start": "Judges 13:1",
+            "end": "Judges 13:25",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

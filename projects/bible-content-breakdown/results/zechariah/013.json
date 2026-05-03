@@ -1,0 +1,65 @@
+{
+    "book": "Zechariah",
+    "chapter": 13,
+    "verses": [
+        {
+            "ref": "Zech 13:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 13:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 13:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 13:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 13:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 13:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 13:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 13:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 13:9",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Eschatological judgment and the refining of the remnant",
+            "start": "Zech 13:1",
+            "end": "Zech 13:9",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

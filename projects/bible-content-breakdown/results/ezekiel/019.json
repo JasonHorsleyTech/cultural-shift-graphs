@@ -1,0 +1,97 @@
+{
+    "book": "Ezekiel",
+    "chapter": 19,
+    "verses": [
+        {
+            "ref": "Ezek 19:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 19:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezek 19:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 19:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 19:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 19:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 19:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 19:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 19:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 19:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezek 19:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 19:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 19:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 19:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.35
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Lament for the Princes of Israel",
+            "start": "Ezek 19:1",
+            "end": "Ezek 19:14",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

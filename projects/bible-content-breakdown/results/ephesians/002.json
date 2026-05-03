@@ -1,0 +1,125 @@
+{
+    "book": "Ephesians",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "Eph 2:1",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 2:2",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 2:3",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 2:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 2:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 2:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 2:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 2:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 2:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 2:10",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Eph 2:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 2:12",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 2:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 2:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 2:15",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 2:16",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 2:17",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 2:18",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 2:19",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 2:20",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 2:21",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 2:22",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Salvation and Reconciliation in Christ",
+            "start": "Eph 2:1",
+            "end": "Eph 2:22",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

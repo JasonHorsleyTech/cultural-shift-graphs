@@ -1,0 +1,240 @@
+{
+    "book": "Hebrews",
+    "chapter": 12,
+    "verses": [
+        {
+            "ref": "Heb 12:1",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Heb 12:2",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Heb 12:3",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Heb 12:4",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Heb 12:5",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Heb 12:6",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Heb 12:7",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Heb 12:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 12:9",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Heb 12:10",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Heb 12:11",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Heb 12:12",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Heb 12:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Heb 12:14",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Heb 12:15",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Heb 12:16",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Heb 12:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Heb 12:18",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 12:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Heb 12:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Heb 12:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Heb 12:22",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 12:23",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 12:24",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 12:25",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Heb 12:26",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Heb 12:27",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Heb 12:28",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Heb 12:29",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Run with Endurance Through Discipline",
+            "start": "Heb 12:1",
+            "end": "Heb 12:11",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Pursue Holiness and Heed the Esau Warning",
+            "start": "Heb 12:12",
+            "end": "Heb 12:17",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "From Sinai to Zion: The Better Covenant",
+            "start": "Heb 12:18",
+            "end": "Heb 12:24",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Final Exhortation: Hear God's Voice and Worship",
+            "start": "Heb 12:25",
+            "end": "Heb 12:29",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

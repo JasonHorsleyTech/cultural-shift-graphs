@@ -1,0 +1,65 @@
+{
+    "book": "Jeremiah",
+    "chapter": 47,
+    "verses": [
+        {
+            "ref": "Jer 47:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 47:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 47:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 47:4",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Jer 47:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 47:6",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 47:7",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Oracle Against the Philistines",
+            "start": "Jer 47:1",
+            "end": "Jer 47:7",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

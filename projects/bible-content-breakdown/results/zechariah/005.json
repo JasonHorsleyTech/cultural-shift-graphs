@@ -1,0 +1,89 @@
+{
+    "book": "Zechariah",
+    "chapter": 5,
+    "verses": [
+        {
+            "ref": "Zech 5:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Zech 5:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Zech 5:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 5:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 5:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Zech 5:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Zech 5:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Zech 5:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Zech 5:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Zech 5:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Zech 5:11",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.25
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Zechariah's Vision of Judgment and Wickedness",
+            "start": "Zech 5:1",
+            "end": "Zech 5:11",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences_of_sin",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.2
+                },
+                {
+                    "theme": "justice",
+                    "weight": 0.7
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "book": "Amos",
+    "chapter": 3,
+    "verses": [
+        {
+            "ref": "Amos 3:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 3:2",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Amos 3:3",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Amos 3:4",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Amos 3:5",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Amos 3:6",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Amos 3:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Amos 3:8",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Amos 3:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 3:10",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Amos 3:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 3:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 3:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 3:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 3:15",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Prophecy of Israel's Judgment",
+            "start": "Amos 3:1",
+            "end": "Amos 3:15",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

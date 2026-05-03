@@ -1,0 +1,323 @@
+{
+    "book": "Leviticus",
+    "chapter": 14,
+    "verses": [
+        {
+            "ref": "Lev 14:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 14:2",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 14:3",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 14:4",
+            "function": "specifications",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Lev 14:5",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 14:6",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 14:7",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 14:8",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 14:9",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 14:10",
+            "function": "specifications",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Lev 14:11",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 14:12",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 14:13",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 14:14",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 14:15",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 14:16",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 14:17",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 14:18",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 14:19",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 14:20",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 14:21",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 14:22",
+            "function": "specifications",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Lev 14:23",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 14:24",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 14:25",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 14:26",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 14:27",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 14:28",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 14:29",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 14:30",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 14:31",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 14:32",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 14:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 14:34",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 14:35",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 14:36",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 14:37",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Lev 14:38",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 14:39",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 14:40",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 14:41",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 14:42",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 14:43",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 14:44",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 14:45",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 14:46",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "purity_dietary",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Lev 14:47",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "purity_dietary",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 14:48",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 14:49",
+            "function": "specifications",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Lev 14:50",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 14:51",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 14:52",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 14:53",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 14:54",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 14:55",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 14:56",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 14:57",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Cleansing a Person with Skin Disease",
+            "start": "Lev 14:1",
+            "end": "Lev 14:32",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 0.8
+                },
+                {
+                    "theme": "obedience",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Cleansing a House with Disease",
+            "start": "Lev 14:33",
+            "end": "Lev 14:53",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obedience",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.6
+                }
+            ]
+        },
+        {
+            "name": "Summary of Disease and Cleansing Laws",
+            "start": "Lev 14:54",
+            "end": "Lev 14:57",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obedience",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

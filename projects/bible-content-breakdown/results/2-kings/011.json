@@ -1,0 +1,133 @@
+{
+    "book": "2 Kings",
+    "chapter": 11,
+    "verses": [
+        {
+            "ref": "2 Kings 11:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 11:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 11:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 11:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 11:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Kings 11:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Kings 11:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Kings 11:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 11:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 11:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 11:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 11:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 11:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 11:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 11:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Kings 11:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 11:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Kings 11:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 11:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 11:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 11:21",
+            "function": "catalog"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Athaliah's Overthrow and Joash's Coronation",
+            "start": "2 Kings 11:1",
+            "end": "2 Kings 11:21",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 0.7
+                }
+            ]
+        }
+    ]
+}

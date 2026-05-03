@@ -1,0 +1,105 @@
+{
+    "book": "Psalms",
+    "chapter": 143,
+    "verses": [
+        {
+            "ref": "Ps 143:1",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Ps 143:2",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ps 143:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 143:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 143:5",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 143:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 143:7",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Ps 143:8",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 143:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 143:10",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Ps 143:11",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 143:12",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "David's Prayer for Deliverance",
+            "start": "Ps 143:1",
+            "end": "Ps 143:12",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,190 @@
+{
+    "book": "Jeremiah",
+    "chapter": 52,
+    "verses": [
+        {
+            "ref": "Jer 52:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 52:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 52:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 52:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 52:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 52:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 52:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 52:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 52:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 52:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 52:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 52:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 52:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 52:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 52:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 52:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 52:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 52:18",
+            "function": "catalog"
+        },
+        {
+            "ref": "Jer 52:19",
+            "function": "catalog"
+        },
+        {
+            "ref": "Jer 52:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 52:21",
+            "function": "specifications"
+        },
+        {
+            "ref": "Jer 52:22",
+            "function": "specifications"
+        },
+        {
+            "ref": "Jer 52:23",
+            "function": "specifications"
+        },
+        {
+            "ref": "Jer 52:24",
+            "function": "catalog"
+        },
+        {
+            "ref": "Jer 52:25",
+            "function": "catalog"
+        },
+        {
+            "ref": "Jer 52:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 52:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 52:28",
+            "function": "catalog"
+        },
+        {
+            "ref": "Jer 52:29",
+            "function": "catalog"
+        },
+        {
+            "ref": "Jer 52:30",
+            "function": "catalog"
+        },
+        {
+            "ref": "Jer 52:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 52:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 52:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 52:34",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Siege and Fall of Jerusalem",
+            "start": "Jer 52:1",
+            "end": "Jer 52:30",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Jehoiachin's Pardon and Restoration",
+            "start": "Jer 52:31",
+            "end": "Jer 52:34",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "book": "Job",
+    "chapter": 42,
+    "verses": [
+        {
+            "ref": "Job 42:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 42:2",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 42:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 42:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 42:5",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 42:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 42:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 42:8",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 42:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 42:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 42:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 42:12",
+            "function": "catalog"
+        },
+        {
+            "ref": "Job 42:13",
+            "function": "catalog"
+        },
+        {
+            "ref": "Job 42:14",
+            "function": "catalog"
+        },
+        {
+            "ref": "Job 42:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 42:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 42:17",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Job's Vindication and Restoration",
+            "start": "Job 42:1",
+            "end": "Job 42:17",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "humility",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

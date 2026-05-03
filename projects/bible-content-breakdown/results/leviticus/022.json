@@ -1,0 +1,198 @@
+{
+    "book": "Leviticus",
+    "chapter": 22,
+    "verses": [
+        {
+            "ref": "Lev 22:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 22:2",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 22:3",
+            "function": "purity_dietary",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Lev 22:4",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 22:5",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 22:6",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 22:7",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 22:8",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 22:9",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lev 22:10",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 22:11",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 22:12",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 22:13",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 22:14",
+            "function": "civil_law",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 22:15",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 22:16",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lev 22:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 22:18",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 22:19",
+            "function": "specifications"
+        },
+        {
+            "ref": "Lev 22:20",
+            "function": "specifications"
+        },
+        {
+            "ref": "Lev 22:21",
+            "function": "specifications"
+        },
+        {
+            "ref": "Lev 22:22",
+            "function": "specifications"
+        },
+        {
+            "ref": "Lev 22:23",
+            "function": "specifications"
+        },
+        {
+            "ref": "Lev 22:24",
+            "function": "specifications"
+        },
+        {
+            "ref": "Lev 22:25",
+            "function": "specifications"
+        },
+        {
+            "ref": "Lev 22:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 22:27",
+            "function": "specifications"
+        },
+        {
+            "ref": "Lev 22:28",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 22:29",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 22:30",
+            "function": "specifications"
+        },
+        {
+            "ref": "Lev 22:31",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Lev 22:32",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 22:33",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Priestly Purity and Access to Holy Offerings",
+            "start": "Lev 22:1",
+            "end": "Lev 22:16",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Standards for Acceptable Offerings to the Lord",
+            "start": "Lev 22:17",
+            "end": "Lev 22:33",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

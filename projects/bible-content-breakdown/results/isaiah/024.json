@@ -1,0 +1,157 @@
+{
+    "book": "Isaiah",
+    "chapter": 24,
+    "verses": [
+        {
+            "ref": "Is 24:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Is 24:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Is 24:3",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Is 24:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Is 24:5",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Is 24:6",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Is 24:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Is 24:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Is 24:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Is 24:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Is 24:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Is 24:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Is 24:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Is 24:14",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Is 24:15",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Is 24:16",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Is 24:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Is 24:18",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Is 24:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Is 24:20",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Is 24:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Is 24:22",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Is 24:23",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Apocalyptic Judgment and God's Future Reign",
+            "start": "Is 24:1",
+            "end": "Is 24:23",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

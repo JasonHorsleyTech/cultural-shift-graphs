@@ -1,0 +1,298 @@
+{
+    "book": "Leviticus",
+    "chapter": 7,
+    "verses": [
+        {
+            "ref": "Lev 7:1",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 7:2",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 7:3",
+            "function": "specifications",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 7:4",
+            "function": "specifications",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lev 7:5",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 7:6",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 7:7",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 7:8",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 7:9",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 7:10",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 7:11",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 7:12",
+            "function": "specifications",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 7:13",
+            "function": "specifications",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 7:14",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 7:15",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 7:16",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 7:17",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 7:18",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 7:19",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 7:20",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 7:21",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 7:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 7:23",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 7:24",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 7:25",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 7:26",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 7:27",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 7:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 7:29",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 7:30",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 7:31",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 7:32",
+            "function": "specifications",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 7:33",
+            "function": "specifications",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 7:34",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 7:35",
+            "function": "specifications"
+        },
+        {
+            "ref": "Lev 7:36",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 7:37",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lev 7:38",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Guilt Offering Law",
+            "start": "Lev 7:1",
+            "end": "Lev 7:7",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Priestly Portions from Offerings",
+            "start": "Lev 7:8",
+            "end": "Lev 7:10",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Peace Offering and Thanksgiving Laws",
+            "start": "Lev 7:11",
+            "end": "Lev 7:21",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Dietary Prohibitions on Fat and Blood",
+            "start": "Lev 7:22",
+            "end": "Lev 7:27",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Wave Offerings and Priestly Distribution",
+            "start": "Lev 7:28",
+            "end": "Lev 7:34",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Summary and Divine Validation of Offerings",
+            "start": "Lev 7:35",
+            "end": "Lev 7:38",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,241 @@
+{
+    "book": "Jeremiah",
+    "chapter": 50,
+    "verses": [
+        {
+            "ref": "Jer 50:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 50:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 50:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 50:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 50:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 50:6",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jer 50:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 50:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 50:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 50:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 50:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 50:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 50:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 50:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 50:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 50:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 50:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 50:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 50:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 50:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 50:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 50:22",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 50:23",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 50:24",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 50:25",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 50:26",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 50:27",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 50:28",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 50:29",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 50:30",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 50:31",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 50:32",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 50:33",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jer 50:34",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jer 50:35",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 50:36",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 50:37",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 50:38",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 50:39",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 50:40",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 50:41",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 50:42",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 50:43",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 50:44",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 50:45",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 50:46",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Oracle Against Babylon",
+            "start": "Jer 50:1",
+            "end": "Jer 50:46",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

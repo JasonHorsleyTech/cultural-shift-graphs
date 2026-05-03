@@ -1,0 +1,289 @@
+{
+    "book": "Exodus",
+    "chapter": 30,
+    "verses": [
+        {
+            "ref": "Exod 30:1",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 30:2",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 30:3",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 30:4",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 30:5",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 30:6",
+            "function": "specifications",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exod 30:7",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exod 30:8",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exod 30:9",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exod 30:10",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exod 30:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exod 30:12",
+            "function": "civil_law",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Exod 30:13",
+            "function": "civil_law",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exod 30:14",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Exod 30:15",
+            "function": "civil_law",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exod 30:16",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Exod 30:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exod 30:18",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 30:19",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exod 30:20",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exod 30:21",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exod 30:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exod 30:23",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 30:24",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 30:25",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exod 30:26",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exod 30:27",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exod 30:28",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exod 30:29",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Exod 30:30",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exod 30:31",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exod 30:32",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Exod 30:33",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Exod 30:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exod 30:35",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exod 30:36",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exod 30:37",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exod 30:38",
+            "function": "civil_law"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Incense Altar Construction and Use",
+            "start": "Exod 30:1",
+            "end": "Exod 30:10",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Census Tax for Atonement",
+            "start": "Exod 30:11",
+            "end": "Exod 30:16",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Washing Basin for Priests",
+            "start": "Exod 30:17",
+            "end": "Exod 30:21",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Sacred Anointing Oil",
+            "start": "Exod 30:22",
+            "end": "Exod 30:33",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Sacred Incense",
+            "start": "Exod 30:34",
+            "end": "Exod 30:38",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

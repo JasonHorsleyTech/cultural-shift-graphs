@@ -1,0 +1,212 @@
+{
+    "book": "Acts",
+    "chapter": 14,
+    "verses": [
+        {
+            "ref": "Acts 14:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 14:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 14:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Acts 14:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 14:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 14:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 14:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 14:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 14:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 14:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 14:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 14:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 14:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 14:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 14:15",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 14:16",
+            "function": "theological"
+        },
+        {
+            "ref": "Acts 14:17",
+            "function": "theological"
+        },
+        {
+            "ref": "Acts 14:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 14:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 14:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 14:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 14:22",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Acts 14:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 14:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 14:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 14:26",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 14:27",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Acts 14:28",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Ministry in Iconium and Flight to Lystra",
+            "start": "Acts 14:1",
+            "end": "Acts 14:7",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "courage",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Healing of the Lame Beggar in Lystra",
+            "start": "Acts 14:8",
+            "end": "Acts 14:18",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Paul Stoned and Recovers in Lystra",
+            "start": "Acts 14:19",
+            "end": "Acts 14:20",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "courage",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Return Journey and Strengthening of the Churches",
+            "start": "Acts 14:21",
+            "end": "Acts 14:28",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

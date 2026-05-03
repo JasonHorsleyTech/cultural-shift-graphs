@@ -1,0 +1,97 @@
+{
+    "book": "Psalms",
+    "chapter": 26,
+    "verses": [
+        {
+            "ref": "Ps 26:1",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 26:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 26:3",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ps 26:4",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Ps 26:5",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Ps 26:6",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 26:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 26:8",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 26:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 26:10",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Ps 26:11",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 26:12",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "David's Prayer for Vindication",
+            "start": "Ps 26:1",
+            "end": "Ps 26:12",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

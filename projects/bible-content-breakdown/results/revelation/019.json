@@ -1,0 +1,150 @@
+{
+    "book": "Revelation",
+    "chapter": 19,
+    "verses": [
+        {
+            "ref": "Rev 19:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Rev 19:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Rev 19:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 19:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 19:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Rev 19:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Rev 19:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Rev 19:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Rev 19:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Rev 19:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Rev 19:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 19:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 19:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Rev 19:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 19:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rev 19:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 19:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 19:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 19:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 19:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 19:21",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Heavenly Celebration of Divine Justice",
+            "start": "Rev 19:1",
+            "end": "Rev 19:10",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Christ's Return and Victory",
+            "start": "Rev 19:11",
+            "end": "Rev 19:21",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

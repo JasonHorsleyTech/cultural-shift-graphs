@@ -1,0 +1,65 @@
+{
+    "book": "Psalms",
+    "chapter": 53,
+    "verses": [
+        {
+            "ref": "Psalm 53:1",
+            "function": "theological"
+        },
+        {
+            "ref": "Psalm 53:2",
+            "function": "theological"
+        },
+        {
+            "ref": "Psalm 53:3",
+            "function": "theological"
+        },
+        {
+            "ref": "Psalm 53:4",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalm 53:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Psalm 53:6",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Fool Denies God: Judgment and Restoration",
+            "start": "Psalm 53:1",
+            "end": "Psalm 53:6",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.7
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 0.7
+                }
+            ]
+        }
+    ]
+}

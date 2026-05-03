@@ -1,0 +1,89 @@
+{
+    "book": "Leviticus",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "Lev 2:1",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 2:2",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 2:3",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 2:4",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 2:5",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 2:6",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 2:7",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 2:8",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 2:9",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 2:10",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 2:11",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 2:12",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 2:13",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 2:14",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 2:15",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 2:16",
+            "function": "ritual_instruction"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Grain Offering Instructions",
+            "start": "Lev 2:1",
+            "end": "Lev 2:16",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

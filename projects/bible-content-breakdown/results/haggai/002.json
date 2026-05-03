@@ -1,0 +1,183 @@
+{
+    "book": "Haggai",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "Hag 2:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Hag 2:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Hag 2:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Hag 2:4",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Hag 2:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Hag 2:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hag 2:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hag 2:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Hag 2:9",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Hag 2:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Hag 2:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Hag 2:12",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Hag 2:13",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Hag 2:14",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Hag 2:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Hag 2:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Hag 2:17",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Hag 2:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Hag 2:19",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Hag 2:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Hag 2:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hag 2:22",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hag 2:23",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "God Encourages Temple Rebuilders",
+            "start": "Hag 2:1",
+            "end": "Hag 2:9",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "God Explains Past Judgment and Offers Renewal",
+            "start": "Hag 2:10",
+            "end": "Hag 2:19",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Zerubbabel's Role in God's Final Upheaval",
+            "start": "Hag 2:20",
+            "end": "Hag 2:23",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

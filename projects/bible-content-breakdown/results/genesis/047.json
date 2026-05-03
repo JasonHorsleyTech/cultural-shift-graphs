@@ -1,0 +1,235 @@
+{
+    "book": "Genesis",
+    "chapter": 47,
+    "verses": [
+        {
+            "ref": "Gen 47:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 47:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 47:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 47:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 47:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 47:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 47:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 47:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 47:9",
+            "function": "catalog",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 47:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 47:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 47:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 47:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 47:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 47:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 47:16",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 47:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 47:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 47:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Gen 47:20",
+            "function": "civil_law",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 47:21",
+            "function": "civil_law",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 47:22",
+            "function": "civil_law",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.1
+            }
+        },
+        {
+            "ref": "Gen 47:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 47:24",
+            "function": "civil_law",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.1
+            }
+        },
+        {
+            "ref": "Gen 47:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 47:26",
+            "function": "civil_law",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 47:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 47:28",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.1
+            }
+        },
+        {
+            "ref": "Gen 47:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 47:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 47:31",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Joseph Settles His Family in Egypt",
+            "start": "Gen 47:1",
+            "end": "Gen 47:12",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Joseph's Management of the Famine",
+            "start": "Gen 47:13",
+            "end": "Gen 47:27",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Jacob's Final Request",
+            "start": "Gen 47:28",
+            "end": "Gen 47:31",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

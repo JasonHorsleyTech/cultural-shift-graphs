@@ -1,0 +1,89 @@
+{
+    "book": "Jonah",
+    "chapter": 3,
+    "verses": [
+        {
+            "ref": "Jon 3:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jon 3:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jon 3:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jon 3:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Jon 3:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jon 3:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jon 3:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jon 3:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jon 3:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jon 3:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jonah Preaches to Nineveh and They Repent",
+            "start": "Jon 3:1",
+            "end": "Jon 3:10",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

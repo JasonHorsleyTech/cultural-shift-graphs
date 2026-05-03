@@ -1,0 +1,153 @@
+{
+    "book": "Psalms",
+    "chapter": 25,
+    "verses": [
+        {
+            "ref": "Ps 25:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 25:2",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 25:3",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 25:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 25:5",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 25:6",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ps 25:7",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 25:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 25:9",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 25:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 25:11",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 25:12",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 25:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 25:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 25:15",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 25:16",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 25:17",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 25:18",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 25:19",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 25:20",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 25:21",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 25:22",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Prayer for Guidance and Deliverance",
+            "start": "Ps 25:1",
+            "end": "Ps 25:22",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

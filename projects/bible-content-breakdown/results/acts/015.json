@@ -1,0 +1,262 @@
+{
+    "book": "Acts",
+    "chapter": 15,
+    "verses": [
+        {
+            "ref": "Acts 15:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 15:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 15:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 15:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 15:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 15:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 15:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 15:8",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "Acts 15:9",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.1
+            }
+        },
+        {
+            "ref": "Acts 15:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 15:11",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.1
+            }
+        },
+        {
+            "ref": "Acts 15:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 15:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 15:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Acts 15:15",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.1
+            }
+        },
+        {
+            "ref": "Acts 15:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Acts 15:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Acts 15:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Acts 15:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 15:20",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Acts 15:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 15:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 15:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 15:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 15:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 15:26",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "Acts 15:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 15:28",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Acts 15:29",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Acts 15:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 15:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 15:32",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "Acts 15:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 15:35",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 15:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 15:37",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 15:38",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 15:39",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 15:40",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 15:41",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Jerusalem Council",
+            "start": "Acts 15:1",
+            "end": "Acts 15:35",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Paul and Barnabas Separate",
+            "start": "Acts 15:36",
+            "end": "Acts 15:41",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

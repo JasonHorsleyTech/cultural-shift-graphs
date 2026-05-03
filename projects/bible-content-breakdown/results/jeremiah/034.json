@@ -1,0 +1,146 @@
+{
+    "book": "Jeremiah",
+    "chapter": 34,
+    "verses": [
+        {
+            "ref": "Jer 34:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 34:2",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jer 34:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 34:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 34:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 34:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 34:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 34:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 34:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 34:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 34:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 34:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 34:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Jer 34:14",
+            "function": "civil_law",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 34:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 34:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 34:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 34:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 34:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 34:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 34:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 34:22",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jeremiah's Prophecy to Zedekiah",
+            "start": "Jer 34:1",
+            "end": "Jer 34:7",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "The Broken Covenant and Divine Judgment",
+            "start": "Jer 34:8",
+            "end": "Jer 34:22",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

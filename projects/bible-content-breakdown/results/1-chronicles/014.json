@@ -1,0 +1,134 @@
+{
+    "book": "1 Chronicles",
+    "chapter": 14,
+    "verses": [
+        {
+            "ref": "1 Chronicles 14:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chronicles 14:2",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Chronicles 14:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chronicles 14:4",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chronicles 14:5",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chronicles 14:6",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chronicles 14:7",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chronicles 14:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chronicles 14:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chronicles 14:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Chronicles 14:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Chronicles 14:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chronicles 14:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chronicles 14:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Chronicles 14:15",
+            "function": "prophecy",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Chronicles 14:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chronicles 14:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "David's Palace and Dynasty",
+            "start": "1 Chronicles 14:1",
+            "end": "1 Chronicles 14:7",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                }
+            ]
+        },
+        {
+            "name": "David Defeats the Philistines",
+            "start": "1 Chronicles 14:8",
+            "end": "1 Chronicles 14:17",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

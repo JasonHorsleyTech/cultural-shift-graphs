@@ -1,0 +1,101 @@
+{
+    "book": "2 Corinthians",
+    "chapter": 7,
+    "verses": [
+        {
+            "ref": "2 Cor 7:1",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "2 Cor 7:2",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Cor 7:3",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Cor 7:4",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Cor 7:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Cor 7:6",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Cor 7:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Cor 7:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "2 Cor 7:9",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Cor 7:10",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Cor 7:11",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Cor 7:12",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Cor 7:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "2 Cor 7:14",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Cor 7:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Cor 7:16",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Paul's Relief at the Corinthians' Repentance",
+            "start": "2 Cor 7:1",
+            "end": "2 Cor 7:16",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

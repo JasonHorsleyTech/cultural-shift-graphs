@@ -1,0 +1,145 @@
+{
+    "book": "Ephesians",
+    "chapter": 1,
+    "verses": [
+        {
+            "ref": "Eph 1:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Eph 1:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Eph 1:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Eph 1:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 1:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 1:6",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Eph 1:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 1:8",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Eph 1:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 1:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 1:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 1:12",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Eph 1:13",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Eph 1:14",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Eph 1:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Eph 1:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Eph 1:17",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 1:18",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 1:19",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 1:20",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Eph 1:21",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 1:22",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 1:23",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Plan of Salvation in Christ and the Church",
+            "start": "Eph 1:1",
+            "end": "Eph 1:23",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

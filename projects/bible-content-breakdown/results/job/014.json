@@ -1,0 +1,141 @@
+{
+    "book": "Job",
+    "chapter": 14,
+    "verses": [
+        {
+            "ref": "Job 14:1",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 14:2",
+            "function": "wisdom",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 14:3",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 14:4",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 14:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 14:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 14:7",
+            "function": "wisdom",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Job 14:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 14:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 14:10",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 14:11",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 14:12",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 14:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 14:14",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 14:15",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 14:16",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 14:17",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Job 14:18",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 14:19",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Job 14:20",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 14:21",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 14:22",
+            "function": "wisdom"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Job's Meditation on Mortality and Resurrection Hope",
+            "start": "Job 14:1",
+            "end": "Job 14:22",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "humility",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

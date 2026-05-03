@@ -1,0 +1,77 @@
+{
+    "book": "Ecclesiastes",
+    "chapter": 11,
+    "verses": [
+        {
+            "ref": "Ecc 11:1",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 11:2",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 11:3",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 11:4",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 11:5",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ecc 11:6",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 11:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ecc 11:8",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 11:9",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ecc 11:10",
+            "function": "wisdom"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Wisdom on Living and Working with Uncertainty",
+            "start": "Ecc 11:1",
+            "end": "Ecc 11:10",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.6
+                }
+            ]
+        }
+    ]
+}

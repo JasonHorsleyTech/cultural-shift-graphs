@@ -1,0 +1,180 @@
+{
+    "book": "Proverbs",
+    "chapter": 26,
+    "verses": [
+        {
+            "ref": "Prov 26:1",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 26:2",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 26:3",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 26:4",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 26:5",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 26:6",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 26:7",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 26:8",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 26:9",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 26:10",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 26:11",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 26:12",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 26:13",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 26:14",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 26:15",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 26:16",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 26:17",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 26:18",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 26:19",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 26:20",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 26:21",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 26:22",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 26:23",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 26:24",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 26:25",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 26:26",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 26:27",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 26:28",
+            "function": "wisdom"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Fools and Their Folly",
+            "start": "Prov 26:1",
+            "end": "Prov 26:12",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Sluggard's Excuses",
+            "start": "Prov 26:13",
+            "end": "Prov 26:16",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Troublemakers",
+            "start": "Prov 26:17",
+            "end": "Prov 26:22",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Hidden Evil and Its Consequences",
+            "start": "Prov 26:23",
+            "end": "Prov 26:28",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "hypocrisy",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                }
+            ]
+        }
+    ]
+}

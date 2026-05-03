@@ -1,0 +1,253 @@
+{
+    "book": "Numbers",
+    "chapter": 1,
+    "verses": [
+        {
+            "ref": "Num 1:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 1:2",
+            "function": "specifications",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Num 1:3",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 1:4",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 1:5",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 1:6",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 1:7",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 1:8",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 1:9",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 1:10",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 1:11",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 1:12",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 1:13",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 1:14",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 1:15",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 1:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 1:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 1:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Num 1:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 1:20",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 1:21",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 1:22",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 1:23",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 1:24",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 1:25",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 1:26",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 1:27",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 1:28",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 1:29",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 1:30",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 1:31",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 1:32",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 1:33",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 1:34",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 1:35",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 1:36",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 1:37",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 1:38",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 1:39",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 1:40",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 1:41",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 1:42",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 1:43",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 1:44",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 1:45",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 1:46",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 1:47",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 1:48",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 1:49",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 1:50",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 1:51",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 1:52",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 1:53",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 1:54",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Census of Israel at Sinai",
+            "start": "Num 1:1",
+            "end": "Num 1:54",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

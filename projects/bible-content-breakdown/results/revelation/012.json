@@ -1,0 +1,121 @@
+{
+    "book": "Revelation",
+    "chapter": 12,
+    "verses": [
+        {
+            "ref": "Rev 12:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 12:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 12:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 12:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 12:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 12:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 12:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 12:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 12:9",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rev 12:10",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Rev 12:11",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Rev 12:12",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rev 12:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 12:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 12:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 12:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 12:17",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Woman, the Dragon, and the War in Heaven",
+            "start": "Rev 12:1",
+            "end": "Rev 12:17",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

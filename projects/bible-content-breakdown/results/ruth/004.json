@@ -1,0 +1,149 @@
+{
+    "book": "Ruth",
+    "chapter": 4,
+    "verses": [
+        {
+            "ref": "Ruth 4:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ruth 4:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ruth 4:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ruth 4:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ruth 4:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ruth 4:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ruth 4:7",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Ruth 4:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ruth 4:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ruth 4:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ruth 4:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Ruth 4:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Ruth 4:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ruth 4:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ruth 4:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ruth 4:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ruth 4:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ruth 4:18",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ruth 4:19",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ruth 4:20",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ruth 4:21",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ruth 4:22",
+            "function": "catalog"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Ruth's Redemption",
+            "start": "Ruth 4:1",
+            "end": "Ruth 4:22",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

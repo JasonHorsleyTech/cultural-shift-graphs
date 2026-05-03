@@ -1,0 +1,184 @@
+{
+    "book": "Revelation",
+    "chapter": 14,
+    "verses": [
+        {
+            "ref": "Rev 14:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 14:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 14:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 14:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Rev 14:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 14:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 14:7",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rev 14:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 14:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 14:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 14:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 14:12",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rev 14:13",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Rev 14:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 14:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 14:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 14:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 14:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 14:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 14:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "The 144,000 Redeemed",
+            "start": "Rev 14:1",
+            "end": "Rev 14:5",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "sexual_purity",
+                    "weight": 0.7
+                }
+            ]
+        },
+        {
+            "name": "Three Angels' Proclamations of Judgment",
+            "start": "Rev 14:6",
+            "end": "Rev 14:12",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Blessing for the Righteous Dead",
+            "start": "Rev 14:13",
+            "end": "Rev 14:13",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Harvest and Winepress of God's Wrath",
+            "start": "Rev 14:14",
+            "end": "Rev 14:20",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,257 @@
+{
+    "book": "Numbers",
+    "chapter": 4,
+    "verses": [
+        {
+            "ref": "Num 4:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 4:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 4:3",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 4:4",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 4:5",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 4:6",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 4:7",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 4:8",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 4:9",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 4:10",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 4:11",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 4:12",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 4:13",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 4:14",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 4:15",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Num 4:16",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 4:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 4:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 4:19",
+            "function": "theological"
+        },
+        {
+            "ref": "Num 4:20",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 4:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 4:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 4:23",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 4:24",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 4:25",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 4:26",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 4:27",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 4:28",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 4:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 4:30",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 4:31",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 4:32",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 4:33",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 4:34",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "Num 4:35",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 4:36",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 4:37",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.1
+            }
+        },
+        {
+            "ref": "Num 4:38",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.1
+            }
+        },
+        {
+            "ref": "Num 4:39",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 4:40",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 4:41",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.1
+            }
+        },
+        {
+            "ref": "Num 4:42",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.1
+            }
+        },
+        {
+            "ref": "Num 4:43",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 4:44",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 4:45",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.1
+            }
+        },
+        {
+            "ref": "Num 4:46",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Num 4:47",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 4:48",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 4:49",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Levite Census and Tabernacle Service Assignments",
+            "start": "Num 4:1",
+            "end": "Num 4:49",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

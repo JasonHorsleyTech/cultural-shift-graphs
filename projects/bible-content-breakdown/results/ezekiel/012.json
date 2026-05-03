@@ -1,0 +1,224 @@
+{
+    "book": "Ezekiel",
+    "chapter": 12,
+    "verses": [
+        {
+            "ref": "Ezek 12:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 12:2",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ezek 12:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 12:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 12:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 12:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 12:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 12:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 12:9",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezek 12:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 12:11",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezek 12:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 12:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 12:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 12:15",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezek 12:16",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezek 12:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 12:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 12:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 12:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 12:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 12:22",
+            "function": "prophecy",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezek 12:23",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 12:24",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 12:25",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezek 12:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 12:27",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ezek 12:28",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Sign of the Exile",
+            "start": "Ezek 12:1",
+            "end": "Ezek 12:16",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "The Sign of Anxious Sustenance",
+            "start": "Ezek 12:17",
+            "end": "Ezek 12:20",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The False Proverb Refuted",
+            "start": "Ezek 12:21",
+            "end": "Ezek 12:25",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "The Distant Vision Corrected",
+            "start": "Ezek 12:26",
+            "end": "Ezek 12:28",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

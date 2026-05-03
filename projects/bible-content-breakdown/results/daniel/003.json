@@ -1,0 +1,173 @@
+{
+    "book": "Daniel",
+    "chapter": 3,
+    "verses": [
+        {
+            "ref": "Dan 3:1",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Dan 3:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 3:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 3:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 3:5",
+            "function": "civil_law",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Dan 3:6",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Dan 3:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 3:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 3:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 3:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 3:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 3:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 3:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 3:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 3:15",
+            "function": "civil_law",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Dan 3:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 3:17",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Dan 3:18",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Dan 3:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 3:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 3:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 3:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 3:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 3:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 3:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 3:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 3:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 3:28",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Dan 3:29",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Dan 3:30",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Shadrach, Meshach, and Abednego in the Fiery Furnace",
+            "start": "Dan 3:1",
+            "end": "Dan 3:30",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

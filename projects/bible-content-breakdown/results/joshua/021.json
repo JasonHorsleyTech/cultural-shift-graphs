@@ -1,0 +1,233 @@
+{
+    "book": "Joshua",
+    "chapter": 21,
+    "verses": [
+        {
+            "ref": "Josh 21:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 21:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Josh 21:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Josh 21:4",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 21:5",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 21:6",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 21:7",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 21:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Josh 21:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 21:10",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 21:11",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 21:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Josh 21:13",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 21:14",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 21:15",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 21:16",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 21:17",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 21:18",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 21:19",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 21:20",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 21:21",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 21:22",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 21:23",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 21:24",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 21:25",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 21:26",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 21:27",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 21:28",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 21:29",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 21:30",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 21:31",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 21:32",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 21:33",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 21:34",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 21:35",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 21:36",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 21:37",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 21:38",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 21:39",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 21:40",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 21:41",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 21:42",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 21:43",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Josh 21:44",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Josh 21:45",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Levites Assigned Cities",
+            "start": "Josh 21:1",
+            "end": "Josh 21:45",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 0.6
+                }
+            ]
+        }
+    ]
+}

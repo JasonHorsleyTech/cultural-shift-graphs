@@ -1,0 +1,113 @@
+{
+    "book": "Hebrews",
+    "chapter": 3,
+    "verses": [
+        {
+            "ref": "Heb 3:1",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Heb 3:2",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 3:3",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 3:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 3:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 3:6",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Heb 3:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Heb 3:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Heb 3:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Heb 3:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Heb 3:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Heb 3:12",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Heb 3:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Heb 3:14",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Heb 3:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Heb 3:16",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 3:17",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 3:18",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 3:19",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jesus as Superior High Priest and the Warning Against Unbelief",
+            "start": "Heb 3:1",
+            "end": "Heb 3:19",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

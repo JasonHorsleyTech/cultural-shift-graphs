@@ -1,0 +1,146 @@
+{
+    "book": "Numbers",
+    "chapter": 9,
+    "verses": [
+        {
+            "ref": "Num 9:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 9:2",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 9:3",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 9:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 9:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 9:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 9:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 9:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 9:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 9:10",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 9:11",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 9:12",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 9:13",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Num 9:14",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 9:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 9:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 9:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 9:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 9:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 9:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 9:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 9:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 9:23",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Passover Observance and Accommodations",
+            "start": "Num 9:1",
+            "end": "Num 9:14",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "God Guides Israel Through the Cloud",
+            "start": "Num 9:15",
+            "end": "Num 9:23",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

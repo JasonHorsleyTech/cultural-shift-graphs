@@ -1,0 +1,300 @@
+{
+    "book": "Judges",
+    "chapter": 6,
+    "verses": [
+        {
+            "ref": "Judges 6:1",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Judges 6:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 6:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 6:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 6:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 6:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 6:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 6:8",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Judges 6:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Judges 6:10",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Judges 6:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 6:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 6:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 6:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Judges 6:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 6:16",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Judges 6:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 6:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 6:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Judges 6:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 6:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Judges 6:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 6:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Judges 6:24",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Judges 6:25",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Judges 6:26",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Judges 6:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 6:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 6:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 6:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 6:31",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Judges 6:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 6:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 6:34",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Judges 6:35",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 6:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 6:37",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Judges 6:38",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 6:39",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 6:40",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Israel's Oppression and God's Warning",
+            "start": "Judges 6:1",
+            "end": "Judges 6:10",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences_of_sin",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Angel Calls Gideon",
+            "start": "Judges 6:11",
+            "end": "Judges 6:24",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Gideon Destroys the Baal Altar",
+            "start": "Judges 6:25",
+            "end": "Judges 6:32",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Gideon Gathers Troops and Tests God",
+            "start": "Judges 6:33",
+            "end": "Judges 6:40",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

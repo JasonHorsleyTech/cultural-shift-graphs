@@ -1,0 +1,186 @@
+{
+    "book": "1 Chronicles",
+    "chapter": 5,
+    "verses": [
+        {
+            "ref": "1 Chr 5:1",
+            "function": "catalog",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Chr 5:2",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 5:3",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 5:4",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 5:5",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 5:6",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Chr 5:7",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 5:8",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 5:9",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Chr 5:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 5:11",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 5:12",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 5:13",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 5:14",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 5:15",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 5:16",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 5:17",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 5:18",
+            "function": "catalog",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Chr 5:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 5:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Chr 5:21",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Chr 5:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Chr 5:23",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 5:24",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Chr 5:25",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Chr 5:26",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Genealogy of Reuben and Gad",
+            "start": "1 Chr 5:1",
+            "end": "1 Chr 5:17",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Military Victory and Exile",
+            "start": "1 Chr 5:18",
+            "end": "1 Chr 5:26",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

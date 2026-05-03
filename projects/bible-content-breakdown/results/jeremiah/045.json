@@ -1,0 +1,61 @@
+{
+    "book": "Jeremiah",
+    "chapter": 45,
+    "verses": [
+        {
+            "ref": "Jer 45:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 45:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 45:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 45:4",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 45:5",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Message to Baruch",
+            "start": "Jer 45:1",
+            "end": "Jer 45:5",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "humility",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

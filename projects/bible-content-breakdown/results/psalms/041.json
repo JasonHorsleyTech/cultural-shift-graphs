@@ -1,0 +1,93 @@
+{
+    "book": "Psalms",
+    "chapter": 41,
+    "verses": [
+        {
+            "ref": "Psalms 41:1",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalms 41:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 41:3",
+            "function": "theological"
+        },
+        {
+            "ref": "Psalms 41:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 41:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 41:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalms 41:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 41:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 41:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Psalms 41:10",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 41:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Psalms 41:12",
+            "function": "theological"
+        },
+        {
+            "ref": "Psalms 41:13",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "A Prayer for Healing and Divine Vindication",
+            "start": "Psalms 41:1",
+            "end": "Psalms 41:13",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

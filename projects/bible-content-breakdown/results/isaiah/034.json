@@ -1,0 +1,113 @@
+{
+    "book": "Isaiah",
+    "chapter": 34,
+    "verses": [
+        {
+            "ref": "Isa 34:1",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 34:2",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 34:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 34:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 34:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 34:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 34:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 34:8",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 34:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 34:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 34:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 34:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 34:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 34:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 34:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 34:16",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 34:17",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Oracle Against Edom",
+            "start": "Isa 34:1",
+            "end": "Isa 34:17",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

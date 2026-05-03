@@ -1,0 +1,181 @@
+{
+    "book": "2 Samuel",
+    "chapter": 14,
+    "verses": [
+        {
+            "ref": "2 Sam 14:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 14:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 14:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 14:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 14:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 14:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 14:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 14:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 14:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 14:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 14:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Sam 14:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 14:13",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "2 Sam 14:14",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Sam 14:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 14:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 14:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "2 Sam 14:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 14:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 14:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 14:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 14:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 14:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 14:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 14:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 14:26",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "2 Sam 14:27",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Sam 14:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 14:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 14:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 14:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 14:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 14:33",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Joab's Scheme and Absalom's Reconciliation",
+            "start": "2 Sam 14:1",
+            "end": "2 Sam 14:33",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

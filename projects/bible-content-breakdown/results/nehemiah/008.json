@@ -1,0 +1,125 @@
+{
+    "book": "Nehemiah",
+    "chapter": 8,
+    "verses": [
+        {
+            "ref": "Neh 8:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 8:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 8:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 8:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Neh 8:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 8:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Neh 8:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Neh 8:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 8:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Neh 8:10",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Neh 8:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 8:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 8:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 8:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Neh 8:15",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Neh 8:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 8:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 8:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Public Reading of the Law and Observance of Sukkot",
+            "start": "Neh 8:1",
+            "end": "Neh 8:18",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "generosity",
+                    "weight": 0.7
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

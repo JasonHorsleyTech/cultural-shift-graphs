@@ -1,0 +1,81 @@
+{
+    "book": "Psalms",
+    "chapter": 4,
+    "verses": [
+        {
+            "ref": "Psalms 4:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 4:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 4:3",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalms 4:4",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Psalms 4:5",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Psalms 4:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 4:7",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Psalms 4:8",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Prayer for Vindication and Trust",
+            "start": "Psalms 4:1",
+            "end": "Psalms 4:8",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

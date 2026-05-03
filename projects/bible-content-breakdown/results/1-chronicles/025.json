@@ -1,0 +1,161 @@
+{
+    "book": "1 Chronicles",
+    "chapter": 25,
+    "verses": [
+        {
+            "ref": "1 Chron 25:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chron 25:2",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "1 Chron 25:3",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "1 Chron 25:4",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chron 25:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Chron 25:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chron 25:7",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chron 25:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chron 25:9",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chron 25:10",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chron 25:11",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chron 25:12",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chron 25:13",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chron 25:14",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chron 25:15",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chron 25:16",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chron 25:17",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chron 25:18",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chron 25:19",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chron 25:20",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chron 25:21",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chron 25:22",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chron 25:23",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chron 25:24",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chron 25:25",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chron 25:26",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chron 25:27",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chron 25:28",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chron 25:29",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chron 25:30",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chron 25:31",
+            "function": "catalog"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Organization of Temple Musicians and Prophets",
+            "start": "1 Chron 25:1",
+            "end": "1 Chron 25:31",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

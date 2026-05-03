@@ -1,0 +1,101 @@
+{
+    "book": "Psalms",
+    "chapter": 32,
+    "verses": [
+        {
+            "ref": "Ps 32:1",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 32:2",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 32:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 32:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 32:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 32:6",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 32:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 32:8",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Ps 32:9",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ps 32:10",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 32:11",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Confession and Forgiveness",
+            "start": "Ps 32:1",
+            "end": "Ps 32:11",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

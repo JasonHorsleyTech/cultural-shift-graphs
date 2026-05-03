@@ -1,0 +1,170 @@
+{
+    "book": "2 Kings",
+    "chapter": 14,
+    "verses": [
+        {
+            "ref": "2 Kings 14:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 14:2",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Kings 14:3",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Kings 14:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 14:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 14:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Kings 14:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 14:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 14:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Kings 14:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 14:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 14:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 14:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 14:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 14:15",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Kings 14:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 14:17",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Kings 14:18",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Kings 14:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 14:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 14:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 14:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 14:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Kings 14:24",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Kings 14:25",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "2 Kings 14:26",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Kings 14:27",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Kings 14:28",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Kings 14:29",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Amaziah's Reign",
+            "start": "2 Kings 14:1",
+            "end": "2 Kings 14:22",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Jeroboam II's Reign",
+            "start": "2 Kings 14:23",
+            "end": "2 Kings 14:29",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                }
+            ]
+        }
+    ]
+}

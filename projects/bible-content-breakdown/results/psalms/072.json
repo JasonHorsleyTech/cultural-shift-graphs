@@ -1,0 +1,129 @@
+{
+    "book": "Psalms",
+    "chapter": 72,
+    "verses": [
+        {
+            "ref": "Ps 72:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 72:2",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 72:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ps 72:4",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 72:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ps 72:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 72:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ps 72:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ps 72:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ps 72:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ps 72:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ps 72:12",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 72:13",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 72:14",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 72:15",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 72:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ps 72:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ps 72:18",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 72:19",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 72:20",
+            "function": "catalog"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Psalm 72: Prayer for the Ideal King",
+            "start": "Ps 72:1",
+            "end": "Ps 72:19",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

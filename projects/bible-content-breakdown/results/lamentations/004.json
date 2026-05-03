@@ -1,0 +1,121 @@
+{
+    "book": "Lamentations",
+    "chapter": 4,
+    "verses": [
+        {
+            "ref": "Lam 4:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Lam 4:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Lam 4:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Lam 4:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lam 4:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lam 4:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Lam 4:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Lam 4:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lam 4:9",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Lam 4:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lam 4:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Lam 4:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lam 4:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Lam 4:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lam 4:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lam 4:16",
+            "function": "theological"
+        },
+        {
+            "ref": "Lam 4:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lam 4:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lam 4:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Lam 4:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lam 4:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Lam 4:22",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Destruction of Jerusalem",
+            "start": "Lam 4:1",
+            "end": "Lam 4:22",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

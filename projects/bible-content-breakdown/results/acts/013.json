@@ -1,0 +1,303 @@
+{
+    "book": "Acts",
+    "chapter": 13,
+    "verses": [
+        {
+            "ref": "Acts 13:1",
+            "function": "catalog"
+        },
+        {
+            "ref": "Acts 13:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 13:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 13:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 13:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 13:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 13:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 13:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 13:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 13:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 13:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Acts 13:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 13:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 13:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 13:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 13:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 13:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 13:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 13:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 13:20",
+            "function": "catalog"
+        },
+        {
+            "ref": "Acts 13:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 13:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 13:23",
+            "function": "theological"
+        },
+        {
+            "ref": "Acts 13:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 13:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 13:26",
+            "function": "theological"
+        },
+        {
+            "ref": "Acts 13:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 13:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 13:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 13:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 13:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 13:32",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Acts 13:33",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Acts 13:34",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Acts 13:35",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Acts 13:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 13:37",
+            "function": "theological"
+        },
+        {
+            "ref": "Acts 13:38",
+            "function": "theological"
+        },
+        {
+            "ref": "Acts 13:39",
+            "function": "theological"
+        },
+        {
+            "ref": "Acts 13:40",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Acts 13:41",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Acts 13:42",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 13:43",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 13:44",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 13:45",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 13:46",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Acts 13:47",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 13:48",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 13:49",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 13:50",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 13:51",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 13:52",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Commissioning of Barnabas and Saul",
+            "start": "Acts 13:1",
+            "end": "Acts 13:4",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Paul and Barnabas in Cyprus",
+            "start": "Acts 13:5",
+            "end": "Acts 13:12",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Paul's Ministry in Pisidian Antioch",
+            "start": "Acts 13:13",
+            "end": "Acts 13:52",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

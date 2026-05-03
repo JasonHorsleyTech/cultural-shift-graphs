@@ -1,0 +1,233 @@
+{
+    "book": "Exodus",
+    "chapter": 28,
+    "verses": [
+        {
+            "ref": "Exod 28:1",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exod 28:2",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exod 28:3",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exod 28:4",
+            "function": "specifications",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Exod 28:5",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 28:6",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 28:7",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 28:8",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 28:9",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 28:10",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 28:11",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 28:12",
+            "function": "specifications",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exod 28:13",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 28:14",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 28:15",
+            "function": "specifications",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exod 28:16",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 28:17",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 28:18",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 28:19",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 28:20",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 28:21",
+            "function": "specifications",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Exod 28:22",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 28:23",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 28:24",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 28:25",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 28:26",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 28:27",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 28:28",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 28:29",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exod 28:30",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Exod 28:31",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 28:32",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 28:33",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 28:34",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 28:35",
+            "function": "specifications",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exod 28:36",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 28:37",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 28:38",
+            "function": "specifications",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Exod 28:39",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 28:40",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 28:41",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exod 28:42",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 28:43",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Preparation for Aaron's Priestly Consecration",
+            "start": "Exod 28:1",
+            "end": "Exod 28:43",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

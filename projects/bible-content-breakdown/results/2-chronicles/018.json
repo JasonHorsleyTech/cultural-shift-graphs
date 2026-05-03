@@ -1,0 +1,201 @@
+{
+    "book": "2 Chronicles",
+    "chapter": 18,
+    "verses": [
+        {
+            "ref": "2 Chr 18:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 18:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 18:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 18:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 18:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Chr 18:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 18:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 18:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 18:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 18:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Chr 18:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Chr 18:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 18:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chr 18:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "2 Chr 18:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 18:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Chr 18:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 18:18",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "2 Chr 18:19",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chr 18:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Chr 18:21",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chr 18:22",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Chr 18:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 18:24",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Chr 18:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 18:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 18:27",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Chr 18:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 18:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 18:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 18:31",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Chr 18:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 18:33",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Chr 18:34",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Micaiah's Prophecy Against Ahab",
+            "start": "2 Chr 18:1",
+            "end": "2 Chr 18:34",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

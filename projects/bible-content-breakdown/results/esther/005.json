@@ -1,0 +1,81 @@
+{
+    "book": "Esther",
+    "chapter": 5,
+    "verses": [
+        {
+            "ref": "Est 5:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 5:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 5:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 5:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 5:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 5:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 5:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 5:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 5:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 5:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 5:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 5:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 5:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 5:14",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Esther's Petition to the King",
+            "start": "Est 5:1",
+            "end": "Est 5:14",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "courage",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

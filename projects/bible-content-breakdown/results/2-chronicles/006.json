@@ -1,0 +1,278 @@
+{
+    "book": "2 Chronicles",
+    "chapter": 6,
+    "verses": [
+        {
+            "ref": "2 Chr 6:1",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Chr 6:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "2 Chr 6:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 6:4",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Chr 6:5",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Chr 6:6",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Chr 6:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 6:8",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Chr 6:9",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Chr 6:10",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chr 6:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Chr 6:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 6:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "2 Chr 6:14",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "2 Chr 6:15",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Chr 6:16",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Chr 6:17",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Chr 6:18",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Chr 6:19",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Chr 6:20",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Chr 6:21",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Chr 6:22",
+            "function": "civil_law",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chr 6:23",
+            "function": "civil_law"
+        },
+        {
+            "ref": "2 Chr 6:24",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chr 6:25",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chr 6:26",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Chr 6:27",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chr 6:28",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Chr 6:29",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Chr 6:30",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Chr 6:31",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "2 Chr 6:32",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Chr 6:33",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chr 6:34",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Chr 6:35",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Chr 6:36",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "2 Chr 6:37",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Chr 6:38",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Chr 6:39",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Chr 6:40",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Chr 6:41",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chr 6:42",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Ark Enters the Temple",
+            "start": "2 Chr 6:1",
+            "end": "2 Chr 6:11",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Solomon's Prayer at the Temple Dedication",
+            "start": "2 Chr 6:12",
+            "end": "2 Chr 6:42",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

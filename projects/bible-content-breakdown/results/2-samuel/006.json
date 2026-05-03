@@ -1,0 +1,158 @@
+{
+    "book": "2 Samuel",
+    "chapter": 6,
+    "verses": [
+        {
+            "ref": "2 Sam 6:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 6:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 6:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 6:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 6:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Sam 6:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 6:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 6:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 6:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 6:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 6:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 6:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 6:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Sam 6:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Sam 6:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 6:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 6:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 6:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 6:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 6:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 6:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Sam 6:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 6:23",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "David Brings the Ark to Jerusalem",
+            "start": "2 Sam 6:1",
+            "end": "2 Sam 6:19",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Michal Despises David's Worship",
+            "start": "2 Sam 6:16",
+            "end": "2 Sam 6:23",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "humility",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 0.8
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

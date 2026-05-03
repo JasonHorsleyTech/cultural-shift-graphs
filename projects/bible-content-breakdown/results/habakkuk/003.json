@@ -1,0 +1,125 @@
+{
+    "book": "Habakkuk",
+    "chapter": 3,
+    "verses": [
+        {
+            "ref": "Hab 3:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Hab 3:2",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Hab 3:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Hab 3:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Hab 3:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Hab 3:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Hab 3:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Hab 3:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Hab 3:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Hab 3:10",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Hab 3:11",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Hab 3:12",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Hab 3:13",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Hab 3:14",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Hab 3:15",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Hab 3:16",
+            "function": "narrative",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Hab 3:17",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Hab 3:18",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Hab 3:19",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Habakkuk's Prayer for Deliverance and Declaration of Faith",
+            "start": "Hab 3:1",
+            "end": "Hab 3:19",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

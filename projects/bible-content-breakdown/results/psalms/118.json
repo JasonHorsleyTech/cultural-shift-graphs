@@ -1,0 +1,181 @@
+{
+    "book": "Psalms",
+    "chapter": 118,
+    "verses": [
+        {
+            "ref": "Ps 118:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 118:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 118:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 118:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 118:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "Ps 118:6",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Ps 118:7",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Ps 118:8",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ps 118:9",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ps 118:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 118:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 118:12",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 118:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 118:14",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 118:15",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 118:16",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 118:17",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "Ps 118:18",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 118:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 118:20",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 118:21",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 118:22",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 118:23",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 118:24",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 118:25",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 118:26",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 118:27",
+            "function": "theological",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 118:28",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 118:29",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Psalm of Trust and Thanksgiving for Deliverance",
+            "start": "Ps 118:1",
+            "end": "Ps 118:29",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,240 @@
+{
+    "book": "Mark",
+    "chapter": 3,
+    "verses": [
+        {
+            "ref": "Mark 3:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 3:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 3:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 3:4",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mark 3:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 3:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 3:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 3:8",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mark 3:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 3:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 3:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Mark 3:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 3:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 3:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 3:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 3:16",
+            "function": "catalog"
+        },
+        {
+            "ref": "Mark 3:17",
+            "function": "catalog"
+        },
+        {
+            "ref": "Mark 3:18",
+            "function": "catalog"
+        },
+        {
+            "ref": "Mark 3:19",
+            "function": "catalog"
+        },
+        {
+            "ref": "Mark 3:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 3:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 3:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 3:23",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Mark 3:24",
+            "function": "theological"
+        },
+        {
+            "ref": "Mark 3:25",
+            "function": "theological"
+        },
+        {
+            "ref": "Mark 3:26",
+            "function": "theological"
+        },
+        {
+            "ref": "Mark 3:27",
+            "function": "theological"
+        },
+        {
+            "ref": "Mark 3:28",
+            "function": "theological"
+        },
+        {
+            "ref": "Mark 3:29",
+            "function": "theological"
+        },
+        {
+            "ref": "Mark 3:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 3:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 3:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 3:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 3:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 3:35",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Healing on the Sabbath",
+            "start": "Mark 3:1",
+            "end": "Mark 3:6",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Growing Ministry and Demon Recognition",
+            "start": "Mark 3:7",
+            "end": "Mark 3:12",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                }
+            ]
+        },
+        {
+            "name": "Calling the Twelve Apostles",
+            "start": "Mark 3:13",
+            "end": "Mark 3:19",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Opposition and Redefining Family",
+            "start": "Mark 3:20",
+            "end": "Mark 3:35",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

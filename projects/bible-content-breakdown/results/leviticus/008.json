@@ -1,0 +1,189 @@
+{
+    "book": "Leviticus",
+    "chapter": 8,
+    "verses": [
+        {
+            "ref": "Lev 8:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 8:2",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 8:3",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 8:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 8:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 8:6",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 8:7",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 8:8",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 8:9",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lev 8:10",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 8:11",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 8:12",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 8:13",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lev 8:14",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 8:15",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 8:16",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 8:17",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 8:18",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 8:19",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 8:20",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 8:21",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 8:22",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 8:23",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 8:24",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 8:25",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 8:26",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 8:27",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 8:28",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 8:29",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 8:30",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 8:31",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 8:32",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 8:33",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 8:34",
+            "function": "theological",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Lev 8:35",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 8:36",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Ordination of Aaron and His Sons as Priests",
+            "start": "Lev 8:1",
+            "end": "Lev 8:36",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 0.7
+                }
+            ]
+        }
+    ]
+}

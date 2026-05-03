@@ -1,0 +1,169 @@
+{
+    "book": "1 Samuel",
+    "chapter": 30,
+    "verses": [
+        {
+            "ref": "1 Sam 30:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 30:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 30:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 30:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 30:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 30:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Sam 30:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 30:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Sam 30:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 30:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 30:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 30:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 30:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 30:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 30:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 30:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 30:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 30:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 30:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 30:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 30:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 30:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 30:23",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Sam 30:24",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Sam 30:25",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Sam 30:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 30:27",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Sam 30:28",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Sam 30:29",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Sam 30:30",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Sam 30:31",
+            "function": "catalog"
+        }
+    ],
+    "stories": [
+        {
+            "name": "David Defeats the Amalekites and Rescues His Families",
+            "start": "1 Sam 30:1",
+            "end": "1 Sam 30:31",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

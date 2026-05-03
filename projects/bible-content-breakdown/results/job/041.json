@@ -1,0 +1,177 @@
+{
+    "book": "Job",
+    "chapter": 41,
+    "verses": [
+        {
+            "ref": "Job 41:1",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 41:2",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 41:3",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 41:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 41:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 41:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 41:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 41:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 41:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 41:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 41:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 41:12",
+            "function": "theological",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 41:13",
+            "function": "specifications"
+        },
+        {
+            "ref": "Job 41:14",
+            "function": "specifications"
+        },
+        {
+            "ref": "Job 41:15",
+            "function": "specifications"
+        },
+        {
+            "ref": "Job 41:16",
+            "function": "specifications"
+        },
+        {
+            "ref": "Job 41:17",
+            "function": "specifications"
+        },
+        {
+            "ref": "Job 41:18",
+            "function": "specifications"
+        },
+        {
+            "ref": "Job 41:19",
+            "function": "specifications"
+        },
+        {
+            "ref": "Job 41:20",
+            "function": "specifications"
+        },
+        {
+            "ref": "Job 41:21",
+            "function": "specifications"
+        },
+        {
+            "ref": "Job 41:22",
+            "function": "specifications",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Job 41:23",
+            "function": "specifications"
+        },
+        {
+            "ref": "Job 41:24",
+            "function": "specifications"
+        },
+        {
+            "ref": "Job 41:25",
+            "function": "specifications",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Job 41:26",
+            "function": "specifications"
+        },
+        {
+            "ref": "Job 41:27",
+            "function": "specifications"
+        },
+        {
+            "ref": "Job 41:28",
+            "function": "specifications"
+        },
+        {
+            "ref": "Job 41:29",
+            "function": "specifications"
+        },
+        {
+            "ref": "Job 41:30",
+            "function": "specifications"
+        },
+        {
+            "ref": "Job 41:31",
+            "function": "specifications"
+        },
+        {
+            "ref": "Job 41:32",
+            "function": "specifications"
+        },
+        {
+            "ref": "Job 41:33",
+            "function": "specifications",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Job 41:34",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God Speaks to Job",
+            "start": "Job 41:1",
+            "end": "Job 41:34",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

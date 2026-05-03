@@ -1,0 +1,126 @@
+{
+    "book": "Zechariah",
+    "chapter": 6,
+    "verses": [
+        {
+            "ref": "Zech 6:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Zech 6:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Zech 6:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Zech 6:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Zech 6:5",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Zech 6:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Zech 6:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Zech 6:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Zech 6:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Zech 6:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Zech 6:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Zech 6:12",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Zech 6:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 6:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Zech 6:15",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Vision of the Four Chariots",
+            "start": "Zech 6:1",
+            "end": "Zech 6:8",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Joshua Crowned and the Messianic Branch",
+            "start": "Zech 6:9",
+            "end": "Zech 6:15",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

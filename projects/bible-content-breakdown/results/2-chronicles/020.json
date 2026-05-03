@@ -1,0 +1,238 @@
+{
+    "book": "2 Chronicles",
+    "chapter": 20,
+    "verses": [
+        {
+            "ref": "2 Chr 20:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 20:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 20:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 20:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 20:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 20:6",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Chr 20:7",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Chr 20:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 20:9",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Chr 20:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 20:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 20:12",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Chr 20:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 20:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Chr 20:15",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chr 20:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Chr 20:17",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chr 20:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 20:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 20:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "2 Chr 20:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "2 Chr 20:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 20:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 20:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 20:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 20:26",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chr 20:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 20:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 20:29",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chr 20:30",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chr 20:31",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Chr 20:32",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chr 20:33",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chr 20:34",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Chr 20:35",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 20:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 20:37",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.4
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jehoshaphat's Prayer and Victory Over the Invaders",
+            "start": "2 Chr 20:1",
+            "end": "2 Chr 20:30",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Jehoshaphat's Disastrous Alliance with Ahaziah",
+            "start": "2 Chr 20:35",
+            "end": "2 Chr 20:37",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

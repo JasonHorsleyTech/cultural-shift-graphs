@@ -1,0 +1,85 @@
+{
+    "book": "Hebrews",
+    "chapter": 8,
+    "verses": [
+        {
+            "ref": "Heb 8:1",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 8:2",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 8:3",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 8:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 8:5",
+            "function": "theological",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Heb 8:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 8:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 8:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Heb 8:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Heb 8:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Heb 8:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Heb 8:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Heb 8:13",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The New Covenant Through Jesus",
+            "start": "Heb 8:1",
+            "end": "Heb 8:13",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

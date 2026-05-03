@@ -1,0 +1,138 @@
+{
+    "book": "Amos",
+    "chapter": 7,
+    "verses": [
+        {
+            "ref": "Amos 7:1",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Amos 7:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Amos 7:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Amos 7:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Amos 7:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Amos 7:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Amos 7:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Amos 7:8",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Amos 7:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 7:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Amos 7:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Amos 7:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Amos 7:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Amos 7:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Amos 7:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Amos 7:16",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Amos 7:17",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Three Visions",
+            "start": "Amos 7:1",
+            "end": "Amos 7:9",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Amos Confronts Amaziah",
+            "start": "Amos 7:10",
+            "end": "Amos 7:17",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

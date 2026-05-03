@@ -1,0 +1,137 @@
+{
+    "book": "Zechariah",
+    "chapter": 14,
+    "verses": [
+        {
+            "ref": "Zech 14:1",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Zech 14:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 14:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 14:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 14:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 14:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 14:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 14:8",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Zech 14:9",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Zech 14:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 14:11",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Zech 14:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 14:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 14:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 14:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 14:16",
+            "function": "prophecy",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Zech 14:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 14:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 14:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 14:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 14:21",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Day of the Lord",
+            "start": "Zech 14:1",
+            "end": "Zech 14:21",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

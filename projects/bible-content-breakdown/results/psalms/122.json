@@ -1,0 +1,69 @@
+{
+    "book": "Psalms",
+    "chapter": 122,
+    "verses": [
+        {
+            "ref": "Ps 122:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 122:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 122:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 122:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Ps 122:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 122:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 122:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 122:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 122:9",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Pilgrimage to Jerusalem and Prayer for Its Peace",
+            "start": "Ps 122:1",
+            "end": "Ps 122:9",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

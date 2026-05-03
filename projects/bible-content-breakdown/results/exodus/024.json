@@ -1,0 +1,113 @@
+{
+    "book": "Exodus",
+    "chapter": 24,
+    "verses": [
+        {
+            "ref": "Ex 24:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 24:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 24:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 24:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 24:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ex 24:6",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ex 24:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 24:8",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ex 24:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 24:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 24:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 24:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 24:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 24:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 24:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 24:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 24:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 24:18",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Covenant Ceremony and Reception of the Law at Mount Sinai",
+            "start": "Ex 24:1",
+            "end": "Ex 24:18",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

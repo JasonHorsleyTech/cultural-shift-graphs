@@ -1,0 +1,149 @@
+{
+    "book": "Proverbs",
+    "chapter": 4,
+    "verses": [
+        {
+            "ref": "Prov 4:1",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 4:2",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 4:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Prov 4:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Prov 4:5",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 4:6",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 4:7",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 4:8",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 4:9",
+            "function": "wisdom",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Prov 4:10",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 4:11",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 4:12",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 4:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 4:14",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 4:15",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 4:16",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 4:17",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 4:18",
+            "function": "wisdom",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 4:19",
+            "function": "wisdom",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 4:20",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 4:21",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 4:22",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 4:23",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 4:24",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 4:25",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 4:26",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 4:27",
+            "function": "moral_instruction"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Father's Wisdom Teaching",
+            "start": "Prov 4:1",
+            "end": "Prov 4:27",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "book": "Psalms",
+    "chapter": 27,
+    "verses": [
+        {
+            "ref": "Ps 27:1",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Ps 27:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 27:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 27:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 27:5",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Ps 27:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 27:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 27:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 27:9",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 27:10",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 27:11",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "Ps 27:12",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 27:13",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 27:14",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "David's Trust in God's Protection",
+            "start": "Ps 27:1",
+            "end": "Ps 27:14",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "courage",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

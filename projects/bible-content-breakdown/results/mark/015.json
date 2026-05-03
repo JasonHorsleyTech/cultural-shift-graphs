@@ -1,0 +1,229 @@
+{
+    "book": "Mark",
+    "chapter": 15,
+    "verses": [
+        {
+            "ref": "Mark 15:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 15:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 15:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 15:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 15:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 15:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 15:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 15:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 15:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 15:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 15:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 15:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 15:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 15:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 15:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 15:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 15:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 15:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 15:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 15:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 15:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 15:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 15:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 15:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 15:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 15:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 15:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 15:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 15:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 15:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 15:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 15:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 15:34",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Mark 15:35",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 15:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 15:37",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 15:38",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Mark 15:39",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Mark 15:40",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 15:41",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 15:42",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 15:43",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mark 15:44",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 15:45",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 15:46",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 15:47",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Passion of Jesus",
+            "start": "Mark 15:1",
+            "end": "Mark 15:47",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

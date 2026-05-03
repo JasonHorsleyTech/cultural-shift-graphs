@@ -1,0 +1,202 @@
+{
+    "book": "Luke",
+    "chapter": 16,
+    "verses": [
+        {
+            "ref": "Lk 16:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lk 16:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lk 16:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lk 16:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lk 16:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lk 16:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lk 16:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lk 16:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lk 16:9",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Lk 16:10",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Lk 16:11",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Lk 16:12",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Lk 16:13",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lk 16:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lk 16:15",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lk 16:16",
+            "function": "theological"
+        },
+        {
+            "ref": "Lk 16:17",
+            "function": "theological"
+        },
+        {
+            "ref": "Lk 16:18",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Lk 16:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lk 16:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lk 16:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lk 16:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lk 16:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lk 16:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lk 16:25",
+            "function": "narrative",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lk 16:26",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lk 16:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lk 16:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lk 16:29",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lk 16:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lk 16:31",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Dishonest Manager",
+            "start": "Lk 16:1",
+            "end": "Lk 16:13",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "generosity",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Lazarus and the Rich Man",
+            "start": "Lk 16:19",
+            "end": "Lk 16:31",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "book": "Esther",
+    "chapter": 1,
+    "verses": [
+        {
+            "ref": "Esther 1:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Esther 1:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Esther 1:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Esther 1:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Esther 1:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Esther 1:6",
+            "function": "specifications"
+        },
+        {
+            "ref": "Esther 1:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Esther 1:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Esther 1:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Esther 1:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Esther 1:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Esther 1:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Esther 1:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Esther 1:14",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Esther 1:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Esther 1:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Esther 1:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Esther 1:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Esther 1:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Esther 1:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Esther 1:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Esther 1:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.4
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Vashti's Deposition",
+            "start": "Esther 1:1",
+            "end": "Esther 1:22",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

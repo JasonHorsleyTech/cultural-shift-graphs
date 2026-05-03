@@ -1,0 +1,105 @@
+{
+    "book": "1 Corinthians",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "1 Cor 2:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Cor 2:2",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Cor 2:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Cor 2:4",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Cor 2:5",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 2:6",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 2:7",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 2:8",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 2:9",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 2:10",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 2:11",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 2:12",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 2:13",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 2:14",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 2:15",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Cor 2:16",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Spiritual Wisdom vs. Worldly Wisdom in Paul's Ministry",
+            "start": "1 Cor 2:1",
+            "end": "1 Cor 2:16",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

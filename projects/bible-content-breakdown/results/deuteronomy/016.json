@@ -1,0 +1,187 @@
+{
+    "book": "Deuteronomy",
+    "chapter": 16,
+    "verses": [
+        {
+            "ref": "Deut 16:1",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 16:2",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 16:3",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 16:4",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 16:5",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 16:6",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 16:7",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 16:8",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 16:9",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 16:10",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 16:11",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 16:12",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 16:13",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 16:14",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 16:15",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 16:16",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 16:17",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 16:18",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 16:19",
+            "function": "civil_law",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 16:20",
+            "function": "civil_law",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 16:21",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 16:22",
+            "function": "civil_law"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Three Pilgrimage Festivals",
+            "start": "Deut 16:1",
+            "end": "Deut 16:17",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Justice System and Fair Judgment",
+            "start": "Deut 16:18",
+            "end": "Deut 16:20",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Prohibition of Idolatry",
+            "start": "Deut 16:21",
+            "end": "Deut 16:22",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "book": "Jeremiah",
+    "chapter": 3,
+    "verses": [
+        {
+            "ref": "Jer 3:1",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 3:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 3:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 3:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 3:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 3:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 3:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 3:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 3:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 3:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 3:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 3:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 3:13",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 3:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 3:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 3:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 3:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 3:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 3:19",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 3:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 3:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 3:22",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 3:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 3:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 3:25",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Call to Repent and Return",
+            "start": "Jer 3:1",
+            "end": "Jer 3:25",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.6
+                }
+            ]
+        }
+    ]
+}

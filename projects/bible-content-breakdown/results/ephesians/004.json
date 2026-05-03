@@ -1,0 +1,206 @@
+{
+    "book": "Ephesians",
+    "chapter": 4,
+    "verses": [
+        {
+            "ref": "Eph 4:1",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Eph 4:2",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Eph 4:3",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Eph 4:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 4:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 4:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 4:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 4:8",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Eph 4:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 4:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 4:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 4:12",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 4:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 4:14",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Eph 4:15",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Eph 4:16",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 4:17",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Eph 4:18",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 4:19",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Eph 4:20",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Eph 4:21",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 4:22",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Eph 4:23",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Eph 4:24",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Eph 4:25",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Eph 4:26",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Eph 4:27",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Eph 4:28",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Eph 4:29",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Eph 4:30",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Eph 4:31",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Eph 4:32",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Unity of the Body Through Christ's Gifts",
+            "start": "Eph 4:1",
+            "end": "Eph 4:16",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Living as God's Renewed People",
+            "start": "Eph 4:17",
+            "end": "Eph 4:32",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences_of_sin",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

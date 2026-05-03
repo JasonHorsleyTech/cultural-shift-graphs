@@ -1,0 +1,109 @@
+{
+    "book": "Psalms",
+    "chapter": 21,
+    "verses": [
+        {
+            "ref": "Ps 21:1",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ps 21:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 21:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 21:4",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 21:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 21:6",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 21:7",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Ps 21:8",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ps 21:9",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 21:10",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 21:11",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 21:12",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 21:13",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Psalm 21: The King's Trust and God's Power",
+            "start": "Ps 21:1",
+            "end": "Ps 21:13",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

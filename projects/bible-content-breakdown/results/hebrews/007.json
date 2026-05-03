@@ -1,0 +1,169 @@
+{
+    "book": "Hebrews",
+    "chapter": 7,
+    "verses": [
+        {
+            "ref": "Heb 7:1",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Heb 7:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Heb 7:3",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 7:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 7:5",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Heb 7:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Heb 7:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 7:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 7:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 7:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 7:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 7:12",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 7:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 7:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 7:15",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 7:16",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 7:17",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Heb 7:18",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 7:19",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 7:20",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 7:21",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Heb 7:22",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 7:23",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 7:24",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 7:25",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 7:26",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 7:27",
+            "function": "theological",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Heb 7:28",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Christ's Eternal Priesthood in the Order of Melchizedek",
+            "start": "Heb 7:1",
+            "end": "Heb 7:28",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

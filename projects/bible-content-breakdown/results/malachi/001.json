@@ -1,0 +1,121 @@
+{
+    "book": "Malachi",
+    "chapter": 1,
+    "verses": [
+        {
+            "ref": "Mal 1:1",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Mal 1:2",
+            "function": "theological"
+        },
+        {
+            "ref": "Mal 1:3",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mal 1:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mal 1:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mal 1:6",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mal 1:7",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mal 1:8",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Mal 1:9",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Mal 1:10",
+            "function": "prophecy",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Mal 1:11",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Mal 1:12",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Mal 1:13",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mal 1:14",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Complaint Against Israel's Priests",
+            "start": "Mal 1:1",
+            "end": "Mal 1:14",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

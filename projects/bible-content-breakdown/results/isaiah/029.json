@@ -1,0 +1,141 @@
+{
+    "book": "Isaiah",
+    "chapter": 29,
+    "verses": [
+        {
+            "ref": "Isa 29:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 29:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 29:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 29:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 29:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 29:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 29:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 29:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 29:9",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Isa 29:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 29:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 29:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 29:13",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 29:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 29:15",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 29:16",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 29:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 29:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 29:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 29:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 29:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 29:22",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 29:23",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 29:24",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Oracle Against Ariel (Jerusalem) and Promise of Restoration",
+            "start": "Isa 29:1",
+            "end": "Isa 29:24",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

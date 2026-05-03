@@ -1,0 +1,221 @@
+{
+    "book": "1 Timothy",
+    "chapter": 6,
+    "verses": [
+        {
+            "ref": "1Tim 6:1",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1Tim 6:2",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1Tim 6:3",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1Tim 6:4",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1Tim 6:5",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1Tim 6:6",
+            "function": "wisdom"
+        },
+        {
+            "ref": "1Tim 6:7",
+            "function": "wisdom"
+        },
+        {
+            "ref": "1Tim 6:8",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1Tim 6:9",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1Tim 6:10",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1Tim 6:11",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1Tim 6:12",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1Tim 6:13",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1Tim 6:14",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1Tim 6:15",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1Tim 6:16",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1Tim 6:17",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1Tim 6:18",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1Tim 6:19",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1Tim 6:20",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1Tim 6:21",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Respect for masters",
+            "start": "1Tim 6:1",
+            "end": "1Tim 6:2",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Against false doctrine and love of money",
+            "start": "1Tim 6:3",
+            "end": "1Tim 6:10",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Timothy's commission",
+            "start": "1Tim 6:11",
+            "end": "1Tim 6:16",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Instructions for the rich",
+            "start": "1Tim 6:17",
+            "end": "1Tim 6:19",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "generosity",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Guard sound doctrine",
+            "start": "1Tim 6:20",
+            "end": "1Tim 6:21",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

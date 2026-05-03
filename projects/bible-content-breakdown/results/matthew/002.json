@@ -1,0 +1,170 @@
+{
+    "book": "Matthew",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "Mat 2:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mat 2:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mat 2:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mat 2:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mat 2:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mat 2:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mat 2:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mat 2:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mat 2:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mat 2:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mat 2:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mat 2:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mat 2:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mat 2:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mat 2:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Mat 2:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mat 2:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mat 2:18",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Mat 2:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mat 2:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mat 2:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mat 2:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mat 2:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Visit of the Magi",
+            "start": "Mat 2:1",
+            "end": "Mat 2:12",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Flight to Egypt and Return to Nazareth",
+            "start": "Mat 2:13",
+            "end": "Mat 2:23",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

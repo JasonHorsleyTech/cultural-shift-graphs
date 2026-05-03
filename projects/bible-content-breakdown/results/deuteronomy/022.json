@@ -1,0 +1,323 @@
+{
+    "book": "Deuteronomy",
+    "chapter": 22,
+    "verses": [
+        {
+            "ref": "Deut 22:1",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 22:2",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 22:3",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 22:4",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 22:5",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Deut 22:6",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 22:7",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 22:8",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 22:9",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Deut 22:10",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Deut 22:11",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Deut 22:12",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 22:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Deut 22:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Deut 22:15",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 22:16",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 22:17",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 22:18",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 22:19",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 22:20",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 22:21",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 22:22",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 22:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Deut 22:24",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 22:25",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.7
+            }
+        },
+        {
+            "ref": "Deut 22:26",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 22:27",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Deut 22:28",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Deut 22:29",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 22:30",
+            "function": "sexual_marital"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Neighborly duties",
+            "start": "Deut 22:1",
+            "end": "Deut 22:4",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Gender and clothing",
+            "start": "Deut 22:5",
+            "end": "Deut 22:5",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Animal compassion",
+            "start": "Deut 22:6",
+            "end": "Deut 22:7",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Building safety",
+            "start": "Deut 22:8",
+            "end": "Deut 22:8",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Purity and mixing",
+            "start": "Deut 22:9",
+            "end": "Deut 22:11",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Garment tassels",
+            "start": "Deut 22:12",
+            "end": "Deut 22:12",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "False virginity accusation",
+            "start": "Deut 22:13",
+            "end": "Deut 22:21",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Adultery",
+            "start": "Deut 22:22",
+            "end": "Deut 22:22",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "sexual_purity",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Engaged virgin cases",
+            "start": "Deut 22:23",
+            "end": "Deut 22:27",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Seduction of unengaged virgin",
+            "start": "Deut 22:28",
+            "end": "Deut 22:29",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Family marriage prohibition",
+            "start": "Deut 22:30",
+            "end": "Deut 22:30",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

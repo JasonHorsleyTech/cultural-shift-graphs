@@ -1,0 +1,141 @@
+{
+    "book": "Obadiah",
+    "chapter": 1,
+    "verses": [
+        {
+            "ref": "Obadiah 1:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Obadiah 1:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Obadiah 1:3",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Obadiah 1:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Obadiah 1:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Obadiah 1:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Obadiah 1:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Obadiah 1:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Obadiah 1:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Obadiah 1:10",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Obadiah 1:11",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Obadiah 1:12",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Obadiah 1:13",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Obadiah 1:14",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Obadiah 1:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Obadiah 1:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Obadiah 1:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Obadiah 1:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Obadiah 1:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Obadiah 1:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Obadiah 1:21",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Edom's Fall and Judah's Restoration",
+            "start": "Obadiah 1:1",
+            "end": "Obadiah 1:21",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

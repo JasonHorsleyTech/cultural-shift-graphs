@@ -1,0 +1,193 @@
+{
+    "book": "Numbers",
+    "chapter": 23,
+    "verses": [
+        {
+            "ref": "Num 23:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 23:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 23:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 23:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 23:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 23:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 23:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Num 23:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Num 23:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Num 23:10",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 23:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 23:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 23:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 23:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 23:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 23:16",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 23:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 23:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Num 23:19",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Num 23:20",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Num 23:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Num 23:22",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Num 23:23",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Num 23:24",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 23:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 23:26",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 23:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 23:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 23:29",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 23:30",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Balaam's Oracles to Balak",
+            "start": "Num 23:1",
+            "end": "Num 23:30",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "book": "1 Samuel",
+    "chapter": 28,
+    "verses": [
+        {
+            "ref": "1 Sam 28:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 28:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 28:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 28:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 28:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 28:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Sam 28:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 28:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 28:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 28:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 28:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 28:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 28:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 28:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 28:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Sam 28:16",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Sam 28:17",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Sam 28:18",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Sam 28:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Sam 28:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 28:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 28:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 28:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 28:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 28:25",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "David and Achish",
+            "start": "1 Sam 28:1",
+            "end": "1 Sam 28:2",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Saul Consults the Medium at Endor",
+            "start": "1 Sam 28:3",
+            "end": "1 Sam 28:25",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "book": "Isaiah",
+    "chapter": 12,
+    "verses": [
+        {
+            "ref": "Isa 12:1",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 12:2",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Isa 12:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Isa 12:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Isa 12:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Isa 12:6",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Song of Thanksgiving for Deliverance",
+            "start": "Isa 12:1",
+            "end": "Isa 12:6",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

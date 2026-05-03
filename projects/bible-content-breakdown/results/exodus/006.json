@@ -1,0 +1,173 @@
+{
+    "book": "Exodus",
+    "chapter": 6,
+    "verses": [
+        {
+            "ref": "Ex 6:1",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ex 6:2",
+            "function": "theological"
+        },
+        {
+            "ref": "Ex 6:3",
+            "function": "theological"
+        },
+        {
+            "ref": "Ex 6:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Ex 6:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ex 6:6",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ex 6:7",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ex 6:8",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ex 6:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 6:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 6:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 6:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ex 6:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 6:14",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ex 6:15",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ex 6:16",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ex 6:17",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ex 6:18",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ex 6:19",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ex 6:20",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ex 6:21",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ex 6:22",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ex 6:23",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ex 6:24",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ex 6:25",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ex 6:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 6:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 6:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 6:29",
+            "function": "theological"
+        },
+        {
+            "ref": "Ex 6:30",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Promise and Commission to Moses and Aaron",
+            "start": "Ex 6:1",
+            "end": "Ex 6:30",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

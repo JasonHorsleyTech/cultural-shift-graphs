@@ -1,0 +1,195 @@
+{
+    "book": "1 Thessalonians",
+    "chapter": 5,
+    "verses": [
+        {
+            "ref": "1 Thess 5:1",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Thess 5:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Thess 5:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Thess 5:4",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Thess 5:5",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Thess 5:6",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Thess 5:7",
+            "function": "wisdom"
+        },
+        {
+            "ref": "1 Thess 5:8",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Thess 5:9",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Thess 5:10",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Thess 5:11",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Thess 5:12",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Thess 5:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Thess 5:14",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Thess 5:15",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Thess 5:16",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Thess 5:17",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Thess 5:18",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Thess 5:19",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Thess 5:20",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Thess 5:21",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Thess 5:22",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Thess 5:23",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Thess 5:24",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Thess 5:25",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Thess 5:26",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Thess 5:27",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Thess 5:28",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Day of the Lord and Believers' Assurance",
+            "start": "1 Thess 5:1",
+            "end": "1 Thess 5:11",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Christian Living in Community",
+            "start": "1 Thess 5:12",
+            "end": "1 Thess 5:22",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Closing Benediction and Greetings",
+            "start": "1 Thess 5:23",
+            "end": "1 Thess 5:28",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

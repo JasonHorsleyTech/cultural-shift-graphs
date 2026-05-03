@@ -1,0 +1,179 @@
+{
+    "book": "James",
+    "chapter": 5,
+    "verses": [
+        {
+            "ref": "James 5:1",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "James 5:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "James 5:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "James 5:4",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "James 5:5",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "James 5:6",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "James 5:7",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "James 5:8",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "James 5:9",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "James 5:10",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "James 5:11",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "James 5:12",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "James 5:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "James 5:14",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "James 5:15",
+            "function": "theological"
+        },
+        {
+            "ref": "James 5:16",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "James 5:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "James 5:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "James 5:19",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "James 5:20",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Warning to the Wealthy",
+            "start": "James 5:1",
+            "end": "James 5:6",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 0.7
+                }
+            ]
+        },
+        {
+            "name": "Patience and Endurance Until Christ's Return",
+            "start": "James 5:7",
+            "end": "James 5:11",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Prayer, Healing, and Restoration of Faith",
+            "start": "James 5:12",
+            "end": "James 5:20",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "book": "1 Kings",
+    "chapter": 3,
+    "verses": [
+        {
+            "ref": "1 Kings 3:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 3:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 3:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 3:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 3:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 3:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Kings 3:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 3:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Kings 3:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 3:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 3:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 3:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Kings 3:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 3:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Kings 3:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 3:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 3:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 3:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 3:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 3:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 3:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 3:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 3:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 3:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 3:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 3:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 3:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 3:28",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Solomon Receives Divine Wisdom",
+            "start": "1 Kings 3:1",
+            "end": "1 Kings 3:15",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "humility",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Solomon's Judgment Between Two Mothers",
+            "start": "1 Kings 3:16",
+            "end": "1 Kings 3:28",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

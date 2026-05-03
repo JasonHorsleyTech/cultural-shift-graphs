@@ -1,0 +1,173 @@
+{
+    "book": "Psalms",
+    "chapter": 136,
+    "verses": [
+        {
+            "ref": "Psa 136:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 136:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 136:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 136:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 136:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 136:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 136:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 136:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 136:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 136:10",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Psa 136:11",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Psa 136:12",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Psa 136:13",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Psa 136:14",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Psa 136:15",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Psa 136:16",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 136:17",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 136:18",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 136:19",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Psa 136:20",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Psa 136:21",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psa 136:22",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psa 136:23",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 136:24",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 136:25",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 136:26",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Praise for God's Mighty Deeds and Enduring Loyalty",
+            "start": "Psa 136:1",
+            "end": "Psa 136:26",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

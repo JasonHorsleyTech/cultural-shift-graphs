@@ -1,0 +1,182 @@
+{
+    "book": "Numbers",
+    "chapter": 35,
+    "verses": [
+        {
+            "ref": "Num 35:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 35:2",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Num 35:3",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Num 35:4",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 35:5",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 35:6",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Num 35:7",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 35:8",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Num 35:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 35:10",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Num 35:11",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Num 35:12",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Num 35:13",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Num 35:14",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 35:15",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Num 35:16",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Num 35:17",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Num 35:18",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Num 35:19",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Num 35:20",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Num 35:21",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Num 35:22",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Num 35:23",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Num 35:24",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Num 35:25",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Num 35:26",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Num 35:27",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Num 35:28",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Num 35:29",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Num 35:30",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Num 35:31",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Num 35:32",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Num 35:33",
+            "function": "purity_dietary",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 35:34",
+            "function": "theological",
+            "secondary": {
+                "function": "purity_dietary",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Allocation of Levitical Towns",
+            "start": "Num 35:1",
+            "end": "Num 35:8",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Cities of Refuge and Homicide Laws",
+            "start": "Num 35:9",
+            "end": "Num 35:34",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

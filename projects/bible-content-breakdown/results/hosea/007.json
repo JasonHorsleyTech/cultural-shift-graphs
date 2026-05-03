@@ -1,0 +1,121 @@
+{
+    "book": "Hosea",
+    "chapter": 7,
+    "verses": [
+        {
+            "ref": "Hos 7:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 7:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 7:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Hos 7:4",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Hos 7:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Hos 7:6",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Hos 7:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 7:8",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Hos 7:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Hos 7:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 7:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Hos 7:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 7:13",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Hos 7:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Hos 7:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 7:16",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Israel's Corruption and Judgment",
+            "start": "Hos 7:1",
+            "end": "Hos 7:16",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

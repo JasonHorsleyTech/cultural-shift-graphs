@@ -1,0 +1,276 @@
+{
+    "book": "Ezekiel",
+    "chapter": 33,
+    "verses": [
+        {
+            "ref": "Ezek 33:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 33:2",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezek 33:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 33:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 33:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Ezek 33:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ezek 33:7",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Ezek 33:8",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Ezek 33:9",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Ezek 33:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 33:11",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Ezek 33:12",
+            "function": "theological"
+        },
+        {
+            "ref": "Ezek 33:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Ezek 33:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezek 33:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Ezek 33:16",
+            "function": "theological"
+        },
+        {
+            "ref": "Ezek 33:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Ezek 33:18",
+            "function": "theological"
+        },
+        {
+            "ref": "Ezek 33:19",
+            "function": "theological"
+        },
+        {
+            "ref": "Ezek 33:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 33:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 33:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 33:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 33:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 33:25",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezek 33:26",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 33:27",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 33:28",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 33:29",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Ezek 33:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 33:31",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ezek 33:32",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezek 33:33",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Watchman and God's Mercy",
+            "start": "Ezek 33:1",
+            "end": "Ezek 33:20",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Jerusalem's Fall and Ezekiel's Commissioning",
+            "start": "Ezek 33:21",
+            "end": "Ezek 33:22",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Judgment on the Remnant",
+            "start": "Ezek 33:23",
+            "end": "Ezek 33:29",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "The People's Hollow Hearing",
+            "start": "Ezek 33:30",
+            "end": "Ezek 33:33",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "hypocrisy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

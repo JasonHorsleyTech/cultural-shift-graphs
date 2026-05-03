@@ -1,0 +1,89 @@
+{
+    "book": "Psalms",
+    "chapter": 42,
+    "verses": [
+        {
+            "ref": "Ps 42:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 42:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 42:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 42:4",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 42:5",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 42:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 42:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 42:8",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 42:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 42:10",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 42:11",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "A Prayer for God's Presence in Distress",
+            "start": "Ps 42:1",
+            "end": "Ps 42:11",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 0.8
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

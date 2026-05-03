@@ -1,0 +1,211 @@
+{
+    "book": "Luke",
+    "chapter": 15,
+    "verses": [
+        {
+            "ref": "Luke 15:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 15:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 15:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 15:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Luke 15:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 15:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 15:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 15:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Luke 15:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 15:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 15:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 15:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 15:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 15:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 15:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 15:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 15:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 15:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 15:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 15:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 15:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 15:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 15:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 15:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 15:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 15:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 15:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 15:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 15:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 15:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 15:31",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Luke 15:32",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Lost Sheep",
+            "start": "Luke 15:4",
+            "end": "Luke 15:7",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Lost Coin",
+            "start": "Luke 15:8",
+            "end": "Luke 15:10",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Prodigal Son",
+            "start": "Luke 15:11",
+            "end": "Luke 15:32",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

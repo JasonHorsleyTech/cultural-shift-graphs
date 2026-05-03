@@ -1,0 +1,61 @@
+{
+    "book": "Psalms",
+    "chapter": 87,
+    "verses": [
+        {
+            "ref": "Psalm 87:1",
+            "function": "theological"
+        },
+        {
+            "ref": "Psalm 87:2",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Psalm 87:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 87:4",
+            "function": "catalog"
+        },
+        {
+            "ref": "Psalm 87:5",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalm 87:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Psalm 87:7",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Zion as God's Ultimate City",
+            "start": "Psalm 87:1",
+            "end": "Psalm 87:7",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

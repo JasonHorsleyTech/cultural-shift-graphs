@@ -1,0 +1,245 @@
+{
+    "book": "Judges",
+    "chapter": 20,
+    "verses": [
+        {
+            "ref": "Jdg 20:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 20:2",
+            "function": "catalog"
+        },
+        {
+            "ref": "Jdg 20:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 20:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 20:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 20:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 20:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 20:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 20:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 20:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jdg 20:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 20:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 20:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jdg 20:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 20:15",
+            "function": "catalog"
+        },
+        {
+            "ref": "Jdg 20:16",
+            "function": "catalog"
+        },
+        {
+            "ref": "Jdg 20:17",
+            "function": "catalog"
+        },
+        {
+            "ref": "Jdg 20:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 20:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 20:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 20:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 20:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 20:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 20:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 20:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 20:26",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jdg 20:27",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jdg 20:28",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jdg 20:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 20:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 20:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 20:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 20:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 20:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 20:35",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jdg 20:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 20:37",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 20:38",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 20:39",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 20:40",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 20:41",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 20:42",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 20:43",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 20:44",
+            "function": "catalog"
+        },
+        {
+            "ref": "Jdg 20:45",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 20:46",
+            "function": "catalog"
+        },
+        {
+            "ref": "Jdg 20:47",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 20:48",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Israel's War Against Benjamin",
+            "start": "Jdg 20:1",
+            "end": "Jdg 20:48",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

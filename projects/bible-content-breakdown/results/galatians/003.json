@@ -1,0 +1,250 @@
+{
+    "book": "Galatians",
+    "chapter": 3,
+    "verses": [
+        {
+            "ref": "Gal 3:1",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Gal 3:2",
+            "function": "theological"
+        },
+        {
+            "ref": "Gal 3:3",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gal 3:4",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Gal 3:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Gal 3:6",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gal 3:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Gal 3:8",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gal 3:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Gal 3:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Gal 3:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Gal 3:12",
+            "function": "theological"
+        },
+        {
+            "ref": "Gal 3:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Gal 3:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Gal 3:15",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Gal 3:16",
+            "function": "theological"
+        },
+        {
+            "ref": "Gal 3:17",
+            "function": "theological"
+        },
+        {
+            "ref": "Gal 3:18",
+            "function": "theological"
+        },
+        {
+            "ref": "Gal 3:19",
+            "function": "theological"
+        },
+        {
+            "ref": "Gal 3:20",
+            "function": "theological"
+        },
+        {
+            "ref": "Gal 3:21",
+            "function": "theological"
+        },
+        {
+            "ref": "Gal 3:22",
+            "function": "theological"
+        },
+        {
+            "ref": "Gal 3:23",
+            "function": "theological"
+        },
+        {
+            "ref": "Gal 3:24",
+            "function": "theological"
+        },
+        {
+            "ref": "Gal 3:25",
+            "function": "theological"
+        },
+        {
+            "ref": "Gal 3:26",
+            "function": "theological"
+        },
+        {
+            "ref": "Gal 3:27",
+            "function": "theological",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gal 3:28",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Gal 3:29",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Rebuke for Abandoning Faith",
+            "start": "Gal 3:1",
+            "end": "Gal 3:5",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Abraham's Faith as the Prototype",
+            "start": "Gal 3:6",
+            "end": "Gal 3:9",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                }
+            ]
+        },
+        {
+            "name": "Law's Curse and Christ's Redemption",
+            "start": "Gal 3:10",
+            "end": "Gal 3:14",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Promise's Priority Over Law",
+            "start": "Gal 3:15",
+            "end": "Gal 3:20",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Law's Temporary Role as Custodian",
+            "start": "Gal 3:21",
+            "end": "Gal 3:25",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Freedom and Unity in Christ",
+            "start": "Gal 3:26",
+            "end": "Gal 3:29",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

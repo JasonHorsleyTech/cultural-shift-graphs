@@ -1,0 +1,109 @@
+{
+    "book": "Amos",
+    "chapter": 9,
+    "verses": [
+        {
+            "ref": "Amos 9:1",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Amos 9:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 9:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 9:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 9:5",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Amos 9:6",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Amos 9:7",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Amos 9:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 9:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 9:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 9:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 9:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 9:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 9:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 9:15",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Judgment and Restoration of Israel",
+            "start": "Amos 9:1",
+            "end": "Amos 9:15",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

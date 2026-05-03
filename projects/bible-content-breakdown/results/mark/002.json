@@ -1,0 +1,212 @@
+{
+    "book": "Mark",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "Mark 2:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 2:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 2:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 2:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 2:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Mark 2:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 2:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Mark 2:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 2:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Mark 2:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Mark 2:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 2:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 2:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 2:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 2:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 2:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 2:17",
+            "function": "theological"
+        },
+        {
+            "ref": "Mark 2:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 2:19",
+            "function": "theological"
+        },
+        {
+            "ref": "Mark 2:20",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Mark 2:21",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mark 2:22",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mark 2:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 2:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 2:25",
+            "function": "theological"
+        },
+        {
+            "ref": "Mark 2:26",
+            "function": "theological"
+        },
+        {
+            "ref": "Mark 2:27",
+            "function": "theological"
+        },
+        {
+            "ref": "Mark 2:28",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Healing of the Paralytic",
+            "start": "Mark 2:1",
+            "end": "Mark 2:12",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Calling of Levi and Eating with Sinners",
+            "start": "Mark 2:13",
+            "end": "Mark 2:17",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Fasting and the New Covenant",
+            "start": "Mark 2:18",
+            "end": "Mark 2:22",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Controversy About the Sabbath",
+            "start": "Mark 2:23",
+            "end": "Mark 2:28",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

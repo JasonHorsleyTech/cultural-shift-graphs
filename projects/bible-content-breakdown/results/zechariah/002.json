@@ -1,0 +1,97 @@
+{
+    "book": "Zechariah",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "Zech 2:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Zech 2:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Zech 2:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Zech 2:4",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Zech 2:5",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Zech 2:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 2:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 2:8",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Zech 2:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 2:10",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Zech 2:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 2:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 2:13",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Vision of Jerusalem's Future Restoration and God's Protection",
+            "start": "Zech 2:1",
+            "end": "Zech 2:13",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

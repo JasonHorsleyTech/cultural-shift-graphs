@@ -1,0 +1,185 @@
+{
+    "book": "Genesis",
+    "chapter": 38,
+    "verses": [
+        {
+            "ref": "Gen 38:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 38:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 38:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 38:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 38:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 38:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 38:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 38:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Gen 38:9",
+            "function": "sexual_marital",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 38:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 38:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 38:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 38:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 38:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 38:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 38:16",
+            "function": "narrative",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Gen 38:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 38:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Gen 38:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 38:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 38:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 38:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 38:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 38:24",
+            "function": "narrative",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 38:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 38:26",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Gen 38:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 38:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 38:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 38:30",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Judah and Tamar",
+            "start": "Gen 38:1",
+            "end": "Gen 38:30",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

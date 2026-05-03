@@ -1,0 +1,105 @@
+{
+    "book": "Psalms",
+    "chapter": 132,
+    "verses": [
+        {
+            "ref": "Ps 132:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 132:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 132:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 132:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 132:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 132:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 132:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 132:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 132:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 132:10",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 132:11",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 132:12",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 132:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 132:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 132:15",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 132:16",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 132:17",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 132:18",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "David's Vow and God's Covenant Promises",
+            "start": "Ps 132:1",
+            "end": "Ps 132:18",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

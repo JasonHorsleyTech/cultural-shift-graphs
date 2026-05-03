@@ -1,0 +1,149 @@
+{
+    "book": "Acts",
+    "chapter": 24,
+    "verses": [
+        {
+            "ref": "Acts 24:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 24:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 24:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 24:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 24:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 24:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 24:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 24:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 24:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 24:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 24:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 24:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 24:14",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 24:15",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 24:16",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 24:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 24:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 24:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 24:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 24:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 24:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 24:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 24:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 24:25",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Acts 24:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 24:27",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Paul's Trial Before Felix",
+            "start": "Acts 24:1",
+            "end": "Acts 24:27",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "courage",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

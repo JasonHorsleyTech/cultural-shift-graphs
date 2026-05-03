@@ -1,0 +1,101 @@
+{
+    "book": "Isaiah",
+    "chapter": 47,
+    "verses": [
+        {
+            "ref": "Isa 47:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 47:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 47:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 47:4",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 47:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 47:6",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Isa 47:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 47:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 47:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 47:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 47:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 47:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 47:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 47:14",
+            "function": "prophecy",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 47:15",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Prophecy Against Babylon",
+            "start": "Isa 47:1",
+            "end": "Isa 47:15",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

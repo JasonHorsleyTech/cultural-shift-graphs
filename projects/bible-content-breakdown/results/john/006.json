@@ -1,0 +1,383 @@
+{
+    "book": "John",
+    "chapter": 6,
+    "verses": [
+        {
+            "ref": "John 6:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 6:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 6:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 6:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 6:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 6:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 6:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 6:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 6:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 6:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 6:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 6:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 6:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 6:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 6:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 6:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 6:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 6:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 6:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 6:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "John 6:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 6:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 6:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 6:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 6:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 6:26",
+            "function": "theological"
+        },
+        {
+            "ref": "John 6:27",
+            "function": "theological"
+        },
+        {
+            "ref": "John 6:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 6:29",
+            "function": "theological"
+        },
+        {
+            "ref": "John 6:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 6:31",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "John 6:32",
+            "function": "theological"
+        },
+        {
+            "ref": "John 6:33",
+            "function": "theological"
+        },
+        {
+            "ref": "John 6:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 6:35",
+            "function": "theological"
+        },
+        {
+            "ref": "John 6:36",
+            "function": "theological"
+        },
+        {
+            "ref": "John 6:37",
+            "function": "theological"
+        },
+        {
+            "ref": "John 6:38",
+            "function": "theological"
+        },
+        {
+            "ref": "John 6:39",
+            "function": "theological"
+        },
+        {
+            "ref": "John 6:40",
+            "function": "theological"
+        },
+        {
+            "ref": "John 6:41",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 6:42",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "John 6:43",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 6:44",
+            "function": "theological"
+        },
+        {
+            "ref": "John 6:45",
+            "function": "theological"
+        },
+        {
+            "ref": "John 6:46",
+            "function": "theological"
+        },
+        {
+            "ref": "John 6:47",
+            "function": "theological"
+        },
+        {
+            "ref": "John 6:48",
+            "function": "theological"
+        },
+        {
+            "ref": "John 6:49",
+            "function": "theological"
+        },
+        {
+            "ref": "John 6:50",
+            "function": "theological"
+        },
+        {
+            "ref": "John 6:51",
+            "function": "theological"
+        },
+        {
+            "ref": "John 6:52",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 6:53",
+            "function": "theological"
+        },
+        {
+            "ref": "John 6:54",
+            "function": "theological"
+        },
+        {
+            "ref": "John 6:55",
+            "function": "theological"
+        },
+        {
+            "ref": "John 6:56",
+            "function": "theological"
+        },
+        {
+            "ref": "John 6:57",
+            "function": "theological"
+        },
+        {
+            "ref": "John 6:58",
+            "function": "theological"
+        },
+        {
+            "ref": "John 6:59",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 6:60",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 6:61",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 6:62",
+            "function": "theological"
+        },
+        {
+            "ref": "John 6:63",
+            "function": "theological"
+        },
+        {
+            "ref": "John 6:64",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "John 6:65",
+            "function": "theological"
+        },
+        {
+            "ref": "John 6:66",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 6:67",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 6:68",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.8
+            }
+        },
+        {
+            "ref": "John 6:69",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.8
+            }
+        },
+        {
+            "ref": "John 6:70",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 6:71",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Feeding of the 5,000",
+            "start": "John 6:1",
+            "end": "John 6:15",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Jesus Walking on Water",
+            "start": "John 6:16",
+            "end": "John 6:21",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "The Bread of Life Discourse",
+            "start": "John 6:22",
+            "end": "John 6:71",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences_of_sin",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

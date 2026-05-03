@@ -1,0 +1,197 @@
+{
+    "book": "Nehemiah",
+    "chapter": 10,
+    "verses": [
+        {
+            "ref": "Neh 10:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 10:2",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 10:3",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 10:4",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 10:5",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 10:6",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 10:7",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 10:8",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 10:9",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 10:10",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 10:11",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 10:12",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 10:13",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 10:14",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 10:15",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 10:16",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 10:17",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 10:18",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 10:19",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 10:20",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 10:21",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 10:22",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 10:23",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 10:24",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 10:25",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 10:26",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 10:27",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 10:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 10:29",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Neh 10:30",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Neh 10:31",
+            "function": "civil_law",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Neh 10:32",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Neh 10:33",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Neh 10:34",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Neh 10:35",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Neh 10:36",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Neh 10:37",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Neh 10:38",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Neh 10:39",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Sealing of the Covenant",
+            "start": "Neh 10:1",
+            "end": "Neh 10:39",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

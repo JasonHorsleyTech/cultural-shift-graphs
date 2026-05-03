@@ -1,0 +1,157 @@
+{
+    "book": "Genesis",
+    "chapter": 5,
+    "verses": [
+        {
+            "ref": "Gen 5:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 5:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 5:3",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 5:4",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 5:5",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 5:6",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 5:7",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 5:8",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 5:9",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 5:10",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 5:11",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 5:12",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 5:13",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 5:14",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 5:15",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 5:16",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 5:17",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 5:18",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 5:19",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 5:20",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 5:21",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 5:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 5:23",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 5:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 5:25",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 5:26",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 5:27",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 5:28",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 5:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 5:30",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 5:31",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 5:32",
+            "function": "catalog"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Adam to Noah Lineage",
+            "start": "Gen 5:1",
+            "end": "Gen 5:32",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

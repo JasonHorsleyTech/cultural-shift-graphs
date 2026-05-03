@@ -1,0 +1,193 @@
+{
+    "book": "Daniel",
+    "chapter": 5,
+    "verses": [
+        {
+            "ref": "Dan 5:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 5:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 5:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 5:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Dan 5:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 5:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 5:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 5:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 5:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 5:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 5:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 5:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 5:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 5:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 5:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 5:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 5:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Dan 5:18",
+            "function": "theological"
+        },
+        {
+            "ref": "Dan 5:19",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Dan 5:20",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Dan 5:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Dan 5:22",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Dan 5:23",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Dan 5:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 5:25",
+            "function": "prophecy",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Dan 5:26",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 5:27",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 5:28",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 5:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 5:30",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.1
+            }
+        },
+        {
+            "ref": "Dan 5:31",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Writing on the Wall",
+            "start": "Dan 5:1",
+            "end": "Dan 5:30",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

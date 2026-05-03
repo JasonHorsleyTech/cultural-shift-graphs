@@ -1,0 +1,185 @@
+{
+    "book": "Leviticus",
+    "chapter": 15,
+    "verses": [
+        {
+            "ref": "Lev 15:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 15:2",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 15:3",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 15:4",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 15:5",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 15:6",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 15:7",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 15:8",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 15:9",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 15:10",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 15:11",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 15:12",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 15:13",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 15:14",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "purity_dietary",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 15:15",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "purity_dietary",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 15:16",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 15:17",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 15:18",
+            "function": "purity_dietary",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lev 15:19",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 15:20",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 15:21",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 15:22",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 15:23",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 15:24",
+            "function": "purity_dietary",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Lev 15:25",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 15:26",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 15:27",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 15:28",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 15:29",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "purity_dietary",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 15:30",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "purity_dietary",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 15:31",
+            "function": "theological",
+            "secondary": {
+                "function": "purity_dietary",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Lev 15:32",
+            "function": "catalog"
+        },
+        {
+            "ref": "Lev 15:33",
+            "function": "catalog"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Laws of Bodily Discharge and Cleansing",
+            "start": "Lev 15:1",
+            "end": "Lev 15:33",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

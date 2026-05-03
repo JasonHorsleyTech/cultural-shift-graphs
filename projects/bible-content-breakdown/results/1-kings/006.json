@@ -1,0 +1,209 @@
+{
+    "book": "1 Kings",
+    "chapter": 6,
+    "verses": [
+        {
+            "ref": "1 Kings 6:1",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Kings 6:2",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kings 6:3",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kings 6:4",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kings 6:5",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kings 6:6",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kings 6:7",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kings 6:8",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kings 6:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Kings 6:10",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kings 6:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 6:12",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Kings 6:13",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kings 6:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 6:15",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kings 6:16",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kings 6:17",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kings 6:18",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kings 6:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Kings 6:20",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kings 6:21",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kings 6:22",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kings 6:23",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kings 6:24",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kings 6:25",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kings 6:26",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kings 6:27",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Kings 6:28",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kings 6:29",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kings 6:30",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kings 6:31",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kings 6:32",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kings 6:33",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kings 6:34",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kings 6:35",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kings 6:36",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Kings 6:37",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Kings 6:38",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Solomon Arranges Temple Construction",
+            "start": "1 Kings 6:1",
+            "end": "1 Kings 6:38",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

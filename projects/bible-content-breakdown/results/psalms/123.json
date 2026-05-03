@@ -1,0 +1,49 @@
+{
+    "book": "Psalms",
+    "chapter": 123,
+    "verses": [
+        {
+            "ref": "Ps 123:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 123:2",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ps 123:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 123:4",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Prayer for Deliverance from Contempt",
+            "start": "Ps 123:1",
+            "end": "Ps 123:4",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

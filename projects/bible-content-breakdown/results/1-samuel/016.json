@@ -1,0 +1,166 @@
+{
+    "book": "1 Samuel",
+    "chapter": 16,
+    "verses": [
+        {
+            "ref": "1 Sam 16:1",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Sam 16:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 16:3",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Sam 16:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 16:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Sam 16:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 16:7",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Sam 16:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 16:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 16:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 16:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 16:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Sam 16:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Sam 16:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 16:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 16:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 16:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 16:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Sam 16:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 16:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 16:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 16:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 16:23",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Anointing of David",
+            "start": "1 Sam 16:1",
+            "end": "1 Sam 16:13",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "David Serves Saul",
+            "start": "1 Sam 16:14",
+            "end": "1 Sam 16:23",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

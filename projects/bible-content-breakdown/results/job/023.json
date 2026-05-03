@@ -1,0 +1,121 @@
+{
+    "book": "Job",
+    "chapter": 23,
+    "verses": [
+        {
+            "ref": "Job 23:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 23:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 23:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 23:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 23:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 23:6",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 23:7",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 23:8",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 23:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 23:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 23:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 23:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 23:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 23:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 23:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 23:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 23:17",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Job's Lament and Defense of His Righteousness",
+            "start": "Job 23:1",
+            "end": "Job 23:17",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.8
+                },
+                {
+                    "theme": "courage",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

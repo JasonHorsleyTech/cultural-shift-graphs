@@ -1,0 +1,97 @@
+{
+    "book": "Psalms",
+    "chapter": 81,
+    "verses": [
+        {
+            "ref": "Ps 81:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 81:2",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ps 81:3",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ps 81:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 81:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 81:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 81:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 81:8",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Ps 81:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 81:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 81:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 81:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 81:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Ps 81:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ps 81:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ps 81:16",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Call to Obedience and Covenant Blessing",
+            "start": "Ps 81:1",
+            "end": "Ps 81:16",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences_of_sin",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

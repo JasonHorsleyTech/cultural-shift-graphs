@@ -1,0 +1,153 @@
+{
+    "book": "Job",
+    "chapter": 40,
+    "verses": [
+        {
+            "ref": "Job 40:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 40:2",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 40:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 40:4",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 40:5",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 40:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 40:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 40:8",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 40:9",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 40:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 40:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 40:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 40:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 40:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 40:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 40:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 40:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 40:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 40:19",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 40:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 40:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 40:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 40:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 40:24",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God Speaks to Job",
+            "start": "Job 40:1",
+            "end": "Job 40:24",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

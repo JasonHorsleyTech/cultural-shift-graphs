@@ -1,0 +1,181 @@
+{
+    "book": "Leviticus",
+    "chapter": 4,
+    "verses": [
+        {
+            "ref": "Lev 4:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 4:2",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 4:3",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 4:4",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 4:5",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 4:6",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 4:7",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 4:8",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 4:9",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 4:10",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 4:11",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 4:12",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 4:13",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 4:14",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 4:15",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 4:16",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 4:17",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 4:18",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 4:19",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 4:20",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Lev 4:21",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 4:22",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 4:23",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 4:24",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 4:25",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 4:26",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Lev 4:27",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 4:28",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 4:29",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 4:30",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 4:31",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Lev 4:32",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 4:33",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 4:34",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 4:35",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Instructions for Sin Offerings",
+            "start": "Lev 4:1",
+            "end": "Lev 4:35",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

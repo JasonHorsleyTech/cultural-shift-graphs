@@ -1,0 +1,77 @@
+{
+    "book": "Psalms",
+    "chapter": 99,
+    "verses": [
+        {
+            "ref": "Ps 99:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 99:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 99:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 99:4",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ps 99:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 99:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 99:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 99:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 99:9",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Reign and Faithfulness",
+            "start": "Ps 99:1",
+            "end": "Ps 99:9",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

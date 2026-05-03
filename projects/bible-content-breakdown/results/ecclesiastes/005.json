@@ -1,0 +1,180 @@
+{
+    "book": "Ecclesiastes",
+    "chapter": 5,
+    "verses": [
+        {
+            "ref": "Ecc 5:1",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Ecc 5:2",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ecc 5:3",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 5:4",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Ecc 5:5",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 5:6",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ecc 5:7",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ecc 5:8",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 5:9",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 5:10",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 5:11",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 5:12",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 5:13",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 5:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ecc 5:15",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ecc 5:16",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 5:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Ecc 5:18",
+            "function": "theological"
+        },
+        {
+            "ref": "Ecc 5:19",
+            "function": "theological"
+        },
+        {
+            "ref": "Ecc 5:20",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Temple Conduct and Vow-Making",
+            "start": "Ecc 5:1",
+            "end": "Ecc 5:7",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Government Corruption",
+            "start": "Ecc 5:8",
+            "end": "Ecc 5:9",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Futility of Wealth Accumulation",
+            "start": "Ecc 5:10",
+            "end": "Ecc 5:17",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Finding Contentment in Your Work",
+            "start": "Ecc 5:18",
+            "end": "Ecc 5:20",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

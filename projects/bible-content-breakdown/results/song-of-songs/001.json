@@ -1,0 +1,93 @@
+{
+    "book": "The Song of Songs",
+    "chapter": 1,
+    "verses": [
+        {
+            "ref": "Song 1:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Song 1:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 1:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 1:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 1:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 1:6",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Song 1:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 1:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 1:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 1:10",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 1:11",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 1:12",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 1:13",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 1:14",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 1:15",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 1:16",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 1:17",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Beloved and Her Lover",
+            "start": "Song 1:1",
+            "end": "Song 1:17",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

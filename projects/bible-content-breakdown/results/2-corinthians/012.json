@@ -1,0 +1,149 @@
+{
+    "book": "2 Corinthians",
+    "chapter": 12,
+    "verses": [
+        {
+            "ref": "2 Cor 12:1",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Cor 12:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Cor 12:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Cor 12:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Cor 12:5",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "2 Cor 12:6",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "2 Cor 12:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "2 Cor 12:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Cor 12:9",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "2 Cor 12:10",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Cor 12:11",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Cor 12:12",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Cor 12:13",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Cor 12:14",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "2 Cor 12:15",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Cor 12:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Cor 12:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Cor 12:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Cor 12:19",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Cor 12:20",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "2 Cor 12:21",
+            "function": "moral_instruction"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Grace is Sufficient in Weakness",
+            "start": "2 Cor 12:1",
+            "end": "2 Cor 12:21",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

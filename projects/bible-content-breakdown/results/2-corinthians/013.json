@@ -1,0 +1,97 @@
+{
+    "book": "2 Corinthians",
+    "chapter": 13,
+    "verses": [
+        {
+            "ref": "2 Cor 13:1",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Cor 13:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Cor 13:3",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Cor 13:4",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Cor 13:5",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "2 Cor 13:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Cor 13:7",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "2 Cor 13:8",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Cor 13:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Cor 13:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Cor 13:11",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "2 Cor 13:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Cor 13:13",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Paul's Final Exhortation to the Corinthians",
+            "start": "2 Cor 13:1",
+            "end": "2 Cor 13:13",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

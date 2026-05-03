@@ -1,0 +1,147 @@
+{
+    "book": "Joshua",
+    "chapter": 17,
+    "verses": [
+        {
+            "ref": "Josh 17:1",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Josh 17:2",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 17:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Josh 17:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 17:5",
+            "function": "specifications",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Josh 17:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Josh 17:7",
+            "function": "specifications"
+        },
+        {
+            "ref": "Josh 17:8",
+            "function": "specifications"
+        },
+        {
+            "ref": "Josh 17:9",
+            "function": "specifications"
+        },
+        {
+            "ref": "Josh 17:10",
+            "function": "specifications"
+        },
+        {
+            "ref": "Josh 17:11",
+            "function": "specifications"
+        },
+        {
+            "ref": "Josh 17:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 17:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 17:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 17:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 17:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 17:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 17:18",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Zelophehad's daughters receive their land inheritance",
+            "start": "Josh 17:1",
+            "end": "Josh 17:6",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Manasseh's territorial assignment and incomplete conquest",
+            "start": "Josh 17:7",
+            "end": "Josh 17:13",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Joseph's descendants request more land from Joshua",
+            "start": "Josh 17:14",
+            "end": "Josh 17:18",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "courage",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

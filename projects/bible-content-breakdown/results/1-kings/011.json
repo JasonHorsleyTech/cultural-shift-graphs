@@ -1,0 +1,260 @@
+{
+    "book": "1 Kings",
+    "chapter": 11,
+    "verses": [
+        {
+            "ref": "1 Kings 11:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 11:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Kings 11:3",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kings 11:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 11:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 11:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Kings 11:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 11:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 11:9",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kings 11:10",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kings 11:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Kings 11:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Kings 11:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Kings 11:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 11:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 11:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 11:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 11:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 11:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 11:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 11:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 11:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 11:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 11:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 11:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 11:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 11:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 11:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 11:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 11:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 11:31",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Kings 11:32",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Kings 11:33",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Kings 11:34",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Kings 11:35",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Kings 11:36",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Kings 11:37",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Kings 11:38",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Kings 11:39",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Kings 11:40",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 11:41",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kings 11:42",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kings 11:43",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Solomon's Apostasy and God's Judgment",
+            "start": "1 Kings 11:1",
+            "end": "1 Kings 11:13",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Enemies Rise Against Solomon",
+            "start": "1 Kings 11:14",
+            "end": "1 Kings 11:25",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Jeroboam's Rebellion and Selection",
+            "start": "1 Kings 11:26",
+            "end": "1 Kings 11:40",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Solomon's Death and Succession",
+            "start": "1 Kings 11:41",
+            "end": "1 Kings 11:43",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

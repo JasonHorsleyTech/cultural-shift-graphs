@@ -1,0 +1,113 @@
+{
+    "book": "Leviticus",
+    "chapter": 17,
+    "verses": [
+        {
+            "ref": "Lev 17:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 17:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 17:3",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Lev 17:4",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Lev 17:5",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 17:6",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 17:7",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 17:8",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 17:9",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Lev 17:10",
+            "function": "purity_dietary",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Lev 17:11",
+            "function": "theological",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Lev 17:12",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 17:13",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 17:14",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 17:15",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 17:16",
+            "function": "purity_dietary",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.35
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Laws of Sacrifice and Blood Consumption",
+            "start": "Lev 17:1",
+            "end": "Lev 17:16",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,345 @@
+{
+    "book": "Psalms",
+    "chapter": 78,
+    "verses": [
+        {
+            "ref": "Psalms 78:1",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalms 78:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 78:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 78:4",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Psalms 78:5",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalms 78:6",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Psalms 78:7",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Psalms 78:8",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Psalms 78:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalms 78:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:35",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:37",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:38",
+            "function": "theological"
+        },
+        {
+            "ref": "Psalms 78:39",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalms 78:40",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:41",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:42",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:43",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:44",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:45",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:46",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:47",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:48",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:49",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:50",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:51",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:52",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:53",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:54",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:55",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:56",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:57",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:58",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:59",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:60",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:61",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:62",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:63",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:64",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:65",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:66",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:67",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:68",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:69",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalms 78:70",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:71",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 78:72",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Israel's History of Covenant Rebellion and God's Faithfulness",
+            "start": "Psalms 78:1",
+            "end": "Psalms 78:72",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

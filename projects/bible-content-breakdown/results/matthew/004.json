@@ -1,0 +1,166 @@
+{
+    "book": "Matthew",
+    "chapter": 4,
+    "verses": [
+        {
+            "ref": "Matt 4:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 4:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 4:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 4:4",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 4:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 4:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 4:7",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 4:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 4:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 4:10",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 4:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 4:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 4:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 4:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 4:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 4:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 4:17",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 4:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 4:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 4:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 4:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 4:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 4:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 4:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 4:25",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Temptation of Jesus",
+            "start": "Matt 4:1",
+            "end": "Matt 4:11",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Jesus Begins His Ministry in Galilee",
+            "start": "Matt 4:12",
+            "end": "Matt 4:25",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

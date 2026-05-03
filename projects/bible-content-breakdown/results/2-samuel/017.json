@@ -1,0 +1,178 @@
+{
+    "book": "2 Samuel",
+    "chapter": 17,
+    "verses": [
+        {
+            "ref": "2 Samuel 17:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 17:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 17:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 17:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 17:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 17:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 17:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 17:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 17:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 17:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 17:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 17:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 17:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 17:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "2 Samuel 17:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 17:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 17:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 17:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 17:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 17:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 17:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 17:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 17:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 17:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 17:25",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "2 Samuel 17:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 17:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Samuel 17:28",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "2 Samuel 17:29",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Hushai's Counsel to Absalom",
+            "start": "2 Samuel 17:1",
+            "end": "2 Samuel 17:14",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "David's Escape and Refuge",
+            "start": "2 Samuel 17:15",
+            "end": "2 Samuel 17:29",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "generosity",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

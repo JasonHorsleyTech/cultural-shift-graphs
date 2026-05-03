@@ -1,0 +1,137 @@
+{
+    "book": "Jeremiah",
+    "chapter": 37,
+    "verses": [
+        {
+            "ref": "Jer 37:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 37:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 37:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 37:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 37:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 37:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 37:7",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 37:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 37:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 37:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 37:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 37:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 37:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 37:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 37:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Jer 37:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 37:17",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Jer 37:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 37:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 37:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 37:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jeremiah's Persecution and Zedekiah's Rejection",
+            "start": "Jer 37:1",
+            "end": "Jer 37:21",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

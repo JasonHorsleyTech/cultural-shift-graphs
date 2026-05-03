@@ -1,0 +1,274 @@
+{
+    "book": "Luke",
+    "chapter": 13,
+    "verses": [
+        {
+            "ref": "Luke 13:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 13:2",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 13:3",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 13:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 13:5",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 13:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 13:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 13:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 13:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 13:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 13:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 13:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 13:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 13:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Luke 13:15",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 13:16",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Luke 13:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 13:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 13:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 13:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 13:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 13:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 13:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 13:24",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 13:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 13:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 13:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 13:28",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 13:29",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 13:30",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 13:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 13:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 13:33",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 13:34",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 13:35",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Call to Repent",
+            "start": "Luke 13:1",
+            "end": "Luke 13:5",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Fig Tree Parable",
+            "start": "Luke 13:6",
+            "end": "Luke 13:9",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Healing on the Sabbath",
+            "start": "Luke 13:10",
+            "end": "Luke 13:17",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Parables of the Kingdom",
+            "start": "Luke 13:18",
+            "end": "Luke 13:21",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Narrow Door",
+            "start": "Luke 13:23",
+            "end": "Luke 13:30",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "The Path to Jerusalem",
+            "start": "Luke 13:31",
+            "end": "Luke 13:35",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "courage",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "book": "Jonah",
+    "chapter": 1,
+    "verses": [
+        {
+            "ref": "Jonah 1:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jonah 1:2",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jonah 1:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jonah 1:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jonah 1:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jonah 1:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jonah 1:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jonah 1:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jonah 1:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jonah 1:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jonah 1:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jonah 1:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jonah 1:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jonah 1:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jonah 1:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jonah 1:16",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jonah 1:17",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jonah Flees from God's Command",
+            "start": "Jonah 1:1",
+            "end": "Jonah 1:17",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

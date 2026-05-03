@@ -1,0 +1,105 @@
+{
+    "book": "1 Corinthians",
+    "chapter": 8,
+    "verses": [
+        {
+            "ref": "1 Cor 8:1",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Cor 8:2",
+            "function": "wisdom"
+        },
+        {
+            "ref": "1 Cor 8:3",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 8:4",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 8:5",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 8:6",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 8:7",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Cor 8:8",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Cor 8:9",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Cor 8:10",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Cor 8:11",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Cor 8:12",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "1 Cor 8:13",
+            "function": "moral_instruction"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Food Sacrificed to Idols: Knowledge vs. Love",
+            "start": "1 Cor 8:1",
+            "end": "1 Cor 8:13",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

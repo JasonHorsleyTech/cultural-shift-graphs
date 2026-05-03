@@ -1,0 +1,163 @@
+{
+    "book": "2 Corinthians",
+    "chapter": 5,
+    "verses": [
+        {
+            "ref": "2 Cor 5:1",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Cor 5:2",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Cor 5:3",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Cor 5:4",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Cor 5:5",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Cor 5:6",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Cor 5:7",
+            "function": "wisdom"
+        },
+        {
+            "ref": "2 Cor 5:8",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Cor 5:9",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "2 Cor 5:10",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Cor 5:11",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "2 Cor 5:12",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "2 Cor 5:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "2 Cor 5:14",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Cor 5:15",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Cor 5:16",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "2 Cor 5:17",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Cor 5:18",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Cor 5:19",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Cor 5:20",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Cor 5:21",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Eternal Promise and Coming Judgment",
+            "start": "2 Cor 5:1",
+            "end": "2 Cor 5:10",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Authentic Living Motivated by Christ",
+            "start": "2 Cor 5:11",
+            "end": "2 Cor 5:16",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 0.7
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Reconciliation and New Creation Through Christ",
+            "start": "2 Cor 5:17",
+            "end": "2 Cor 5:21",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

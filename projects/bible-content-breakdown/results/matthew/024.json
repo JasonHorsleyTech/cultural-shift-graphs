@@ -1,0 +1,309 @@
+{
+    "book": "Matthew",
+    "chapter": 24,
+    "verses": [
+        {
+            "ref": "Matt 24:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 24:2",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 24:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 24:4",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 24:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 24:6",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 24:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 24:8",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 24:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 24:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 24:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 24:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 24:13",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 24:14",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 24:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 24:16",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 24:17",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 24:18",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 24:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 24:20",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 24:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 24:22",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 24:23",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 24:24",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 24:25",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 24:26",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 24:27",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 24:28",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Matt 24:29",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 24:30",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 24:31",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 24:32",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Matt 24:33",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 24:34",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 24:35",
+            "function": "theological"
+        },
+        {
+            "ref": "Matt 24:36",
+            "function": "theological"
+        },
+        {
+            "ref": "Matt 24:37",
+            "function": "prophecy",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 24:38",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 24:39",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 24:40",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 24:41",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 24:42",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 24:43",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Matt 24:44",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 24:45",
+            "function": "wisdom",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 24:46",
+            "function": "wisdom",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 24:47",
+            "function": "wisdom",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 24:48",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 24:49",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 24:50",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 24:51",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Olivet Discourse: Signs of the End Times",
+            "start": "Matt 24:1",
+            "end": "Matt 24:51",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

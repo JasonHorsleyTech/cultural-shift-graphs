@@ -1,0 +1,65 @@
+{
+    "book": "Psalms",
+    "chapter": 114,
+    "verses": [
+        {
+            "ref": "Ps 114:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 114:2",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 114:3",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 114:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 114:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 114:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 114:7",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 114:8",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Israel's Exodus from Egypt",
+            "start": "Ps 114:1",
+            "end": "Ps 114:8",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,208 @@
+{
+    "book": "Deuteronomy",
+    "chapter": 10,
+    "verses": [
+        {
+            "ref": "Deut 10:1",
+            "function": "specifications",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Deut 10:2",
+            "function": "specifications"
+        },
+        {
+            "ref": "Deut 10:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 10:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 10:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 10:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 10:7",
+            "function": "catalog"
+        },
+        {
+            "ref": "Deut 10:8",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Deut 10:9",
+            "function": "theological",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 10:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 10:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 10:12",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 10:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 10:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 10:15",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 10:16",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 10:17",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 10:18",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Deut 10:19",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 10:20",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 10:21",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 10:22",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Replacement of the Tablets",
+            "start": "Deut 10:1",
+            "end": "Deut 10:5",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Aaron's Death and Levites Appointed",
+            "start": "Deut 10:6",
+            "end": "Deut 10:9",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Moses Intercedes and Is Commissioned",
+            "start": "Deut 10:10",
+            "end": "Deut 10:11",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Moses Exhorts Israel on God's Requirements",
+            "start": "Deut 10:12",
+            "end": "Deut 10:22",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

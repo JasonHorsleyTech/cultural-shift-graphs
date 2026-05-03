@@ -1,0 +1,133 @@
+{
+    "book": "Psalms",
+    "chapter": 145,
+    "verses": [
+        {
+            "ref": "Ps 145:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 145:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 145:3",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Ps 145:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 145:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 145:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 145:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 145:8",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ps 145:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 145:10",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 145:11",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 145:12",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 145:13",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 145:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 145:15",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ps 145:16",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 145:17",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 145:18",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 145:19",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 145:20",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 145:21",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "David's Praise for God's Character and Kingdom",
+            "start": "Ps 145:1",
+            "end": "Ps 145:21",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

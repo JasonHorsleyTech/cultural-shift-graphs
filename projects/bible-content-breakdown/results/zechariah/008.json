@@ -1,0 +1,129 @@
+{
+    "book": "Zechariah",
+    "chapter": 8,
+    "verses": [
+        {
+            "ref": "Zech 8:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Zech 8:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 8:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 8:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 8:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 8:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 8:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 8:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 8:9",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Zech 8:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Zech 8:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 8:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 8:13",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Zech 8:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 8:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 8:16",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Zech 8:17",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Zech 8:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Zech 8:19",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Zech 8:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 8:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 8:22",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 8:23",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Promised Restoration of Jerusalem and Universal Acknowledgment",
+            "start": "Zech 8:1",
+            "end": "Zech 8:23",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

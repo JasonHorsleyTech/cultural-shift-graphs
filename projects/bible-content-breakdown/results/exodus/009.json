@@ -1,0 +1,205 @@
+{
+    "book": "Exodus",
+    "chapter": 9,
+    "verses": [
+        {
+            "ref": "Exo 9:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 9:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 9:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Exo 9:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Exo 9:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 9:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 9:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 9:8",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exo 9:9",
+            "function": "prophecy",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Exo 9:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 9:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 9:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exo 9:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 9:14",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exo 9:15",
+            "function": "theological"
+        },
+        {
+            "ref": "Exo 9:16",
+            "function": "theological"
+        },
+        {
+            "ref": "Exo 9:17",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Exo 9:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Exo 9:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exo 9:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 9:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 9:22",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exo 9:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 9:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 9:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 9:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 9:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 9:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 9:29",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Exo 9:30",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exo 9:31",
+            "function": "catalog"
+        },
+        {
+            "ref": "Exo 9:32",
+            "function": "catalog"
+        },
+        {
+            "ref": "Exo 9:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 9:34",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Exo 9:35",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Fifth, Sixth, and Seventh Plagues",
+            "start": "Exo 9:1",
+            "end": "Exo 9:35",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

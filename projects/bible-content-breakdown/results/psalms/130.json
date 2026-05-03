@@ -1,0 +1,73 @@
+{
+    "book": "Psalms",
+    "chapter": 130,
+    "verses": [
+        {
+            "ref": "Ps 130:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 130:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 130:3",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Ps 130:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 130:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 130:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 130:7",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ps 130:8",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "A Cry from the Depths: Prayer for Mercy and Trust in God's Forgiveness",
+            "start": "Ps 130:1",
+            "end": "Ps 130:8",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

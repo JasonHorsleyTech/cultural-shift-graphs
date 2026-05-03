@@ -1,0 +1,507 @@
+{
+    "book": "Acts",
+    "chapter": 7,
+    "verses": [
+        {
+            "ref": "Acts 7:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 7:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 7:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Acts 7:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 7:5",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 7:6",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Acts 7:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Acts 7:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 7:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 7:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 7:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 7:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 7:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 7:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Acts 7:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 7:16",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Acts 7:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 7:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 7:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 7:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 7:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 7:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 7:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 7:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 7:25",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 7:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 7:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 7:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 7:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 7:30",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 7:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 7:32",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 7:33",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Acts 7:34",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 7:35",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 7:36",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Acts 7:37",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 7:38",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Acts 7:39",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Acts 7:40",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 7:41",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Acts 7:42",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 7:43",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Acts 7:44",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Acts 7:45",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 7:46",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 7:47",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 7:48",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Acts 7:49",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Acts 7:50",
+            "function": "theological"
+        },
+        {
+            "ref": "Acts 7:51",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 7:52",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Acts 7:53",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Acts 7:54",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 7:55",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Acts 7:56",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Acts 7:57",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 7:58",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 7:59",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 7:60",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Abraham's Call and Covenant",
+            "start": "Acts 7:2",
+            "end": "Acts 7:8",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Joseph in Egypt",
+            "start": "Acts 7:9",
+            "end": "Acts 7:16",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "The Oppression and Moses' Birth",
+            "start": "Acts 7:17",
+            "end": "Acts 7:29",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 0.9
+                },
+                {
+                    "theme": "courage",
+                    "weight": 0.7
+                }
+            ]
+        },
+        {
+            "name": "Moses' Call at the Burning Bush",
+            "start": "Acts 7:30",
+            "end": "Acts 7:34",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "The Exodus and Wilderness Rebellion",
+            "start": "Acts 7:35",
+            "end": "Acts 7:43",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.2
+                }
+            ]
+        },
+        {
+            "name": "The Tabernacle and Temple",
+            "start": "Acts 7:44",
+            "end": "Acts 7:50",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Stephen's Accusation and Martyrdom",
+            "start": "Acts 7:51",
+            "end": "Acts 7:60",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

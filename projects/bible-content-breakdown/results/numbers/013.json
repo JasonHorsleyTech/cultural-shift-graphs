@@ -1,0 +1,165 @@
+{
+    "book": "Numbers",
+    "chapter": 13,
+    "verses": [
+        {
+            "ref": "Num 13:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 13:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 13:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 13:4",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 13:5",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 13:6",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 13:7",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 13:8",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 13:9",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 13:10",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 13:11",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 13:12",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 13:13",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 13:14",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 13:15",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 13:16",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 13:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 13:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 13:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 13:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 13:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 13:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 13:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 13:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 13:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 13:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 13:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 13:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 13:29",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Num 13:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 13:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 13:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 13:33",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Spies Sent to Canaan",
+            "start": "Num 13:1",
+            "end": "Num 13:33",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

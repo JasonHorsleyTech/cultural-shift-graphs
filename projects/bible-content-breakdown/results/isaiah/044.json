@@ -1,0 +1,215 @@
+{
+    "book": "Isaiah",
+    "chapter": 44,
+    "verses": [
+        {
+            "ref": "Isa 44:1",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 44:2",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Isa 44:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 44:4",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Isa 44:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 44:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 44:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 44:8",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Isa 44:9",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Isa 44:10",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Isa 44:11",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Isa 44:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 44:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 44:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 44:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Isa 44:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 44:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Isa 44:18",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Isa 44:19",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Isa 44:20",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Isa 44:21",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 44:22",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 44:23",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Isa 44:24",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 44:25",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 44:26",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 44:27",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 44:28",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Chosen People Shall Flourish",
+            "start": "Isa 44:1",
+            "end": "Isa 44:8",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "The Absurdity of Idolatry",
+            "start": "Isa 44:9",
+            "end": "Isa 44:20",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "hypocrisy",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.3
+                }
+            ]
+        },
+        {
+            "name": "Israel's Redemption and Jerusalem's Restoration",
+            "start": "Isa 44:21",
+            "end": "Isa 44:28",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

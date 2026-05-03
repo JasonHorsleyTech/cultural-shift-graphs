@@ -1,0 +1,77 @@
+{
+    "book": "Psalms",
+    "chapter": 61,
+    "verses": [
+        {
+            "ref": "Ps 61:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 61:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 61:3",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 61:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 61:5",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 61:6",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 61:7",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 61:8",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "David's Prayer for Protection and the King's Blessing",
+            "start": "Ps 61:1",
+            "end": "Ps 61:8",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

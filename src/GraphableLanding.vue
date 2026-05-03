@@ -84,6 +84,15 @@
         </a>
         <span class="text-[var(--text-muted)] text-sm ml-2">(where America's water actually goes, and why AI isn't the crisis)</span>
       </li>
+      <li>
+        <a
+          href="/graphable/bible-content-breakdown/"
+          class="underline decoration-2 underline-offset-4 hover:decoration-[var(--text-muted)]"
+        >
+          What is the Bible actually about?
+        </a>
+        <span class="text-[var(--text-muted)] text-sm ml-2">(31,085 verses categorized — it's 0.5% sex rules)</span>
+      </li>
     </ul>
 
     <hr class="mt-12 border-[var(--border)]" />

@@ -1,0 +1,216 @@
+{
+    "book": "Jeremiah",
+    "chapter": 17,
+    "verses": [
+        {
+            "ref": "Jer 17:1",
+            "function": "theological"
+        },
+        {
+            "ref": "Jer 17:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 17:3",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 17:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 17:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 17:6",
+            "function": "wisdom",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Jer 17:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 17:8",
+            "function": "wisdom",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Jer 17:9",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Jer 17:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Jer 17:11",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 17:12",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Jer 17:13",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jer 17:14",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Jer 17:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 17:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 17:17",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Jer 17:18",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Jer 17:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 17:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 17:21",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Jer 17:22",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Jer 17:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 17:24",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Jer 17:25",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 17:26",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 17:27",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Judah's Sin and Exile",
+            "start": "Jer 17:1",
+            "end": "Jer 17:4",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Blessing of Trust in God",
+            "start": "Jer 17:5",
+            "end": "Jer 17:11",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Jeremiah's Prayer for Deliverance",
+            "start": "Jer 17:12",
+            "end": "Jer 17:18",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Sabbath Commandment",
+            "start": "Jer 17:19",
+            "end": "Jer 17:27",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

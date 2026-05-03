@@ -1,0 +1,61 @@
+{
+    "book": "Psalms",
+    "chapter": 110,
+    "verses": [
+        {
+            "ref": "Ps 110:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ps 110:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ps 110:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ps 110:4",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 110:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ps 110:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ps 110:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.6
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Proclamation to the Eternal Priest-King",
+            "start": "Ps 110:1",
+            "end": "Ps 110:7",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

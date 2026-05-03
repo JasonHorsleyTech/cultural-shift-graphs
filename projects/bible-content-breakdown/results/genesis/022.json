@@ -1,0 +1,158 @@
+{
+    "book": "Genesis",
+    "chapter": 22,
+    "verses": [
+        {
+            "ref": "Gen 22:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 22:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Gen 22:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 22:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 22:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 22:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 22:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 22:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 22:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 22:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 22:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 22:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Gen 22:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 22:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Gen 22:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 22:16",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Gen 22:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Gen 22:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Gen 22:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 22:20",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 22:21",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 22:22",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 22:23",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 22:24",
+            "function": "catalog"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Binding of Isaac",
+            "start": "Gen 22:1",
+            "end": "Gen 22:19",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Nahor's Children",
+            "start": "Gen 22:20",
+            "end": "Gen 22:24",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

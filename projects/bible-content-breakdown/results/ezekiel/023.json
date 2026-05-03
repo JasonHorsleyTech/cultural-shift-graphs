@@ -1,0 +1,269 @@
+{
+    "book": "Ezekiel",
+    "chapter": 23,
+    "verses": [
+        {
+            "ref": "Ezek 23:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 23:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 23:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ezek 23:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 23:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 23:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 23:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Ezek 23:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ezek 23:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 23:10",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Ezek 23:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 23:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 23:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 23:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 23:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 23:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 23:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 23:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 23:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 23:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ezek 23:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ezek 23:22",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 23:23",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 23:24",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 23:25",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 23:26",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 23:27",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 23:28",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 23:29",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 23:30",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezek 23:31",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 23:32",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 23:33",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 23:34",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 23:35",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezek 23:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 23:37",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ezek 23:38",
+            "function": "theological"
+        },
+        {
+            "ref": "Ezek 23:39",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezek 23:40",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 23:41",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 23:42",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 23:43",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 23:44",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 23:45",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezek 23:46",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 23:47",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 23:48",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 23:49",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Oholah and Oholibah",
+            "start": "Ezek 23:1",
+            "end": "Ezek 23:49",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

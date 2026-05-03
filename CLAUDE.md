@@ -63,8 +63,28 @@ The script is project-agnostic in structure but currently hardcoded to `displace
 1. Create `projects/<slug>/question.md` with the hypothesis/question.
 2. Create `projects/<slug>/priority` — a number, lower = first. Use 1–10 for things you care about. Auto-generated projects get 50.
 3. Create `projects/<slug>/status` — write the word `explore`.
+4. Optionally create `projects/<slug>/mode` — write `cron` or `manual`. Default is `cron` if the file doesn't exist.
 
-The orchestrator picks it up on the next tick.
+The orchestrator picks up cron projects on the next tick. Manual projects are ignored by the orchestrator entirely.
+
+## Project modes
+
+Every project in `projects/` is either **cron** or **manual**, controlled by an optional `mode` file.
+
+### Cron projects (default)
+
+The standard pipeline. The orchestrator picks these up every ~45 minutes, does one unit of work per tick, and chips away at the research over days. Good for projects that break cleanly into 20–60 independent tickets. No `mode` file or `mode` containing `cron` = cron project.
+
+### Manual projects
+
+Projects that are too big, too weird, or structurally different for the one-ticket-per-tick model. The orchestrator skips them entirely. These are run by Jason in interactive conversations or via custom scripts. `mode` file contains `manual`.
+
+Use cases for manual mode:
+- Projects requiring agent delegation (e.g., Opus orchestrating Haiku sub-agents)
+- Projects where ticket execution needs a custom approach (bulk parallel, different models, etc.)
+- Projects where Jason wants hands-on control of the research process
+
+Manual projects use the same directory layout, same lifecycle phases, and same conventions as cron projects. The only difference is who triggers the work — the cron orchestrator vs. Jason.
 
 ## Project lifecycle
 
@@ -103,6 +123,7 @@ projects/<slug>/
   question.md        # The hypothesis or question
   priority           # Number, lower = higher priority (default 50)
   status             # Current phase (one word)
+  mode               # Optional: "cron" (default) or "manual"
   research/          # Exploratory research reports
     angle-01.md
     angle-02.md

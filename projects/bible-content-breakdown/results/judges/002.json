@@ -1,0 +1,192 @@
+{
+    "book": "Judges",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "Judges 2:1",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Judges 2:2",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Judges 2:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Judges 2:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 2:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 2:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 2:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 2:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Judges 2:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 2:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 2:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 2:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 2:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 2:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 2:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 2:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 2:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 2:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 2:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 2:20",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Judges 2:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Judges 2:22",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Judges 2:23",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Angel's Rebuke at Bokim",
+            "start": "Judges 2:1",
+            "end": "Judges 2:5",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Joshua's Death and the Rise of a Faithless Generation",
+            "start": "Judges 2:6",
+            "end": "Judges 2:10",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Cycle of Apostasy and Deliverance",
+            "start": "Judges 2:11",
+            "end": "Judges 2:19",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "God's Declaration of Purpose",
+            "start": "Judges 2:20",
+            "end": "Judges 2:23",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

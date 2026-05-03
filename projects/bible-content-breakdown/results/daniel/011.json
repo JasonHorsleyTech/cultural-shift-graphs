@@ -1,0 +1,221 @@
+{
+    "book": "Daniel",
+    "chapter": 11,
+    "verses": [
+        {
+            "ref": "Dan 11:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 11:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 11:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 11:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 11:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 11:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 11:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 11:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 11:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 11:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 11:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 11:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 11:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 11:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 11:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 11:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 11:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 11:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 11:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 11:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 11:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 11:22",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 11:23",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 11:24",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 11:25",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 11:26",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 11:27",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Dan 11:28",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 11:29",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 11:30",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 11:31",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 11:32",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 11:33",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 11:34",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 11:35",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Dan 11:36",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Dan 11:37",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 11:38",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 11:39",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 11:40",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 11:41",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 11:42",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 11:43",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 11:44",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 11:45",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Daniel Receives a Heavenly Messenger",
+            "start": "Dan 11:1",
+            "end": "Dan 11:45",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

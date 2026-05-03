@@ -1,0 +1,77 @@
+{
+    "book": "2 Chronicles",
+    "chapter": 27,
+    "verses": [
+        {
+            "ref": "2 Chr 27:1",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Chr 27:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "2 Chr 27:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chr 27:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 27:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "2 Chr 27:6",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chr 27:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 27:8",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Chr 27:9",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jotham's Reign",
+            "start": "2 Chr 27:1",
+            "end": "2 Chr 27:9",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

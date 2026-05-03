@@ -1,0 +1,185 @@
+{
+    "book": "Deuteronomy",
+    "chapter": 31,
+    "verses": [
+        {
+            "ref": "Deut 31:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 31:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 31:3",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 31:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 31:5",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 31:6",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Deut 31:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 31:8",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 31:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 31:10",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 31:11",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 31:12",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Deut 31:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 31:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 31:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 31:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Deut 31:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Deut 31:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Deut 31:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 31:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Deut 31:21",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 31:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 31:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 31:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 31:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 31:26",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 31:27",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Deut 31:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 31:29",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Deut 31:30",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Moses' Farewell and Joshua's Commissioning",
+            "start": "Deut 31:1",
+            "end": "Deut 31:30",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

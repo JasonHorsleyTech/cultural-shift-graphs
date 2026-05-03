@@ -1,0 +1,242 @@
+{
+    "book": "Acts",
+    "chapter": 19,
+    "verses": [
+        {
+            "ref": "Acts 19:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 19:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 19:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 19:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Acts 19:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 19:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 19:7",
+            "function": "catalog"
+        },
+        {
+            "ref": "Acts 19:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Acts 19:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 19:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 19:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Acts 19:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 19:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 19:14",
+            "function": "catalog"
+        },
+        {
+            "ref": "Acts 19:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 19:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 19:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Acts 19:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 19:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.1
+            }
+        },
+        {
+            "ref": "Acts 19:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 19:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 19:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 19:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 19:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 19:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 19:26",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Acts 19:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 19:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 19:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 19:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 19:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 19:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 19:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 19:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 19:35",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 19:36",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Acts 19:37",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 19:38",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Acts 19:39",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Acts 19:40",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Acts 19:41",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Paul's Ministry in Ephesus",
+            "start": "Acts 19:1",
+            "end": "Acts 19:22",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Demetrius Riot",
+            "start": "Acts 19:23",
+            "end": "Acts 19:41",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

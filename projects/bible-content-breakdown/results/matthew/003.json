@@ -1,0 +1,146 @@
+{
+    "book": "Matthew",
+    "chapter": 3,
+    "verses": [
+        {
+            "ref": "Matt 3:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 3:2",
+            "function": "theological"
+        },
+        {
+            "ref": "Matt 3:3",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 3:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 3:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 3:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 3:7",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Matt 3:8",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 3:9",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 3:10",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Matt 3:11",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Matt 3:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 3:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 3:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 3:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 3:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 3:17",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "John the Baptist's Ministry and Proclamation of Judgment",
+            "start": "Matt 3:1",
+            "end": "Matt 3:12",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Jesus's Baptism and Divine Commission",
+            "start": "Matt 3:13",
+            "end": "Matt 3:17",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

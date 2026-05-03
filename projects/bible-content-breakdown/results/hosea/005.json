@@ -1,0 +1,89 @@
+{
+    "book": "Hosea",
+    "chapter": 5,
+    "verses": [
+        {
+            "ref": "Hosea 5:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hosea 5:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hosea 5:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hosea 5:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Hosea 5:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hosea 5:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hosea 5:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hosea 5:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hosea 5:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hosea 5:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hosea 5:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hosea 5:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hosea 5:13",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Hosea 5:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hosea 5:15",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Judgment on Israel's Unfaithfulness",
+            "start": "Hosea 5:1",
+            "end": "Hosea 5:15",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "book": "Leviticus",
+    "chapter": 1,
+    "verses": [
+        {
+            "ref": "Lev 1:1",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 1:2",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 1:3",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 1:4",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 1:5",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 1:6",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 1:7",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 1:8",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 1:9",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lev 1:10",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 1:11",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 1:12",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 1:13",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lev 1:14",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 1:15",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 1:16",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 1:17",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Burnt Offering Ritual",
+            "start": "Lev 1:1",
+            "end": "Lev 1:17",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

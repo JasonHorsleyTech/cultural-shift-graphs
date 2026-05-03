@@ -1,0 +1,201 @@
+{
+    "book": "2 Samuel",
+    "chapter": 3,
+    "verses": [
+        {
+            "ref": "2 Sam 3:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 3:2",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Sam 3:3",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Sam 3:4",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Sam 3:5",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Sam 3:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 3:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 3:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 3:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Sam 3:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Sam 3:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 3:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 3:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 3:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 3:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 3:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 3:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 3:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "2 Sam 3:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 3:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 3:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 3:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 3:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 3:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 3:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 3:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 3:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 3:28",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Sam 3:29",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "2 Sam 3:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 3:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 3:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 3:33",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "2 Sam 3:34",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "2 Sam 3:35",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Sam 3:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 3:37",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 3:38",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 3:39",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Abner's Defection and Assassination",
+            "start": "2 Sam 3:6",
+            "end": "2 Sam 3:39",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

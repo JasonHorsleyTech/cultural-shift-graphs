@@ -1,0 +1,133 @@
+{
+    "book": "1 Kings",
+    "chapter": 19,
+    "verses": [
+        {
+            "ref": "1 Kings 19:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 19:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 19:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 19:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 19:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 19:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 19:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 19:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 19:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 19:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Kings 19:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "1 Kings 19:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "1 Kings 19:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 19:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Kings 19:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 19:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 19:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Kings 19:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 19:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 19:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kings 19:21",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Elijah at Mount Horeb",
+            "start": "1 Kings 19:1",
+            "end": "1 Kings 19:21",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.2
+                }
+            ]
+        }
+    ]
+}

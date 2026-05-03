@@ -1,0 +1,93 @@
+{
+    "book": "Numbers",
+    "chapter": 17,
+    "verses": [
+        {
+            "ref": "Num 17:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 17:2",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 17:3",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 17:4",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 17:5",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Num 17:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 17:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 17:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Num 17:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 17:10",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 17:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 17:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 17:13",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Aaron's Staff Blooms as a Sign of His Authority",
+            "start": "Num 17:1",
+            "end": "Num 17:13",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

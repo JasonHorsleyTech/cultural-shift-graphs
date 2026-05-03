@@ -1,0 +1,235 @@
+{
+    "book": "Romans",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "Rom 2:1",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rom 2:2",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 2:3",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Rom 2:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 2:5",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Rom 2:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 2:7",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rom 2:8",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rom 2:9",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Rom 2:10",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Rom 2:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 2:12",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 2:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 2:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 2:15",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 2:16",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rom 2:17",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Rom 2:18",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Rom 2:19",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Rom 2:20",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Rom 2:21",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Rom 2:22",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Rom 2:23",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Rom 2:24",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rom 2:25",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Rom 2:26",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 2:27",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 2:28",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Rom 2:29",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Impartial Judgment",
+            "start": "Rom 2:1",
+            "end": "Rom 2:11",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Judgment According to the Law",
+            "start": "Rom 2:12",
+            "end": "Rom 2:16",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Hypocrisy of the Jewish Teacher",
+            "start": "Rom 2:17",
+            "end": "Rom 2:29",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "hypocrisy",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

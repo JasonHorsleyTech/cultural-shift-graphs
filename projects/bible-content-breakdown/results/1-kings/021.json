@@ -1,0 +1,161 @@
+{
+    "book": "1 Kings",
+    "chapter": 21,
+    "verses": [
+        {
+            "ref": "1 Kgs 21:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 21:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 21:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 21:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 21:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 21:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 21:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 21:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 21:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Kgs 21:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Kgs 21:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 21:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 21:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 21:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 21:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 21:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 21:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 21:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 21:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Kgs 21:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Kgs 21:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Kgs 21:22",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Kgs 21:23",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Kgs 21:24",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Kgs 21:25",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kgs 21:26",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kgs 21:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 21:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 21:29",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Naboth's Vineyard and Ahab's Judgment",
+            "start": "1 Kgs 21:1",
+            "end": "1 Kgs 21:29",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

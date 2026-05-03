@@ -1,0 +1,186 @@
+{
+    "book": "Genesis",
+    "chapter": 28,
+    "verses": [
+        {
+            "ref": "Gen 28:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 28:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 28:3",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 28:4",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 28:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 28:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 28:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 28:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 28:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Gen 28:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 28:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 28:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Gen 28:13",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Gen 28:14",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 28:15",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 28:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 28:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Gen 28:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Gen 28:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 28:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Gen 28:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 28:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.15
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jacob Deceives Isaac and Steals Esau's Blessing",
+            "start": "Gen 28:1",
+            "end": "Gen 28:9",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 0.7
+                }
+            ]
+        },
+        {
+            "name": "Jacob's Dream at Bethel",
+            "start": "Gen 28:10",
+            "end": "Gen 28:22",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.3
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 0.7
+                }
+            ]
+        }
+    ]
+}

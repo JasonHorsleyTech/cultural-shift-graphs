@@ -1,0 +1,65 @@
+{
+    "book": "Psalms",
+    "chapter": 24,
+    "verses": [
+        {
+            "ref": "Ps 24:1",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 24:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 24:3",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Ps 24:4",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Ps 24:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 24:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 24:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 24:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 24:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 24:10",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Entrance to God's Holy Mountain",
+            "start": "Ps 24:1",
+            "end": "Ps 24:10",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

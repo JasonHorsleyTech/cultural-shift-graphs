@@ -1,0 +1,53 @@
+{
+    "book": "Psalms",
+    "chapter": 93,
+    "verses": [
+        {
+            "ref": "Ps 93:1",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Ps 93:2",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 93:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 93:4",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ps 93:5",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Lord's Sovereignty Over All",
+            "start": "Ps 93:1",
+            "end": "Ps 93:5",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.7
+                }
+            ]
+        }
+    ]
+}

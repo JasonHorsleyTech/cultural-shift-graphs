@@ -1,0 +1,335 @@
+{
+    "book": "Mark",
+    "chapter": 12,
+    "verses": [
+        {
+            "ref": "Mark 12:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 12:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 12:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 12:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 12:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 12:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mark 12:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 12:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 12:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mark 12:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Mark 12:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Mark 12:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 12:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 12:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 12:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 12:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 12:17",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Mark 12:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 12:19",
+            "function": "sexual_marital",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Mark 12:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 12:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 12:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 12:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 12:24",
+            "function": "theological"
+        },
+        {
+            "ref": "Mark 12:25",
+            "function": "theological"
+        },
+        {
+            "ref": "Mark 12:26",
+            "function": "theological"
+        },
+        {
+            "ref": "Mark 12:27",
+            "function": "theological"
+        },
+        {
+            "ref": "Mark 12:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 12:29",
+            "function": "theological"
+        },
+        {
+            "ref": "Mark 12:30",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mark 12:31",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Mark 12:32",
+            "function": "theological"
+        },
+        {
+            "ref": "Mark 12:33",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mark 12:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 12:35",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 12:36",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mark 12:37",
+            "function": "theological"
+        },
+        {
+            "ref": "Mark 12:38",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Mark 12:39",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Mark 12:40",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mark 12:41",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 12:42",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 12:43",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Mark 12:44",
+            "function": "moral_instruction"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Parable of the Vineyard",
+            "start": "Mark 12:1",
+            "end": "Mark 12:12",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "The Question About Taxes",
+            "start": "Mark 12:13",
+            "end": "Mark 12:17",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Question About Resurrection",
+            "start": "Mark 12:18",
+            "end": "Mark 12:27",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "The Greatest Commandment",
+            "start": "Mark 12:28",
+            "end": "Mark 12:34",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Exaltation of the Christ",
+            "start": "Mark 12:35",
+            "end": "Mark 12:37",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Warning Against the Experts in the Law",
+            "start": "Mark 12:38",
+            "end": "Mark 12:40",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "hypocrisy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Widow's Offering",
+            "start": "Mark 12:41",
+            "end": "Mark 12:44",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "generosity",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "humility",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

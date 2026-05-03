@@ -1,0 +1,262 @@
+{
+    "book": "1 Chronicles",
+    "chapter": 1,
+    "verses": [
+        {
+            "ref": "1 Chr 1:1",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:2",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:3",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:4",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:5",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:6",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:7",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:8",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:9",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:10",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "1 Chr 1:11",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:12",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:13",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:14",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:15",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:16",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:17",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:18",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:19",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Chr 1:20",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:21",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:22",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:23",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:24",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:25",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:26",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:27",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:28",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:29",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:30",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:31",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:32",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:33",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:34",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:35",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:36",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:37",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:38",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:39",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:40",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:41",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:42",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:43",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:44",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:45",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:46",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Chr 1:47",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:48",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:49",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:50",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:51",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:52",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:53",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 1:54",
+            "function": "catalog"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Genealogy from Adam to Abraham",
+            "start": "1 Chr 1:1",
+            "end": "1 Chr 1:33",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Edomite Lineage and Kingship",
+            "start": "1 Chr 1:34",
+            "end": "1 Chr 1:54",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

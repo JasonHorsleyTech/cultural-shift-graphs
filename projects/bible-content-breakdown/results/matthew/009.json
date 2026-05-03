@@ -1,0 +1,290 @@
+{
+    "book": "Matthew",
+    "chapter": 9,
+    "verses": [
+        {
+            "ref": "Matt 9:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 9:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 9:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 9:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 9:5",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Matt 9:6",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Matt 9:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 9:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 9:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 9:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 9:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 9:12",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Matt 9:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Matt 9:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 9:15",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Matt 9:16",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Matt 9:17",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Matt 9:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 9:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 9:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 9:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 9:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 9:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 9:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 9:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 9:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 9:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 9:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 9:29",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 9:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 9:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 9:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 9:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 9:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 9:35",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 9:36",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 9:37",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Matt 9:38",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Healing of the Paralytic",
+            "start": "Matt 9:1",
+            "end": "Matt 9:8",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Calling of Matthew and Eating with Tax Collectors",
+            "start": "Matt 9:9",
+            "end": "Matt 9:17",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Healing of the Ruler's Daughter and Hemorrhaging Woman",
+            "start": "Matt 9:18",
+            "end": "Matt 9:26",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Healing of the Two Blind Men",
+            "start": "Matt 9:27",
+            "end": "Matt 9:31",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Healing of the Demon-possessed Man",
+            "start": "Matt 9:32",
+            "end": "Matt 9:34",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                }
+            ]
+        },
+        {
+            "name": "Jesus's Compassion and Harvest Teaching",
+            "start": "Matt 9:35",
+            "end": "Matt 9:38",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

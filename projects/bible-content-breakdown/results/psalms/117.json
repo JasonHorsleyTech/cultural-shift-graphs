@@ -1,0 +1,33 @@
+{
+    "book": "Psalms",
+    "chapter": 117,
+    "verses": [
+        {
+            "ref": "Ps 117:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 117:2",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Universal Praise of the Lord",
+            "start": "Ps 117:1",
+            "end": "Ps 117:2",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "book": "Isaiah",
+    "chapter": 21,
+    "verses": [
+        {
+            "ref": "Isa 21:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 21:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 21:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 21:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 21:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 21:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 21:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 21:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 21:9",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 21:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 21:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 21:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 21:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 21:14",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 21:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 21:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 21:17",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Babylon's Fall",
+            "start": "Isa 21:1",
+            "end": "Isa 21:10",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Dumah Oracle",
+            "start": "Isa 21:11",
+            "end": "Isa 21:12",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Arabia Oracle",
+            "start": "Isa 21:13",
+            "end": "Isa 21:17",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

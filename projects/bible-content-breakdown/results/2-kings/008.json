@@ -1,0 +1,204 @@
+{
+    "book": "2 Kings",
+    "chapter": 8,
+    "verses": [
+        {
+            "ref": "2Ki 8:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Ki 8:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Ki 8:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Ki 8:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Ki 8:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Ki 8:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "2Ki 8:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Ki 8:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Ki 8:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Ki 8:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2Ki 8:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Ki 8:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2Ki 8:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2Ki 8:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Ki 8:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Ki 8:16",
+            "function": "catalog"
+        },
+        {
+            "ref": "2Ki 8:17",
+            "function": "catalog"
+        },
+        {
+            "ref": "2Ki 8:18",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2Ki 8:19",
+            "function": "theological"
+        },
+        {
+            "ref": "2Ki 8:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Ki 8:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Ki 8:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Ki 8:23",
+            "function": "catalog"
+        },
+        {
+            "ref": "2Ki 8:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Ki 8:25",
+            "function": "catalog"
+        },
+        {
+            "ref": "2Ki 8:26",
+            "function": "catalog"
+        },
+        {
+            "ref": "2Ki 8:27",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2Ki 8:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "2Ki 8:29",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Woman's Return from Exile",
+            "start": "2Ki 8:1",
+            "end": "2Ki 8:6",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Hazael and Ben Hadad",
+            "start": "2Ki 8:7",
+            "end": "2Ki 8:15",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                }
+            ]
+        },
+        {
+            "name": "Jehoram's Reign over Judah",
+            "start": "2Ki 8:16",
+            "end": "2Ki 8:24",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Ahaziah's Reign Begins",
+            "start": "2Ki 8:25",
+            "end": "2Ki 8:29",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

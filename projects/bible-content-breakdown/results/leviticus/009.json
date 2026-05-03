@@ -1,0 +1,177 @@
+{
+    "book": "Leviticus",
+    "chapter": 9,
+    "verses": [
+        {
+            "ref": "Lev 9:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 9:2",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 9:3",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 9:4",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 9:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 9:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Lev 9:7",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 9:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 9:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lev 9:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lev 9:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lev 9:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lev 9:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lev 9:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lev 9:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lev 9:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 9:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lev 9:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lev 9:19",
+            "function": "specifications"
+        },
+        {
+            "ref": "Lev 9:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lev 9:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 9:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 9:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lev 9:24",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Aaron's First Offering",
+            "start": "Lev 9:1",
+            "end": "Lev 9:24",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

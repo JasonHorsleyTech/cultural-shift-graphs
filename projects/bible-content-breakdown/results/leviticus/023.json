@@ -1,0 +1,229 @@
+{
+    "book": "Leviticus",
+    "chapter": 23,
+    "verses": [
+        {
+            "ref": "Lev 23:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 23:2",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 23:3",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 23:4",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 23:5",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 23:6",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 23:7",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 23:8",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 23:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 23:10",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 23:11",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 23:12",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 23:13",
+            "function": "specifications",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 23:14",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 23:15",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 23:16",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 23:17",
+            "function": "specifications",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Lev 23:18",
+            "function": "specifications",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 23:19",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 23:20",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 23:21",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 23:22",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lev 23:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 23:24",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 23:25",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 23:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 23:27",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 23:28",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 23:29",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 23:30",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 23:31",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 23:32",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 23:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 23:34",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 23:35",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 23:36",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 23:37",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 23:38",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 23:39",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 23:40",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 23:41",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 23:42",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 23:43",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Lev 23:44",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Lord's Appointed Festivals",
+            "start": "Lev 23:1",
+            "end": "Lev 23:44",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,153 @@
+{
+    "book": "1 Samuel",
+    "chapter": 9,
+    "verses": [
+        {
+            "ref": "1 Sam 9:1",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Sam 9:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 9:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 9:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 9:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 9:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 9:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 9:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 9:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 9:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 9:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 9:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 9:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Sam 9:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 9:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 9:16",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Sam 9:17",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Sam 9:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 9:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Sam 9:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Sam 9:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 9:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 9:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 9:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 9:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 9:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 9:27",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Saul Anointed as King",
+            "start": "1 Sam 9:1",
+            "end": "1 Sam 9:27",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

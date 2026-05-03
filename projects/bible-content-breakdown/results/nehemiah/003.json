@@ -1,0 +1,161 @@
+{
+    "book": "Nehemiah",
+    "chapter": 3,
+    "verses": [
+        {
+            "ref": "Neh 3:1",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Neh 3:2",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 3:3",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 3:4",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 3:5",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Neh 3:6",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 3:7",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 3:8",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 3:9",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 3:10",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 3:11",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 3:12",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 3:13",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 3:14",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 3:15",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 3:16",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 3:17",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 3:18",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 3:19",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 3:20",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 3:21",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 3:22",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 3:23",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 3:24",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 3:25",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 3:26",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 3:27",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 3:28",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 3:29",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 3:30",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 3:31",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 3:32",
+            "function": "catalog"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Rebuilding the Wall of Jerusalem",
+            "start": "Neh 3:1",
+            "end": "Neh 3:32",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

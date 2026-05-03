@@ -1,0 +1,133 @@
+{
+    "book": "Joshua",
+    "chapter": 12,
+    "verses": [
+        {
+            "ref": "Josh 12:1",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Josh 12:2",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 12:3",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 12:4",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 12:5",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 12:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Josh 12:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Josh 12:8",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 12:9",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 12:10",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 12:11",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 12:12",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 12:13",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 12:14",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 12:15",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 12:16",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 12:17",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 12:18",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 12:19",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 12:20",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 12:21",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 12:22",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 12:23",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 12:24",
+            "function": "catalog"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Summary of Conquered Kings and Territories",
+            "start": "Josh 12:1",
+            "end": "Josh 12:24",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

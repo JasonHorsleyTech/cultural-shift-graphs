@@ -1,0 +1,93 @@
+{
+    "book": "Zechariah",
+    "chapter": 4,
+    "verses": [
+        {
+            "ref": "Zech 4:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Zech 4:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Zech 4:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Zech 4:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Zech 4:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Zech 4:6",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Zech 4:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 4:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Zech 4:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 4:10",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Zech 4:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Zech 4:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Zech 4:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Zech 4:14",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Zechariah's Vision of the Menorah and Two Olive Trees",
+            "start": "Zech 4:1",
+            "end": "Zech 4:14",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

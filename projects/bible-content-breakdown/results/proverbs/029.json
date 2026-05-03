@@ -1,0 +1,135 @@
+{
+    "book": "Proverbs",
+    "chapter": 29,
+    "verses": [
+        {
+            "ref": "Prov 29:1",
+            "function": "wisdom",
+            "secondary": {
+                "function": "consequences",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Prov 29:2",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 29:3",
+            "function": "wisdom",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 29:4",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 29:5",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 29:6",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 29:7",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 29:8",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 29:9",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 29:10",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 29:11",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 29:12",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 29:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Prov 29:14",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 29:15",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 29:16",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 29:17",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 29:18",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Prov 29:19",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 29:20",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 29:21",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 29:22",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 29:23",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 29:24",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 29:25",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 29:26",
+            "function": "theological"
+        },
+        {
+            "ref": "Prov 29:27",
+            "function": "wisdom"
+        }
+    ],
+    "stories": []
+}

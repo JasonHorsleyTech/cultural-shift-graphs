@@ -1,0 +1,113 @@
+{
+    "book": "1 Chronicles",
+    "chapter": 18,
+    "verses": [
+        {
+            "ref": "1 Chr 18:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 18:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 18:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 18:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "1 Chr 18:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 18:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Chr 18:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 18:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 18:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 18:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 18:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "1 Chr 18:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 18:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Chr 18:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "1 Chr 18:15",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 18:16",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 18:17",
+            "function": "catalog"
+        }
+    ],
+    "stories": [
+        {
+            "name": "David's Military Victories and Kingdom Administration",
+            "start": "1 Chr 18:1",
+            "end": "1 Chr 18:17",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

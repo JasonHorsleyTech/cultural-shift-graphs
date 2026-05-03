@@ -1,0 +1,109 @@
+{
+    "book": "Nehemiah",
+    "chapter": 6,
+    "verses": [
+        {
+            "ref": "Neh 6:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 6:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 6:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 6:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 6:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 6:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 6:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 6:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 6:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Neh 6:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 6:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 6:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 6:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 6:14",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Neh 6:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 6:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 6:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 6:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 6:19",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Opposition to the Wall Reconstruction",
+            "start": "Neh 6:1",
+            "end": "Neh 6:19",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,301 @@
+{
+    "book": "Ezekiel",
+    "chapter": 16,
+    "verses": [
+        {
+            "ref": "Ezek 16:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 16:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 16:3",
+            "function": "theological"
+        },
+        {
+            "ref": "Ezek 16:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 16:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 16:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 16:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 16:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 16:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 16:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 16:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 16:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 16:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 16:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 16:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezek 16:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 16:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 16:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 16:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 16:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 16:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 16:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezek 16:23",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 16:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 16:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 16:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 16:27",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 16:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 16:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 16:30",
+            "function": "theological"
+        },
+        {
+            "ref": "Ezek 16:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 16:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 16:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 16:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 16:35",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 16:36",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 16:37",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 16:38",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 16:39",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 16:40",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 16:41",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 16:42",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 16:43",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezek 16:44",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ezek 16:45",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 16:46",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 16:47",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 16:48",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 16:49",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 16:50",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 16:51",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 16:52",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ezek 16:53",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 16:54",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 16:55",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 16:56",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 16:57",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 16:58",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 16:59",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 16:60",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 16:61",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 16:62",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezek 16:63",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jerusalem's Covenant Betrayal and Restoration",
+            "start": "Ezek 16:3",
+            "end": "Ezek 16:63",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

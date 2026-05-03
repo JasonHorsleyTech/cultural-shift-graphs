@@ -1,0 +1,134 @@
+{
+    "book": "1 Chronicles",
+    "chapter": 3,
+    "verses": [
+        {
+            "ref": "1 Chr 3:1",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 3:2",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 3:3",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 3:4",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 3:5",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 3:6",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 3:7",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 3:8",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 3:9",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 3:10",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 3:11",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 3:12",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 3:13",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 3:14",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 3:15",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 3:16",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 3:17",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 3:18",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 3:19",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 3:20",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 3:21",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 3:22",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 3:23",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 3:24",
+            "function": "catalog"
+        }
+    ],
+    "stories": [
+        {
+            "name": "David's Sons",
+            "start": "1 Chr 3:1",
+            "end": "1 Chr 3:9",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Davidic Dynasty",
+            "start": "1 Chr 3:10",
+            "end": "1 Chr 3:24",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

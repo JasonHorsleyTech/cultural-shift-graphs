@@ -1,0 +1,133 @@
+{
+    "book": "Genesis",
+    "chapter": 15,
+    "verses": [
+        {
+            "ref": "Gen 15:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 15:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 15:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 15:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 15:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 15:6",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 15:7",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Gen 15:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 15:9",
+            "function": "specifications",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 15:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 15:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 15:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 15:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Gen 15:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Gen 15:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Gen 15:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Gen 15:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 15:18",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 15:19",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 15:20",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 15:21",
+            "function": "catalog"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Covenant with Abram",
+            "start": "Gen 15:1",
+            "end": "Gen 15:21",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

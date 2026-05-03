@@ -1,0 +1,118 @@
+{
+    "book": "Micah",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "Mic 2:1",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Mic 2:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Mic 2:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mic 2:4",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Mic 2:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mic 2:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mic 2:7",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mic 2:8",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mic 2:9",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Mic 2:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mic 2:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mic 2:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mic 2:13",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Judgment Against Oppressors and False Prophets",
+            "start": "Mic 2:1",
+            "end": "Mic 2:11",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "God's Promise of Restoration",
+            "start": "Mic 2:12",
+            "end": "Mic 2:13",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                }
+            ]
+        }
+    ]
+}

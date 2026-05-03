@@ -1,0 +1,77 @@
+{
+    "book": "Jonah",
+    "chapter": 4,
+    "verses": [
+        {
+            "ref": "Jonah 4:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jonah 4:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.45
+            }
+        },
+        {
+            "ref": "Jonah 4:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jonah 4:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jonah 4:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jonah 4:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jonah 4:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jonah 4:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jonah 4:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jonah 4:10",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Jonah 4:11",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jonah and the Plant",
+            "start": "Jonah 4:1",
+            "end": "Jonah 4:11",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

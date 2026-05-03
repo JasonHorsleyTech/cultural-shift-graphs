@@ -1,0 +1,227 @@
+{
+    "book": "Genesis",
+    "chapter": 21,
+    "verses": [
+        {
+            "ref": "Gen 21:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 21:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 21:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 21:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 21:5",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 21:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 21:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 21:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 21:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 21:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 21:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 21:12",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 21:13",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 21:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 21:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 21:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 21:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 21:18",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 21:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 21:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 21:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 21:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 21:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 21:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 21:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 21:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 21:27",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 21:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 21:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 21:30",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 21:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 21:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 21:33",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 21:34",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Birth of Isaac",
+            "start": "Gen 21:1",
+            "end": "Gen 21:8",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Hagar and Ishmael Sent Away and Rescued",
+            "start": "Gen 21:9",
+            "end": "Gen 21:21",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Abraham's Covenant with Abimelech",
+            "start": "Gen 21:22",
+            "end": "Gen 21:34",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

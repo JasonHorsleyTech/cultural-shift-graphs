@@ -1,0 +1,291 @@
+{
+    "book": "Matthew",
+    "chapter": 25,
+    "verses": [
+        {
+            "ref": "Matthew 25:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matthew 25:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matthew 25:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matthew 25:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matthew 25:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matthew 25:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matthew 25:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matthew 25:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matthew 25:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matthew 25:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matthew 25:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matthew 25:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matthew 25:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Matthew 25:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matthew 25:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matthew 25:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matthew 25:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matthew 25:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matthew 25:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matthew 25:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matthew 25:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matthew 25:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matthew 25:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matthew 25:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matthew 25:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matthew 25:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matthew 25:27",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matthew 25:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matthew 25:29",
+            "function": "theological"
+        },
+        {
+            "ref": "Matthew 25:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matthew 25:31",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matthew 25:32",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matthew 25:33",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matthew 25:34",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matthew 25:35",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Matthew 25:36",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Matthew 25:37",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matthew 25:38",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matthew 25:39",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matthew 25:40",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Matthew 25:41",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matthew 25:42",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Matthew 25:43",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Matthew 25:44",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matthew 25:45",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Matthew 25:46",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Ten Virgins",
+            "start": "Matthew 25:1",
+            "end": "Matthew 25:13",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Talents",
+            "start": "Matthew 25:14",
+            "end": "Matthew 25:30",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "The Judgment of Nations",
+            "start": "Matthew 25:31",
+            "end": "Matthew 25:46",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

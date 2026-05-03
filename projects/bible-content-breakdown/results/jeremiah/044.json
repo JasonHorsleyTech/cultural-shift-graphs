@@ -1,0 +1,165 @@
+{
+    "book": "Jeremiah",
+    "chapter": 44,
+    "verses": [
+        {
+            "ref": "Jer 44:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 44:2",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jer 44:3",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 44:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 44:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 44:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 44:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 44:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 44:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 44:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Jer 44:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 44:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 44:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 44:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 44:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 44:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 44:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 44:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 44:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 44:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 44:21",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jer 44:22",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 44:23",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jer 44:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 44:25",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 44:26",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 44:27",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 44:28",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 44:29",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 44:30",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Warning to Judean Refugees in Egypt",
+            "start": "Jer 44:1",
+            "end": "Jer 44:30",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                }
+            ]
+        }
+    ]
+}

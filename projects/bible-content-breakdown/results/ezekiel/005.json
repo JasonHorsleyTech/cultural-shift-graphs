@@ -1,0 +1,121 @@
+{
+    "book": "Ezekiel",
+    "chapter": 5,
+    "verses": [
+        {
+            "ref": "Ezek 5:1",
+            "function": "prophecy",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezek 5:2",
+            "function": "prophecy",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezek 5:3",
+            "function": "prophecy",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezek 5:4",
+            "function": "prophecy",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ezek 5:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 5:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 5:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 5:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 5:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 5:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 5:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 5:12",
+            "function": "prophecy",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ezek 5:13",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ezek 5:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 5:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 5:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 5:17",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Judgment on Jerusalem Through Hair Dividing",
+            "start": "Ezek 5:1",
+            "end": "Ezek 5:17",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

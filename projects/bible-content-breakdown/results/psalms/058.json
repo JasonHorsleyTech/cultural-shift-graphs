@@ -1,0 +1,73 @@
+{
+    "book": "Psalms",
+    "chapter": 58,
+    "verses": [
+        {
+            "ref": "Ps 58:1",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Ps 58:2",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Ps 58:3",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 58:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 58:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 58:6",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Ps 58:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 58:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 58:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 58:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 58:11",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Prayer Against the Wicked",
+            "start": "Ps 58:1",
+            "end": "Ps 58:11",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

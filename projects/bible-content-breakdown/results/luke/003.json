@@ -1,0 +1,276 @@
+{
+    "book": "Luke",
+    "chapter": 3,
+    "verses": [
+        {
+            "ref": "Luke 3:1",
+            "function": "catalog"
+        },
+        {
+            "ref": "Luke 3:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "Luke 3:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 3:4",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 3:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 3:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 3:7",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Luke 3:8",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Luke 3:9",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 3:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 3:11",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 3:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 3:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 3:14",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 3:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 3:16",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Luke 3:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 3:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 3:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 3:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 3:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 3:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Luke 3:23",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Luke 3:24",
+            "function": "catalog"
+        },
+        {
+            "ref": "Luke 3:25",
+            "function": "catalog"
+        },
+        {
+            "ref": "Luke 3:26",
+            "function": "catalog"
+        },
+        {
+            "ref": "Luke 3:27",
+            "function": "catalog"
+        },
+        {
+            "ref": "Luke 3:28",
+            "function": "catalog"
+        },
+        {
+            "ref": "Luke 3:29",
+            "function": "catalog"
+        },
+        {
+            "ref": "Luke 3:30",
+            "function": "catalog"
+        },
+        {
+            "ref": "Luke 3:31",
+            "function": "catalog"
+        },
+        {
+            "ref": "Luke 3:32",
+            "function": "catalog"
+        },
+        {
+            "ref": "Luke 3:33",
+            "function": "catalog"
+        },
+        {
+            "ref": "Luke 3:34",
+            "function": "catalog"
+        },
+        {
+            "ref": "Luke 3:35",
+            "function": "catalog"
+        },
+        {
+            "ref": "Luke 3:36",
+            "function": "catalog"
+        },
+        {
+            "ref": "Luke 3:37",
+            "function": "catalog"
+        },
+        {
+            "ref": "Luke 3:38",
+            "function": "catalog",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "John the Baptist's Ministry",
+            "start": "Luke 3:1",
+            "end": "Luke 3:18",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 0.6
+                }
+            ]
+        },
+        {
+            "name": "Herod's Opposition to John",
+            "start": "Luke 3:19",
+            "end": "Luke 3:20",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Jesus's Baptism and Affirmation",
+            "start": "Luke 3:21",
+            "end": "Luke 3:22",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Jesus's Genealogy",
+            "start": "Luke 3:23",
+            "end": "Luke 3:38",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

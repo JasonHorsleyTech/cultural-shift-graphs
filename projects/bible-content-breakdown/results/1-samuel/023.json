@@ -1,0 +1,220 @@
+{
+    "book": "1 Samuel",
+    "chapter": 23,
+    "verses": [
+        {
+            "ref": "1 Sam 23:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 23:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 23:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 23:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 23:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 23:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 23:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 23:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 23:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 23:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "1 Sam 23:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Sam 23:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Sam 23:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 23:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "1 Sam 23:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 23:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 23:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "1 Sam 23:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 23:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 23:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 23:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 23:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 23:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 23:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 23:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 23:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 23:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 23:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 23:29",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "David Defeats the Philistines at Keilah",
+            "start": "1 Sam 23:1",
+            "end": "1 Sam 23:5",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "David Escapes Saul's Ambush at Keilah",
+            "start": "1 Sam 23:6",
+            "end": "1 Sam 23:13",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Jonathan's Encouragement and Covenant",
+            "start": "1 Sam 23:14",
+            "end": "1 Sam 23:18",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Saul's Pursuit: The Ziphites' Betrayal and Divine Rescue at Maon",
+            "start": "1 Sam 23:19",
+            "end": "1 Sam 23:29",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                }
+            ]
+        }
+    ]
+}

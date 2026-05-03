@@ -1,0 +1,374 @@
+{
+    "book": "Matthew",
+    "chapter": 12,
+    "verses": [
+        {
+            "ref": "Matt 12:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 12:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 12:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 12:4",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 12:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Matt 12:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Matt 12:7",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 12:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Matt 12:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 12:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 12:11",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 12:12",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 12:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 12:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 12:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 12:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 12:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Matt 12:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 12:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 12:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 12:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 12:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 12:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 12:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 12:25",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Matt 12:26",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Matt 12:27",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Matt 12:28",
+            "function": "theological"
+        },
+        {
+            "ref": "Matt 12:29",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Matt 12:30",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 12:31",
+            "function": "theological"
+        },
+        {
+            "ref": "Matt 12:32",
+            "function": "theological"
+        },
+        {
+            "ref": "Matt 12:33",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Matt 12:34",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 12:35",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Matt 12:36",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 12:37",
+            "function": "theological"
+        },
+        {
+            "ref": "Matt 12:38",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 12:39",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Matt 12:40",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 12:41",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 12:42",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 12:43",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 12:44",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 12:45",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Matt 12:46",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 12:47",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 12:48",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 12:49",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 12:50",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Sabbath Conflicts with Pharisees",
+            "start": "Matt 12:1",
+            "end": "Matt 12:14",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Jesus Withdraws and Heals Crowds (Isaiah Prophecy)",
+            "start": "Matt 12:15",
+            "end": "Matt 12:21",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Demon-Possessed Man Healed and Beelzebul Debate",
+            "start": "Matt 12:22",
+            "end": "Matt 12:29",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Teaching on Blasphemy, Words, and the Sign of Jonah",
+            "start": "Matt 12:30",
+            "end": "Matt 12:42",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Parable of the Empty House",
+            "start": "Matt 12:43",
+            "end": "Matt 12:45",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "True Family",
+            "start": "Matt 12:46",
+            "end": "Matt 12:50",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

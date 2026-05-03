@@ -1,0 +1,61 @@
+{
+    "book": "Malachi",
+    "chapter": 4,
+    "verses": [
+        {
+            "ref": "Malachi 4:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Malachi 4:2",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Malachi 4:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Malachi 4:4",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Malachi 4:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Malachi 4:6",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Coming Day of the Lord and Elijah's Return",
+            "start": "Malachi 4:1",
+            "end": "Malachi 4:6",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

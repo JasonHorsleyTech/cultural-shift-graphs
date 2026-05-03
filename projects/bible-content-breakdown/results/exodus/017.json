@@ -1,0 +1,122 @@
+{
+    "book": "Exodus",
+    "chapter": 17,
+    "verses": [
+        {
+            "ref": "Ex 17:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 17:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 17:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 17:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 17:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 17:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 17:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 17:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 17:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 17:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 17:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 17:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 17:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 17:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Ex 17:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 17:16",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Water from the Rock",
+            "start": "Ex 17:1",
+            "end": "Ex 17:7",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Battle with Amalek",
+            "start": "Ex 17:8",
+            "end": "Ex 17:16",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

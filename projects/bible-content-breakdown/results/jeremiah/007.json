@@ -1,0 +1,205 @@
+{
+    "book": "Jeremiah",
+    "chapter": 7,
+    "verses": [
+        {
+            "ref": "Jer 7:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 7:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 7:3",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Jer 7:4",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jer 7:5",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Jer 7:6",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Jer 7:7",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 7:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Jer 7:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 7:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 7:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Jer 7:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jer 7:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 7:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 7:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 7:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 7:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 7:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 7:19",
+            "function": "theological"
+        },
+        {
+            "ref": "Jer 7:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 7:21",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Jer 7:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 7:23",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jer 7:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 7:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 7:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 7:27",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jer 7:28",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 7:29",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 7:30",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jer 7:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 7:32",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 7:33",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 7:34",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Temple Sermon and Call to Repentance",
+            "start": "Jer 7:1",
+            "end": "Jer 7:34",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

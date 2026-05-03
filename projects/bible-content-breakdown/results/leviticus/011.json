@@ -1,0 +1,221 @@
+{
+    "book": "Leviticus",
+    "chapter": 11,
+    "verses": [
+        {
+            "ref": "Lev 11:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 11:2",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 11:3",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 11:4",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 11:5",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 11:6",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 11:7",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 11:8",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 11:9",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 11:10",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 11:11",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 11:12",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 11:13",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 11:14",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 11:15",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 11:16",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 11:17",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 11:18",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 11:19",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 11:20",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 11:21",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 11:22",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 11:23",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 11:24",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 11:25",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 11:26",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 11:27",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 11:28",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 11:29",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 11:30",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 11:31",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 11:32",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 11:33",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 11:34",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 11:35",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 11:36",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 11:37",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 11:38",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 11:39",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 11:40",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 11:41",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 11:42",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 11:43",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 11:44",
+            "function": "theological",
+            "secondary": {
+                "function": "purity_dietary",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Lev 11:45",
+            "function": "theological",
+            "secondary": {
+                "function": "purity_dietary",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lev 11:46",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 11:47",
+            "function": "purity_dietary"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Dietary and Purity Laws",
+            "start": "Lev 11:1",
+            "end": "Lev 11:47",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

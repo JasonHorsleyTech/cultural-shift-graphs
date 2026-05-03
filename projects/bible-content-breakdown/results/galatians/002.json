@@ -1,0 +1,166 @@
+{
+    "book": "Galatians",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "Gal 2:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gal 2:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Gal 2:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gal 2:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gal 2:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gal 2:6",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gal 2:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gal 2:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Gal 2:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gal 2:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gal 2:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gal 2:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gal 2:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Gal 2:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Gal 2:15",
+            "function": "theological"
+        },
+        {
+            "ref": "Gal 2:16",
+            "function": "theological"
+        },
+        {
+            "ref": "Gal 2:17",
+            "function": "theological"
+        },
+        {
+            "ref": "Gal 2:18",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gal 2:19",
+            "function": "theological"
+        },
+        {
+            "ref": "Gal 2:20",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Gal 2:21",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Paul at the Jerusalem Council",
+            "start": "Gal 2:1",
+            "end": "Gal 2:10",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Peter's Hypocrisy and Paul's Confrontation",
+            "start": "Gal 2:11",
+            "end": "Gal 2:21",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "hypocrisy",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

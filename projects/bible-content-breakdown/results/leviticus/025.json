@@ -1,0 +1,273 @@
+{
+    "book": "Leviticus",
+    "chapter": 25,
+    "verses": [
+        {
+            "ref": "Lev 25:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 25:2",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 25:3",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 25:4",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 25:5",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 25:6",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 25:7",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 25:8",
+            "function": "specifications"
+        },
+        {
+            "ref": "Lev 25:9",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 25:10",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 25:11",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 25:12",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 25:13",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 25:14",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Lev 25:15",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 25:16",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 25:17",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 25:18",
+            "function": "theological"
+        },
+        {
+            "ref": "Lev 25:19",
+            "function": "theological"
+        },
+        {
+            "ref": "Lev 25:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 25:21",
+            "function": "theological"
+        },
+        {
+            "ref": "Lev 25:22",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 25:23",
+            "function": "civil_law",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lev 25:24",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 25:25",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 25:26",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 25:27",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 25:28",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 25:29",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 25:30",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 25:31",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 25:32",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 25:33",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 25:34",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 25:35",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Lev 25:36",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 25:37",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 25:38",
+            "function": "theological"
+        },
+        {
+            "ref": "Lev 25:39",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 25:40",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 25:41",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 25:42",
+            "function": "civil_law",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 25:43",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Lev 25:44",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 25:45",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 25:46",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 25:47",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 25:48",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 25:49",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 25:50",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 25:51",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 25:52",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 25:53",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 25:54",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 25:55",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jubilee Year and Property Laws",
+            "start": "Lev 25:1",
+            "end": "Lev 25:55",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

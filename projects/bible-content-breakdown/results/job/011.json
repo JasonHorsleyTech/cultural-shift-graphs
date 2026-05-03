@@ -1,0 +1,133 @@
+{
+    "book": "Job",
+    "chapter": 11,
+    "verses": [
+        {
+            "ref": "Job 11:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 11:2",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Job 11:3",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Job 11:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 11:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 11:6",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 11:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 11:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 11:9",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 11:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 11:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 11:12",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 11:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Job 11:14",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Job 11:15",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 11:16",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 11:17",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Job 11:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Job 11:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Job 11:20",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Zophar's Speech",
+            "start": "Job 11:1",
+            "end": "Job 11:20",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

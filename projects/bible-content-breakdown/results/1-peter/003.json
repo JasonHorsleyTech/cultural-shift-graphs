@@ -1,0 +1,191 @@
+{
+    "book": "1 Peter",
+    "chapter": 3,
+    "verses": [
+        {
+            "ref": "1 Peter 3:1",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Peter 3:2",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Peter 3:3",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Peter 3:4",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Peter 3:5",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Peter 3:6",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Peter 3:7",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Peter 3:8",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Peter 3:9",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Peter 3:10",
+            "function": "wisdom"
+        },
+        {
+            "ref": "1 Peter 3:11",
+            "function": "wisdom"
+        },
+        {
+            "ref": "1 Peter 3:12",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Peter 3:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Peter 3:14",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Peter 3:15",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "1 Peter 3:16",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Peter 3:17",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Peter 3:18",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Peter 3:19",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Peter 3:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Peter 3:21",
+            "function": "theological",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Peter 3:22",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Household Conduct and Inner Beauty",
+            "start": "1 Peter 3:1",
+            "end": "1 Peter 3:8",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "humility",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Righteous Living and Suffering",
+            "start": "1 Peter 3:9",
+            "end": "1 Peter 3:17",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.2
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Christ's Redemptive Work",
+            "start": "1 Peter 3:18",
+            "end": "1 Peter 3:22",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "sacrifice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

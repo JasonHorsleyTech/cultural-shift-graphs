@@ -1,0 +1,109 @@
+{
+    "book": "Ezekiel",
+    "chapter": 42,
+    "verses": [
+        {
+            "ref": "Ezekiel 42:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 42:2",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezekiel 42:3",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezekiel 42:4",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezekiel 42:5",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezekiel 42:6",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezekiel 42:7",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezekiel 42:8",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezekiel 42:9",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezekiel 42:10",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezekiel 42:11",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezekiel 42:12",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezekiel 42:13",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ezekiel 42:14",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezekiel 42:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 42:16",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezekiel 42:17",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezekiel 42:18",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezekiel 42:19",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezekiel 42:20",
+            "function": "specifications"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Vision of the Temple Chambers and Sanctuary Wall",
+            "start": "Ezekiel 42:1",
+            "end": "Ezekiel 42:20",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

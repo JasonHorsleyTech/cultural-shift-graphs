@@ -1,0 +1,149 @@
+{
+    "book": "2 Corinthians",
+    "chapter": 8,
+    "verses": [
+        {
+            "ref": "2 Cor 8:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Cor 8:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Cor 8:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Cor 8:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Cor 8:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Cor 8:6",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Cor 8:7",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "2 Cor 8:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Cor 8:9",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Cor 8:10",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "2 Cor 8:11",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "2 Cor 8:12",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Cor 8:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "2 Cor 8:14",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "2 Cor 8:15",
+            "function": "wisdom"
+        },
+        {
+            "ref": "2 Cor 8:16",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Cor 8:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Cor 8:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Cor 8:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Cor 8:20",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "2 Cor 8:21",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "2 Cor 8:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Cor 8:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Cor 8:24",
+            "function": "moral_instruction"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Collection Appeal",
+            "start": "2 Cor 8:1",
+            "end": "2 Cor 8:24",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "generosity",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "book": "Isaiah",
+    "chapter": 46,
+    "verses": [
+        {
+            "ref": "Isa 46:1",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 46:2",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 46:3",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 46:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 46:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 46:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Isa 46:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Isa 46:8",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 46:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 46:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 46:11",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 46:12",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Isa 46:13",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Commissioning of Cyrus and Israel's Redemption",
+            "start": "Isa 46:1",
+            "end": "Isa 46:13",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

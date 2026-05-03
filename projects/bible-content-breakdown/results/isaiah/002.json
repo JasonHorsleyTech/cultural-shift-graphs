@@ -1,0 +1,159 @@
+{
+    "book": "Isaiah",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "Isa 2:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 2:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 2:3",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 2:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 2:5",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Isa 2:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 2:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 2:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 2:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 2:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 2:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 2:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 2:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 2:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 2:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 2:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 2:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 2:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 2:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 2:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 2:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 2:22",
+            "function": "wisdom"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Vision of Zion's Future Glory",
+            "start": "Isa 2:2",
+            "end": "Isa 2:5",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Judah's Present Idolatry",
+            "start": "Isa 2:6",
+            "end": "Isa 2:9",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Day of the Lord's Judgment",
+            "start": "Isa 2:10",
+            "end": "Isa 2:22",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

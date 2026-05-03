@@ -1,0 +1,265 @@
+{
+    "book": "Genesis",
+    "chapter": 41,
+    "verses": [
+        {
+            "ref": "Gen 41:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 41:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 41:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 41:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 41:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 41:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 41:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 41:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 41:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 41:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 41:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 41:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 41:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 41:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 41:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 41:16",
+            "function": "theological"
+        },
+        {
+            "ref": "Gen 41:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 41:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 41:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 41:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 41:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 41:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 41:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 41:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 41:25",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Gen 41:26",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Gen 41:27",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Gen 41:28",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Gen 41:29",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Gen 41:30",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Gen 41:31",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Gen 41:32",
+            "function": "theological"
+        },
+        {
+            "ref": "Gen 41:33",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Gen 41:34",
+            "function": "specifications"
+        },
+        {
+            "ref": "Gen 41:35",
+            "function": "specifications"
+        },
+        {
+            "ref": "Gen 41:36",
+            "function": "specifications"
+        },
+        {
+            "ref": "Gen 41:37",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 41:38",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 41:39",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 41:40",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 41:41",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 41:42",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 41:43",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 41:44",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 41:45",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 41:46",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 41:47",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 41:48",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 41:49",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 41:50",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 41:51",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Gen 41:52",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Gen 41:53",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 41:54",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 41:55",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 41:56",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 41:57",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Joseph Interprets Pharaoh's Dreams and Becomes Egypt's Ruler",
+            "start": "Gen 41:1",
+            "end": "Gen 41:57",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

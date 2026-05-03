@@ -1,0 +1,277 @@
+{
+    "book": "Exodus",
+    "chapter": 29,
+    "verses": [
+        {
+            "ref": "Exodus 29:1",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exodus 29:2",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exodus 29:3",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exodus 29:4",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exodus 29:5",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exodus 29:6",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Exodus 29:7",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exodus 29:8",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exodus 29:9",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exodus 29:10",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exodus 29:11",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exodus 29:12",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Exodus 29:13",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exodus 29:14",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Exodus 29:15",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exodus 29:16",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exodus 29:17",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Exodus 29:18",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exodus 29:19",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exodus 29:20",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exodus 29:21",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exodus 29:22",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exodus 29:23",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Exodus 29:24",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exodus 29:25",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exodus 29:26",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exodus 29:27",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exodus 29:28",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Exodus 29:29",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exodus 29:30",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exodus 29:31",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exodus 29:32",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exodus 29:33",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "purity_dietary",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exodus 29:34",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "purity_dietary",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exodus 29:35",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exodus 29:36",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exodus 29:37",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Exodus 29:38",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exodus 29:39",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exodus 29:40",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exodus 29:41",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Exodus 29:42",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Exodus 29:43",
+            "function": "theological"
+        },
+        {
+            "ref": "Exodus 29:44",
+            "function": "theological"
+        },
+        {
+            "ref": "Exodus 29:45",
+            "function": "theological"
+        },
+        {
+            "ref": "Exodus 29:46",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Consecration of Aaron and His Sons as Priests",
+            "start": "Exodus 29:1",
+            "end": "Exodus 29:46",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

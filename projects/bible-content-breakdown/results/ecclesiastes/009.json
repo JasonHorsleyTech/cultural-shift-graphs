@@ -1,0 +1,146 @@
+{
+    "book": "Ecclesiastes",
+    "chapter": 9,
+    "verses": [
+        {
+            "ref": "Ecc 9:1",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ecc 9:2",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ecc 9:3",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ecc 9:4",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 9:5",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 9:6",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 9:7",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 9:8",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 9:9",
+            "function": "wisdom",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ecc 9:10",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ecc 9:11",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ecc 9:12",
+            "function": "wisdom",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ecc 9:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ecc 9:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ecc 9:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ecc 9:16",
+            "function": "wisdom",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ecc 9:17",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 9:18",
+            "function": "wisdom"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Life Under Death",
+            "start": "Ecc 9:1",
+            "end": "Ecc 9:12",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "humility",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Parable of Despised Wisdom",
+            "start": "Ecc 9:13",
+            "end": "Ecc 9:18",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,181 @@
+{
+    "book": "Proverbs",
+    "chapter": 24,
+    "verses": [
+        {
+            "ref": "Prov 24:1",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 24:2",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 24:3",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 24:4",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 24:5",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 24:6",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 24:7",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 24:8",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 24:9",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 24:10",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 24:11",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 24:12",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 24:13",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 24:14",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 24:15",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 24:16",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Prov 24:17",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 24:18",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 24:19",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 24:20",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 24:21",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Prov 24:22",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 24:23",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 24:24",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 24:25",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 24:26",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 24:27",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Prov 24:28",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 24:29",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 24:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Prov 24:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Prov 24:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Prov 24:33",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 24:34",
+            "function": "wisdom"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Sluggard's Neglected Field",
+            "start": "Prov 24:30",
+            "end": "Prov 24:34",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                }
+            ]
+        }
+    ]
+}

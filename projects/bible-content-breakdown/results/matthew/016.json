@@ -1,0 +1,236 @@
+{
+    "book": "Matthew",
+    "chapter": 16,
+    "verses": [
+        {
+            "ref": "Matt 16:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 16:2",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 16:3",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 16:4",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 16:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 16:6",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 16:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 16:8",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 16:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 16:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 16:11",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 16:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 16:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 16:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 16:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 16:16",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Matt 16:17",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 16:18",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Matt 16:19",
+            "function": "theological"
+        },
+        {
+            "ref": "Matt 16:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 16:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 16:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 16:23",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 16:24",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 16:25",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Matt 16:26",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 16:27",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Matt 16:28",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Pharisees Request a Sign",
+            "start": "Matt 16:1",
+            "end": "Matt 16:4",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Teaching About Yeast and Spiritual Discernment",
+            "start": "Matt 16:5",
+            "end": "Matt 16:12",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "humility",
+                    "weight": 0.7
+                }
+            ]
+        },
+        {
+            "name": "Peter's Confession and Jesus's Foundation",
+            "start": "Matt 16:13",
+            "end": "Matt 16:20",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Jesus Predicts Suffering and Teaches on Discipleship",
+            "start": "Matt 16:21",
+            "end": "Matt 16:28",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

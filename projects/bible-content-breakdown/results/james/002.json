@@ -1,0 +1,157 @@
+{
+    "book": "James",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "Jas 2:1",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jas 2:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jas 2:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jas 2:4",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Jas 2:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Jas 2:6",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Jas 2:7",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Jas 2:8",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jas 2:9",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Jas 2:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Jas 2:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Jas 2:12",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Jas 2:13",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Jas 2:14",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jas 2:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jas 2:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jas 2:17",
+            "function": "theological"
+        },
+        {
+            "ref": "Jas 2:18",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Jas 2:19",
+            "function": "theological"
+        },
+        {
+            "ref": "Jas 2:20",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Jas 2:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Jas 2:22",
+            "function": "theological"
+        },
+        {
+            "ref": "Jas 2:23",
+            "function": "theological"
+        },
+        {
+            "ref": "Jas 2:24",
+            "function": "theological"
+        },
+        {
+            "ref": "Jas 2:25",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Jas 2:26",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Teaching on Faith, Mercy, and Justice",
+            "start": "Jas 2:1",
+            "end": "Jas 2:26",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

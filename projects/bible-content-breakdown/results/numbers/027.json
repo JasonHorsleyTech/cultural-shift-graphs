@@ -1,0 +1,162 @@
+{
+    "book": "Numbers",
+    "chapter": 27,
+    "verses": [
+        {
+            "ref": "Numbers 27:1",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Numbers 27:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Numbers 27:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Numbers 27:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Numbers 27:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Numbers 27:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Numbers 27:7",
+            "function": "civil_law",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Numbers 27:8",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Numbers 27:9",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Numbers 27:10",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Numbers 27:11",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Numbers 27:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Numbers 27:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Numbers 27:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Numbers 27:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Numbers 27:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Numbers 27:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Numbers 27:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Numbers 27:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Numbers 27:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.1
+            }
+        },
+        {
+            "ref": "Numbers 27:21",
+            "function": "specifications",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Numbers 27:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Numbers 27:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.1
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Zelophehad's Daughters Petition for Inheritance",
+            "start": "Numbers 27:1",
+            "end": "Numbers 27:11",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Joshua Appointed as Moses' Successor",
+            "start": "Numbers 27:12",
+            "end": "Numbers 27:23",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

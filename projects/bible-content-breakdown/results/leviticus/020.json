@@ -1,0 +1,215 @@
+{
+    "book": "Leviticus",
+    "chapter": 20,
+    "verses": [
+        {
+            "ref": "Lev 20:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 20:2",
+            "function": "civil_law",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 20:3",
+            "function": "theological",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lev 20:4",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 20:5",
+            "function": "theological",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 20:6",
+            "function": "civil_law",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 20:7",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Lev 20:8",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Lev 20:9",
+            "function": "civil_law",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 20:10",
+            "function": "civil_law",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Lev 20:11",
+            "function": "civil_law",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Lev 20:12",
+            "function": "civil_law",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Lev 20:13",
+            "function": "civil_law",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Lev 20:14",
+            "function": "civil_law",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Lev 20:15",
+            "function": "civil_law",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Lev 20:16",
+            "function": "civil_law",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Lev 20:17",
+            "function": "civil_law",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Lev 20:18",
+            "function": "purity_dietary",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Lev 20:19",
+            "function": "sexual_marital",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 20:20",
+            "function": "sexual_marital",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 20:21",
+            "function": "sexual_marital",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 20:22",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Lev 20:23",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Lev 20:24",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 20:25",
+            "function": "purity_dietary",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lev 20:26",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Lev 20:27",
+            "function": "civil_law",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": []
+}

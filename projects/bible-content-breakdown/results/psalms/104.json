@@ -1,0 +1,189 @@
+{
+    "book": "Psalms",
+    "chapter": 104,
+    "verses": [
+        {
+            "ref": "Ps 104:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 104:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 104:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 104:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 104:5",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 104:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 104:7",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 104:8",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 104:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 104:10",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 104:11",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 104:12",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 104:13",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 104:14",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 104:15",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 104:16",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 104:17",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 104:18",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 104:19",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 104:20",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 104:21",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 104:22",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 104:23",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 104:24",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 104:25",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 104:26",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 104:27",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 104:28",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 104:29",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 104:30",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 104:31",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 104:32",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 104:33",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 104:34",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 104:35",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Praise for the Creator's Majesty and Care",
+            "start": "Ps 104:1",
+            "end": "Ps 104:35",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

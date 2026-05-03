@@ -1,0 +1,85 @@
+{
+    "book": "Zechariah",
+    "chapter": 10,
+    "verses": [
+        {
+            "ref": "Zech 10:1",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Zech 10:2",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Zech 10:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 10:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 10:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 10:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 10:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 10:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 10:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 10:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 10:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 10:12",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Promise to Restore and Strengthen Judah and Israel",
+            "start": "Zech 10:1",
+            "end": "Zech 10:12",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

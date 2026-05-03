@@ -1,0 +1,41 @@
+{
+    "book": "Esther",
+    "chapter": 10,
+    "verses": [
+        {
+            "ref": "Est 10:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 10:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 10:3",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Mordecai's Rise and the Salvation of the Jews",
+            "start": "Est 10:1",
+            "end": "Est 10:3",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

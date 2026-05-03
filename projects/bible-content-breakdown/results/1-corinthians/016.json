@@ -1,0 +1,162 @@
+{
+    "book": "1 Corinthians",
+    "chapter": 16,
+    "verses": [
+        {
+            "ref": "1 Cor 16:1",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Cor 16:2",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Cor 16:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Cor 16:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Cor 16:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Cor 16:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Cor 16:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Cor 16:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Cor 16:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Cor 16:10",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Cor 16:11",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Cor 16:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Cor 16:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Cor 16:14",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Cor 16:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Cor 16:16",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Cor 16:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Cor 16:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Cor 16:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Cor 16:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Cor 16:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Cor 16:22",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Cor 16:23",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 16:24",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Instructions, Encouragement, and Community Care",
+            "start": "1 Cor 16:1",
+            "end": "1 Cor 16:14",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Recognition and Farewell",
+            "start": "1 Cor 16:15",
+            "end": "1 Cor 16:24",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 2.0
+                }
+            ]
+        }
+    ]
+}

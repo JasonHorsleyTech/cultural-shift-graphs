@@ -1,0 +1,165 @@
+{
+    "book": "Acts",
+    "chapter": 3,
+    "verses": [
+        {
+            "ref": "Acts 3:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 3:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 3:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 3:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 3:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 3:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Acts 3:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 3:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 3:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 3:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 3:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 3:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 3:13",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 3:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Acts 3:15",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Acts 3:16",
+            "function": "theological"
+        },
+        {
+            "ref": "Acts 3:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 3:18",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 3:19",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Acts 3:20",
+            "function": "theological"
+        },
+        {
+            "ref": "Acts 3:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Acts 3:22",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 3:23",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 3:24",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Acts 3:25",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 3:26",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Peter Heals the Lame Beggar at the Temple Gate",
+            "start": "Acts 3:1",
+            "end": "Acts 3:26",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

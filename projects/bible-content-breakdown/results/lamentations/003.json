@@ -1,0 +1,401 @@
+{
+    "book": "Lamentations",
+    "chapter": 3,
+    "verses": [
+        {
+            "ref": "Lam 3:1",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lam 3:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Lam 3:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Lam 3:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Lam 3:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Lam 3:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Lam 3:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Lam 3:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Lam 3:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Lam 3:10",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Lam 3:11",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Lam 3:12",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Lam 3:13",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Lam 3:14",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lam 3:15",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Lam 3:16",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Lam 3:17",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lam 3:18",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lam 3:19",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Lam 3:20",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Lam 3:21",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Lam 3:22",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Lam 3:23",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lam 3:24",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lam 3:25",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lam 3:26",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lam 3:27",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lam 3:28",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lam 3:29",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Lam 3:30",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Lam 3:31",
+            "function": "theological"
+        },
+        {
+            "ref": "Lam 3:32",
+            "function": "theological"
+        },
+        {
+            "ref": "Lam 3:33",
+            "function": "theological"
+        },
+        {
+            "ref": "Lam 3:34",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lam 3:35",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Lam 3:36",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lam 3:37",
+            "function": "theological"
+        },
+        {
+            "ref": "Lam 3:38",
+            "function": "theological"
+        },
+        {
+            "ref": "Lam 3:39",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lam 3:40",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lam 3:41",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lam 3:42",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Lam 3:43",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Lam 3:44",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Lam 3:45",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Lam 3:46",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lam 3:47",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Lam 3:48",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lam 3:49",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Lam 3:50",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Lam 3:51",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lam 3:52",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Lam 3:53",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lam 3:54",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lam 3:55",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lam 3:56",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lam 3:57",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Lam 3:58",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lam 3:59",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Lam 3:60",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Lam 3:61",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Lam 3:62",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lam 3:63",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Lam 3:64",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Lam 3:65",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Lam 3:66",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Lament of the Afflicted Man",
+            "start": "Lam 3:1",
+            "end": "Lam 3:66",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

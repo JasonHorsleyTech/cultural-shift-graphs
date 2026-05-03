@@ -1,0 +1,65 @@
+{
+    "book": "Psalms",
+    "chapter": 54,
+    "verses": [
+        {
+            "ref": "Ps 54:1",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Ps 54:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 54:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 54:4",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ps 54:5",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 54:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 54:7",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "David's Prayer for Deliverance from Persecution",
+            "start": "Ps 54:1",
+            "end": "Ps 54:7",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

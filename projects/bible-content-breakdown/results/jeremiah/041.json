@@ -1,0 +1,130 @@
+{
+    "book": "Jeremiah",
+    "chapter": 41,
+    "verses": [
+        {
+            "ref": "Jer 41:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 41:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 41:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 41:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 41:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jer 41:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 41:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 41:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 41:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jer 41:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 41:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 41:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 41:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 41:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 41:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 41:16",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "Jer 41:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 41:18",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Assassination of Gedaliah and Massacre",
+            "start": "Jer 41:1",
+            "end": "Jer 41:10",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Johanan's Rescue and Exodus to Egypt",
+            "start": "Jer 41:11",
+            "end": "Jer 41:18",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

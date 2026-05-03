@@ -1,0 +1,181 @@
+{
+    "book": "1 Chronicles",
+    "chapter": 26,
+    "verses": [
+        {
+            "ref": "1 Chr 26:1",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 26:2",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 26:3",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 26:4",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 26:5",
+            "function": "catalog",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Chr 26:6",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 26:7",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 26:8",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 26:9",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 26:10",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Chr 26:11",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 26:12",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Chr 26:13",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Chr 26:14",
+            "function": "specifications",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Chr 26:15",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Chr 26:16",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Chr 26:17",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Chr 26:18",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Chr 26:19",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 26:20",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Chr 26:21",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 26:22",
+            "function": "catalog",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Chr 26:23",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 26:24",
+            "function": "catalog",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "1 Chr 26:25",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 26:26",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Chr 26:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 26:28",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Chr 26:29",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Chr 26:30",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Chr 26:31",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "1 Chr 26:32",
+            "function": "specifications"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Organization of Temple Personnel Under David",
+            "start": "1 Chr 26:1",
+            "end": "1 Chr 26:32",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 0.6
+                }
+            ]
+        }
+    ]
+}

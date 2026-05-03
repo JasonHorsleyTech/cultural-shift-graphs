@@ -1,0 +1,129 @@
+{
+    "book": "Genesis",
+    "chapter": 8,
+    "verses": [
+        {
+            "ref": "Gen 8:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 8:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 8:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 8:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 8:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 8:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 8:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 8:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 8:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 8:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 8:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 8:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 8:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 8:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 8:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 8:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 8:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 8:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 8:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 8:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Gen 8:21",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 8:22",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Noah and the Flood",
+            "start": "Gen 8:1",
+            "end": "Gen 8:22",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "book": "Joshua",
+    "chapter": 20,
+    "verses": [
+        {
+            "ref": "Josh 20:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 20:2",
+            "function": "civil_law",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Josh 20:3",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Josh 20:4",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Josh 20:5",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Josh 20:6",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Josh 20:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Josh 20:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Josh 20:9",
+            "function": "civil_law"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Establishment of Cities of Refuge",
+            "start": "Josh 20:1",
+            "end": "Josh 20:9",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

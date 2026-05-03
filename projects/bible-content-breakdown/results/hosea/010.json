@@ -1,0 +1,105 @@
+{
+    "book": "Hosea",
+    "chapter": 10,
+    "verses": [
+        {
+            "ref": "Hos 10:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Hos 10:2",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Hos 10:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 10:4",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Hos 10:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 10:6",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Hos 10:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 10:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 10:9",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Hos 10:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 10:11",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Hos 10:12",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Hos 10:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Hos 10:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 10:15",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Judgment Against Israel's Idolatry and Wickedness",
+            "start": "Hos 10:1",
+            "end": "Hos 10:15",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

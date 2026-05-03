@@ -1,0 +1,149 @@
+{
+    "book": "Exodus",
+    "chapter": 19,
+    "verses": [
+        {
+            "ref": "Exod 19:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exod 19:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exod 19:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exod 19:4",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exod 19:5",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Exod 19:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Exod 19:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exod 19:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exod 19:9",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Exod 19:10",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exod 19:11",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exod 19:12",
+            "function": "specifications",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exod 19:13",
+            "function": "civil_law",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exod 19:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exod 19:15",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exod 19:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exod 19:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exod 19:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exod 19:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exod 19:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exod 19:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exod 19:22",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Exod 19:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exod 19:24",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exod 19:25",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Covenant with Israel at Mount Sinai",
+            "start": "Exod 19:1",
+            "end": "Exod 19:25",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

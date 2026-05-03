@@ -1,0 +1,117 @@
+{
+    "book": "Isaiah",
+    "chapter": 54,
+    "verses": [
+        {
+            "ref": "Isa 54:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 54:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 54:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 54:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 54:5",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Isa 54:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 54:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 54:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 54:9",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 54:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 54:11",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Isa 54:12",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Isa 54:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 54:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 54:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 54:16",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Isa 54:17",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Israel's Restoration After Abandonment",
+            "start": "Isa 54:1",
+            "end": "Isa 54:17",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

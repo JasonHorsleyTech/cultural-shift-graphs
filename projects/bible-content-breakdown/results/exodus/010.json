@@ -1,0 +1,174 @@
+{
+    "book": "Exodus",
+    "chapter": 10,
+    "verses": [
+        {
+            "ref": "Ex 10:1",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ex 10:2",
+            "function": "theological"
+        },
+        {
+            "ref": "Ex 10:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 10:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ex 10:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ex 10:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 10:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 10:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 10:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 10:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 10:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 10:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 10:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 10:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 10:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 10:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 10:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 10:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 10:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 10:20",
+            "function": "theological"
+        },
+        {
+            "ref": "Ex 10:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 10:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 10:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 10:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 10:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 10:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 10:27",
+            "function": "theological"
+        },
+        {
+            "ref": "Ex 10:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 10:29",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Eighth Plague: Locusts",
+            "start": "Ex 10:1",
+            "end": "Ex 10:20",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "The Ninth Plague: Darkness",
+            "start": "Ex 10:21",
+            "end": "Ex 10:29",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

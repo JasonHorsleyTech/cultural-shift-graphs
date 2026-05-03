@@ -1,0 +1,141 @@
+{
+    "book": "2 Chronicles",
+    "chapter": 31,
+    "verses": [
+        {
+            "ref": "2 Chr 31:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 31:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "2 Chr 31:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chr 31:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 31:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 31:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 31:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 31:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 31:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 31:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Chr 31:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 31:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 31:13",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Chr 31:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chr 31:15",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Chr 31:16",
+            "function": "catalog",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Chr 31:17",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Chr 31:18",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Chr 31:19",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Chr 31:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chr 31:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Hezekiah's Religious Reforms and Temple Restoration",
+            "start": "2 Chr 31:1",
+            "end": "2 Chr 31:21",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "generosity",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,227 @@
+{
+    "book": "Exodus",
+    "chapter": 21,
+    "verses": [
+        {
+            "ref": "Exo 21:1",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Exo 21:2",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Exo 21:3",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Exo 21:4",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Exo 21:5",
+            "function": "civil_law",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Exo 21:6",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Exo 21:7",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Exo 21:8",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Exo 21:9",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Exo 21:10",
+            "function": "civil_law",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exo 21:11",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Exo 21:12",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Exo 21:13",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Exo 21:14",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Exo 21:15",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Exo 21:16",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Exo 21:17",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Exo 21:18",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Exo 21:19",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Exo 21:20",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Exo 21:21",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Exo 21:22",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Exo 21:23",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Exo 21:24",
+            "function": "civil_law",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Exo 21:25",
+            "function": "civil_law",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Exo 21:26",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Exo 21:27",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Exo 21:28",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Exo 21:29",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Exo 21:30",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Exo 21:31",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Exo 21:32",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Exo 21:33",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Exo 21:34",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Exo 21:35",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Exo 21:36",
+            "function": "civil_law"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Hebrew Servant Laws",
+            "start": "Exo 21:2",
+            "end": "Exo 21:11",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 0.5
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Laws on Violence and Harm to Persons",
+            "start": "Exo 21:12",
+            "end": "Exo 21:27",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Laws on Animal Liability and Damage",
+            "start": "Exo 21:28",
+            "end": "Exo 21:36",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

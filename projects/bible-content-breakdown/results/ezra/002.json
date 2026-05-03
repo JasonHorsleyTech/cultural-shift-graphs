@@ -1,0 +1,329 @@
+{
+    "book": "Ezra",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "Ezra 2:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezra 2:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Ezra 2:3",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:4",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:5",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:6",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:7",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:8",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:9",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:10",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:11",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:12",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:13",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:14",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:15",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:16",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:17",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:18",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:19",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:20",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:21",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:22",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:23",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:24",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:25",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:26",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:27",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:28",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:29",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:30",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:31",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:32",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:33",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:34",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:35",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:36",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:37",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:38",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:39",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:40",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:41",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:42",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:43",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:44",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:45",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:46",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:47",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:48",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:49",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:50",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:51",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:52",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:53",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:54",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:55",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:56",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:57",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:58",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:59",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezra 2:60",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:61",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ezra 2:62",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezra 2:63",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezra 2:64",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:65",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:66",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:67",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 2:68",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezra 2:69",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Ezra 2:70",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Return of the Exiles from Babylon",
+            "start": "Ezra 2:1",
+            "end": "Ezra 2:70",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

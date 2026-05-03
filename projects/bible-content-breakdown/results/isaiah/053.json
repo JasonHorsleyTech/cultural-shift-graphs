@@ -1,0 +1,97 @@
+{
+    "book": "Isaiah",
+    "chapter": 53,
+    "verses": [
+        {
+            "ref": "Isa 53:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 53:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 53:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 53:4",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Isa 53:5",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 53:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 53:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 53:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 53:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 53:10",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 53:11",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 53:12",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Suffering Servant",
+            "start": "Isa 53:1",
+            "end": "Isa 53:12",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "sacrifice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

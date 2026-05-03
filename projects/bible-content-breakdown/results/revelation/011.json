@@ -1,0 +1,183 @@
+{
+    "book": "Revelation",
+    "chapter": 11,
+    "verses": [
+        {
+            "ref": "Rev 11:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 11:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 11:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 11:4",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rev 11:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 11:6",
+            "function": "prophecy",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Rev 11:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 11:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 11:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 11:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 11:11",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rev 11:12",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rev 11:13",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Rev 11:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 11:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 11:16",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Rev 11:17",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rev 11:18",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rev 11:19",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Angel and the Little Scroll",
+            "start": "Rev 11:1",
+            "end": "Rev 11:2",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Two Witnesses",
+            "start": "Rev 11:3",
+            "end": "Rev 11:13",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Seventh Trumpet",
+            "start": "Rev 11:14",
+            "end": "Rev 11:19",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,188 @@
+{
+    "book": "2 Samuel",
+    "chapter": 5,
+    "verses": [
+        {
+            "ref": "2 Sam 5:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 5:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Sam 5:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 5:4",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Sam 5:5",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Sam 5:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 5:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 5:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Sam 5:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 5:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Sam 5:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 5:12",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Sam 5:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 5:14",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Sam 5:15",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Sam 5:16",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Sam 5:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 5:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 5:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 5:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 5:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 5:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 5:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 5:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 5:25",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "David Anointed King Over All Israel",
+            "start": "2 Sam 5:1",
+            "end": "2 Sam 5:5",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "David Captures Jerusalem and Establishes His Capital",
+            "start": "2 Sam 5:6",
+            "end": "2 Sam 5:12",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "David's Children Born in Jerusalem",
+            "start": "2 Sam 5:13",
+            "end": "2 Sam 5:16",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "David Defeats the Philistines",
+            "start": "2 Sam 5:17",
+            "end": "2 Sam 5:25",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

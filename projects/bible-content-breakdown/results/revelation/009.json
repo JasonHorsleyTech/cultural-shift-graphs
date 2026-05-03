@@ -1,0 +1,142 @@
+{
+    "book": "Revelation",
+    "chapter": 9,
+    "verses": [
+        {
+            "ref": "Rev 9:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 9:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 9:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 9:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rev 9:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 9:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 9:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 9:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 9:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 9:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 9:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 9:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 9:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 9:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 9:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 9:16",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rev 9:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 9:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 9:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 9:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Rev 9:21",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Fifth Trumpet (First Woe)",
+            "start": "Rev 9:1",
+            "end": "Rev 9:12",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                }
+            ]
+        },
+        {
+            "name": "The Sixth Trumpet (Second Woe)",
+            "start": "Rev 9:13",
+            "end": "Rev 9:21",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

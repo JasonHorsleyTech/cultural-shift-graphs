@@ -1,0 +1,234 @@
+{
+    "book": "1 Chronicles",
+    "chapter": 9,
+    "verses": [
+        {
+            "ref": "1 Chr 9:1",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Chr 9:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 9:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 9:4",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 9:5",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 9:6",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 9:7",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 9:8",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 9:9",
+            "function": "catalog",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Chr 9:10",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 9:11",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 9:12",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 9:13",
+            "function": "catalog",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Chr 9:14",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 9:15",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 9:16",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 9:17",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 9:18",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 9:19",
+            "function": "specifications",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Chr 9:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Chr 9:21",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 9:22",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 9:23",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Chr 9:24",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Chr 9:25",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Chr 9:26",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Chr 9:27",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Chr 9:28",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Chr 9:29",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Chr 9:30",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Chr 9:31",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "1 Chr 9:32",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "1 Chr 9:33",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "1 Chr 9:34",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 9:35",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 9:36",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 9:37",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 9:38",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 9:39",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 9:40",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 9:41",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 9:42",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 9:43",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 9:44",
+            "function": "catalog"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Return from Exile",
+            "start": "1 Chr 9:1",
+            "end": "1 Chr 9:34",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Saul's Dynasty",
+            "start": "1 Chr 9:35",
+            "end": "1 Chr 9:44",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

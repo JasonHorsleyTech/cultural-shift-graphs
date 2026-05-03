@@ -1,0 +1,137 @@
+{
+    "book": "Genesis",
+    "chapter": 48,
+    "verses": [
+        {
+            "ref": "Gen 48:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 48:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 48:3",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 48:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Gen 48:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 48:6",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Gen 48:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 48:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 48:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 48:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 48:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 48:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 48:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 48:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 48:15",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Gen 48:16",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Gen 48:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 48:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 48:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Gen 48:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Gen 48:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Gen 48:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jacob blesses Joseph's sons",
+            "start": "Gen 48:1",
+            "end": "Gen 48:22",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

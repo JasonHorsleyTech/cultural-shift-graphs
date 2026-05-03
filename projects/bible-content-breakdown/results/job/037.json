@@ -1,0 +1,145 @@
+{
+    "book": "Job",
+    "chapter": 37,
+    "verses": [
+        {
+            "ref": "Job 37:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 37:2",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 37:3",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 37:4",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 37:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 37:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 37:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 37:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 37:9",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 37:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 37:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 37:12",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 37:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 37:14",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Job 37:15",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 37:16",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 37:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 37:18",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 37:19",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 37:20",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 37:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 37:22",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Job 37:23",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 37:24",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Elihu's Speech About God's Power",
+            "start": "Job 37:1",
+            "end": "Job 37:24",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

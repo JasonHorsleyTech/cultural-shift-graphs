@@ -1,0 +1,185 @@
+{
+    "book": "Amos",
+    "chapter": 5,
+    "verses": [
+        {
+            "ref": "Amos 5:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Amos 5:2",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Amos 5:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 5:4",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Amos 5:5",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Amos 5:6",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Amos 5:7",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Amos 5:8",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Amos 5:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 5:10",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Amos 5:11",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Amos 5:12",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Amos 5:13",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Amos 5:14",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Amos 5:15",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Amos 5:16",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Amos 5:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 5:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 5:19",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Amos 5:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 5:21",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Amos 5:22",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Amos 5:23",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Amos 5:24",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Amos 5:25",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Amos 5:26",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 5:27",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Amos's Oracle of Judgment",
+            "start": "Amos 5:1",
+            "end": "Amos 5:27",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

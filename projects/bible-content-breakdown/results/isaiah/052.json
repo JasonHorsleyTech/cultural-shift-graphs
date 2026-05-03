@@ -1,0 +1,126 @@
+{
+    "book": "Isaiah",
+    "chapter": 52,
+    "verses": [
+        {
+            "ref": "Isa 52:1",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 52:2",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Isa 52:3",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 52:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 52:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 52:6",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Isa 52:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Isa 52:8",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 52:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Isa 52:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 52:11",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Isa 52:12",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 52:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 52:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 52:15",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Zion's Restoration",
+            "start": "Isa 52:1",
+            "end": "Isa 52:12",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Servant's Exaltation",
+            "start": "Isa 52:13",
+            "end": "Isa 52:15",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

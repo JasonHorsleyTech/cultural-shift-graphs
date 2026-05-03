@@ -1,0 +1,175 @@
+{
+    "book": "Ephesians",
+    "chapter": 6,
+    "verses": [
+        {
+            "ref": "Eph 6:1",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Eph 6:2",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Eph 6:3",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 6:4",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Eph 6:5",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Eph 6:6",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Eph 6:7",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Eph 6:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 6:9",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Eph 6:10",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Eph 6:11",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Eph 6:12",
+            "function": "theological"
+        },
+        {
+            "ref": "Eph 6:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Eph 6:14",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Eph 6:15",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Eph 6:16",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Eph 6:17",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Eph 6:18",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Eph 6:19",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Eph 6:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Eph 6:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Eph 6:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Eph 6:23",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Eph 6:24",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Household Relationships",
+            "start": "Eph 6:1",
+            "end": "Eph 6:9",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Armor of God",
+            "start": "Eph 6:10",
+            "end": "Eph 6:20",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Closing Greetings",
+            "start": "Eph 6:21",
+            "end": "Eph 6:24",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

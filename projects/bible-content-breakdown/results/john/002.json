@@ -1,0 +1,191 @@
+{
+    "book": "John",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "Jn 2:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 2:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 2:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 2:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Jn 2:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 2:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Jn 2:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 2:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 2:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 2:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 2:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.55
+            }
+        },
+        {
+            "ref": "Jn 2:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 2:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 2:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 2:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 2:16",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Jn 2:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Jn 2:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 2:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.45
+            }
+        },
+        {
+            "ref": "Jn 2:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 2:21",
+            "function": "theological"
+        },
+        {
+            "ref": "Jn 2:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Jn 2:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 2:24",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Jn 2:25",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Wedding at Cana",
+            "start": "Jn 2:1",
+            "end": "Jn 2:11",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Cleansing the Temple",
+            "start": "Jn 2:13",
+            "end": "Jn 2:22",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Jesus Knows All People",
+            "start": "Jn 2:23",
+            "end": "Jn 2:25",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "book": "2 Chronicles",
+    "chapter": 17,
+    "verses": [
+        {
+            "ref": "2 Chr 17:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 17:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 17:3",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chr 17:4",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "2 Chr 17:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chr 17:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Chr 17:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 17:8",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Chr 17:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Chr 17:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chr 17:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Chr 17:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 17:13",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Chr 17:14",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Chr 17:15",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Chr 17:16",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "2 Chr 17:17",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Chr 17:18",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Chr 17:19",
+            "function": "catalog"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jehoshaphat's Reign and Religious Reforms",
+            "start": "2 Chr 17:1",
+            "end": "2 Chr 17:19",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

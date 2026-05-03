@@ -1,0 +1,89 @@
+{
+    "book": "2 Chronicles",
+    "chapter": 22,
+    "verses": [
+        {
+            "ref": "2 Chr 22:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 22:2",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Chr 22:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chr 22:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chr 22:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 22:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 22:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "2 Chr 22:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 22:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 22:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 22:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 22:12",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Ahaziah's Fall and Joash's Preservation",
+            "start": "2 Chr 22:1",
+            "end": "2 Chr 22:12",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

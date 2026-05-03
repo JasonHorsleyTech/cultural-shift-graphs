@@ -1,0 +1,369 @@
+{
+    "book": "Jeremiah",
+    "chapter": 51,
+    "verses": [
+        {
+            "ref": "Jer 51:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 51:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 51:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 51:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 51:5",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Jer 51:6",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 51:7",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.7
+            }
+        },
+        {
+            "ref": "Jer 51:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 51:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 51:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 51:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 51:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 51:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 51:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 51:15",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jer 51:16",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Jer 51:17",
+            "function": "theological"
+        },
+        {
+            "ref": "Jer 51:18",
+            "function": "theological"
+        },
+        {
+            "ref": "Jer 51:19",
+            "function": "theological"
+        },
+        {
+            "ref": "Jer 51:20",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 51:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Jer 51:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Jer 51:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Jer 51:24",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 51:25",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 51:26",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 51:27",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 51:28",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 51:29",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 51:30",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 51:31",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 51:32",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 51:33",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jer 51:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 51:35",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 51:36",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 51:37",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 51:38",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Jer 51:39",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 51:40",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 51:41",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 51:42",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 51:43",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 51:44",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 51:45",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jer 51:46",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.7
+            }
+        },
+        {
+            "ref": "Jer 51:47",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 51:48",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 51:49",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 51:50",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Jer 51:51",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 51:52",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 51:53",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 51:54",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jer 51:55",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 51:56",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 51:57",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 51:58",
+            "function": "prophecy",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jer 51:59",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 51:60",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 51:61",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 51:62",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 51:63",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jer 51:64",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Oracle Against Babylon",
+            "start": "Jer 51:1",
+            "end": "Jer 51:64",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

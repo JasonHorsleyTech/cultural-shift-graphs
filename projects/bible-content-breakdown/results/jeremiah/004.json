@@ -1,0 +1,173 @@
+{
+    "book": "Jeremiah",
+    "chapter": 4,
+    "verses": [
+        {
+            "ref": "Jer 4:1",
+            "function": "theological"
+        },
+        {
+            "ref": "Jer 4:2",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Jer 4:3",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Jer 4:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Jer 4:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 4:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 4:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 4:8",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 4:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 4:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 4:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 4:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 4:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 4:14",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Jer 4:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 4:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 4:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 4:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 4:19",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Jer 4:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 4:21",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Jer 4:22",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jer 4:23",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 4:24",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 4:25",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 4:26",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 4:27",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 4:28",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 4:29",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 4:30",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Jer 4:31",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Warning of Judgment on Judah for Rebellion",
+            "start": "Jer 4:1",
+            "end": "Jer 4:31",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

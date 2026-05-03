@@ -1,0 +1,161 @@
+{
+    "book": "Numbers",
+    "chapter": 34,
+    "verses": [
+        {
+            "ref": "Num 34:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 34:2",
+            "function": "specifications",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Num 34:3",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 34:4",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 34:5",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 34:6",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 34:7",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 34:8",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 34:9",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 34:10",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 34:11",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 34:12",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 34:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Num 34:14",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Num 34:15",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 34:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 34:17",
+            "function": "catalog",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 34:18",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 34:19",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 34:20",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 34:21",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 34:22",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 34:23",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 34:24",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 34:25",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 34:26",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 34:27",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 34:28",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 34:29",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "God Designates Canaan's Borders and Appoints Leaders",
+            "start": "Num 34:1",
+            "end": "Num 34:29",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

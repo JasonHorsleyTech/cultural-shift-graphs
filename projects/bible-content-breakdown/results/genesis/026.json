@@ -1,0 +1,244 @@
+{
+    "book": "Genesis",
+    "chapter": 26,
+    "verses": [
+        {
+            "ref": "Gen 26:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 26:2",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 26:3",
+            "function": "theological"
+        },
+        {
+            "ref": "Gen 26:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Gen 26:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Gen 26:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 26:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 26:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 26:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 26:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 26:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 26:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 26:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 26:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 26:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 26:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 26:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 26:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 26:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 26:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 26:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 26:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 26:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 26:24",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 26:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 26:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 26:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 26:28",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 26:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 26:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 26:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 26:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 26:33",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 26:34",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 26:35",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Isaac's Deception",
+            "start": "Gen 26:1",
+            "end": "Gen 26:11",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "hypocrisy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Isaac's Prosperity and the Wells",
+            "start": "Gen 26:12",
+            "end": "Gen 26:22",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Covenant Renewed at Beer Sheba",
+            "start": "Gen 26:23",
+            "end": "Gen 26:33",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Esau's Marriages",
+            "start": "Gen 26:34",
+            "end": "Gen 26:35",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences_of_sin",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

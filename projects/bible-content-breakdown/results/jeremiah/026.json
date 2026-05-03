@@ -1,0 +1,153 @@
+{
+    "book": "Jeremiah",
+    "chapter": 26,
+    "verses": [
+        {
+            "ref": "Jer 26:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 26:2",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 26:3",
+            "function": "theological"
+        },
+        {
+            "ref": "Jer 26:4",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Jer 26:5",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 26:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 26:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 26:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 26:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 26:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 26:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 26:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jer 26:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Jer 26:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 26:15",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 26:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 26:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 26:18",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jer 26:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 26:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 26:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 26:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 26:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 26:24",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jeremiah's Proclamation of Divine Judgment on Judah and All Nations",
+            "start": "Jer 26:1",
+            "end": "Jer 26:24",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

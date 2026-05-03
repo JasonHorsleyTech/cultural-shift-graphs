@@ -1,0 +1,191 @@
+{
+    "book": "Deuteronomy",
+    "chapter": 24,
+    "verses": [
+        {
+            "ref": "Deut 24:1",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 24:2",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 24:3",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 24:4",
+            "function": "civil_law",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 24:5",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 24:6",
+            "function": "civil_law",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Deut 24:7",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 24:8",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Deut 24:9",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Deut 24:10",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 24:11",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 24:12",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 24:13",
+            "function": "civil_law",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Deut 24:14",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 24:15",
+            "function": "civil_law",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 24:16",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 24:17",
+            "function": "civil_law",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Deut 24:18",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Deut 24:19",
+            "function": "civil_law",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Deut 24:20",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 24:21",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 24:22",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Marital Law",
+            "start": "Deut 24:1",
+            "end": "Deut 24:5",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Justice and Protection Laws",
+            "start": "Deut 24:6",
+            "end": "Deut 24:16",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Care for Vulnerable and Gleaning Laws",
+            "start": "Deut 24:17",
+            "end": "Deut 24:22",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "generosity",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

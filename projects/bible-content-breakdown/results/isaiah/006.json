@@ -1,0 +1,105 @@
+{
+    "book": "Isaiah",
+    "chapter": 6,
+    "verses": [
+        {
+            "ref": "Isa 6:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 6:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 6:3",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Isa 6:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 6:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 6:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 6:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 6:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 6:9",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 6:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 6:11",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 6:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 6:13",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Isaiah's Call and Commission",
+            "start": "Isa 6:1",
+            "end": "Isa 6:13",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

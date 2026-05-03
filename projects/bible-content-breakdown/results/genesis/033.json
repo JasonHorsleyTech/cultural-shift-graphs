@@ -1,0 +1,133 @@
+{
+    "book": "Genesis",
+    "chapter": 33,
+    "verses": [
+        {
+            "ref": "Gen 33:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 33:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 33:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 33:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 33:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Gen 33:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 33:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 33:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 33:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 33:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 33:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 33:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 33:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 33:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 33:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 33:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 33:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 33:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 33:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 33:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jacob and Esau's Reconciliation",
+            "start": "Gen 33:1",
+            "end": "Gen 33:20",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "generosity",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "book": "Psalms",
+    "chapter": 5,
+    "verses": [
+        {
+            "ref": "Ps 5:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 5:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 5:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 5:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 5:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 5:6",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 5:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 5:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 5:9",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Ps 5:10",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Ps 5:11",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 5:12",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "David's Prayer for Protection Against Enemies",
+            "start": "Ps 5:1",
+            "end": "Ps 5:12",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

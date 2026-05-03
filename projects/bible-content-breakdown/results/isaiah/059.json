@@ -1,0 +1,137 @@
+{
+    "book": "Isaiah",
+    "chapter": 59,
+    "verses": [
+        {
+            "ref": "Isa 59:1",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 59:2",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 59:3",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Isa 59:4",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Isa 59:5",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 59:6",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Isa 59:7",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Isa 59:8",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Isa 59:9",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 59:10",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Isa 59:11",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Isa 59:12",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Isa 59:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Isa 59:14",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Isa 59:15",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 59:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 59:17",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 59:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 59:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 59:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 59:21",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Judgment Against Injustice and Promise of Redemption",
+            "start": "Isa 59:1",
+            "end": "Isa 59:21",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

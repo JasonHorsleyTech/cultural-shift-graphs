@@ -1,0 +1,129 @@
+{
+    "book": "1 Samuel",
+    "chapter": 24,
+    "verses": [
+        {
+            "ref": "1 Sam 24:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 24:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 24:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 24:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "1 Sam 24:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 24:6",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Sam 24:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 24:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 24:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 24:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Sam 24:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Sam 24:12",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Sam 24:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Sam 24:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 24:15",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Sam 24:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 24:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 24:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 24:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 24:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Sam 24:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 24:22",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "David Spares Saul in the Cave",
+            "start": "1 Sam 24:1",
+            "end": "1 Sam 24:22",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

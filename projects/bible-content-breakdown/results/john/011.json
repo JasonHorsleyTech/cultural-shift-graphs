@@ -1,0 +1,314 @@
+{
+    "book": "John",
+    "chapter": 11,
+    "verses": [
+        {
+            "ref": "John 11:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 11:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 11:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 11:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 11:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 11:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 11:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 11:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 11:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "John 11:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "John 11:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 11:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 11:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 11:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 11:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 11:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 11:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 11:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 11:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 11:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 11:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 11:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 11:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 11:24",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "John 11:25",
+            "function": "theological"
+        },
+        {
+            "ref": "John 11:26",
+            "function": "theological"
+        },
+        {
+            "ref": "John 11:27",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "John 11:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 11:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 11:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 11:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 11:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 11:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 11:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 11:35",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 11:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 11:37",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 11:38",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 11:39",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 11:40",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 11:41",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 11:42",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "John 11:43",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 11:44",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 11:45",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 11:46",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 11:47",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 11:48",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 11:49",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 11:50",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 11:51",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "John 11:52",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "John 11:53",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 11:54",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 11:55",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 11:56",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 11:57",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Raising of Lazarus",
+            "start": "John 11:1",
+            "end": "John 11:44",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Sanhedrin's Response and Plot Against Jesus",
+            "start": "John 11:45",
+            "end": "John 11:57",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

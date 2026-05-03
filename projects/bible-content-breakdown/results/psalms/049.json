@@ -1,0 +1,125 @@
+{
+    "book": "Psalms",
+    "chapter": 49,
+    "verses": [
+        {
+            "ref": "Psa 49:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 49:2",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psa 49:3",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Psa 49:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 49:5",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Psa 49:6",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Psa 49:7",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Psa 49:8",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Psa 49:9",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Psa 49:10",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Psa 49:11",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Psa 49:12",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Psa 49:13",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Psa 49:14",
+            "function": "wisdom",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psa 49:15",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psa 49:16",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Psa 49:17",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Psa 49:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psa 49:19",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Psa 49:20",
+            "function": "wisdom"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Wealth Cannot Rescue from Death",
+            "start": "Psa 49:1",
+            "end": "Psa 49:20",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

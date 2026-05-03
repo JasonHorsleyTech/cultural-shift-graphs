@@ -1,0 +1,153 @@
+{
+    "book": "Romans",
+    "chapter": 4,
+    "verses": [
+        {
+            "ref": "Rom 4:1",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 4:2",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 4:3",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 4:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 4:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 4:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 4:7",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Rom 4:8",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Rom 4:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 4:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 4:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 4:12",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 4:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 4:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 4:15",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 4:16",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 4:17",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 4:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Rom 4:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rom 4:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Rom 4:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rom 4:22",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 4:23",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 4:24",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rom 4:25",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Abraham Justified by Faith",
+            "start": "Rom 4:1",
+            "end": "Rom 4:22",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

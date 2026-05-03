@@ -1,0 +1,291 @@
+{
+    "book": "Deuteronomy",
+    "chapter": 23,
+    "verses": [
+        {
+            "ref": "Deut 23:1",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 23:2",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 23:3",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 23:4",
+            "function": "civil_law",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Deut 23:5",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 23:6",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 23:7",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 23:8",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 23:9",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "purity_dietary",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 23:10",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Deut 23:11",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "purity_dietary",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Deut 23:12",
+            "function": "specifications",
+            "secondary": {
+                "function": "purity_dietary",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 23:13",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 23:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 23:15",
+            "function": "civil_law",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Deut 23:16",
+            "function": "civil_law",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 23:17",
+            "function": "sexual_marital",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Deut 23:18",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 23:19",
+            "function": "civil_law",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 23:20",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 23:21",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 23:22",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 23:23",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 23:24",
+            "function": "civil_law",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 23:25",
+            "function": "civil_law"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Assembly Exclusions and Exceptions",
+            "start": "Deut 23:1",
+            "end": "Deut 23:8",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Ritual Purity in Warfare",
+            "start": "Deut 23:9",
+            "end": "Deut 23:14",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Protection of the Escaped Slave",
+            "start": "Deut 23:15",
+            "end": "Deut 23:16",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Sacred Prostitution Prohibition",
+            "start": "Deut 23:17",
+            "end": "Deut 23:18",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "sexual_purity",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Fair Lending Among Israelites",
+            "start": "Deut 23:19",
+            "end": "Deut 23:20",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Vows and Personal Integrity",
+            "start": "Deut 23:21",
+            "end": "Deut 23:23",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Gleaning Rights Among Neighbors",
+            "start": "Deut 23:24",
+            "end": "Deut 23:25",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "generosity",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

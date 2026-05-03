@@ -1,0 +1,161 @@
+{
+    "book": "Deuteronomy",
+    "chapter": 29,
+    "verses": [
+        {
+            "ref": "Deut 29:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 29:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 29:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 29:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 29:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 29:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 29:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 29:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 29:9",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 29:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 29:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Deut 29:12",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 29:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 29:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 29:15",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 29:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 29:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 29:18",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 29:19",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 29:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Deut 29:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Deut 29:22",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Deut 29:23",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Deut 29:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 29:25",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 29:26",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 29:27",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 29:28",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Deut 29:29",
+            "function": "wisdom"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Covenant Renewal at Moab",
+            "start": "Deut 29:1",
+            "end": "Deut 29:29",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

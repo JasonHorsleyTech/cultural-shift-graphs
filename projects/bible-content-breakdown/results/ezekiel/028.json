@@ -1,0 +1,199 @@
+{
+    "book": "Ezekiel",
+    "chapter": 28,
+    "verses": [
+        {
+            "ref": "Ezekiel 28:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 28:2",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ezekiel 28:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 28:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 28:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 28:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 28:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 28:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 28:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 28:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 28:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 28:12",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezekiel 28:13",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ezekiel 28:14",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ezekiel 28:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 28:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 28:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ezekiel 28:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 28:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 28:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 28:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 28:22",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ezekiel 28:23",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 28:24",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 28:25",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 28:26",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Judgment Against the Prince of Tyre",
+            "start": "Ezekiel 28:1",
+            "end": "Ezekiel 28:10",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "humility",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Lament for the King of Tyre",
+            "start": "Ezekiel 28:11",
+            "end": "Ezekiel 28:19",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "humility",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Judgment Against Sidon and Restoration of Israel",
+            "start": "Ezekiel 28:20",
+            "end": "Ezekiel 28:26",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

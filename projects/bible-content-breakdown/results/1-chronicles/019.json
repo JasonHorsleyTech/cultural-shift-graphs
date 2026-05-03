@@ -1,0 +1,105 @@
+{
+    "book": "1 Chronicles",
+    "chapter": 19,
+    "verses": [
+        {
+            "ref": "1 Chr 19:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 19:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 19:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 19:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 19:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 19:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 19:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 19:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 19:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 19:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 19:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 19:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 19:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "1 Chr 19:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 19:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 19:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 19:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 19:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 19:19",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "David's War Against the Ammonites and Arameans",
+            "start": "1 Chr 19:1",
+            "end": "1 Chr 19:19",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

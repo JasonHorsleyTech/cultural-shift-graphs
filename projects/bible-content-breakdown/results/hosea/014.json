@@ -1,0 +1,89 @@
+{
+    "book": "Hosea",
+    "chapter": 14,
+    "verses": [
+        {
+            "ref": "Hos 14:1",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Hos 14:2",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Hos 14:3",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Hos 14:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 14:5",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Hos 14:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Hos 14:7",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Hos 14:8",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Hos 14:9",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Israel's Call to Repentance and Restoration",
+            "start": "Hos 14:1",
+            "end": "Hos 14:9",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

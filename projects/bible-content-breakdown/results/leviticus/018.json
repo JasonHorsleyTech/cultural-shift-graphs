@@ -1,0 +1,165 @@
+{
+    "book": "Leviticus",
+    "chapter": 18,
+    "verses": [
+        {
+            "ref": "Lev 18:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 18:2",
+            "function": "theological"
+        },
+        {
+            "ref": "Lev 18:3",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Lev 18:4",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Lev 18:5",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Lev 18:6",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Lev 18:7",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Lev 18:8",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Lev 18:9",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Lev 18:10",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Lev 18:11",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Lev 18:12",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Lev 18:13",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Lev 18:14",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Lev 18:15",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Lev 18:16",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Lev 18:17",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Lev 18:18",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Lev 18:19",
+            "function": "sexual_marital",
+            "secondary": {
+                "function": "purity_dietary",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Lev 18:20",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Lev 18:21",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 18:22",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Lev 18:23",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Lev 18:24",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Lev 18:25",
+            "function": "theological"
+        },
+        {
+            "ref": "Lev 18:26",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Lev 18:27",
+            "function": "theological"
+        },
+        {
+            "ref": "Lev 18:28",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 18:29",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 18:30",
+            "function": "moral_instruction"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Laws Against Sexual Defilement",
+            "start": "Lev 18:1",
+            "end": "Lev 18:30",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "sexual_purity",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

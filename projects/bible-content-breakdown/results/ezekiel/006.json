@@ -1,0 +1,89 @@
+{
+    "book": "Ezekiel",
+    "chapter": 6,
+    "verses": [
+        {
+            "ref": "Ezekiel 6:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 6:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 6:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 6:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 6:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 6:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 6:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 6:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 6:9",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezekiel 6:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 6:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 6:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 6:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 6:14",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Judgment Against Israel's Idolatry",
+            "start": "Ezekiel 6:1",
+            "end": "Ezekiel 6:14",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

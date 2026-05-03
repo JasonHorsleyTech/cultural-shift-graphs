@@ -1,0 +1,89 @@
+{
+    "book": "Ezra",
+    "chapter": 1,
+    "verses": [
+        {
+            "ref": "Ezra 1:1",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ezra 1:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezra 1:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezra 1:4",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ezra 1:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezra 1:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezra 1:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezra 1:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezra 1:9",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 1:10",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ezra 1:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.4
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Cyrus's Decree and the Return from Exile",
+            "start": "Ezra 1:1",
+            "end": "Ezra 1:11",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "generosity",
+                    "weight": 0.6
+                }
+            ]
+        }
+    ]
+}

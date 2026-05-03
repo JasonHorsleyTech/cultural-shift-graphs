@@ -1,0 +1,219 @@
+{
+    "book": "John",
+    "chapter": 15,
+    "verses": [
+        {
+            "ref": "John 15:1",
+            "function": "theological"
+        },
+        {
+            "ref": "John 15:2",
+            "function": "theological"
+        },
+        {
+            "ref": "John 15:3",
+            "function": "theological"
+        },
+        {
+            "ref": "John 15:4",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 15:5",
+            "function": "theological"
+        },
+        {
+            "ref": "John 15:6",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "John 15:7",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 15:8",
+            "function": "theological"
+        },
+        {
+            "ref": "John 15:9",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "John 15:10",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 15:11",
+            "function": "theological"
+        },
+        {
+            "ref": "John 15:12",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "John 15:13",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 15:14",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "John 15:15",
+            "function": "theological"
+        },
+        {
+            "ref": "John 15:16",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.1
+            }
+        },
+        {
+            "ref": "John 15:17",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "John 15:18",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "John 15:19",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 15:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "John 15:21",
+            "function": "theological"
+        },
+        {
+            "ref": "John 15:22",
+            "function": "theological"
+        },
+        {
+            "ref": "John 15:23",
+            "function": "theological"
+        },
+        {
+            "ref": "John 15:24",
+            "function": "theological"
+        },
+        {
+            "ref": "John 15:25",
+            "function": "prophecy"
+        },
+        {
+            "ref": "John 15:26",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "John 15:27",
+            "function": "moral_instruction"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Vine and Branches",
+            "start": "John 15:1",
+            "end": "John 15:8",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.2
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "The Love Commandment",
+            "start": "John 15:9",
+            "end": "John 15:17",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 1.2
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 0.9
+                }
+            ]
+        },
+        {
+            "name": "Persecution and the Spirit's Witness",
+            "start": "John 15:18",
+            "end": "John 15:27",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "courage",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

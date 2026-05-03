@@ -1,0 +1,105 @@
+{
+    "book": "2 Timothy",
+    "chapter": 1,
+    "verses": [
+        {
+            "ref": "2 Tim 1:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Tim 1:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Tim 1:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Tim 1:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Tim 1:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Tim 1:6",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "2 Tim 1:7",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Tim 1:8",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "2 Tim 1:9",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Tim 1:10",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Tim 1:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Tim 1:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Tim 1:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "2 Tim 1:14",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "2 Tim 1:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Tim 1:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Tim 1:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Tim 1:18",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Paul's Exhortation to Timothy",
+            "start": "2 Tim 1:1",
+            "end": "2 Tim 1:18",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "courage",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

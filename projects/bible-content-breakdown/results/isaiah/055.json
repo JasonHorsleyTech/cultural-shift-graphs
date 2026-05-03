@@ -1,0 +1,105 @@
+{
+    "book": "Isaiah",
+    "chapter": 55,
+    "verses": [
+        {
+            "ref": "Isa 55:1",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 55:2",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Isa 55:3",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 55:4",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 55:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 55:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 55:7",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Isa 55:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 55:9",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 55:10",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Isa 55:11",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 55:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 55:13",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Invitation to Salvation and Promise of Restoration",
+            "start": "Isa 55:1",
+            "end": "Isa 55:13",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

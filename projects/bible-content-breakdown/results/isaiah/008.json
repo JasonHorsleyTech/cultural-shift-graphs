@@ -1,0 +1,241 @@
+{
+    "book": "Isaiah",
+    "chapter": 8,
+    "verses": [
+        {
+            "ref": "Isa 8:1",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Isa 8:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 8:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 8:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 8:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 8:6",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 8:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 8:8",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 8:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 8:10",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 8:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 8:12",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 8:13",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 8:14",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 8:15",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 8:16",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 8:17",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 8:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 8:19",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 8:20",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 8:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 8:22",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Sign of Maher-Shalal-Hash-Baz",
+            "start": "Isa 8:1",
+            "end": "Isa 8:4",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Assyria's Invasion and God's Sovereignty",
+            "start": "Isa 8:5",
+            "end": "Isa 8:10",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Fear God, Not the Threat",
+            "start": "Isa 8:11",
+            "end": "Isa 8:15",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Isaiah's Faithful Witness",
+            "start": "Isa 8:16",
+            "end": "Isa 8:18",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "The Darkness of Rejecting God",
+            "start": "Isa 8:19",
+            "end": "Isa 8:22",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                }
+            ]
+        }
+    ]
+}

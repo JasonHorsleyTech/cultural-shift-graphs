@@ -1,0 +1,129 @@
+{
+    "book": "2 Kings",
+    "chapter": 24,
+    "verses": [
+        {
+            "ref": "2 Kings 24:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 24:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "2 Kings 24:3",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Kings 24:4",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Kings 24:5",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Kings 24:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 24:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 24:8",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Kings 24:9",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Kings 24:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 24:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 24:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 24:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Kings 24:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "2 Kings 24:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 24:16",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Kings 24:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kings 24:18",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Kings 24:19",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Kings 24:20",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Fall of Judah to Babylon",
+            "start": "2 Kings 24:1",
+            "end": "2 Kings 24:20",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

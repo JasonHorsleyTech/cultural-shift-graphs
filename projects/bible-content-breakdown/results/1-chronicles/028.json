@@ -1,0 +1,149 @@
+{
+    "book": "1 Chronicles",
+    "chapter": 28,
+    "verses": [
+        {
+            "ref": "1 Chr 28:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 28:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 28:3",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Chr 28:4",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Chr 28:5",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Chr 28:6",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Chr 28:7",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Chr 28:8",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Chr 28:9",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Chr 28:10",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Chr 28:11",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Chr 28:12",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Chr 28:13",
+            "function": "specifications",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Chr 28:14",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Chr 28:15",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Chr 28:16",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Chr 28:17",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Chr 28:18",
+            "function": "specifications",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Chr 28:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Chr 28:20",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Chr 28:21",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "David Charges Solomon to Build the Temple",
+            "start": "1 Chr 28:1",
+            "end": "1 Chr 28:21",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 0.5
+                },
+                {
+                    "theme": "courage",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

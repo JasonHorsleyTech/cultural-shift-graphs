@@ -1,0 +1,209 @@
+{
+    "book": "Leviticus",
+    "chapter": 16,
+    "verses": [
+        {
+            "ref": "Lev 16:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 16:2",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 16:3",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 16:4",
+            "function": "specifications",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Lev 16:5",
+            "function": "specifications"
+        },
+        {
+            "ref": "Lev 16:6",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 16:7",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 16:8",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 16:9",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 16:10",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 16:11",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 16:12",
+            "function": "specifications",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Lev 16:13",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 16:14",
+            "function": "specifications",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lev 16:15",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 16:16",
+            "function": "theological",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lev 16:17",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lev 16:18",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 16:19",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lev 16:20",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 16:21",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 16:22",
+            "function": "theological",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Lev 16:23",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 16:24",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 16:25",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 16:26",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "purity_dietary",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lev 16:27",
+            "function": "specifications",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "Lev 16:28",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "purity_dietary",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lev 16:29",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 16:30",
+            "function": "theological"
+        },
+        {
+            "ref": "Lev 16:31",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 16:32",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 16:33",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 16:34",
+            "function": "civil_law",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.1
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Institution of the Day of Atonement",
+            "start": "Lev 16:1",
+            "end": "Lev 16:34",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

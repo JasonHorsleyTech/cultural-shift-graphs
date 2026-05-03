@@ -1,0 +1,165 @@
+{
+    "book": "Job",
+    "chapter": 39,
+    "verses": [
+        {
+            "ref": "Job 39:1",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 39:2",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 39:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 39:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 39:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 39:6",
+            "function": "theological",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 39:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 39:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 39:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 39:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 39:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 39:12",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 39:13",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 39:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 39:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 39:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 39:17",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 39:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 39:19",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 39:20",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Job 39:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 39:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 39:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 39:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 39:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 39:26",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 39:27",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 39:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 39:29",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 39:30",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Speech from the Whirlwind\u2014Animal Demonstrations",
+            "start": "Job 39:1",
+            "end": "Job 39:30",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

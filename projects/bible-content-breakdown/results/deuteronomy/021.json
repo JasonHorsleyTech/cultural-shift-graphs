@@ -1,0 +1,205 @@
+{
+    "book": "Deuteronomy",
+    "chapter": 21,
+    "verses": [
+        {
+            "ref": "Deut 21:1",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 21:2",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 21:3",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Deut 21:4",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 21:5",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Deut 21:6",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 21:7",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 21:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 21:9",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 21:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Deut 21:11",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Deut 21:12",
+            "function": "sexual_marital",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Deut 21:13",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Deut 21:14",
+            "function": "sexual_marital",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Deut 21:15",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 21:16",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 21:17",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 21:18",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 21:19",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 21:20",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 21:21",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 21:22",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 21:23",
+            "function": "civil_law",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Unsolved Homicide Procedure",
+            "start": "Deut 21:1",
+            "end": "Deut 21:9",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Captive Woman Marriage",
+            "start": "Deut 21:10",
+            "end": "Deut 21:14",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Inheritance with Two Wives",
+            "start": "Deut 21:15",
+            "end": "Deut 21:17",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Rebellious Son Law",
+            "start": "Deut 21:18",
+            "end": "Deut 21:21",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Burial of Executed Criminal",
+            "start": "Deut 21:22",
+            "end": "Deut 21:23",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                }
+            ]
+        }
+    ]
+}

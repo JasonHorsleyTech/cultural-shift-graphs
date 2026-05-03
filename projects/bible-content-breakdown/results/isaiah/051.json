@@ -1,0 +1,133 @@
+{
+    "book": "Isaiah",
+    "chapter": 51,
+    "verses": [
+        {
+            "ref": "Isa 51:1",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 51:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Isa 51:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 51:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 51:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 51:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 51:7",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Isa 51:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 51:9",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 51:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 51:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 51:12",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 51:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Isa 51:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 51:15",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 51:16",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 51:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 51:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 51:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 51:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 51:21",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Isa 51:22",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 51:23",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Servant's Suffering and Vindication",
+            "start": "Isa 51:1",
+            "end": "Isa 51:23",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

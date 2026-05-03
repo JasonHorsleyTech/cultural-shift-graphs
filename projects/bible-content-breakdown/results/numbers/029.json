@@ -1,0 +1,265 @@
+{
+    "book": "Numbers",
+    "chapter": 29,
+    "verses": [
+        {
+            "ref": "Num 29:1",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 29:2",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 29:3",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 29:4",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 29:5",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "Num 29:6",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 29:7",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 29:8",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 29:9",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 29:10",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 29:11",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "Num 29:12",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 29:13",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Num 29:14",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 29:15",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 29:16",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "Num 29:17",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Num 29:18",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 29:19",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "Num 29:20",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Num 29:21",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 29:22",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "Num 29:23",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Num 29:24",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 29:25",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "Num 29:26",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Num 29:27",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 29:28",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "Num 29:29",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Num 29:30",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 29:31",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "Num 29:32",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Num 29:33",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 29:34",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "Num 29:35",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 29:36",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 29:37",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 29:38",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "Num 29:39",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 29:40",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Appointed Festivals of the Seventh Month",
+            "start": "Num 29:1",
+            "end": "Num 29:39",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "book": "Deuteronomy",
+    "chapter": 17,
+    "verses": [
+        {
+            "ref": "Deut 17:1",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 17:2",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 17:3",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 17:4",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 17:5",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 17:6",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 17:7",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 17:8",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 17:9",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 17:10",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 17:11",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 17:12",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 17:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 17:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 17:15",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 17:16",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 17:17",
+            "function": "civil_law",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 17:18",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 17:19",
+            "function": "civil_law",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 17:20",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Handling Idolatry",
+            "start": "Deut 17:2",
+            "end": "Deut 17:13",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Kingship Restrictions",
+            "start": "Deut 17:14",
+            "end": "Deut 17:20",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

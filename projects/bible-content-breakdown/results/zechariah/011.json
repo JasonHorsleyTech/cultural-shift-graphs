@@ -1,0 +1,113 @@
+{
+    "book": "Zechariah",
+    "chapter": 11,
+    "verses": [
+        {
+            "ref": "Zech 11:1",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Zech 11:2",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Zech 11:3",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Zech 11:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 11:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Zech 11:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 11:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Zech 11:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Zech 11:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Zech 11:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Zech 11:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Zech 11:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Zech 11:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 11:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Zech 11:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 11:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 11:17",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Promise to Restore and Strengthen Judah and Israel",
+            "start": "Zech 11:1",
+            "end": "Zech 11:17",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

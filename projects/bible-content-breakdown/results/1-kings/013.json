@@ -1,0 +1,215 @@
+{
+    "book": "1 Kings",
+    "chapter": 13,
+    "verses": [
+        {
+            "ref": "1 Kgs 13:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 13:2",
+            "function": "prophecy",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Kgs 13:3",
+            "function": "prophecy",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Kgs 13:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 13:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 13:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 13:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 13:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 13:9",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "1 Kgs 13:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 13:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 13:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 13:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 13:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 13:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 13:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 13:17",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "1 Kgs 13:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 13:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 13:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 13:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Kgs 13:22",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Kgs 13:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 13:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 13:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 13:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 13:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 13:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 13:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 13:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 13:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 13:32",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Kgs 13:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 13:34",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Prophet from Judah at Bethel",
+            "start": "1 Kgs 13:1",
+            "end": "1 Kgs 13:10",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "The Old Prophet's Deception and the Young Prophet's Death",
+            "start": "1 Kgs 13:11",
+            "end": "1 Kgs 13:32",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Jeroboam's Continued Disobedience and Judgment",
+            "start": "1 Kgs 13:33",
+            "end": "1 Kgs 13:34",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

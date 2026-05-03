@@ -1,0 +1,125 @@
+{
+    "book": "Psalms",
+    "chapter": 88,
+    "verses": [
+        {
+            "ref": "Ps 88:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 88:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 88:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 88:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 88:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 88:6",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 88:7",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 88:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 88:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 88:10",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ps 88:11",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 88:12",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 88:13",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 88:14",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 88:15",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 88:16",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 88:17",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 88:18",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Heman's Lament",
+            "start": "Ps 88:1",
+            "end": "Ps 88:18",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

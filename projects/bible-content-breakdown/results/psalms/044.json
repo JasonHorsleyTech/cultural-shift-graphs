@@ -1,0 +1,149 @@
+{
+    "book": "Psalms",
+    "chapter": 44,
+    "verses": [
+        {
+            "ref": "Psalms 44:1",
+            "function": "catalog"
+        },
+        {
+            "ref": "Psalms 44:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psalms 44:3",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Psalms 44:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 44:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 44:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 44:7",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalms 44:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 44:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 44:10",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 44:11",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 44:12",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 44:13",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 44:14",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 44:15",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 44:16",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 44:17",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 44:18",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 44:19",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 44:20",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalms 44:21",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalms 44:22",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 44:23",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 44:24",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 44:25",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 44:26",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Communal Lament for Abandonment Despite Faithfulness",
+            "start": "Psalms 44:1",
+            "end": "Psalms 44:26",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

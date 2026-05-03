@@ -1,0 +1,166 @@
+{
+    "book": "Isaiah",
+    "chapter": 49,
+    "verses": [
+        {
+            "ref": "Isa 49:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 49:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 49:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 49:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Isa 49:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 49:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 49:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 49:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 49:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 49:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 49:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 49:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 49:13",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Isa 49:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 49:15",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 49:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 49:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 49:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 49:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 49:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 49:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 49:22",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 49:23",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 49:24",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 49:25",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 49:26",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Servant's Commission",
+            "start": "Isa 49:1",
+            "end": "Isa 49:7",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Israel's Restoration",
+            "start": "Isa 49:8",
+            "end": "Isa 49:26",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "book": "Psalms",
+    "chapter": 57,
+    "verses": [
+        {
+            "ref": "Ps 57:1",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 57:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 57:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 57:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 57:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 57:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 57:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 57:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 57:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 57:10",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ps 57:11",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "David's Prayer for Deliverance",
+            "start": "Ps 57:1",
+            "end": "Ps 57:11",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

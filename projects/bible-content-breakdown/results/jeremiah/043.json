@@ -1,0 +1,85 @@
+{
+    "book": "Jeremiah",
+    "chapter": 43,
+    "verses": [
+        {
+            "ref": "Jer 43:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 43:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 43:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 43:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 43:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 43:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 43:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 43:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 43:9",
+            "function": "prophecy",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jer 43:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 43:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 43:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 43:13",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Judah's Disobedience and Flight to Egypt",
+            "start": "Jer 43:1",
+            "end": "Jer 43:13",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

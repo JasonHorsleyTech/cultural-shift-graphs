@@ -1,0 +1,177 @@
+{
+    "book": "Isaiah",
+    "chapter": 41,
+    "verses": [
+        {
+            "ref": "Isa 41:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 41:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 41:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 41:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 41:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 41:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 41:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 41:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 41:9",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Isa 41:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 41:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 41:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 41:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 41:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 41:15",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Isa 41:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 41:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Isa 41:18",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Isa 41:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 41:20",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 41:21",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 41:22",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 41:23",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 41:24",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 41:25",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Isa 41:26",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 41:27",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 41:28",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 41:29",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Comfort and the Coming of the Lord",
+            "start": "Isa 41:1",
+            "end": "Isa 41:29",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 0.7
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

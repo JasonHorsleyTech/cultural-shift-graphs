@@ -1,0 +1,250 @@
+{
+    "book": "Genesis",
+    "chapter": 30,
+    "verses": [
+        {
+            "ref": "Gen 30:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 30:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 30:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 30:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 30:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 30:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 30:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 30:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 30:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 30:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 30:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 30:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 30:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 30:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 30:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 30:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 30:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 30:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 30:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 30:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 30:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 30:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 30:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 30:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 30:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 30:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 30:27",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 30:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 30:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 30:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 30:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 30:32",
+            "function": "specifications",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 30:33",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 30:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 30:35",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 30:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 30:37",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 30:38",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 30:39",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 30:40",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 30:41",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 30:42",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 30:43",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Birth of Jacob's Sons",
+            "start": "Gen 30:1",
+            "end": "Gen 30:24",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Jacob Negotiates Wages and Prospers",
+            "start": "Gen 30:25",
+            "end": "Gen 30:43",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

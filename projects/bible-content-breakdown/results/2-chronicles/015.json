@@ -1,0 +1,125 @@
+{
+    "book": "2 Chronicles",
+    "chapter": 15,
+    "verses": [
+        {
+            "ref": "2 Chr 15:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 15:2",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "2 Chr 15:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 15:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 15:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 15:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chr 15:7",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "2 Chr 15:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 15:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 15:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 15:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "2 Chr 15:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 15:13",
+            "function": "civil_law"
+        },
+        {
+            "ref": "2 Chr 15:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 15:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Chr 15:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 15:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 15:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "2 Chr 15:19",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Asa's Covenant Renewal",
+            "start": "2 Chr 15:1",
+            "end": "2 Chr 15:19",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

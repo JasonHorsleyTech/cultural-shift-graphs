@@ -1,0 +1,101 @@
+{
+    "book": "Psalms",
+    "chapter": 16,
+    "verses": [
+        {
+            "ref": "Ps 16:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 16:2",
+            "function": "theology",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Ps 16:3",
+            "function": "theology",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ps 16:4",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theology",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 16:5",
+            "function": "theology",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Ps 16:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 16:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 16:8",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theology",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ps 16:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 16:10",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theology",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Ps 16:11",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theology",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "David's Prayer of Trust and Loyalty",
+            "start": "Ps 16:1",
+            "end": "Ps 16:11",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

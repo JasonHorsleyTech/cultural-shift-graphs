@@ -1,0 +1,215 @@
+{
+    "book": "Isaiah",
+    "chapter": 42,
+    "verses": [
+        {
+            "ref": "Isa 42:1",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 42:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 42:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 42:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 42:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 42:6",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 42:7",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 42:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 42:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 42:10",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Isa 42:11",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Isa 42:12",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 42:13",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 42:14",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 42:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 42:16",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Isa 42:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 42:18",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Isa 42:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 42:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 42:21",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 42:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 42:23",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Isa 42:24",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 42:25",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Servant and His Mission",
+            "start": "Isa 42:1",
+            "end": "Isa 42:9",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "All Creation Called to Praise",
+            "start": "Isa 42:10",
+            "end": "Isa 42:12",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "God's Power and Israel's Spiritual Blindness",
+            "start": "Isa 42:13",
+            "end": "Isa 42:25",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

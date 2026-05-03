@@ -1,0 +1,81 @@
+{
+    "book": "Revelation",
+    "chapter": 4,
+    "verses": [
+        {
+            "ref": "Rev 4:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 4:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 4:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 4:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Rev 4:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 4:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 4:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Rev 4:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rev 4:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 4:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 4:11",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Vision of the Heavenly Throne Room",
+            "start": "Rev 4:1",
+            "end": "Rev 4:11",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                }
+            ]
+        }
+    ]
+}

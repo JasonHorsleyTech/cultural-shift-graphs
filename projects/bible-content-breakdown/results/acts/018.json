@@ -1,0 +1,199 @@
+{
+    "book": "Acts",
+    "chapter": 18,
+    "verses": [
+        {
+            "ref": "Acts 18:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 18:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 18:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 18:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 18:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 18:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 18:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 18:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 18:9",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 18:10",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 18:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 18:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 18:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 18:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 18:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 18:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 18:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 18:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 18:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 18:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 18:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 18:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 18:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 18:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 18:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 18:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 18:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 18:28",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Paul's Ministry and Opposition in Corinth",
+            "start": "Acts 18:1",
+            "end": "Acts 18:17",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Paul's Continuing Missionary Journey",
+            "start": "Acts 18:18",
+            "end": "Acts 18:23",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Apollos' Instruction and Ministry",
+            "start": "Acts 18:24",
+            "end": "Acts 18:28",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "humility",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

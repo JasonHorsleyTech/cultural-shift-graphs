@@ -1,0 +1,194 @@
+{
+    "book": "Philippians",
+    "chapter": 1,
+    "verses": [
+        {
+            "ref": "Phil 1:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Phil 1:2",
+            "function": "theological"
+        },
+        {
+            "ref": "Phil 1:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Phil 1:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Phil 1:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Phil 1:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Phil 1:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Phil 1:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Phil 1:9",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Phil 1:10",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Phil 1:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Phil 1:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Phil 1:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Phil 1:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Phil 1:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Phil 1:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Phil 1:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Phil 1:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Phil 1:19",
+            "function": "theological"
+        },
+        {
+            "ref": "Phil 1:20",
+            "function": "theological"
+        },
+        {
+            "ref": "Phil 1:21",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Phil 1:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Phil 1:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Phil 1:24",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Phil 1:25",
+            "function": "theological"
+        },
+        {
+            "ref": "Phil 1:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Phil 1:27",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Phil 1:28",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Phil 1:29",
+            "function": "theological"
+        },
+        {
+            "ref": "Phil 1:30",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Paul's Gratitude and Prayer for the Philippians",
+            "start": "Phil 1:3",
+            "end": "Phil 1:11",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Paul's Imprisonment and Call to Stand Firm",
+            "start": "Phil 1:12",
+            "end": "Phil 1:30",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

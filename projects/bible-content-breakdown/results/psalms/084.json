@@ -1,0 +1,77 @@
+{
+    "book": "Psalms",
+    "chapter": 84,
+    "verses": [
+        {
+            "ref": "Ps 84:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 84:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 84:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 84:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 84:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 84:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 84:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 84:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 84:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 84:10",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ps 84:11",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Ps 84:12",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Longing for God's House",
+            "start": "Ps 84:1",
+            "end": "Ps 84:12",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

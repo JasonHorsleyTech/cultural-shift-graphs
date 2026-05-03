@@ -1,0 +1,110 @@
+{
+    "book": "Judges",
+    "chapter": 12,
+    "verses": [
+        {
+            "ref": "Judges 12:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 12:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 12:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Judges 12:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 12:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 12:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "Judges 12:7",
+            "function": "catalog"
+        },
+        {
+            "ref": "Judges 12:8",
+            "function": "catalog"
+        },
+        {
+            "ref": "Judges 12:9",
+            "function": "catalog"
+        },
+        {
+            "ref": "Judges 12:10",
+            "function": "catalog"
+        },
+        {
+            "ref": "Judges 12:11",
+            "function": "catalog"
+        },
+        {
+            "ref": "Judges 12:12",
+            "function": "catalog"
+        },
+        {
+            "ref": "Judges 12:13",
+            "function": "catalog"
+        },
+        {
+            "ref": "Judges 12:14",
+            "function": "catalog"
+        },
+        {
+            "ref": "Judges 12:15",
+            "function": "catalog"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jephthah and Ephraim",
+            "start": "Judges 12:1",
+            "end": "Judges 12:7",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "humility",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Succession of Minor Judges",
+            "start": "Judges 12:8",
+            "end": "Judges 12:15",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

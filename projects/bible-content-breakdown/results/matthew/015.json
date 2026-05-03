@@ -1,0 +1,255 @@
+{
+    "book": "Matthew",
+    "chapter": 15,
+    "verses": [
+        {
+            "ref": "Matt 15:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 15:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 15:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Matt 15:4",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 15:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 15:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Matt 15:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 15:8",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Matt 15:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 15:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 15:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Matt 15:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 15:13",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 15:14",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 15:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 15:16",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 15:17",
+            "function": "theological"
+        },
+        {
+            "ref": "Matt 15:18",
+            "function": "theological"
+        },
+        {
+            "ref": "Matt 15:19",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 15:20",
+            "function": "theological"
+        },
+        {
+            "ref": "Matt 15:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 15:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 15:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 15:24",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 15:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 15:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 15:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 15:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 15:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 15:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 15:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 15:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 15:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 15:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 15:35",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 15:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 15:37",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 15:38",
+            "function": "catalog"
+        },
+        {
+            "ref": "Matt 15:39",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jesus Confronts Pharisees Over Tradition and Purity",
+            "start": "Matt 15:1",
+            "end": "Matt 15:20",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "The Canaanite Woman's Faith",
+            "start": "Matt 15:21",
+            "end": "Matt 15:28",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Jesus Heals Multitudes and Feeds the Four Thousand",
+            "start": "Matt 15:29",
+            "end": "Matt 15:39",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

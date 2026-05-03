@@ -1,0 +1,149 @@
+{
+    "book": "Daniel",
+    "chapter": 10,
+    "verses": [
+        {
+            "ref": "Dan 10:1",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Dan 10:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 10:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 10:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 10:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 10:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 10:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 10:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 10:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 10:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 10:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Dan 10:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Dan 10:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Dan 10:14",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Dan 10:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 10:16",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Dan 10:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 10:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 10:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Dan 10:20",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Dan 10:21",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Daniel Receives a Heavenly Messenger",
+            "start": "Dan 10:1",
+            "end": "Dan 10:21",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

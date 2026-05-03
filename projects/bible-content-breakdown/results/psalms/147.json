@@ -1,0 +1,153 @@
+{
+    "book": "Psalms",
+    "chapter": 147,
+    "verses": [
+        {
+            "ref": "Ps 147:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 147:2",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 147:3",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 147:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 147:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 147:6",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 147:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 147:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 147:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 147:10",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 147:11",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 147:12",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 147:13",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 147:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 147:15",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 147:16",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 147:17",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 147:18",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 147:19",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 147:20",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Psalm of Praise to God the Almighty",
+            "start": "Ps 147:1",
+            "end": "Ps 147:20",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 0.8
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

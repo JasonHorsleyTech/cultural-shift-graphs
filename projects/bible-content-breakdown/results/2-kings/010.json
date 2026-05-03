@@ -1,0 +1,230 @@
+{
+    "book": "2 Kings",
+    "chapter": 10,
+    "verses": [
+        {
+            "ref": "2 Ki 10:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Ki 10:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Ki 10:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Ki 10:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Ki 10:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Ki 10:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "2 Ki 10:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Ki 10:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Ki 10:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Ki 10:10",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Ki 10:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Ki 10:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Ki 10:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Ki 10:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Ki 10:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Ki 10:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Ki 10:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Ki 10:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Ki 10:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Ki 10:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Ki 10:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Ki 10:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Ki 10:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Ki 10:24",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Ki 10:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Ki 10:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Ki 10:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Ki 10:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Ki 10:29",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Ki 10:30",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Ki 10:31",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Ki 10:32",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Ki 10:33",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Ki 10:34",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Ki 10:35",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Ki 10:36",
+            "function": "catalog"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jehu's Purge of Ahab's Dynasty",
+            "start": "2 Ki 10:1",
+            "end": "2 Ki 10:17",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Jehu's Destruction of Baal Worship",
+            "start": "2 Ki 10:18",
+            "end": "2 Ki 10:28",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

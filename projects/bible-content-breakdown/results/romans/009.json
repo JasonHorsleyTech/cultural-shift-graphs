@@ -1,0 +1,181 @@
+{
+    "book": "Romans",
+    "chapter": 9,
+    "verses": [
+        {
+            "ref": "Rom 9:1",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 9:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rom 9:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rom 9:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 9:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 9:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 9:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 9:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 9:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 9:10",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rom 9:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 9:12",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 9:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 9:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 9:15",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 9:16",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 9:17",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 9:18",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 9:19",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 9:20",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rom 9:21",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Rom 9:22",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 9:23",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 9:24",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 9:25",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 9:26",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 9:27",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 9:28",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 9:29",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 9:30",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 9:31",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 9:32",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 9:33",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Election and Righteousness by Faith",
+            "start": "Rom 9:1",
+            "end": "Rom 9:33",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

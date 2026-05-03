@@ -1,0 +1,61 @@
+{
+    "book": "Psalms",
+    "chapter": 23,
+    "verses": [
+        {
+            "ref": "Psa 23:1",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psa 23:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 23:3",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psa 23:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 23:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 23:6",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "David's Trust in the Good Shepherd",
+            "start": "Psa 23:1",
+            "end": "Psa 23:6",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

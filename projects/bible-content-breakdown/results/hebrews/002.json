@@ -1,0 +1,121 @@
+{
+    "book": "Hebrews",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "Heb 2:1",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Heb 2:2",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 2:3",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Heb 2:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 2:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 2:6",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Heb 2:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Heb 2:8",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Heb 2:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 2:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 2:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 2:12",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Heb 2:13",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Heb 2:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 2:15",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 2:16",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 2:17",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 2:18",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Exaltation of Christ and His Salvation Work",
+            "start": "Heb 2:1",
+            "end": "Heb 2:18",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "sacrifice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

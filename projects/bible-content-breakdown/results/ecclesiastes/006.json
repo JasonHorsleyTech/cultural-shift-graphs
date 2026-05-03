@@ -1,0 +1,115 @@
+{
+    "book": "Ecclesiastes",
+    "chapter": 6,
+    "verses": [
+        {
+            "ref": "Eccl 6:1",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Eccl 6:2",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Eccl 6:3",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Eccl 6:4",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Eccl 6:5",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Eccl 6:6",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Eccl 6:7",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Eccl 6:8",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Eccl 6:9",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Eccl 6:10",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Eccl 6:11",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Eccl 6:12",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Wealth Without Enjoyment",
+            "start": "Eccl 6:1",
+            "end": "Eccl 6:6",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "humility",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "The Futility of Labor and Endless Desire",
+            "start": "Eccl 6:7",
+            "end": "Eccl 6:9",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "humility",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Divine Sovereignty and Human Limitation",
+            "start": "Eccl 6:10",
+            "end": "Eccl 6:12",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

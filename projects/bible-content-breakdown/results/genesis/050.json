@@ -1,0 +1,158 @@
+{
+    "book": "Genesis",
+    "chapter": 50,
+    "verses": [
+        {
+            "ref": "Gen 50:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 50:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 50:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 50:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 50:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 50:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 50:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 50:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 50:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 50:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 50:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 50:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 50:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 50:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 50:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 50:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 50:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 50:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 50:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Gen 50:20",
+            "function": "theological"
+        },
+        {
+            "ref": "Gen 50:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 50:22",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 50:23",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 50:24",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Gen 50:25",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 50:26",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jacob's Death and Burial",
+            "start": "Gen 50:1",
+            "end": "Gen 50:14",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Joseph's Reconciliation and Final Years",
+            "start": "Gen 50:15",
+            "end": "Gen 50:26",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

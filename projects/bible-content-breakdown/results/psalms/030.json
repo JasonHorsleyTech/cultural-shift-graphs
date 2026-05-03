@@ -1,0 +1,97 @@
+{
+    "book": "Psalms",
+    "chapter": 30,
+    "verses": [
+        {
+            "ref": "Psa 30:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 30:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psa 30:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 30:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 30:5",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psa 30:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psa 30:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psa 30:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psa 30:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Psa 30:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Psa 30:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psa 30:12",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Deliverance and Restoration",
+            "start": "Psa 30:1",
+            "end": "Psa 30:12",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

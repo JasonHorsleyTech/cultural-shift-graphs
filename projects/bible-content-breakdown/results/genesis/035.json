@@ -1,0 +1,212 @@
+{
+    "book": "Genesis",
+    "chapter": 35,
+    "verses": [
+        {
+            "ref": "Gen 35:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 35:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 35:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 35:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 35:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 35:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 35:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 35:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 35:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 35:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Gen 35:11",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Gen 35:12",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Gen 35:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 35:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Gen 35:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 35:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 35:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 35:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 35:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 35:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 35:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 35:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Gen 35:23",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 35:24",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 35:25",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 35:26",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 35:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 35:28",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 35:29",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jacob Returns to Bethel and Covenant Renewal",
+            "start": "Gen 35:1",
+            "end": "Gen 35:15",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Rachel's Death and Benjamin's Birth",
+            "start": "Gen 35:16",
+            "end": "Gen 35:20",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Reuben's Transgression and the Twelve Sons",
+            "start": "Gen 35:21",
+            "end": "Gen 35:26",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "sexual_purity",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences_of_sin",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Isaac's Death and Family Reconciliation",
+            "start": "Gen 35:27",
+            "end": "Gen 35:29",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

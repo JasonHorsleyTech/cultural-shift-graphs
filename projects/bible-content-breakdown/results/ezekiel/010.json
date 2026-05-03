@@ -1,0 +1,117 @@
+{
+    "book": "Ezekiel",
+    "chapter": 10,
+    "verses": [
+        {
+            "ref": "Ezekiel 10:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 10:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 10:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 10:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 10:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezekiel 10:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 10:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 10:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 10:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 10:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 10:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 10:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 10:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 10:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 10:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 10:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 10:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezekiel 10:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 10:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 10:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 10:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 10:22",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Departure of God's Glory from the Temple",
+            "start": "Ezekiel 10:1",
+            "end": "Ezekiel 10:22",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                }
+            ]
+        }
+    ]
+}

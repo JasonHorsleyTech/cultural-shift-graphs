@@ -1,0 +1,166 @@
+{
+    "book": "Philippians",
+    "chapter": 4,
+    "verses": [
+        {
+            "ref": "Phil 4:1",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Phil 4:2",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Phil 4:3",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Phil 4:4",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Phil 4:5",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Phil 4:6",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Phil 4:7",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Phil 4:8",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Phil 4:9",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Phil 4:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Phil 4:11",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Phil 4:12",
+            "function": "wisdom",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Phil 4:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Phil 4:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Phil 4:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Phil 4:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Phil 4:17",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Phil 4:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Phil 4:19",
+            "function": "theological"
+        },
+        {
+            "ref": "Phil 4:20",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Phil 4:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Phil 4:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Phil 4:23",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Final Exhortations and Instructions",
+            "start": "Phil 4:1",
+            "end": "Phil 4:9",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Paul's Gratitude, Testimony, and Closing",
+            "start": "Phil 4:10",
+            "end": "Phil 4:23",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "generosity",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

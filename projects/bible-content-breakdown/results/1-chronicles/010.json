@@ -1,0 +1,89 @@
+{
+    "book": "1 Chronicles",
+    "chapter": 10,
+    "verses": [
+        {
+            "ref": "1 Chr 10:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 10:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 10:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 10:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 10:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 10:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 10:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 10:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 10:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 10:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 10:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 10:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 10:13",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Chr 10:14",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Saul's Death",
+            "start": "1 Chr 10:1",
+            "end": "1 Chr 10:14",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

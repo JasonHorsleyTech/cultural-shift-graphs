@@ -1,0 +1,135 @@
+{
+    "book": "Proverbs",
+    "chapter": 17,
+    "verses": [
+        {
+            "ref": "Prov 17:1",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 17:2",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 17:3",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 17:4",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 17:5",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 17:6",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 17:7",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 17:8",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 17:9",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 17:10",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 17:11",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 17:12",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 17:13",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 17:14",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 17:15",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 17:16",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 17:17",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 17:18",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 17:19",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 17:20",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 17:21",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 17:22",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 17:23",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 17:24",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 17:25",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 17:26",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 17:27",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 17:28",
+            "function": "wisdom"
+        }
+    ],
+    "stories": []
+}

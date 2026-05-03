@@ -1,0 +1,141 @@
+{
+    "book": "2 Chronicles",
+    "chapter": 26,
+    "verses": [
+        {
+            "ref": "2 Chr 26:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 26:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 26:3",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chr 26:4",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Chr 26:5",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chr 26:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 26:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 26:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 26:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 26:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 26:11",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Chr 26:12",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Chr 26:13",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Chr 26:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 26:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 26:16",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "2 Chr 26:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 26:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chr 26:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 26:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 26:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 26:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 26:23",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "King Uzziah's Reign and Fall",
+            "start": "2 Chr 26:1",
+            "end": "2 Chr 26:23",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

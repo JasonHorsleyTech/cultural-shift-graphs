@@ -1,0 +1,187 @@
+{
+    "book": "1 Peter",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "1 Pet 2:1",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Pet 2:2",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Pet 2:3",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Pet 2:4",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Pet 2:5",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Pet 2:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Pet 2:7",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Pet 2:8",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Pet 2:9",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Pet 2:10",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Pet 2:11",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Pet 2:12",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Pet 2:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Pet 2:14",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Pet 2:15",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Pet 2:16",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Pet 2:17",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Pet 2:18",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Pet 2:19",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Pet 2:20",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Pet 2:21",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Pet 2:22",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Pet 2:23",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Pet 2:24",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Pet 2:25",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Spiritual Purity and Calling",
+            "start": "1 Pet 2:1",
+            "end": "1 Pet 2:10",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Righteous Witness Among Nations",
+            "start": "1 Pet 2:11",
+            "end": "1 Pet 2:17",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 0.7
+                },
+                {
+                    "theme": "courage",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Suffering Righteously After Christ's Example",
+            "start": "1 Pet 2:18",
+            "end": "1 Pet 2:25",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "sacrifice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

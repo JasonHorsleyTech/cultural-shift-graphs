@@ -1,0 +1,97 @@
+{
+    "book": "3 John",
+    "chapter": 1,
+    "verses": [
+        {
+            "ref": "3 John 1:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "3 John 1:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "3 John 1:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "3 John 1:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "3 John 1:5",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "3 John 1:6",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "3 John 1:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "3 John 1:8",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "3 John 1:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "3 John 1:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "3 John 1:11",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "3 John 1:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "3 John 1:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "3 John 1:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Elder Encourages Gaius and Opposes Diotrephes",
+            "start": "3 John 1:1",
+            "end": "3 John 1:14",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

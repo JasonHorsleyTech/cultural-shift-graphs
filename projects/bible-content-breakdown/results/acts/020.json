@@ -1,0 +1,222 @@
+{
+    "book": "Acts",
+    "chapter": 20,
+    "verses": [
+        {
+            "ref": "Acts 20:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 20:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 20:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 20:4",
+            "function": "catalog"
+        },
+        {
+            "ref": "Acts 20:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 20:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 20:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Acts 20:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 20:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 20:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 20:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Acts 20:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 20:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 20:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 20:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 20:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 20:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 20:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 20:19",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Acts 20:20",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Acts 20:21",
+            "function": "theological"
+        },
+        {
+            "ref": "Acts 20:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 20:23",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Acts 20:24",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Acts 20:25",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Acts 20:26",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Acts 20:27",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Acts 20:28",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Acts 20:29",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Acts 20:30",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Acts 20:31",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Acts 20:32",
+            "function": "theological"
+        },
+        {
+            "ref": "Acts 20:33",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Acts 20:34",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Acts 20:35",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Acts 20:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 20:37",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 20:38",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Paul's Journey and the Raising of Eutychus",
+            "start": "Acts 20:1",
+            "end": "Acts 20:12",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Paul's Farewell Address to Ephesian Elders",
+            "start": "Acts 20:17",
+            "end": "Acts 20:38",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "generosity",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

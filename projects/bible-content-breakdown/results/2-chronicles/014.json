@@ -1,0 +1,122 @@
+{
+    "book": "2 Chronicles",
+    "chapter": 14,
+    "verses": [
+        {
+            "ref": "2 Chr 14:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 14:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Chr 14:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 14:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 14:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 14:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 14:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chr 14:8",
+            "function": "catalog",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chr 14:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 14:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 14:11",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chr 14:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 14:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 14:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 14:15",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Asa's Religious Reforms",
+            "start": "2 Chr 14:1",
+            "end": "2 Chr 14:7",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Asa's Victory Over Zerah the Cushite",
+            "start": "2 Chr 14:8",
+            "end": "2 Chr 14:15",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

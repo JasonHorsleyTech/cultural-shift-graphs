@@ -1,0 +1,173 @@
+{
+    "book": "Job",
+    "chapter": 30,
+    "verses": [
+        {
+            "ref": "Job 30:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 30:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 30:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 30:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 30:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 30:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 30:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 30:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 30:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 30:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 30:11",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 30:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 30:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 30:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 30:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 30:16",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 30:17",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 30:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 30:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 30:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 30:21",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 30:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 30:23",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 30:24",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Job 30:25",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 30:26",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 30:27",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 30:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 30:29",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 30:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 30:31",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Job's Lament: From Honored Benefactor to Despised Sufferer",
+            "start": "Job 30:1",
+            "end": "Job 30:31",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

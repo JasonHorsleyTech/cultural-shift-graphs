@@ -1,0 +1,284 @@
+{
+    "book": "Proverbs",
+    "chapter": 23,
+    "verses": [
+        {
+            "ref": "Prov 23:1",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 23:2",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 23:3",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 23:4",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Prov 23:5",
+            "function": "wisdom",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Prov 23:6",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 23:7",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 23:8",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 23:9",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 23:10",
+            "function": "civil_law",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 23:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Prov 23:12",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 23:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 23:14",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 23:15",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 23:16",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 23:17",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Prov 23:18",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 23:19",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 23:20",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 23:21",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 23:22",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 23:23",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 23:24",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 23:25",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Prov 23:26",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 23:27",
+            "function": "sexual_marital",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Prov 23:28",
+            "function": "wisdom",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 23:29",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Prov 23:30",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 23:31",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 23:32",
+            "function": "wisdom",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Prov 23:33",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 23:34",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Prov 23:35",
+            "function": "wisdom",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Restraint and Prudence in Social Situations",
+            "start": "Prov 23:1",
+            "end": "Prov 23:8",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.7
+                }
+            ]
+        },
+        {
+            "name": "Justice and Protection of the Vulnerable",
+            "start": "Prov 23:9",
+            "end": "Prov 23:11",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 0.8
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.6
+                }
+            ]
+        },
+        {
+            "name": "Discipline, Instruction, and Parental Duty",
+            "start": "Prov 23:12",
+            "end": "Prov 23:25",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 0.8
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.7
+                }
+            ]
+        },
+        {
+            "name": "Warnings Against Destructive Temptations",
+            "start": "Prov 23:26",
+            "end": "Prov 23:35",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "sexual_purity",
+                    "weight": 0.7
+                }
+            ]
+        }
+    ]
+}

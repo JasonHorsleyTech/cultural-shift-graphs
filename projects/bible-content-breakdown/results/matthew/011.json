@@ -1,0 +1,233 @@
+{
+    "book": "Matthew",
+    "chapter": 11,
+    "verses": [
+        {
+            "ref": "Matt 11:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 11:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 11:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 11:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 11:5",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 11:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Matt 11:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 11:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 11:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Matt 11:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 11:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Matt 11:12",
+            "function": "theological"
+        },
+        {
+            "ref": "Matt 11:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Matt 11:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 11:15",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 11:16",
+            "function": "narrative",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Matt 11:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 11:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 11:19",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 11:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 11:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 11:22",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 11:23",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 11:24",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 11:25",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 11:26",
+            "function": "theological"
+        },
+        {
+            "ref": "Matt 11:27",
+            "function": "theological"
+        },
+        {
+            "ref": "Matt 11:28",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 11:29",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 11:30",
+            "function": "moral_instruction"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jesus Commissions and Instructs the Twelve Apostles",
+            "start": "Matt 10:1",
+            "end": "Matt 11:1",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "John Questions Jesus's Identity",
+            "start": "Matt 11:2",
+            "end": "Matt 11:6",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Jesus's Teaching about John and the Generation's Response",
+            "start": "Matt 11:7",
+            "end": "Matt 11:19",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.2
+                }
+            ]
+        },
+        {
+            "name": "Jesus Pronounces Judgment on Unrepentant Cities",
+            "start": "Matt 11:20",
+            "end": "Matt 11:24",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Jesus Reveals His Authority and Invites the Weary",
+            "start": "Matt 11:25",
+            "end": "Matt 11:30",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

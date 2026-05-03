@@ -1,0 +1,129 @@
+{
+    "book": "Revelation",
+    "chapter": 16,
+    "verses": [
+        {
+            "ref": "Rev 16:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 16:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 16:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 16:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 16:5",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Rev 16:6",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Rev 16:7",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Rev 16:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 16:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 16:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 16:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 16:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 16:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 16:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 16:15",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Rev 16:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 16:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 16:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 16:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 16:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 16:21",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Vision of the Seven Angels with Seven Bowls",
+            "start": "Rev 16:1",
+            "end": "Rev 16:21",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

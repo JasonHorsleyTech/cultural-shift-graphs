@@ -1,0 +1,158 @@
+{
+    "book": "Exodus",
+    "chapter": 13,
+    "verses": [
+        {
+            "ref": "Ex 13:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 13:2",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ex 13:3",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ex 13:4",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ex 13:5",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ex 13:6",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ex 13:7",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ex 13:8",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ex 13:9",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ex 13:10",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ex 13:11",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ex 13:12",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ex 13:13",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ex 13:14",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ex 13:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ex 13:16",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ex 13:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 13:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 13:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 13:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ex 13:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 13:22",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Passover and Firstborn Dedication",
+            "start": "Ex 13:1",
+            "end": "Ex 13:16",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Journey from Egypt Begins",
+            "start": "Ex 13:17",
+            "end": "Ex 13:22",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

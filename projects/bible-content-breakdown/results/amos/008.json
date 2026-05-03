@@ -1,0 +1,93 @@
+{
+    "book": "Amos",
+    "chapter": 8,
+    "verses": [
+        {
+            "ref": "Amos 8:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Amos 8:2",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Amos 8:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 8:4",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Amos 8:5",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Amos 8:6",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Amos 8:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 8:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 8:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 8:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 8:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 8:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 8:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 8:14",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Basket of Summer Fruit Vision - Judgment on Israel",
+            "start": "Amos 8:1",
+            "end": "Amos 8:14",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

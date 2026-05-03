@@ -1,0 +1,102 @@
+{
+    "book": "The Song of Songs",
+    "chapter": 3,
+    "verses": [
+        {
+            "ref": "Song 3:1",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.7
+            }
+        },
+        {
+            "ref": "Song 3:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Song 3:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Song 3:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Song 3:5",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Song 3:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Song 3:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Song 3:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Song 3:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Song 3:10",
+            "function": "specifications",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Song 3:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.6
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Beloved's Search and Reunion",
+            "start": "Song 3:1",
+            "end": "Song 3:4",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The King's Procession",
+            "start": "Song 3:6",
+            "end": "Song 3:11",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

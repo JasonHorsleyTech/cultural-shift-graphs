@@ -1,0 +1,193 @@
+{
+    "book": "Genesis",
+    "chapter": 49,
+    "verses": [
+        {
+            "ref": "Gen 49:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 49:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 49:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Gen 49:4",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 49:5",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 49:6",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 49:7",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 49:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Gen 49:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Gen 49:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Gen 49:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Gen 49:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Gen 49:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Gen 49:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Gen 49:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Gen 49:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Gen 49:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Gen 49:18",
+            "function": "theological"
+        },
+        {
+            "ref": "Gen 49:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Gen 49:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Gen 49:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Gen 49:22",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Gen 49:23",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Gen 49:24",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Gen 49:25",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Gen 49:26",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Gen 49:27",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Gen 49:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 49:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 49:30",
+            "function": "specifications",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 49:31",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 49:32",
+            "function": "specifications"
+        },
+        {
+            "ref": "Gen 49:33",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jacob Blesses His Sons and Dies",
+            "start": "Gen 49:1",
+            "end": "Gen 49:33",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

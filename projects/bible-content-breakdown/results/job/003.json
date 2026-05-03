@@ -1,0 +1,149 @@
+{
+    "book": "Job",
+    "chapter": 3,
+    "verses": [
+        {
+            "ref": "Job 3:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 3:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 3:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 3:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 3:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 3:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 3:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 3:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 3:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 3:10",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 3:11",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 3:12",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 3:13",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 3:14",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 3:15",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 3:16",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 3:17",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 3:18",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 3:19",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 3:20",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 3:21",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 3:22",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 3:23",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 3:24",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 3:25",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 3:26",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Job's Lament",
+            "start": "Job 3:1",
+            "end": "Job 3:26",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

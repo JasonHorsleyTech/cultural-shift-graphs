@@ -1,0 +1,53 @@
+{
+    "book": "Psalms",
+    "chapter": 13,
+    "verses": [
+        {
+            "ref": "Ps 13:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 13:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 13:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 13:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 13:5",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Ps 13:6",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "David's Lament and Trust",
+            "start": "Ps 13:1",
+            "end": "Ps 13:6",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

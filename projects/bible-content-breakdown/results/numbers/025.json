@@ -1,0 +1,121 @@
+{
+    "book": "Numbers",
+    "chapter": 25,
+    "verses": [
+        {
+            "ref": "Num 25:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 25:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 25:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 25:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Num 25:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Num 25:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 25:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 25:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 25:9",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 25:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 25:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Num 25:12",
+            "function": "theological",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 25:13",
+            "function": "theological",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 25:14",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 25:15",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 25:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 25:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 25:18",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Sin at Baal Peor and Phinehas's Zeal",
+            "start": "Num 25:1",
+            "end": "Num 25:18",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "sexual_purity",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

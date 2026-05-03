@@ -1,0 +1,138 @@
+{
+    "book": "2 Timothy",
+    "chapter": 3,
+    "verses": [
+        {
+            "ref": "2 Tim 3:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Tim 3:2",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "2 Tim 3:3",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "2 Tim 3:4",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "2 Tim 3:5",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "2 Tim 3:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Tim 3:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Tim 3:8",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Tim 3:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Tim 3:10",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "2 Tim 3:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Tim 3:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Tim 3:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Tim 3:14",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "2 Tim 3:15",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Tim 3:16",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Tim 3:17",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Warning Against False Teachers in the Last Days",
+            "start": "2 Tim 3:1",
+            "end": "2 Tim 3:9",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "hypocrisy",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Timothy's Charge to Remain Faithful",
+            "start": "2 Tim 3:10",
+            "end": "2 Tim 3:17",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

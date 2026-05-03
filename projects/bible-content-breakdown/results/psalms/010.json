@@ -1,0 +1,133 @@
+{
+    "book": "Psalms",
+    "chapter": 10,
+    "verses": [
+        {
+            "ref": "Ps 10:1",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 10:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 10:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 10:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 10:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 10:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 10:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ps 10:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 10:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 10:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 10:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 10:12",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 10:13",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 10:14",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 10:15",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 10:16",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 10:17",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 10:18",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Psalmist's Prayer Against the Wicked and Affirmation of God's Justice",
+            "start": "Ps 10:1",
+            "end": "Ps 10:18",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "book": "The Song of Songs",
+    "chapter": 4,
+    "verses": [
+        {
+            "ref": "Song 4:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 4:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 4:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 4:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 4:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 4:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 4:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 4:8",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Song 4:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 4:10",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 4:11",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 4:12",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 4:13",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 4:14",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 4:15",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Song 4:16",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Lover's Praise of the Beloved",
+            "start": "Song 4:1",
+            "end": "Song 4:16",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "sexual_purity",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

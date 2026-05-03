@@ -1,0 +1,137 @@
+{
+    "book": "Acts",
+    "chapter": 25,
+    "verses": [
+        {
+            "ref": "Acts 25:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 25:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 25:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 25:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 25:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 25:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 25:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 25:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 25:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 25:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 25:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 25:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 25:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 25:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 25:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 25:16",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 25:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 25:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 25:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 25:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 25:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 25:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 25:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 25:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 25:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 25:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 25:27",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Paul's Trial Before Festus and Presentation to Agrippa",
+            "start": "Acts 25:1",
+            "end": "Acts 25:27",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,214 @@
+{
+    "book": "Ecclesiastes",
+    "chapter": 10,
+    "verses": [
+        {
+            "ref": "Ecc 10:1",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 10:2",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 10:3",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 10:4",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ecc 10:5",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 10:6",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 10:7",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 10:8",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 10:9",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 10:10",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 10:11",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 10:12",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 10:13",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 10:14",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 10:15",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 10:16",
+            "function": "wisdom",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ecc 10:17",
+            "function": "wisdom",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ecc 10:18",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 10:19",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecc 10:20",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.4
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Wisdom and Folly Contrasted",
+            "start": "Ecc 10:1",
+            "end": "Ecc 10:3",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "wisdom",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences_of_sin",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Disorder in Authority",
+            "start": "Ecc 10:4",
+            "end": "Ecc 10:7",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences_of_sin",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Natural Consequences and Hazards",
+            "start": "Ecc 10:8",
+            "end": "Ecc 10:11",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences_of_sin",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "wisdom",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Speech Reveals Character",
+            "start": "Ecc 10:12",
+            "end": "Ecc 10:15",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences_of_sin",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "wisdom",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Kingship Determines Destiny",
+            "start": "Ecc 10:16",
+            "end": "Ecc 10:17",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences_of_sin",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Practical Wisdom and Respect",
+            "start": "Ecc 10:18",
+            "end": "Ecc 10:20",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "wisdom",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

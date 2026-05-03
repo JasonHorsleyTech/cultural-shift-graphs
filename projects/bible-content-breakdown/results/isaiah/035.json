@@ -1,0 +1,93 @@
+{
+    "book": "Isaiah",
+    "chapter": 35,
+    "verses": [
+        {
+            "ref": "Isa 35:1",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 35:2",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Isa 35:3",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Isa 35:4",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 35:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 35:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 35:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 35:8",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Isa 35:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 35:10",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Vision of Restoration and Redemption",
+            "start": "Isa 35:1",
+            "end": "Isa 35:10",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.7
+                }
+            ]
+        }
+    ]
+}

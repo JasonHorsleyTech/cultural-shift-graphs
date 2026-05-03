@@ -1,0 +1,137 @@
+{
+    "book": "Job",
+    "chapter": 7,
+    "verses": [
+        {
+            "ref": "Job 7:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 7:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 7:3",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 7:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 7:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 7:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 7:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 7:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 7:9",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Job 7:10",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 7:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 7:12",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 7:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 7:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 7:15",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 7:16",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 7:17",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Job 7:18",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Job 7:19",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 7:20",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Job 7:21",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Job's Lament",
+            "start": "Job 7:1",
+            "end": "Job 7:21",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

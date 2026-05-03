@@ -1,0 +1,217 @@
+{
+    "book": "Psalms",
+    "chapter": 69,
+    "verses": [
+        {
+            "ref": "Psalm 69:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 69:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 69:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 69:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 69:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 69:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 69:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 69:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 69:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 69:10",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 69:11",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 69:12",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 69:13",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 69:14",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 69:15",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 69:16",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 69:17",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 69:18",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 69:19",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 69:20",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 69:21",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Psalm 69:22",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Psalm 69:23",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Psalm 69:24",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalm 69:25",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalm 69:26",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 69:27",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Psalm 69:28",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Psalm 69:29",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 69:30",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 69:31",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalm 69:32",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 69:33",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalm 69:34",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 69:35",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalm 69:36",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "A Lament for Deliverance",
+            "start": "Psalm 69:1",
+            "end": "Psalm 69:36",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

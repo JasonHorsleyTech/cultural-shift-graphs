@@ -1,0 +1,509 @@
+{
+    "book": "Matthew",
+    "chapter": 26,
+    "verses": [
+        {
+            "ref": "Matt 26:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 26:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 26:11",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 26:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 26:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 26:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:24",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 26:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:26",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 26:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:28",
+            "function": "theological"
+        },
+        {
+            "ref": "Matt 26:29",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 26:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:31",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 26:32",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 26:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:34",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 26:35",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:37",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:38",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:39",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 26:40",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:41",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 26:42",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:43",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:44",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:45",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:46",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:47",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:48",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:49",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:50",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:51",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:52",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Matt 26:53",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 26:54",
+            "function": "theological"
+        },
+        {
+            "ref": "Matt 26:55",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:56",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 26:57",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:58",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:59",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:60",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:61",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:62",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:63",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:64",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Matt 26:65",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:66",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:67",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:68",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:69",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:70",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:71",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:72",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:73",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:74",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 26:75",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Plot to Kill Jesus",
+            "start": "Matt 26:1",
+            "end": "Matt 26:5",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "hypocrisy",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Woman Anoints Jesus",
+            "start": "Matt 26:6",
+            "end": "Matt 26:13",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "sacrifice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Judas Agrees to Betray Jesus",
+            "start": "Matt 26:14",
+            "end": "Matt 26:16",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 0.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Preparation and Institution of the Last Supper",
+            "start": "Matt 26:17",
+            "end": "Matt 26:29",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "sacrifice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Jesus Predicts Disciples' Failures",
+            "start": "Matt 26:30",
+            "end": "Matt 26:35",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Jesus Prays in Gethsemane",
+            "start": "Matt 26:36",
+            "end": "Matt 26:46",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Jesus is Betrayed and Arrested",
+            "start": "Matt 26:47",
+            "end": "Matt 26:56",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "sacrifice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Jesus Tried Before the Sanhedrin",
+            "start": "Matt 26:57",
+            "end": "Matt 26:68",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Peter Denies Jesus",
+            "start": "Matt 26:69",
+            "end": "Matt 26:75",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

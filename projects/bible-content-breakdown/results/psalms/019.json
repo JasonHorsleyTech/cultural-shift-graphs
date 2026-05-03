@@ -1,0 +1,135 @@
+{
+    "book": "Psalms",
+    "chapter": 19,
+    "verses": [
+        {
+            "ref": "Psalms 19:1",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Psalms 19:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 19:3",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalms 19:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 19:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 19:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 19:7",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Psalms 19:8",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalms 19:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Psalms 19:10",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Psalms 19:11",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalms 19:12",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 19:13",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 19:14",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Revelation Through Creation",
+            "start": "Psalms 19:1",
+            "end": "Psalms 19:6",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                }
+            ]
+        },
+        {
+            "name": "God's Revelation Through His Law",
+            "start": "Psalms 19:7",
+            "end": "Psalms 19:11",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Prayer for Moral Purity",
+            "start": "Psalms 19:12",
+            "end": "Psalms 19:14",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

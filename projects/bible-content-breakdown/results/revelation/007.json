@@ -1,0 +1,105 @@
+{
+    "book": "Revelation",
+    "chapter": 7,
+    "verses": [
+        {
+            "ref": "Rev 7:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 7:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 7:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 7:4",
+            "function": "catalog"
+        },
+        {
+            "ref": "Rev 7:5",
+            "function": "catalog"
+        },
+        {
+            "ref": "Rev 7:6",
+            "function": "catalog"
+        },
+        {
+            "ref": "Rev 7:7",
+            "function": "catalog"
+        },
+        {
+            "ref": "Rev 7:8",
+            "function": "catalog"
+        },
+        {
+            "ref": "Rev 7:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 7:10",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Rev 7:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rev 7:12",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Rev 7:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rev 7:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rev 7:15",
+            "function": "theological"
+        },
+        {
+            "ref": "Rev 7:16",
+            "function": "theological"
+        },
+        {
+            "ref": "Rev 7:17",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Sealing and Glorification of God's People",
+            "start": "Rev 7:1",
+            "end": "Rev 7:17",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "book": "Joel",
+    "chapter": 3,
+    "verses": [
+        {
+            "ref": "Joel 3:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Joel 3:2",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Joel 3:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Joel 3:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Joel 3:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Joel 3:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Joel 3:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Joel 3:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Joel 3:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Joel 3:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Joel 3:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Joel 3:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Joel 3:13",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Joel 3:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Joel 3:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Joel 3:16",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Joel 3:17",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Joel 3:18",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Joel 3:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Joel 3:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Joel 3:21",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Judgment of the Nations and Restoration of Judah",
+            "start": "Joel 3:1",
+            "end": "Joel 3:21",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

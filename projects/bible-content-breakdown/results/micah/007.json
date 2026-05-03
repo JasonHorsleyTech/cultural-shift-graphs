@@ -1,0 +1,146 @@
+{
+    "book": "Micah",
+    "chapter": 7,
+    "verses": [
+        {
+            "ref": "Mic 7:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Mic 7:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mic 7:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Mic 7:4",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mic 7:5",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Mic 7:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mic 7:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Mic 7:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Mic 7:9",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Mic 7:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mic 7:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mic 7:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mic 7:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mic 7:14",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Mic 7:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mic 7:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mic 7:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mic 7:18",
+            "function": "theological"
+        },
+        {
+            "ref": "Mic 7:19",
+            "function": "theological"
+        },
+        {
+            "ref": "Mic 7:20",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Micah's Lament and Vindication",
+            "start": "Mic 7:1",
+            "end": "Mic 7:10",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Restoration of Israel and Submission of Nations",
+            "start": "Mic 7:11",
+            "end": "Mic 7:20",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

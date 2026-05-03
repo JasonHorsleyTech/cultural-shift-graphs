@@ -1,0 +1,145 @@
+{
+    "book": "Genesis",
+    "chapter": 14,
+    "verses": [
+        {
+            "ref": "Gen 14:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 14:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 14:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 14:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 14:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 14:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 14:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 14:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 14:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 14:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 14:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 14:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 14:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 14:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 14:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 14:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 14:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 14:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 14:19",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Gen 14:20",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 14:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 14:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 14:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 14:24",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The War of the Kings and Abram's Rescue of Lot",
+            "start": "Gen 14:1",
+            "end": "Gen 14:24",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

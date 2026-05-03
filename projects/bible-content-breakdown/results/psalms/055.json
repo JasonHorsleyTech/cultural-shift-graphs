@@ -1,0 +1,137 @@
+{
+    "book": "Psalms",
+    "chapter": 55,
+    "verses": [
+        {
+            "ref": "Ps 55:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 55:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 55:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 55:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 55:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 55:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 55:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 55:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 55:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 55:10",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 55:11",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 55:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 55:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 55:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 55:15",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 55:16",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 55:17",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 55:18",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 55:19",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Ps 55:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 55:21",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 55:22",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 55:23",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Prayer Against a Treacherous Friend",
+            "start": "Ps 55:1",
+            "end": "Ps 55:23",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

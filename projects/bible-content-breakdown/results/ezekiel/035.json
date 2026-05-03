@@ -1,0 +1,85 @@
+{
+    "book": "Ezekiel",
+    "chapter": 35,
+    "verses": [
+        {
+            "ref": "Ezek 35:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 35:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 35:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 35:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 35:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 35:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 35:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 35:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 35:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 35:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 35:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 35:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 35:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 35:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 35:15",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Prophecy Against Mount Seir (Edom)",
+            "start": "Ezek 35:1",
+            "end": "Ezek 35:15",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                }
+            ]
+        }
+    ]
+}

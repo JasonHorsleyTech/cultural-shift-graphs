@@ -1,0 +1,213 @@
+{
+    "book": "Nehemiah",
+    "chapter": 12,
+    "verses": [
+        {
+            "ref": "Neh 12:1",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 12:2",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 12:3",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 12:4",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 12:5",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 12:6",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 12:7",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 12:8",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 12:9",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 12:10",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 12:11",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 12:12",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 12:13",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 12:14",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 12:15",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 12:16",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 12:17",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 12:18",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 12:19",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 12:20",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 12:21",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 12:22",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 12:23",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 12:24",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 12:25",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 12:26",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 12:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 12:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 12:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 12:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 12:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 12:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 12:33",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 12:34",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 12:35",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 12:36",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 12:37",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 12:38",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 12:39",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 12:40",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 12:41",
+            "function": "catalog"
+        },
+        {
+            "ref": "Neh 12:42",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 12:43",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 12:44",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 12:45",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 12:46",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 12:47",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Dedication of the Wall of Jerusalem",
+            "start": "Neh 12:27",
+            "end": "Neh 12:47",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

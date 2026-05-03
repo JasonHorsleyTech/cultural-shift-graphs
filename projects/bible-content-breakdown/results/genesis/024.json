@@ -1,0 +1,357 @@
+{
+    "book": "Genesis",
+    "chapter": 24,
+    "verses": [
+        {
+            "ref": "Gen 24:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Gen 24:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:7",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 24:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Gen 24:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 24:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 24:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:24",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 24:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:27",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Gen 24:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:35",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 24:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:37",
+            "function": "narrative",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Gen 24:38",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:39",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:40",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 24:41",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:42",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 24:43",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:44",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 24:45",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:46",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:47",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:48",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Gen 24:49",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:50",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Gen 24:51",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:52",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:53",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:54",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:55",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:56",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:57",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:58",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:59",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:60",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Gen 24:61",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:62",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:63",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:64",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:65",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:66",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 24:67",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Finding a Wife for Isaac",
+            "start": "Gen 24:1",
+            "end": "Gen 24:67",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty_faithfulness",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

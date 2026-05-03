@@ -1,0 +1,205 @@
+{
+    "book": "Jeremiah",
+    "chapter": 6,
+    "verses": [
+        {
+            "ref": "Jer 6:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 6:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 6:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 6:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 6:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 6:6",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 6:7",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jer 6:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 6:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 6:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 6:11",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 6:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 6:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Jer 6:14",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Jer 6:15",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 6:16",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Jer 6:17",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 6:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 6:19",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 6:20",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jer 6:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 6:22",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 6:23",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 6:24",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 6:25",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 6:26",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 6:27",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 6:28",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jer 6:29",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 6:30",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Judgment Oracle Against Judah",
+            "start": "Jer 6:1",
+            "end": "Jer 6:30",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,302 @@
+{
+    "book": "Numbers",
+    "chapter": 3,
+    "verses": [
+        {
+            "ref": "Num 3:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 3:2",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 3:3",
+            "function": "catalog",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 3:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "consequences",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Num 3:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 3:6",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 3:7",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 3:8",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 3:9",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 3:10",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 3:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 3:12",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 3:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Num 3:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 3:15",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 3:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 3:17",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 3:18",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 3:19",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 3:20",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 3:21",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 3:22",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 3:23",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 3:24",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 3:25",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 3:26",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 3:27",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 3:28",
+            "function": "catalog",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Num 3:29",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 3:30",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 3:31",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 3:32",
+            "function": "catalog",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 3:33",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 3:34",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 3:35",
+            "function": "catalog",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 3:36",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 3:37",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 3:38",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 3:39",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 3:40",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 3:41",
+            "function": "theological",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 3:42",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 3:43",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 3:44",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 3:45",
+            "function": "theological",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 3:46",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Num 3:47",
+            "function": "civil_law",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Num 3:48",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Num 3:49",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 3:50",
+            "function": "catalog"
+        },
+        {
+            "ref": "Num 3:51",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Nadab and Abihu's Transgression",
+            "start": "Num 3:1",
+            "end": "Num 3:4",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "The Levites Appointed to the Lord",
+            "start": "Num 3:5",
+            "end": "Num 3:51",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

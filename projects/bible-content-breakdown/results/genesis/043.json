@@ -1,0 +1,177 @@
+{
+    "book": "Genesis",
+    "chapter": 43,
+    "verses": [
+        {
+            "ref": "Gen 43:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 43:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 43:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 43:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 43:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 43:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 43:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 43:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 43:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 43:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 43:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 43:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 43:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 43:14",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 43:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 43:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 43:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 43:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 43:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 43:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 43:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 43:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 43:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 43:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 43:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 43:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 43:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 43:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 43:29",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 43:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 43:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 43:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 43:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 43:34",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Joseph Receives His Brothers with Benjamin",
+            "start": "Gen 43:1",
+            "end": "Gen 43:34",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

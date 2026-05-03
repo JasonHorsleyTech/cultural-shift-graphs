@@ -1,0 +1,125 @@
+{
+    "book": "Nehemiah",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "Neh 2:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 2:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 2:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 2:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 2:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 2:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 2:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 2:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Neh 2:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 2:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 2:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 2:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "Neh 2:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 2:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 2:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 2:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 2:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 2:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Neh 2:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Neh 2:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Nehemiah's Mission to Rebuild Jerusalem",
+            "start": "Neh 2:1",
+            "end": "Neh 2:20",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "courage",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,191 @@
+{
+    "book": "1 Chronicles",
+    "chapter": 8,
+    "verses": [
+        {
+            "ref": "1Ch 8:1",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 8:2",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 8:3",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 8:4",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 8:5",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 8:6",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1Ch 8:7",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "1Ch 8:8",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "1Ch 8:9",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 8:10",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 8:11",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 8:12",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "1Ch 8:13",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1Ch 8:14",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 8:15",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 8:16",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 8:17",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 8:18",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 8:19",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 8:20",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 8:21",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 8:22",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 8:23",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 8:24",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 8:25",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 8:26",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 8:27",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 8:28",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 8:29",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 8:30",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 8:31",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 8:32",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 8:33",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 8:34",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 8:35",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 8:36",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 8:37",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 8:38",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 8:39",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Ch 8:40",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.15
+            }
+        }
+    ],
+    "stories": []
+}

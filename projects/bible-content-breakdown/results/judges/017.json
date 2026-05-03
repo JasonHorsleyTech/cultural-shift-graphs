@@ -1,0 +1,85 @@
+{
+    "book": "Judges",
+    "chapter": 17,
+    "verses": [
+        {
+            "ref": "Jdg 17:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 17:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jdg 17:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 17:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 17:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jdg 17:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 17:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 17:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 17:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 17:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 17:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 17:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jdg 17:13",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Micah's Idolatrous Shrine",
+            "start": "Jdg 17:1",
+            "end": "Jdg 17:13",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

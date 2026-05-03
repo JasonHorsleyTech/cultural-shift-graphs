@@ -1,0 +1,157 @@
+{
+    "book": "Exodus",
+    "chapter": 33,
+    "verses": [
+        {
+            "ref": "Exodus 33:1",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exodus 33:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exodus 33:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Exodus 33:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exodus 33:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Exodus 33:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exodus 33:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exodus 33:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exodus 33:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exodus 33:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exodus 33:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exodus 33:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exodus 33:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exodus 33:14",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Exodus 33:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exodus 33:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exodus 33:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exodus 33:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exodus 33:19",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.1
+            }
+        },
+        {
+            "ref": "Exodus 33:20",
+            "function": "theological"
+        },
+        {
+            "ref": "Exodus 33:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Exodus 33:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Exodus 33:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Moses Intercedes for God's Presence",
+            "start": "Exodus 33:1",
+            "end": "Exodus 33:23",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

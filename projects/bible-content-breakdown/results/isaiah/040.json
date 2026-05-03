@@ -1,0 +1,231 @@
+{
+    "book": "Isaiah",
+    "chapter": 40,
+    "verses": [
+        {
+            "ref": "Isa 40:1",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 40:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 40:3",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 40:4",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 40:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 40:6",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Isa 40:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Isa 40:8",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Isa 40:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 40:10",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 40:11",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Isa 40:12",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 40:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 40:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 40:15",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 40:16",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 40:17",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 40:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 40:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 40:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 40:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 40:22",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Isa 40:23",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 40:24",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 40:25",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 40:26",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 40:27",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 40:28",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 40:29",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 40:30",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Isa 40:31",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Comfort and the Coming of the Lord",
+            "start": "Isa 40:1",
+            "end": "Isa 40:11",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "God's Incomparability and the Futility of Idolatry",
+            "start": "Isa 40:12",
+            "end": "Isa 40:20",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Renewed Strength for Those Who Wait",
+            "start": "Isa 40:21",
+            "end": "Isa 40:31",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                }
+            ]
+        }
+    ]
+}

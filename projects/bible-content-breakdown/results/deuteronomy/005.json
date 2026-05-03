@@ -1,0 +1,169 @@
+{
+    "book": "Deuteronomy",
+    "chapter": 5,
+    "verses": [
+        {
+            "ref": "Deut 5:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 5:2",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 5:3",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 5:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 5:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 5:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 5:7",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 5:8",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 5:9",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 5:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 5:11",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 5:12",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 5:13",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 5:14",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 5:15",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 5:16",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 5:17",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 5:18",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Deut 5:19",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 5:20",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 5:21",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 5:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 5:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 5:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 5:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 5:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 5:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 5:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 5:29",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 5:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 5:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 5:32",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 5:33",
+            "function": "moral_instruction"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Ten Commandments Restatement",
+            "start": "Deut 5:1",
+            "end": "Deut 5:33",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "book": "Psalms",
+    "chapter": 40,
+    "verses": [
+        {
+            "ref": "Ps 40:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 40:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 40:3",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 40:4",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ps 40:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 40:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 40:7",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 40:8",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Ps 40:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 40:10",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 40:11",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 40:12",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 40:13",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 40:14",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 40:15",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 40:16",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 40:17",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Psalm 40 - A Prayer of Trust and Deliverance",
+            "start": "Ps 40:1",
+            "end": "Ps 40:17",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

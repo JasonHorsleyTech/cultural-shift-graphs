@@ -1,0 +1,243 @@
+{
+    "book": "Acts",
+    "chapter": 5,
+    "verses": [
+        {
+            "ref": "Acts 5:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 5:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 5:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 5:4",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Acts 5:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 5:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 5:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 5:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 5:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 5:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 5:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 5:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 5:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 5:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 5:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 5:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 5:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 5:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 5:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 5:20",
+            "function": "theological"
+        },
+        {
+            "ref": "Acts 5:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 5:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 5:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 5:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 5:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 5:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 5:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 5:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 5:29",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 5:30",
+            "function": "theological"
+        },
+        {
+            "ref": "Acts 5:31",
+            "function": "theological"
+        },
+        {
+            "ref": "Acts 5:32",
+            "function": "theological"
+        },
+        {
+            "ref": "Acts 5:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 5:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 5:35",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 5:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 5:37",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 5:38",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Acts 5:39",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Acts 5:40",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 5:41",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 5:42",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Ananias and Sapphira",
+            "start": "Acts 5:1",
+            "end": "Acts 5:11",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Apostolic Signs and Church Growth",
+            "start": "Acts 5:12",
+            "end": "Acts 5:16",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "The Apostles' Arrest and Trial",
+            "start": "Acts 5:17",
+            "end": "Acts 5:42",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

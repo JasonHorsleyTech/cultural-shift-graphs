@@ -1,0 +1,101 @@
+{
+    "book": "Titus",
+    "chapter": 1,
+    "verses": [
+        {
+            "ref": "Tit 1:1",
+            "function": "theological"
+        },
+        {
+            "ref": "Tit 1:2",
+            "function": "theological"
+        },
+        {
+            "ref": "Tit 1:3",
+            "function": "theological"
+        },
+        {
+            "ref": "Tit 1:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Tit 1:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Tit 1:6",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Tit 1:7",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Tit 1:8",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Tit 1:9",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Tit 1:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Tit 1:11",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Tit 1:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Tit 1:13",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Tit 1:14",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Tit 1:15",
+            "function": "theological"
+        },
+        {
+            "ref": "Tit 1:16",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Paul's Letter to Titus: Church Leadership and False Teachers",
+            "start": "Tit 1:1",
+            "end": "Tit 1:16",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

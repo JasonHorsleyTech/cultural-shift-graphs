@@ -1,0 +1,57 @@
+{
+    "book": "Psalms",
+    "chapter": 15,
+    "verses": [
+        {
+            "ref": "Psalm 15:1",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalm 15:2",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Psalm 15:3",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Psalm 15:4",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Psalm 15:5",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Portrait of the Righteous Person",
+            "start": "Psalm 15:1",
+            "end": "Psalm 15:5",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 0.7
+                }
+            ]
+        }
+    ]
+}

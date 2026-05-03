@@ -1,0 +1,177 @@
+{
+    "book": "Ezekiel",
+    "chapter": 34,
+    "verses": [
+        {
+            "ref": "Ezek 34:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 34:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 34:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 34:4",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezek 34:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 34:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 34:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 34:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 34:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 34:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 34:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 34:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 34:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 34:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 34:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 34:16",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezek 34:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 34:18",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Ezek 34:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 34:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 34:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 34:22",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 34:23",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 34:24",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Ezek 34:25",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 34:26",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 34:27",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ezek 34:28",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 34:29",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 34:30",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezek 34:31",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Judgment Against False Shepherds and God's Restoration",
+            "start": "Ezek 34:1",
+            "end": "Ezek 34:31",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

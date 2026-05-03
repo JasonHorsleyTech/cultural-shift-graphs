@@ -1,0 +1,292 @@
+{
+    "book": "Luke",
+    "chapter": 10,
+    "verses": [
+        {
+            "ref": "Luke 10:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 10:2",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 10:3",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 10:4",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 10:5",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 10:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 10:7",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 10:8",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 10:9",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Luke 10:10",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 10:11",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 10:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 10:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 10:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 10:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 10:16",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 10:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 10:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Luke 10:19",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 10:20",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 10:21",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 10:22",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 10:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Luke 10:24",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 10:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 10:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 10:27",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 10:28",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Luke 10:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 10:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 10:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 10:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 10:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 10:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 10:35",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 10:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 10:37",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 10:38",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 10:39",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 10:40",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 10:41",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 10:42",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Seventy-Two Sent Out",
+            "start": "Luke 10:1",
+            "end": "Luke 10:20",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Jesus's Teaching on Privilege and Revelation",
+            "start": "Luke 10:21",
+            "end": "Luke 10:24",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "humility",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Good Samaritan",
+            "start": "Luke 10:25",
+            "end": "Luke 10:37",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Mary and Martha",
+            "start": "Luke 10:38",
+            "end": "Luke 10:42",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "humility",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

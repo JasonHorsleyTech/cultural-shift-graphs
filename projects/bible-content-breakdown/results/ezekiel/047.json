@@ -1,0 +1,166 @@
+{
+    "book": "Ezekiel",
+    "chapter": 47,
+    "verses": [
+        {
+            "ref": "Ezek 47:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 47:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 47:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ezek 47:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.45
+            }
+        },
+        {
+            "ref": "Ezek 47:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Ezek 47:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 47:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 47:8",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ezek 47:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 47:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 47:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 47:12",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ezek 47:13",
+            "function": "specifications",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ezek 47:14",
+            "function": "civil_law",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ezek 47:15",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezek 47:16",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezek 47:17",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezek 47:18",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezek 47:19",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezek 47:20",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezek 47:21",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Ezek 47:22",
+            "function": "civil_law",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezek 47:23",
+            "function": "civil_law"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Healing Waters from the Temple",
+            "start": "Ezek 47:1",
+            "end": "Ezek 47:12",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Division of the Promised Land",
+            "start": "Ezek 47:13",
+            "end": "Ezek 47:23",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

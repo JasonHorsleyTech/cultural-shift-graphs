@@ -1,0 +1,137 @@
+{
+    "book": "Jeremiah",
+    "chapter": 16,
+    "verses": [
+        {
+            "ref": "Jer 16:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 16:2",
+            "function": "prophecy",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "Jer 16:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 16:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 16:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 16:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 16:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 16:8",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "Jer 16:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 16:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 16:11",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.1
+            }
+        },
+        {
+            "ref": "Jer 16:12",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Jer 16:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 16:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 16:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 16:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 16:17",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jer 16:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 16:19",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Jer 16:20",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jer 16:21",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Judgment Against Judah",
+            "start": "Jer 16:1",
+            "end": "Jer 16:21",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

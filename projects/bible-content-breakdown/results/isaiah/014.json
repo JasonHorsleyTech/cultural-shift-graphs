@@ -1,0 +1,218 @@
+{
+    "book": "Isaiah",
+    "chapter": 14,
+    "verses": [
+        {
+            "ref": "Isa 14:1",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 14:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 14:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 14:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Isa 14:5",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 14:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Isa 14:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Isa 14:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Isa 14:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Isa 14:10",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Isa 14:11",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Isa 14:12",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Isa 14:13",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 14:14",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Isa 14:15",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Isa 14:16",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Isa 14:17",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Isa 14:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 14:19",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Isa 14:20",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 14:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 14:22",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 14:23",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 14:24",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 14:25",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 14:26",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 14:27",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Isa 14:28",
+            "function": "catalog"
+        },
+        {
+            "ref": "Isa 14:29",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 14:30",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 14:31",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 14:32",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Restoration of Israel and Fall of Babylon",
+            "start": "Isa 14:1",
+            "end": "Isa 14:27",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Oracle Against Philistines",
+            "start": "Isa 14:28",
+            "end": "Isa 14:32",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

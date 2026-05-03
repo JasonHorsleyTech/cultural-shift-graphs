@@ -1,0 +1,130 @@
+{
+    "book": "Ezekiel",
+    "chapter": 29,
+    "verses": [
+        {
+            "ref": "Ezekiel 29:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 29:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 29:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 29:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 29:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 29:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 29:7",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezekiel 29:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 29:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 29:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 29:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 29:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 29:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 29:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 29:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 29:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 29:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 29:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezekiel 29:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 29:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezekiel 29:21",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Oracle Against Egypt",
+            "start": "Ezekiel 29:1",
+            "end": "Ezekiel 29:16",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Babylon's Compensation and Israel's Restoration",
+            "start": "Ezekiel 29:17",
+            "end": "Ezekiel 29:21",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

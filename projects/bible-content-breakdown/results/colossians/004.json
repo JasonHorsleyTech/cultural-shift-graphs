@@ -1,0 +1,130 @@
+{
+    "book": "Colossians",
+    "chapter": 4,
+    "verses": [
+        {
+            "ref": "Col 4:1",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Col 4:2",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Col 4:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Col 4:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Col 4:5",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Col 4:6",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Col 4:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Col 4:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Col 4:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Col 4:10",
+            "function": "catalog",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Col 4:11",
+            "function": "catalog"
+        },
+        {
+            "ref": "Col 4:12",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Col 4:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Col 4:14",
+            "function": "catalog"
+        },
+        {
+            "ref": "Col 4:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Col 4:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Col 4:17",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Col 4:18",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Final Instructions on Christian Conduct",
+            "start": "Col 4:1",
+            "end": "Col 4:6",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Paul's Farewell, Messengers, and Community Greetings",
+            "start": "Col 4:7",
+            "end": "Col 4:18",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "book": "Deuteronomy",
+    "chapter": 26,
+    "verses": [
+        {
+            "ref": "Deut 26:1",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 26:2",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 26:3",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 26:4",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 26:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Deut 26:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 26:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 26:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 26:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 26:10",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 26:11",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 26:12",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 26:13",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 26:14",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "purity_dietary",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 26:15",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 26:16",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 26:17",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 26:18",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 26:19",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "First Fruits Offering",
+            "start": "Deut 26:1",
+            "end": "Deut 26:11",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "generosity",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Third-Year Tithe",
+            "start": "Deut 26:12",
+            "end": "Deut 26:15",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "generosity",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Covenant Renewal",
+            "start": "Deut 26:16",
+            "end": "Deut 26:19",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

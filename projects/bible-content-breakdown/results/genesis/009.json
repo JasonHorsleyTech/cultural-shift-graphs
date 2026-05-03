@@ -1,0 +1,182 @@
+{
+    "book": "Genesis",
+    "chapter": 9,
+    "verses": [
+        {
+            "ref": "Gen 9:1",
+            "function": "theological"
+        },
+        {
+            "ref": "Gen 9:2",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 9:3",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Gen 9:4",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Gen 9:5",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Gen 9:6",
+            "function": "civil_law",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Gen 9:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Gen 9:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 9:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Gen 9:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Gen 9:11",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Gen 9:12",
+            "function": "theological"
+        },
+        {
+            "ref": "Gen 9:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Gen 9:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Gen 9:15",
+            "function": "theological"
+        },
+        {
+            "ref": "Gen 9:16",
+            "function": "theological"
+        },
+        {
+            "ref": "Gen 9:17",
+            "function": "theological"
+        },
+        {
+            "ref": "Gen 9:18",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 9:19",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 9:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 9:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 9:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 9:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 9:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 9:25",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 9:26",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 9:27",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Gen 9:28",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 9:29",
+            "function": "catalog"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Blessing and Covenant with Noah and All Creation",
+            "start": "Gen 9:1",
+            "end": "Gen 9:17",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Ham's Transgression and the Curse of Canaan",
+            "start": "Gen 9:18",
+            "end": "Gen 9:27",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "book": "Joshua",
+    "chapter": 7,
+    "verses": [
+        {
+            "ref": "Josh 7:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 7:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 7:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 7:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 7:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 7:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 7:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 7:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 7:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Josh 7:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 7:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Josh 7:12",
+            "function": "theological"
+        },
+        {
+            "ref": "Josh 7:13",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Josh 7:14",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Josh 7:15",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Josh 7:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 7:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 7:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 7:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 7:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 7:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Josh 7:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 7:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 7:24",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Josh 7:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 7:26",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Achan's Sin",
+            "start": "Josh 7:1",
+            "end": "Josh 7:26",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

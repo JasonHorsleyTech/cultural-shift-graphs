@@ -1,0 +1,110 @@
+{
+    "book": "Joshua",
+    "chapter": 14,
+    "verses": [
+        {
+            "ref": "Josh 14:1",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 14:2",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 14:3",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 14:4",
+            "function": "catalog"
+        },
+        {
+            "ref": "Josh 14:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 14:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 14:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 14:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 14:9",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Josh 14:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 14:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 14:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 14:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 14:14",
+            "function": "catalog",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Josh 14:15",
+            "function": "catalog"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Land Allocation Procedures",
+            "start": "Josh 14:1",
+            "end": "Josh 14:5",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Caleb's Request and Inheritance",
+            "start": "Josh 14:6",
+            "end": "Josh 14:15",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

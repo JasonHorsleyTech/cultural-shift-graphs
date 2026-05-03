@@ -1,0 +1,157 @@
+{
+    "book": "Job",
+    "chapter": 24,
+    "verses": [
+        {
+            "ref": "Job 24:1",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 24:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 24:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 24:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 24:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 24:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 24:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 24:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 24:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 24:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 24:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 24:12",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 24:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 24:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 24:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 24:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 24:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 24:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Job 24:19",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Job 24:20",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Job 24:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 24:22",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Job 24:23",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 24:24",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Job 24:25",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Job's Complaint About Injustice and Divine Justice",
+            "start": "Job 24:1",
+            "end": "Job 24:25",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

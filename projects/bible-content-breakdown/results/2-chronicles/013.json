@@ -1,0 +1,157 @@
+{
+    "book": "2 Chronicles",
+    "chapter": 13,
+    "verses": [
+        {
+            "ref": "2 Chronicles 13:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 13:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 13:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Chronicles 13:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 13:5",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Chronicles 13:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chronicles 13:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 13:8",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chronicles 13:9",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chronicles 13:10",
+            "function": "theological",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Chronicles 13:11",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chronicles 13:12",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Chronicles 13:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 13:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 13:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Chronicles 13:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 13:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 13:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chronicles 13:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chronicles 13:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Chronicles 13:21",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Chronicles 13:22",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Abijah's War Against Jeroboam",
+            "start": "2 Chronicles 13:1",
+            "end": "2 Chronicles 13:22",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

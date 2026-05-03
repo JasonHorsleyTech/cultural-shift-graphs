@@ -1,0 +1,151 @@
+{
+    "book": "1 Peter",
+    "chapter": 5,
+    "verses": [
+        {
+            "ref": "1 Peter 5:1",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Peter 5:2",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Peter 5:3",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Peter 5:4",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Peter 5:5",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Peter 5:6",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Peter 5:7",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Peter 5:8",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Peter 5:9",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Peter 5:10",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Peter 5:11",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Peter 5:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Peter 5:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Peter 5:14",
+            "function": "moral_instruction"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Instructions on Authority and Humility",
+            "start": "1 Peter 5:1",
+            "end": "1 Peter 5:7",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "humility",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Spiritual Vigilance and God's Restoration",
+            "start": "1 Peter 5:8",
+            "end": "1 Peter 5:10",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "courage",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Closing Benediction",
+            "start": "1 Peter 5:11",
+            "end": "1 Peter 5:14",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

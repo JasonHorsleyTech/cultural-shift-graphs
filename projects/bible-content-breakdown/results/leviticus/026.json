@@ -1,0 +1,257 @@
+{
+    "book": "Leviticus",
+    "chapter": 26,
+    "verses": [
+        {
+            "ref": "Lev 26:1",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Lev 26:2",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 26:3",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 26:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Lev 26:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Lev 26:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Lev 26:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Lev 26:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Lev 26:9",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 26:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Lev 26:11",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Lev 26:12",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Lev 26:13",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Lev 26:14",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Lev 26:15",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 26:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Lev 26:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Lev 26:18",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Lev 26:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Lev 26:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Lev 26:21",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Lev 26:22",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Lev 26:23",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Lev 26:24",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Lev 26:25",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Lev 26:26",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Lev 26:27",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Lev 26:28",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Lev 26:29",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Lev 26:30",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Lev 26:31",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Lev 26:32",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Lev 26:33",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Lev 26:34",
+            "function": "theological"
+        },
+        {
+            "ref": "Lev 26:35",
+            "function": "theological"
+        },
+        {
+            "ref": "Lev 26:36",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Lev 26:37",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Lev 26:38",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Lev 26:39",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Lev 26:40",
+            "function": "theological"
+        },
+        {
+            "ref": "Lev 26:41",
+            "function": "theological"
+        },
+        {
+            "ref": "Lev 26:42",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Lev 26:43",
+            "function": "theological"
+        },
+        {
+            "ref": "Lev 26:44",
+            "function": "theological"
+        },
+        {
+            "ref": "Lev 26:45",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 26:46",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Covenant Blessing and Curse",
+            "start": "Lev 26:1",
+            "end": "Lev 26:45",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "book": "Proverbs",
+    "chapter": 28,
+    "verses": [
+        {
+            "ref": "Prov 28:1",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 28:2",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 28:3",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 28:4",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 28:5",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 28:6",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 28:7",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 28:8",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 28:9",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 28:10",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 28:11",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 28:12",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 28:13",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 28:14",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 28:15",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 28:16",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 28:17",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 28:18",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 28:19",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 28:20",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 28:21",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 28:22",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 28:23",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 28:24",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 28:25",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 28:26",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 28:27",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 28:28",
+            "function": "wisdom"
+        }
+    ],
+    "stories": []
+}

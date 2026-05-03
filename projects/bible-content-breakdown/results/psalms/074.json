@@ -1,0 +1,133 @@
+{
+    "book": "Psalms",
+    "chapter": 74,
+    "verses": [
+        {
+            "ref": "Ps 74:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 74:2",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 74:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 74:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 74:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 74:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 74:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 74:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 74:9",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 74:10",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 74:11",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 74:12",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 74:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 74:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 74:15",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 74:16",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 74:17",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 74:18",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 74:19",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 74:20",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 74:21",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 74:22",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 74:23",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Asaph's Lament Over the Destroyed Temple",
+            "start": "Ps 74:1",
+            "end": "Ps 74:23",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

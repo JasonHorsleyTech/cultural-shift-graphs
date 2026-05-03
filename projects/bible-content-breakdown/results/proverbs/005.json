@@ -1,0 +1,175 @@
+{
+    "book": "Proverbs",
+    "chapter": 5,
+    "verses": [
+        {
+            "ref": "Prov 5:1",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 5:2",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 5:3",
+            "function": "sexual_marital",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 5:4",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Prov 5:5",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Prov 5:6",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Prov 5:7",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Prov 5:8",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Prov 5:9",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Prov 5:10",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Prov 5:11",
+            "function": "sexual_marital",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 5:12",
+            "function": "wisdom",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 5:13",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 5:14",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 5:15",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Prov 5:16",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Prov 5:17",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Prov 5:18",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Prov 5:19",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Prov 5:20",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Prov 5:21",
+            "function": "theological"
+        },
+        {
+            "ref": "Prov 5:22",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 5:23",
+            "function": "wisdom"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Warning Against Adultery",
+            "start": "Prov 5:1",
+            "end": "Prov 5:14",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "sexual_purity",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Marital Faithfulness",
+            "start": "Prov 5:15",
+            "end": "Prov 5:20",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "sexual_purity",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "God's Judgment",
+            "start": "Prov 5:21",
+            "end": "Prov 5:23",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "book": "Judges",
+    "chapter": 14,
+    "verses": [
+        {
+            "ref": "Judges 14:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 14:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 14:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Judges 14:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Judges 14:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 14:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Judges 14:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 14:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 14:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 14:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Judges 14:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 14:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 14:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 14:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 14:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 14:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 14:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 14:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 14:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Judges 14:20",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Samson Marries a Philistine Woman",
+            "start": "Judges 14:1",
+            "end": "Judges 14:20",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

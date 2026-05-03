@@ -1,0 +1,255 @@
+{
+    "book": "Luke",
+    "chapter": 17,
+    "verses": [
+        {
+            "ref": "Luke 17:1",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 17:2",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 17:3",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 17:4",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 17:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 17:6",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Luke 17:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Luke 17:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 17:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 17:10",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Luke 17:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 17:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 17:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 17:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 17:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 17:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 17:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 17:18",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 17:19",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 17:20",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 17:21",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 17:22",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 17:23",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 17:24",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 17:25",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 17:26",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 17:27",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Luke 17:28",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 17:29",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 17:30",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 17:31",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Luke 17:32",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Luke 17:33",
+            "function": "wisdom",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 17:34",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 17:35",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Luke 17:37",
+            "function": "prophecy",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Teaching on Forgiveness and Humility",
+            "start": "Luke 17:1",
+            "end": "Luke 17:10",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Healing of Ten Lepers",
+            "start": "Luke 17:11",
+            "end": "Luke 17:19",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Teaching on God's Kingdom and End Times",
+            "start": "Luke 17:20",
+            "end": "Luke 17:37",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences_of_sin",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

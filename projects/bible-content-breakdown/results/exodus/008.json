@@ -1,0 +1,177 @@
+{
+    "book": "Exodus",
+    "chapter": 8,
+    "verses": [
+        {
+            "ref": "Ex 8:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 8:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ex 8:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ex 8:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ex 8:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 8:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 8:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 8:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 8:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 8:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ex 8:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 8:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 8:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 8:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 8:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Ex 8:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 8:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 8:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 8:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ex 8:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 8:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ex 8:22",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ex 8:23",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ex 8:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 8:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 8:26",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ex 8:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 8:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 8:29",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ex 8:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 8:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 8:32",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Plagues on Egypt",
+            "start": "Ex 8:1",
+            "end": "Ex 8:32",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

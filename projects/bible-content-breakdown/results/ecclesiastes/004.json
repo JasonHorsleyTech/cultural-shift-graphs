@@ -1,0 +1,135 @@
+{
+    "book": "Ecclesiastes",
+    "chapter": 4,
+    "verses": [
+        {
+            "ref": "Ecclesiastes 4:1",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecclesiastes 4:2",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecclesiastes 4:3",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecclesiastes 4:4",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecclesiastes 4:5",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecclesiastes 4:6",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecclesiastes 4:7",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecclesiastes 4:8",
+            "function": "wisdom",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ecclesiastes 4:9",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecclesiastes 4:10",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecclesiastes 4:11",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecclesiastes 4:12",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecclesiastes 4:13",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecclesiastes 4:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ecclesiastes 4:15",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ecclesiastes 4:16",
+            "function": "wisdom"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Oppression and the Futility of Labor",
+            "start": "Ecclesiastes 4:1",
+            "end": "Ecclesiastes 4:6",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Value of Companionship",
+            "start": "Ecclesiastes 4:7",
+            "end": "Ecclesiastes 4:12",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Wisdom and the Paradox of Power",
+            "start": "Ecclesiastes 4:13",
+            "end": "Ecclesiastes 4:16",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "humility",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

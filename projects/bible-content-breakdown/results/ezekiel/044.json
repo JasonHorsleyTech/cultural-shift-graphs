@@ -1,0 +1,169 @@
+{
+    "book": "Ezekiel",
+    "chapter": 44,
+    "verses": [
+        {
+            "ref": "Ezek 44:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 44:2",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezek 44:3",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezek 44:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 44:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 44:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 44:7",
+            "function": "prophecy",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezek 44:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 44:9",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezek 44:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 44:11",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezek 44:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 44:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 44:14",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezek 44:15",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezek 44:16",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezek 44:17",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezek 44:18",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezek 44:19",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezek 44:20",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezek 44:21",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezek 44:22",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Ezek 44:23",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ezek 44:24",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezek 44:25",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Ezek 44:26",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezek 44:27",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezek 44:28",
+            "function": "specifications",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Ezek 44:29",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezek 44:30",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezek 44:31",
+            "function": "purity_dietary"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Regulations for the Restored Temple Priesthood",
+            "start": "Ezek 44:1",
+            "end": "Ezek 44:31",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

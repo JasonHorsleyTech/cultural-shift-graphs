@@ -1,0 +1,139 @@
+{
+    "book": "1 Samuel",
+    "chapter": 7,
+    "verses": [
+        {
+            "ref": "1 Sam 7:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 7:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 7:3",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Sam 7:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 7:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 7:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Sam 7:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 7:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 7:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Sam 7:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 7:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 7:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 7:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 7:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 7:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 7:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 7:17",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Ark Secured at Kiriath Jearim",
+            "start": "1 Sam 7:1",
+            "end": "1 Sam 7:2",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Repentance and Deliverance from the Philistines",
+            "start": "1 Sam 7:3",
+            "end": "1 Sam 7:14",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Samuel's Lifelong Leadership and Judgeship",
+            "start": "1 Sam 7:15",
+            "end": "1 Sam 7:17",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

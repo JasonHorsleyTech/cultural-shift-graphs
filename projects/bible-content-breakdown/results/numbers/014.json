@@ -1,0 +1,285 @@
+{
+    "book": "Numbers",
+    "chapter": 14,
+    "verses": [
+        {
+            "ref": "Num 14:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 14:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 14:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 14:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 14:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 14:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 14:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 14:8",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Num 14:9",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 14:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 14:11",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Num 14:12",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 14:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Num 14:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Num 14:15",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 14:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Num 14:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Num 14:18",
+            "function": "theological"
+        },
+        {
+            "ref": "Num 14:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Num 14:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 14:21",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 14:22",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Num 14:23",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Num 14:24",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Num 14:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 14:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 14:27",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Num 14:28",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Num 14:29",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Num 14:30",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Num 14:31",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Num 14:32",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Num 14:33",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Num 14:34",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Num 14:35",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Num 14:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 14:37",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 14:38",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 14:39",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 14:40",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 14:41",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 14:42",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Num 14:43",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Num 14:44",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 14:45",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The People's Rebellion at Kadesh and God's Judgment",
+            "start": "Num 14:1",
+            "end": "Num 14:45",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

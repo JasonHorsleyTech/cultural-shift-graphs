@@ -1,0 +1,149 @@
+{
+    "book": "Deuteronomy",
+    "chapter": 7,
+    "verses": [
+        {
+            "ref": "Deut 7:1",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 7:2",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 7:3",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Deut 7:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 7:5",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 7:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 7:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 7:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 7:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 7:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 7:11",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 7:12",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 7:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 7:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 7:15",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 7:16",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 7:17",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 7:18",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 7:19",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Deut 7:20",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 7:21",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 7:22",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 7:23",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 7:24",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 7:25",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Deut 7:26",
+            "function": "moral_instruction"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Conquest and Separation from Pagan Nations",
+            "start": "Deut 7:1",
+            "end": "Deut 7:26",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

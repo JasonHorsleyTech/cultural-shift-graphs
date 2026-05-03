@@ -1,0 +1,193 @@
+{
+    "book": "Proverbs",
+    "chapter": 21,
+    "verses": [
+        {
+            "ref": "Prov 21:1",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Prov 21:2",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 21:3",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 21:4",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 21:5",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 21:6",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 21:7",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 21:8",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 21:9",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 21:10",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 21:11",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 21:12",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 21:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 21:14",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 21:15",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 21:16",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 21:17",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 21:18",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 21:19",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 21:20",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 21:21",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 21:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Prov 21:23",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 21:24",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 21:25",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 21:26",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 21:27",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 21:28",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 21:29",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 21:30",
+            "function": "theological"
+        },
+        {
+            "ref": "Prov 21:31",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Wisdom on Character, Conduct, and Justice",
+            "start": "Prov 21:1",
+            "end": "Prov 21:31",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

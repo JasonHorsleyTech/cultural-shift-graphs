@@ -1,0 +1,221 @@
+{
+    "book": "John",
+    "chapter": 9,
+    "verses": [
+        {
+            "ref": "John 9:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 9:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 9:3",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "John 9:4",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 9:5",
+            "function": "theological"
+        },
+        {
+            "ref": "John 9:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 9:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 9:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 9:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 9:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 9:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 9:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 9:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 9:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 9:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 9:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 9:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 9:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 9:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 9:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 9:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 9:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 9:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 9:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 9:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 9:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 9:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 9:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 9:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 9:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 9:31",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "John 9:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 9:33",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "John 9:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 9:35",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 9:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 9:37",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 9:38",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "John 9:39",
+            "function": "theological"
+        },
+        {
+            "ref": "John 9:40",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 9:41",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Healing of the Blind Man",
+            "start": "John 9:1",
+            "end": "John 9:41",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

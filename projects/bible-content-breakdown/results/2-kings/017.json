@@ -1,0 +1,230 @@
+{
+    "book": "2 Kings",
+    "chapter": 17,
+    "verses": [
+        {
+            "ref": "2 Kgs 17:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kgs 17:2",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Kgs 17:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kgs 17:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kgs 17:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kgs 17:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kgs 17:7",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Kgs 17:8",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Kgs 17:9",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Kgs 17:10",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Kgs 17:11",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Kgs 17:12",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Kgs 17:13",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Kgs 17:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kgs 17:15",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Kgs 17:16",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Kgs 17:17",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Kgs 17:18",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Kgs 17:19",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Kgs 17:20",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Kgs 17:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Kgs 17:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kgs 17:23",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Kgs 17:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kgs 17:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kgs 17:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kgs 17:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kgs 17:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kgs 17:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kgs 17:30",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Kgs 17:31",
+            "function": "catalog"
+        },
+        {
+            "ref": "2 Kgs 17:32",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Kgs 17:33",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Kgs 17:34",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Kgs 17:35",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Kgs 17:36",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Kgs 17:37",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Kgs 17:38",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "2 Kgs 17:39",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Kgs 17:40",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kgs 17:41",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Fall of Israel",
+            "start": "2 Kgs 17:1",
+            "end": "2 Kgs 17:23",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Religious Syncretism in Samaria",
+            "start": "2 Kgs 17:24",
+            "end": "2 Kgs 17:41",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

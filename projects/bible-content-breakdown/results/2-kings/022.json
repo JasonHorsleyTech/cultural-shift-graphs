@@ -1,0 +1,149 @@
+{
+    "book": "2 Kings",
+    "chapter": 22,
+    "verses": [
+        {
+            "ref": "2 Kgs 22:1",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Kgs 22:2",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Kgs 22:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kgs 22:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "2 Kgs 22:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Kgs 22:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "2 Kgs 22:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "2 Kgs 22:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kgs 22:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kgs 22:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kgs 22:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Kgs 22:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Kgs 22:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Kgs 22:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Kgs 22:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Kgs 22:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Kgs 22:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Kgs 22:18",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "2 Kgs 22:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Kgs 22:20",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Josiah Discovers the Law Scroll",
+            "start": "2 Kgs 22:1",
+            "end": "2 Kgs 22:20",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

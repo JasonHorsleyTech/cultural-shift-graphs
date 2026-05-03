@@ -1,0 +1,89 @@
+{
+    "book": "Hosea",
+    "chapter": 11,
+    "verses": [
+        {
+            "ref": "Hosea 11:1",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Hosea 11:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Hosea 11:3",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Hosea 11:4",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Hosea 11:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hosea 11:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hosea 11:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Hosea 11:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Hosea 11:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Hosea 11:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hosea 11:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hosea 11:12",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Love for Israel and Promise of Mercy Despite Unfaithfulness",
+            "start": "Hosea 11:1",
+            "end": "Hosea 11:12",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,312 @@
+{
+    "book": "Luke",
+    "chapter": 24,
+    "verses": [
+        {
+            "ref": "Luke 24:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 24:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 24:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 24:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 24:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 24:6",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Luke 24:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 24:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 24:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 24:10",
+            "function": "catalog"
+        },
+        {
+            "ref": "Luke 24:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 24:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 24:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 24:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 24:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 24:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 24:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 24:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 24:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Luke 24:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 24:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 24:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 24:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 24:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 24:25",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 24:26",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 24:27",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 24:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 24:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 24:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 24:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 24:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 24:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 24:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 24:35",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 24:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 24:37",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 24:38",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "Luke 24:39",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 24:40",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 24:41",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 24:42",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 24:43",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 24:44",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 24:45",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Luke 24:46",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 24:47",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 24:48",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Luke 24:49",
+            "function": "theological"
+        },
+        {
+            "ref": "Luke 24:50",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 24:51",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 24:52",
+            "function": "narrative"
+        },
+        {
+            "ref": "Luke 24:53",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Discovery of the Resurrection",
+            "start": "Luke 24:1",
+            "end": "Luke 24:12",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Road to Emmaus",
+            "start": "Luke 24:13",
+            "end": "Luke 24:35",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Appearance to the Apostles",
+            "start": "Luke 24:36",
+            "end": "Luke 24:49",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Ascension",
+            "start": "Luke 24:50",
+            "end": "Luke 24:53",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

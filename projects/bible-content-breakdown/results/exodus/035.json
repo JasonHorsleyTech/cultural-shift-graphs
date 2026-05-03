@@ -1,0 +1,201 @@
+{
+    "book": "Exodus",
+    "chapter": 35,
+    "verses": [
+        {
+            "ref": "Ex 35:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 35:2",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ex 35:3",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ex 35:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 35:5",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ex 35:6",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 35:7",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 35:8",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 35:9",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 35:10",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ex 35:11",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 35:12",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 35:13",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 35:14",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 35:15",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 35:16",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 35:17",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 35:18",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 35:19",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 35:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 35:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 35:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ex 35:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ex 35:24",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ex 35:25",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ex 35:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 35:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 35:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 35:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 35:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ex 35:31",
+            "function": "theological"
+        },
+        {
+            "ref": "Ex 35:32",
+            "function": "theological",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ex 35:33",
+            "function": "theological",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ex 35:34",
+            "function": "theological"
+        },
+        {
+            "ref": "Ex 35:35",
+            "function": "theological",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Community Responds to Build the Tabernacle",
+            "start": "Ex 35:1",
+            "end": "Ex 35:35",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "generosity",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

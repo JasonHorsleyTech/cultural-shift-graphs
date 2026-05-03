@@ -1,0 +1,261 @@
+{
+    "book": "Leviticus",
+    "chapter": 13,
+    "verses": [
+        {
+            "ref": "Lev 13:1",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Lev 13:2",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:3",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:4",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:5",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:6",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:7",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:8",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:9",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:10",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:11",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:12",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:13",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:14",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:15",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:16",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:17",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:18",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:19",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:20",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:21",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:22",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:23",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:24",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:25",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:26",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:27",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:28",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:29",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:30",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:31",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:32",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:33",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:34",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:35",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:36",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:37",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:38",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:39",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:40",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:41",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:42",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:43",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:44",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:45",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:46",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:47",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:48",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:49",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:50",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:51",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:52",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:53",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:54",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:55",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:56",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:57",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:58",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 13:59",
+            "function": "ritual_instruction"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Laws of Skin Disease and Garment Contamination",
+            "start": "Lev 13:1",
+            "end": "Lev 13:59",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

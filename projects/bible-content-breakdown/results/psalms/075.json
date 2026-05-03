@@ -1,0 +1,85 @@
+{
+    "book": "Psalms",
+    "chapter": 75,
+    "verses": [
+        {
+            "ref": "Ps 75:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 75:2",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 75:3",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 75:4",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Ps 75:5",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Ps 75:6",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 75:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 75:8",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 75:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 75:10",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Justice Against Pride",
+            "start": "Ps 75:1",
+            "end": "Ps 75:10",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

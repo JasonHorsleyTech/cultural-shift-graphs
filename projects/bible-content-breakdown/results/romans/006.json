@@ -1,0 +1,149 @@
+{
+    "book": "Romans",
+    "chapter": 6,
+    "verses": [
+        {
+            "ref": "Rom 6:1",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 6:2",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 6:3",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 6:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 6:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 6:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 6:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 6:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 6:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 6:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 6:11",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Rom 6:12",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Rom 6:13",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Rom 6:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 6:15",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Rom 6:16",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Rom 6:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rom 6:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rom 6:19",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Rom 6:20",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 6:21",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Rom 6:22",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rom 6:23",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Freedom from Sin Through Union with Christ",
+            "start": "Rom 6:1",
+            "end": "Rom 6:23",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

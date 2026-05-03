@@ -1,0 +1,113 @@
+{
+    "book": "Zechariah",
+    "chapter": 12,
+    "verses": [
+        {
+            "ref": "Zech 12:1",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Zech 12:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 12:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 12:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 12:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Zech 12:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 12:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 12:8",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Zech 12:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Zech 12:10",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Zech 12:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Zech 12:12",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Zech 12:13",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Zech 12:14",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jerusalem's Future Deliverance and Spiritual Restoration",
+            "start": "Zech 12:1",
+            "end": "Zech 12:14",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "book": "Numbers",
+    "chapter": 28,
+    "verses": [
+        {
+            "ref": "Num 28:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 28:2",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Num 28:3",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 28:4",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 28:5",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 28:6",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 28:7",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 28:8",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 28:9",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 28:10",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 28:11",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 28:12",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 28:13",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 28:14",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 28:15",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 28:16",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Num 28:17",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 28:18",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 28:19",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 28:20",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 28:21",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 28:22",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 28:23",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 28:24",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 28:25",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 28:26",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Num 28:27",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 28:28",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 28:29",
+            "function": "specifications"
+        },
+        {
+            "ref": "Num 28:30",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Num 28:31",
+            "function": "ritual_instruction"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Instructions for the Festival Calendar and Daily Offerings",
+            "start": "Num 28:1",
+            "end": "Num 28:31",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

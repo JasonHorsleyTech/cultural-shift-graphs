@@ -1,0 +1,57 @@
+{
+    "book": "Psalms",
+    "chapter": 128,
+    "verses": [
+        {
+            "ref": "Psalm 128:1",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalm 128:2",
+            "function": "theological"
+        },
+        {
+            "ref": "Psalm 128:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 128:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Psalm 128:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 128:6",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Blessings for the Righteous",
+            "start": "Psalm 128:1",
+            "end": "Psalm 128:6",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

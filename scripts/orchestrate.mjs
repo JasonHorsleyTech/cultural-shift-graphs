@@ -104,10 +104,12 @@ function getProjects() {
       const dir = join(PROJECTS_DIR, d.name)
       const status = readFile(join(dir, 'status'))
       const priority = parseInt(readFile(join(dir, 'priority')) || '50')
+      const mode = readFile(join(dir, 'mode')) || 'cron'
       const question = readFile(join(dir, 'question.md'))
-      return { slug: d.name, dir, status, priority, question }
+      return { slug: d.name, dir, status, priority, mode, question }
     })
     .filter(p => p.status && p.status !== 'done' && p.status !== 'deploy')
+    .filter(p => p.mode === 'cron')
     .sort((a, b) => a.priority - b.priority)
 }
 

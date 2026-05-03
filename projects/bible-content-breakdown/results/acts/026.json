@@ -1,0 +1,185 @@
+{
+    "book": "Acts",
+    "chapter": 26,
+    "verses": [
+        {
+            "ref": "Acts 26:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 26:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 26:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 26:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 26:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 26:6",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Acts 26:7",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 26:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Acts 26:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 26:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 26:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 26:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 26:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 26:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 26:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 26:16",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Acts 26:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 26:18",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Acts 26:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 26:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 26:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 26:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 26:23",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 26:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 26:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 26:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 26:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 26:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 26:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 26:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 26:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 26:32",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Paul's Trial Before Festus and Presentation to Agrippa",
+            "start": "Acts 26:1",
+            "end": "Acts 26:32",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

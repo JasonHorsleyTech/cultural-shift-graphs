@@ -1,0 +1,241 @@
+{
+    "book": "Psalms",
+    "chapter": 68,
+    "verses": [
+        {
+            "ref": "Ps 68:1",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 68:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 68:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 68:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 68:5",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 68:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 68:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Ps 68:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 68:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 68:10",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ps 68:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ps 68:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Ps 68:13",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 68:14",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 68:15",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 68:16",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 68:17",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 68:18",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 68:19",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 68:20",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 68:21",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 68:22",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Ps 68:23",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ps 68:24",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Ps 68:25",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Ps 68:26",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 68:27",
+            "function": "catalog"
+        },
+        {
+            "ref": "Ps 68:28",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 68:29",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 68:30",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 68:31",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Ps 68:32",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 68:33",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 68:34",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 68:35",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Power and Victory",
+            "start": "Ps 68:1",
+            "end": "Ps 68:35",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 0.8
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

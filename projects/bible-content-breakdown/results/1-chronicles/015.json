@@ -1,0 +1,169 @@
+{
+    "book": "1 Chronicles",
+    "chapter": 15,
+    "verses": [
+        {
+            "ref": "1 Chr 15:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 15:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "1 Chr 15:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 15:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 15:5",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 15:6",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 15:7",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 15:8",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 15:9",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 15:10",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 15:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 15:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Chr 15:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Chr 15:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 15:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Chr 15:16",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Chr 15:17",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 15:18",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 15:19",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "1 Chr 15:20",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "1 Chr 15:21",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "1 Chr 15:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 15:23",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "1 Chr 15:24",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "1 Chr 15:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 15:26",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Chr 15:27",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Chr 15:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 15:29",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Bringing the Ark to Jerusalem",
+            "start": "1 Chr 15:1",
+            "end": "1 Chr 15:29",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

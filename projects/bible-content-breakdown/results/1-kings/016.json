@@ -1,0 +1,265 @@
+{
+    "book": "1 Kings",
+    "chapter": 16,
+    "verses": [
+        {
+            "ref": "1 Kgs 16:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 16:2",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Kgs 16:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Kgs 16:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Kgs 16:5",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kgs 16:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 16:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Kgs 16:8",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kgs 16:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 16:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 16:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 16:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Kgs 16:13",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kgs 16:14",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kgs 16:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Kgs 16:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 16:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 16:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 16:19",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kgs 16:20",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kgs 16:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 16:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 16:23",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kgs 16:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 16:25",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kgs 16:26",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kgs 16:27",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kgs 16:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 16:29",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Kgs 16:30",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Kgs 16:31",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Kgs 16:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Kgs 16:33",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Kgs 16:34",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Baasha's Rise to Power",
+            "start": "1 Kgs 16:1",
+            "end": "1 Kgs 16:7",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Elah's Assassination",
+            "start": "1 Kgs 16:8",
+            "end": "1 Kgs 16:14",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Zimri's Seven-Day Reign",
+            "start": "1 Kgs 16:15",
+            "end": "1 Kgs 16:20",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Omri's Rise to Power",
+            "start": "1 Kgs 16:21",
+            "end": "1 Kgs 16:28",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Ahab Becomes King",
+            "start": "1 Kgs 16:29",
+            "end": "1 Kgs 16:34",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

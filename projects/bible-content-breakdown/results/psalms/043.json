@@ -1,0 +1,57 @@
+{
+    "book": "Psalms",
+    "chapter": 43,
+    "verses": [
+        {
+            "ref": "Ps 43:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 43:2",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ps 43:3",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 43:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 43:5",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "A Prayer for Vindication and Restoration of Faith",
+            "start": "Ps 43:1",
+            "end": "Ps 43:5",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

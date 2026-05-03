@@ -1,0 +1,169 @@
+{
+    "book": "Jeremiah",
+    "chapter": 27,
+    "verses": [
+        {
+            "ref": "Jer 27:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 27:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jer 27:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 27:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 27:5",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 27:6",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 27:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 27:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 27:9",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 27:10",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Jer 27:11",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jer 27:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Jer 27:13",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 27:14",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 27:15",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 27:16",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Jer 27:17",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Jer 27:18",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 27:19",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 27:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 27:21",
+            "function": "theological"
+        },
+        {
+            "ref": "Jer 27:22",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jeremiah's Symbolic Act and Message of Submission to Babylon",
+            "start": "Jer 27:1",
+            "end": "Jer 27:22",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

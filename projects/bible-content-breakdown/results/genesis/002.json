@@ -1,0 +1,162 @@
+{
+    "book": "Genesis",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "Gen 2:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 2:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 2:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 2:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 2:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 2:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 2:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 2:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 2:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 2:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 2:11",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 2:12",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 2:13",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 2:14",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 2:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 2:16",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 2:17",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Gen 2:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 2:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 2:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 2:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 2:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 2:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 2:24",
+            "function": "sexual_marital",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 2:25",
+            "function": "narrative",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Creation of the World",
+            "start": "Gen 1:1",
+            "end": "Gen 2:3",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Adam and Eve in the Garden of Eden",
+            "start": "Gen 2:4",
+            "end": "Gen 2:25",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

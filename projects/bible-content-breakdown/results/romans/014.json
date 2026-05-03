@@ -1,0 +1,145 @@
+{
+    "book": "Romans",
+    "chapter": 14,
+    "verses": [
+        {
+            "ref": "Rom 14:1",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Rom 14:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Rom 14:3",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rom 14:4",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rom 14:5",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Rom 14:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 14:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 14:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 14:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 14:10",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Rom 14:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rom 14:12",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 14:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Rom 14:14",
+            "function": "theological",
+            "secondary": {
+                "function": "purity_dietary",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rom 14:15",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rom 14:16",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Rom 14:17",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 14:18",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 14:19",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Rom 14:20",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rom 14:21",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Rom 14:22",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Rom 14:23",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Do Not Judge Over Disputable Matters",
+            "start": "Rom 14:1",
+            "end": "Rom 14:23",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.8
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

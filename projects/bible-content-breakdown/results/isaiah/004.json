@@ -1,0 +1,53 @@
+{
+    "book": "Isaiah",
+    "chapter": 4,
+    "verses": [
+        {
+            "ref": "Isa 4:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 4:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 4:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 4:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 4:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 4:6",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Zion's Judgment and Restoration",
+            "start": "Isa 4:1",
+            "end": "Isa 4:6",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

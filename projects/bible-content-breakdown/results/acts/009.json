@@ -1,0 +1,267 @@
+{
+    "book": "Acts",
+    "chapter": 9,
+    "verses": [
+        {
+            "ref": "Acts 9:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 9:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 9:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 9:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 9:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 9:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Acts 9:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 9:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 9:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 9:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 9:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 9:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 9:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 9:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 9:15",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Acts 9:16",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Acts 9:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 9:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 9:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 9:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 9:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 9:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 9:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 9:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 9:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 9:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 9:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 9:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 9:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 9:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 9:31",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Acts 9:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 9:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 9:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 9:35",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 9:36",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Acts 9:37",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 9:38",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 9:39",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 9:40",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 9:41",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 9:42",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 9:43",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Conversion of Saul",
+            "start": "Acts 9:1",
+            "end": "Acts 9:30",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Peter Heals Aeneas",
+            "start": "Acts 9:32",
+            "end": "Acts 9:35",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                }
+            ]
+        },
+        {
+            "name": "Peter Raises Tabitha from the Dead",
+            "start": "Acts 9:36",
+            "end": "Acts 9:43",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

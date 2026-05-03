@@ -1,0 +1,169 @@
+{
+    "book": "Joshua",
+    "chapter": 6,
+    "verses": [
+        {
+            "ref": "Jos 6:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jos 6:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jos 6:3",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Jos 6:4",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jos 6:5",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Jos 6:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jos 6:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jos 6:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jos 6:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jos 6:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jos 6:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jos 6:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jos 6:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jos 6:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jos 6:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jos 6:16",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jos 6:17",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jos 6:18",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Jos 6:19",
+            "function": "specifications",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jos 6:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jos 6:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jos 6:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jos 6:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jos 6:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jos 6:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jos 6:26",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jos 6:27",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Siege and Fall of Jericho",
+            "start": "Jos 6:1",
+            "end": "Jos 6:27",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

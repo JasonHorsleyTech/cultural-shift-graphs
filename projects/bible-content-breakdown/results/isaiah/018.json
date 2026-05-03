@@ -1,0 +1,69 @@
+{
+    "book": "Isaiah",
+    "chapter": 18,
+    "verses": [
+        {
+            "ref": "Isa 18:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 18:2",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 18:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 18:4",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 18:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 18:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 18:7",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Oracle Against Cush and God's Sovereignty",
+            "start": "Isa 18:1",
+            "end": "Isa 18:7",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

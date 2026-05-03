@@ -1,0 +1,227 @@
+{
+    "book": "Isaiah",
+    "chapter": 43,
+    "verses": [
+        {
+            "ref": "Isa 43:1",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 43:2",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 43:3",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 43:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 43:5",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 43:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 43:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 43:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 43:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 43:10",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 43:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 43:12",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 43:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 43:14",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 43:15",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 43:16",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 43:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 43:18",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 43:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 43:20",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 43:21",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 43:22",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 43:23",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 43:24",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Isa 43:25",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 43:26",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 43:27",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 43:28",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Reassurance to Israel and Call to Witness",
+            "start": "Isa 43:1",
+            "end": "Isa 43:13",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "God's Promise of Babylon's Defeat and New Liberation",
+            "start": "Isa 43:14",
+            "end": "Isa 43:21",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Israel's Failure and God's Forgiveness",
+            "start": "Isa 43:22",
+            "end": "Isa 43:28",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

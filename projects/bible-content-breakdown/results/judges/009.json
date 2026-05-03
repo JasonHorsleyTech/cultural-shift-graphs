@@ -1,0 +1,281 @@
+{
+    "book": "Judges",
+    "chapter": 9,
+    "verses": [
+        {
+            "ref": "Judges 9:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 9:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 9:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 9:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 9:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 9:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 9:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 9:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 9:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Judges 9:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 9:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Judges 9:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 9:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Judges 9:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 9:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Judges 9:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 9:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 9:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 9:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Judges 9:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Judges 9:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 9:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 9:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Judges 9:24",
+            "function": "theological"
+        },
+        {
+            "ref": "Judges 9:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 9:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 9:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 9:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 9:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 9:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 9:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 9:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 9:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 9:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 9:35",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 9:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 9:37",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 9:38",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 9:39",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 9:40",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 9:41",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 9:42",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 9:43",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 9:44",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 9:45",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 9:46",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 9:47",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 9:48",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 9:49",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 9:50",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 9:51",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 9:52",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 9:53",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 9:54",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 9:55",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 9:56",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Judges 9:57",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Abimelech's Rise and Fall",
+            "start": "Judges 9:1",
+            "end": "Judges 9:57",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

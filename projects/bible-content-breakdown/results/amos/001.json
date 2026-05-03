@@ -1,0 +1,101 @@
+{
+    "book": "Amos",
+    "chapter": 1,
+    "verses": [
+        {
+            "ref": "Amos 1:1",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Amos 1:2",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Amos 1:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 1:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 1:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 1:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 1:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 1:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 1:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 1:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 1:11",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Amos 1:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 1:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 1:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 1:15",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Amos's Oracles Against the Nations",
+            "start": "Amos 1:1",
+            "end": "Amos 1:15",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

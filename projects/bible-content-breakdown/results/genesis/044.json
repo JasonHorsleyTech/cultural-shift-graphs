@@ -1,0 +1,181 @@
+{
+    "book": "Genesis",
+    "chapter": 44,
+    "verses": [
+        {
+            "ref": "Gen 44:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 44:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 44:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 44:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 44:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 44:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 44:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 44:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 44:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 44:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 44:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 44:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 44:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 44:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 44:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 44:16",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 44:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 44:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 44:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 44:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 44:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 44:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 44:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 44:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 44:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 44:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 44:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 44:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 44:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 44:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 44:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 44:32",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Gen 44:33",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Gen 44:34",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Judah Steps Forward",
+            "start": "Gen 44:1",
+            "end": "Gen 44:34",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

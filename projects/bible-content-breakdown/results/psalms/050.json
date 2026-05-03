@@ -1,0 +1,153 @@
+{
+    "book": "Psalms",
+    "chapter": 50,
+    "verses": [
+        {
+            "ref": "Ps 50:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 50:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 50:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 50:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 50:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 50:6",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 50:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 50:8",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 50:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 50:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 50:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 50:12",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 50:13",
+            "function": "theological",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 50:14",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ps 50:15",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 50:16",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Ps 50:17",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Ps 50:18",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Ps 50:19",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Ps 50:20",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Ps 50:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 50:22",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 50:23",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Judgment Oracle",
+            "start": "Ps 50:1",
+            "end": "Ps 50:23",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

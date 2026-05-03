@@ -1,0 +1,226 @@
+{
+    "book": "1 Chronicles",
+    "chapter": 4,
+    "verses": [
+        {
+            "ref": "1 Chr 4:1",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 4:2",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 4:3",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 4:4",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 4:5",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 4:6",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 4:7",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 4:8",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 4:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 4:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Chr 4:11",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 4:12",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 4:13",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 4:14",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 4:15",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 4:16",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 4:17",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 4:18",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 4:19",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 4:20",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 4:21",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 4:22",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Chr 4:23",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 4:24",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 4:25",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 4:26",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 4:27",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 4:28",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 4:29",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 4:30",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 4:31",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 4:32",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 4:33",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 4:34",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 4:35",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 4:36",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 4:37",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 4:38",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Chr 4:39",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 4:40",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 4:41",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 4:42",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 4:43",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jabez's Prayer",
+            "start": "1 Chr 4:9",
+            "end": "1 Chr 4:10",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Simeon's Territorial Expansion",
+            "start": "1 Chr 4:39",
+            "end": "1 Chr 4:43",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "courage",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

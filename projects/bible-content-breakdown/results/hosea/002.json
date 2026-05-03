@@ -1,0 +1,141 @@
+{
+    "book": "Hosea",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "Hos 2:1",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Hos 2:2",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Hos 2:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 2:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 2:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 2:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 2:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 2:8",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Hos 2:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 2:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 2:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 2:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 2:13",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Hos 2:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 2:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 2:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 2:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 2:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 2:19",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Hos 2:20",
+            "function": "theological"
+        },
+        {
+            "ref": "Hos 2:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 2:22",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hos 2:23",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Israel's Judgment and Restoration",
+            "start": "Hos 2:1",
+            "end": "Hos 2:23",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

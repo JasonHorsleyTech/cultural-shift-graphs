@@ -1,0 +1,181 @@
+{
+    "book": "Job",
+    "chapter": 33,
+    "verses": [
+        {
+            "ref": "Job 33:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 33:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 33:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 33:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 33:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 33:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 33:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 33:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 33:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 33:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 33:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 33:12",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 33:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 33:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 33:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 33:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 33:17",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 33:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 33:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 33:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 33:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 33:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 33:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 33:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 33:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 33:26",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 33:27",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 33:28",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 33:29",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 33:30",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 33:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 33:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 33:33",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Elihu's Address to Job",
+            "start": "Job 33:1",
+            "end": "Job 33:33",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

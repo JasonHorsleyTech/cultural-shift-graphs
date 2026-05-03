@@ -1,0 +1,97 @@
+{
+    "book": "Psalms",
+    "chapter": 79,
+    "verses": [
+        {
+            "ref": "Psalms 79:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 79:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 79:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 79:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 79:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 79:6",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Psalms 79:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 79:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 79:9",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Psalms 79:10",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Psalms 79:11",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalms 79:12",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Psalms 79:13",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Lament for Jerusalem's Destruction",
+            "start": "Psalms 79:1",
+            "end": "Psalms 79:13",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

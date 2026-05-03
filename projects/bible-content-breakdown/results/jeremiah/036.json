@@ -1,0 +1,173 @@
+{
+    "book": "Jeremiah",
+    "chapter": 36,
+    "verses": [
+        {
+            "ref": "Jer 36:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 36:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jer 36:3",
+            "function": "theological"
+        },
+        {
+            "ref": "Jer 36:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 36:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 36:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 36:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Jer 36:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 36:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 36:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 36:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 36:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jer 36:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 36:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 36:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 36:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 36:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 36:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 36:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 36:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 36:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 36:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 36:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 36:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 36:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 36:26",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jer 36:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 36:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 36:29",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jer 36:30",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 36:31",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 36:32",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jehoiakim Burns the Scroll",
+            "start": "Jer 36:1",
+            "end": "Jer 36:32",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

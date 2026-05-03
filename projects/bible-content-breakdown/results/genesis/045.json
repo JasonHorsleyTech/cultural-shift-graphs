@@ -1,0 +1,157 @@
+{
+    "book": "Genesis",
+    "chapter": 45,
+    "verses": [
+        {
+            "ref": "Gen 45:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 45:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 45:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 45:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 45:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Gen 45:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 45:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Gen 45:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Gen 45:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 45:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 45:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 45:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 45:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 45:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 45:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 45:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 45:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 45:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 45:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 45:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 45:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 45:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 45:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 45:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 45:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 45:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 45:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 45:28",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Joseph Reveals Himself to His Brothers and Reconciles with His Family",
+            "start": "Gen 45:1",
+            "end": "Gen 45:28",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

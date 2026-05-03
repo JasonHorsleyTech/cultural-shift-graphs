@@ -1,0 +1,117 @@
+{
+    "book": "Genesis",
+    "chapter": 20,
+    "verses": [
+        {
+            "ref": "Gen 20:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 20:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 20:3",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 20:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 20:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 20:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Gen 20:7",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 20:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 20:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 20:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 20:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 20:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Gen 20:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 20:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 20:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 20:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 20:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 20:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Abraham and Abimelech",
+            "start": "Gen 20:1",
+            "end": "Gen 20:18",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

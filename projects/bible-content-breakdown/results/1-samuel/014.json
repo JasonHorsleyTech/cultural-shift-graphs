@@ -1,0 +1,324 @@
+{
+    "book": "1 Samuel",
+    "chapter": 14,
+    "verses": [
+        {
+            "ref": "1 Sam 14:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 14:2",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Sam 14:3",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Sam 14:4",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Sam 14:5",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Sam 14:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Sam 14:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 14:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 14:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 14:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Sam 14:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 14:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 14:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 14:14",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Sam 14:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "1 Sam 14:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 14:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 14:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 14:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 14:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 14:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 14:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 14:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "1 Sam 14:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 14:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 14:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 14:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 14:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 14:29",
+            "function": "narrative",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Sam 14:30",
+            "function": "wisdom"
+        },
+        {
+            "ref": "1 Sam 14:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 14:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 14:33",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Sam 14:34",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Sam 14:35",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 14:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 14:37",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Sam 14:38",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 14:39",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 14:40",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 14:41",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Sam 14:42",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 14:43",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 14:44",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 14:45",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Sam 14:46",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 14:47",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 14:48",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 14:49",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Sam 14:50",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Sam 14:51",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Sam 14:52",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Jonathan's Daring Attack on the Philistines",
+            "start": "1 Sam 14:1",
+            "end": "1 Sam 14:23",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "courage",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Saul's Oath and the Blood Violation",
+            "start": "1 Sam 14:24",
+            "end": "1 Sam 14:35",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Saul's Investigation and Jonathan's Judgment",
+            "start": "1 Sam 14:36",
+            "end": "1 Sam 14:45",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "mercy",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Saul's Military Victories and Family",
+            "start": "1 Sam 14:46",
+            "end": "1 Sam 14:52",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

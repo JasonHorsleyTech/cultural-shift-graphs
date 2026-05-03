@@ -1,0 +1,246 @@
+{
+    "book": "Hebrews",
+    "chapter": 10,
+    "verses": [
+        {
+            "ref": "Heb 10:1",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 10:2",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 10:3",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 10:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 10:5",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Heb 10:6",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Heb 10:7",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Heb 10:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 10:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 10:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 10:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 10:12",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 10:13",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Heb 10:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 10:15",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 10:16",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Heb 10:17",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Heb 10:18",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 10:19",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Heb 10:20",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 10:21",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 10:22",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Heb 10:23",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Heb 10:24",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Heb 10:25",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Heb 10:26",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 10:27",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Heb 10:28",
+            "function": "theological",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Heb 10:29",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 10:30",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 10:31",
+            "function": "theological"
+        },
+        {
+            "ref": "Heb 10:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Heb 10:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Heb 10:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "Heb 10:35",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Heb 10:36",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Heb 10:37",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Heb 10:38",
+            "function": "prophecy",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Heb 10:39",
+            "function": "moral_instruction"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Superiority of Christ's Sacrifice",
+            "start": "Heb 10:1",
+            "end": "Heb 10:18",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Exhortation to Faithfulness in the New Covenant",
+            "start": "Heb 10:19",
+            "end": "Heb 10:39",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

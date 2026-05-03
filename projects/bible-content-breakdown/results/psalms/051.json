@@ -1,0 +1,125 @@
+{
+    "book": "Psalms",
+    "chapter": 51,
+    "verses": [
+        {
+            "ref": "Ps 51:1",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Ps 51:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 51:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 51:4",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 51:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 51:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 51:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 51:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 51:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 51:10",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 51:11",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 51:12",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 51:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 51:14",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 51:15",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 51:16",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 51:17",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 51:18",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 51:19",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "David's Repentance and Plea for Forgiveness",
+            "start": "Ps 51:1",
+            "end": "Ps 51:19",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

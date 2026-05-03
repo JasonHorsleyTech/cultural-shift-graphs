@@ -1,0 +1,145 @@
+{
+    "book": "Daniel",
+    "chapter": 9,
+    "verses": [
+        {
+            "ref": "Dan 9:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 9:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 9:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 9:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Dan 9:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Dan 9:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Dan 9:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Dan 9:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Dan 9:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Dan 9:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Dan 9:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Dan 9:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Dan 9:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Dan 9:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Dan 9:15",
+            "function": "theological"
+        },
+        {
+            "ref": "Dan 9:16",
+            "function": "theological"
+        },
+        {
+            "ref": "Dan 9:17",
+            "function": "theological"
+        },
+        {
+            "ref": "Dan 9:18",
+            "function": "theological"
+        },
+        {
+            "ref": "Dan 9:19",
+            "function": "theological"
+        },
+        {
+            "ref": "Dan 9:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 9:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 9:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 9:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 9:24",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 9:25",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 9:26",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 9:27",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Daniel's Prayer for Jerusalem and the Seventy Weeks Prophecy",
+            "start": "Dan 9:1",
+            "end": "Dan 9:27",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

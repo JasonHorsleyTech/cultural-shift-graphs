@@ -1,0 +1,109 @@
+{
+    "book": "Hosea",
+    "chapter": 9,
+    "verses": [
+        {
+            "ref": "Hosea 9:1",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Hosea 9:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hosea 9:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hosea 9:4",
+            "function": "prophecy",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Hosea 9:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hosea 9:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hosea 9:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hosea 9:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hosea 9:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hosea 9:10",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Hosea 9:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hosea 9:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hosea 9:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hosea 9:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hosea 9:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hosea 9:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Hosea 9:17",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Judgment Against Israel for Unfaithfulness",
+            "start": "Hosea 9:1",
+            "end": "Hosea 9:17",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

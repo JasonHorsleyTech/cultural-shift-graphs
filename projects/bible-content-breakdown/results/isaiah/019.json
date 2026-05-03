@@ -1,0 +1,157 @@
+{
+    "book": "Isaiah",
+    "chapter": 19,
+    "verses": [
+        {
+            "ref": "Isa 19:1",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 19:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 19:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 19:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 19:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 19:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 19:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 19:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 19:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 19:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 19:11",
+            "function": "prophecy",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 19:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 19:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 19:14",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 19:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 19:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 19:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 19:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 19:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 19:20",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 19:21",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 19:22",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 19:23",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 19:24",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 19:25",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Oracle Concerning Egypt",
+            "start": "Isa 19:1",
+            "end": "Isa 19:25",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

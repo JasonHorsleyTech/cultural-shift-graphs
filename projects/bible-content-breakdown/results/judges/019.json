@@ -1,0 +1,161 @@
+{
+    "book": "Judges",
+    "chapter": 19,
+    "verses": [
+        {
+            "ref": "Judges 19:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 19:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 19:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 19:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 19:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 19:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 19:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 19:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 19:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 19:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 19:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 19:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 19:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 19:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 19:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 19:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 19:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 19:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 19:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 19:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 19:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 19:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Judges 19:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 19:24",
+            "function": "narrative",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Judges 19:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 19:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 19:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 19:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 19:29",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Judges 19:30",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Crime at Gibeah",
+            "start": "Judges 19:1",
+            "end": "Judges 19:30",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

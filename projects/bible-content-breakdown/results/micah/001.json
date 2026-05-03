@@ -1,0 +1,105 @@
+{
+    "book": "Micah",
+    "chapter": 1,
+    "verses": [
+        {
+            "ref": "Mic 1:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mic 1:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mic 1:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mic 1:4",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Mic 1:5",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mic 1:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mic 1:7",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Mic 1:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mic 1:9",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mic 1:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mic 1:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mic 1:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mic 1:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mic 1:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mic 1:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mic 1:16",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Judgment Against Israel and Judah",
+            "start": "Mic 1:1",
+            "end": "Mic 1:16",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

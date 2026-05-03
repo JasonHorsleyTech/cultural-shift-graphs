@@ -1,0 +1,149 @@
+{
+    "book": "1 Samuel",
+    "chapter": 12,
+    "verses": [
+        {
+            "ref": "1 Sam 12:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 12:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 12:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "1 Sam 12:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 12:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 12:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 12:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 12:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 12:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Sam 12:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 12:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 12:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Sam 12:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 12:14",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Sam 12:15",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Sam 12:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 12:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "1 Sam 12:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 12:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 12:20",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Sam 12:21",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Sam 12:22",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Sam 12:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Sam 12:24",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Sam 12:25",
+            "function": "moral_instruction"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Samuel's Vindication and Warning",
+            "start": "1 Sam 12:1",
+            "end": "1 Sam 12:25",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

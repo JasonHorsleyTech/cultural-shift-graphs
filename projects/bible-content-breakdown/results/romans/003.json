@@ -1,0 +1,197 @@
+{
+    "book": "Romans",
+    "chapter": 3,
+    "verses": [
+        {
+            "ref": "Rom 3:1",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 3:2",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 3:3",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 3:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 3:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 3:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 3:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 3:8",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rom 3:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 3:10",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rom 3:11",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rom 3:12",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rom 3:13",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rom 3:14",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rom 3:15",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rom 3:16",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rom 3:17",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rom 3:18",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rom 3:19",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 3:20",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 3:21",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 3:22",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 3:23",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 3:24",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 3:25",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 3:26",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 3:27",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 3:28",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 3:29",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 3:30",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 3:31",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Righteousness Revealed Through Faith in Christ",
+            "start": "Rom 3:1",
+            "end": "Rom 3:31",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "book": "Isaiah",
+    "chapter": 33,
+    "verses": [
+        {
+            "ref": "Isa 33:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 33:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Isa 33:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 33:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 33:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 33:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 33:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 33:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 33:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 33:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 33:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 33:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 33:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 33:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 33:15",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Isa 33:16",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Isa 33:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 33:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 33:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 33:20",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 33:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 33:22",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 33:23",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 33:24",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Judgment of the Wicked and Restoration of Zion",
+            "start": "Isa 33:1",
+            "end": "Isa 33:24",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

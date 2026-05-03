@@ -1,0 +1,181 @@
+{
+    "book": "Psalms",
+    "chapter": 109,
+    "verses": [
+        {
+            "ref": "Ps 109:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 109:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 109:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 109:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 109:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 109:6",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 109:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ps 109:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ps 109:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ps 109:10",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 109:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ps 109:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ps 109:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ps 109:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ps 109:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ps 109:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 109:17",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Ps 109:18",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 109:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ps 109:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ps 109:21",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 109:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 109:23",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 109:24",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 109:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 109:26",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 109:27",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 109:28",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ps 109:29",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ps 109:30",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 109:31",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Imprecatory Prayer for Vindication",
+            "start": "Ps 109:1",
+            "end": "Ps 109:31",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

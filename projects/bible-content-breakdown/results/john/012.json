@@ -1,0 +1,373 @@
+{
+    "book": "John",
+    "chapter": 12,
+    "verses": [
+        {
+            "ref": "Jn 12:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 12:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 12:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 12:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 12:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 12:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 12:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Jn 12:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Jn 12:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 12:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 12:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 12:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 12:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jn 12:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 12:15",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jn 12:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 12:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 12:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 12:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 12:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 12:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 12:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 12:23",
+            "function": "theological"
+        },
+        {
+            "ref": "Jn 12:24",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jn 12:25",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jn 12:26",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jn 12:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 12:28",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Jn 12:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 12:30",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jn 12:31",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jn 12:32",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jn 12:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 12:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 12:35",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jn 12:36",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Jn 12:37",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 12:38",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jn 12:39",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Jn 12:40",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jn 12:41",
+            "function": "theological"
+        },
+        {
+            "ref": "Jn 12:42",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jn 12:43",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Jn 12:44",
+            "function": "theological"
+        },
+        {
+            "ref": "Jn 12:45",
+            "function": "theological"
+        },
+        {
+            "ref": "Jn 12:46",
+            "function": "theological"
+        },
+        {
+            "ref": "Jn 12:47",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jn 12:48",
+            "function": "theological"
+        },
+        {
+            "ref": "Jn 12:49",
+            "function": "theological"
+        },
+        {
+            "ref": "Jn 12:50",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Mary's Anointing at Bethany",
+            "start": "Jn 12:1",
+            "end": "Jn 12:8",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "sacrifice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "The Plot Against Lazarus",
+            "start": "Jn 12:9",
+            "end": "Jn 12:11",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.7
+                }
+            ]
+        },
+        {
+            "name": "The Triumphal Entry",
+            "start": "Jn 12:12",
+            "end": "Jn 12:19",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 0.6
+                }
+            ]
+        },
+        {
+            "name": "The Hour of Glorification",
+            "start": "Jn 12:20",
+            "end": "Jn 12:36",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "sacrifice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 0.7
+                }
+            ]
+        },
+        {
+            "name": "Unbelief and Judgment",
+            "start": "Jn 12:37",
+            "end": "Jn 12:50",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

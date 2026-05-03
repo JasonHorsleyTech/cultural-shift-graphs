@@ -1,0 +1,158 @@
+{
+    "book": "Romans",
+    "chapter": 5,
+    "verses": [
+        {
+            "ref": "Rom 5:1",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 5:2",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 5:3",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rom 5:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 5:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 5:6",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Rom 5:7",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Rom 5:8",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Rom 5:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 5:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 5:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 5:12",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rom 5:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 5:14",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Rom 5:15",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 5:16",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 5:17",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 5:18",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 5:19",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 5:20",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 5:21",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Justification and Peace Through Christ",
+            "start": "Rom 5:1",
+            "end": "Rom 5:11",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Adam's Sin and Christ's Obedience",
+            "start": "Rom 5:12",
+            "end": "Rom 5:21",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

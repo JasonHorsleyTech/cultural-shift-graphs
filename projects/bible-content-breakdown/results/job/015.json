@@ -1,0 +1,249 @@
+{
+    "book": "Job",
+    "chapter": 15,
+    "verses": [
+        {
+            "ref": "Job 15:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 15:2",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 15:3",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 15:4",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 15:5",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 15:6",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Job 15:7",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 15:8",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 15:9",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 15:10",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 15:11",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 15:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 15:13",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Job 15:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 15:15",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 15:16",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 15:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 15:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 15:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 15:20",
+            "function": "prophecy",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 15:21",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 15:22",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 15:23",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 15:24",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 15:25",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 15:26",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 15:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 15:28",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 15:29",
+            "function": "prophecy",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 15:30",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 15:31",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 15:32",
+            "function": "prophecy",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Job 15:33",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 15:34",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 15:35",
+            "function": "wisdom"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Eliphaz Defends the Traditional Doctrine of Retribution",
+            "start": "Job 15:1",
+            "end": "Job 15:35",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

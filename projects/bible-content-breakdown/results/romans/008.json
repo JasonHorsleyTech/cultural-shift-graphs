@@ -1,0 +1,233 @@
+{
+    "book": "Romans",
+    "chapter": 8,
+    "verses": [
+        {
+            "ref": "Rom 8:1",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 8:2",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 8:3",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 8:4",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rom 8:5",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Rom 8:6",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Rom 8:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 8:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 8:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 8:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 8:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 8:12",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Rom 8:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Rom 8:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 8:15",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 8:16",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 8:17",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 8:18",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rom 8:19",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 8:20",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 8:21",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 8:22",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Rom 8:23",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Rom 8:24",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Rom 8:25",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Rom 8:26",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 8:27",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 8:28",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Rom 8:29",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 8:30",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 8:31",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 8:32",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 8:33",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 8:34",
+            "function": "theological"
+        },
+        {
+            "ref": "Rom 8:35",
+            "function": "theological",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "Rom 8:36",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Rom 8:37",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Rom 8:38",
+            "function": "theological",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "Rom 8:39",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Freedom in Christ and the Spirit's Assurance",
+            "start": "Rom 8:1",
+            "end": "Rom 8:39",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

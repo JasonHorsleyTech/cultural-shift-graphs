@@ -1,0 +1,113 @@
+{
+    "book": "Ezra",
+    "chapter": 9,
+    "verses": [
+        {
+            "ref": "Ezra 9:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezra 9:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezra 9:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezra 9:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezra 9:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezra 9:6",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ezra 9:7",
+            "function": "theological",
+            "secondary": {
+                "function": "consequences",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezra 9:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Ezra 9:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Ezra 9:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Ezra 9:11",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ezra 9:12",
+            "function": "sexual_marital",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezra 9:13",
+            "function": "theological",
+            "secondary": {
+                "function": "consequences",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezra 9:14",
+            "function": "theological",
+            "secondary": {
+                "function": "consequences",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ezra 9:15",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Ezra Intercedes for Israel's Unfaithfulness",
+            "start": "Ezra 9:1",
+            "end": "Ezra 9:15",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,169 @@
+{
+    "book": "1 Chronicles",
+    "chapter": 24,
+    "verses": [
+        {
+            "ref": "1 Chronicles 24:1",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chronicles 24:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chronicles 24:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Chronicles 24:4",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chronicles 24:5",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Chronicles 24:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Chronicles 24:7",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chronicles 24:8",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chronicles 24:9",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chronicles 24:10",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chronicles 24:11",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chronicles 24:12",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chronicles 24:13",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chronicles 24:14",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chronicles 24:15",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chronicles 24:16",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chronicles 24:17",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chronicles 24:18",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chronicles 24:19",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Chronicles 24:20",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chronicles 24:21",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chronicles 24:22",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chronicles 24:23",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chronicles 24:24",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chronicles 24:25",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chronicles 24:26",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chronicles 24:27",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chronicles 24:28",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chronicles 24:29",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chronicles 24:30",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chronicles 24:31",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.5
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Organization of Priestly and Levite Divisions",
+            "start": "1 Chronicles 24:1",
+            "end": "1 Chronicles 24:31",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 0.9
+                }
+            ]
+        }
+    ]
+}

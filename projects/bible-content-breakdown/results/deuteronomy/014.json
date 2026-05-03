@@ -1,0 +1,178 @@
+{
+    "book": "Deuteronomy",
+    "chapter": 14,
+    "verses": [
+        {
+            "ref": "Deut 14:1",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Deut 14:2",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 14:3",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Deut 14:4",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Deut 14:5",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Deut 14:6",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Deut 14:7",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Deut 14:8",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Deut 14:9",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Deut 14:10",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Deut 14:11",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Deut 14:12",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Deut 14:13",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Deut 14:14",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Deut 14:15",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Deut 14:16",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Deut 14:17",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Deut 14:18",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Deut 14:19",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Deut 14:20",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Deut 14:21",
+            "function": "purity_dietary",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 14:22",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 14:23",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 14:24",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 14:25",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 14:26",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 14:27",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 14:28",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Deut 14:29",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.4
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Dietary Purity Laws",
+            "start": "Deut 14:1",
+            "end": "Deut 14:21",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Tithing and Care for the Vulnerable",
+            "start": "Deut 14:22",
+            "end": "Deut 14:29",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "generosity",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

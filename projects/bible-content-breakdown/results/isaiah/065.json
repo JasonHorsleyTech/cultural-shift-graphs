@@ -1,0 +1,191 @@
+{
+    "book": "Isaiah",
+    "chapter": 65,
+    "verses": [
+        {
+            "ref": "Isa 65:1",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 65:2",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 65:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Isa 65:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "purity_dietary",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Isa 65:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 65:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 65:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 65:8",
+            "function": "prophecy",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Isa 65:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 65:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 65:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 65:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 65:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 65:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 65:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 65:16",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 65:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 65:18",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Isa 65:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 65:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 65:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 65:22",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 65:23",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 65:24",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 65:25",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God Judges the Rebellious",
+            "start": "Isa 65:1",
+            "end": "Isa 65:7",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Promise to the Remnant and Judgment on the Unfaithful",
+            "start": "Isa 65:8",
+            "end": "Isa 65:15",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.2
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The New Creation",
+            "start": "Isa 65:16",
+            "end": "Isa 65:25",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,242 @@
+{
+    "book": "Jeremiah",
+    "chapter": 23,
+    "verses": [
+        {
+            "ref": "Jer 23:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 23:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 23:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 23:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 23:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 23:6",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 23:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 23:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 23:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 23:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 23:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 23:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 23:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 23:14",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jer 23:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 23:16",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 23:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 23:18",
+            "function": "theological"
+        },
+        {
+            "ref": "Jer 23:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 23:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 23:21",
+            "function": "theological"
+        },
+        {
+            "ref": "Jer 23:22",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Jer 23:23",
+            "function": "theological"
+        },
+        {
+            "ref": "Jer 23:24",
+            "function": "theological"
+        },
+        {
+            "ref": "Jer 23:25",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jer 23:26",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 23:27",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 23:28",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jer 23:29",
+            "function": "theological"
+        },
+        {
+            "ref": "Jer 23:30",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 23:31",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 23:32",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 23:33",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Jer 23:34",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 23:35",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Jer 23:36",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Jer 23:37",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Jer 23:38",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 23:39",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 23:40",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Promise of Good Leaders and Restoration",
+            "start": "Jer 23:1",
+            "end": "Jer 23:8",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "God's Judgment on False Prophets",
+            "start": "Jer 23:9",
+            "end": "Jer 23:40",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "hypocrisy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

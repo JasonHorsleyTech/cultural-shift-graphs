@@ -1,0 +1,174 @@
+{
+    "book": "2 Samuel",
+    "chapter": 16,
+    "verses": [
+        {
+            "ref": "2 Sam 16:1",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Sam 16:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 16:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 16:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "2 Sam 16:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 16:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 16:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 16:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "2 Sam 16:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 16:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Sam 16:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "2 Sam 16:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Sam 16:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 16:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 16:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 16:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 16:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 16:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "2 Sam 16:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 16:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 16:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.45
+            }
+        },
+        {
+            "ref": "2 Sam 16:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "2 Sam 16:23",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "David's Flight from Jerusalem",
+            "start": "2 Sam 16:1",
+            "end": "2 Sam 16:14",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "humility",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Absalom's Rebellion",
+            "start": "2 Sam 16:15",
+            "end": "2 Sam 16:23",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 1.8
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 1.2
+                }
+            ]
+        }
+    ]
+}

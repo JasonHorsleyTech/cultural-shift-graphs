@@ -1,0 +1,255 @@
+{
+    "book": "Mark",
+    "chapter": 7,
+    "verses": [
+        {
+            "ref": "Mark 7:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 7:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 7:3",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Mark 7:4",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Mark 7:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 7:6",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Mark 7:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mark 7:8",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Mark 7:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Mark 7:10",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Mark 7:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 7:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 7:13",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mark 7:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 7:15",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Mark 7:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 7:18",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Mark 7:19",
+            "function": "theological",
+            "secondary": {
+                "function": "purity_dietary",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Mark 7:20",
+            "function": "theological"
+        },
+        {
+            "ref": "Mark 7:21",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Mark 7:22",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Mark 7:23",
+            "function": "theological"
+        },
+        {
+            "ref": "Mark 7:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 7:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 7:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 7:27",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mark 7:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 7:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 7:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 7:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 7:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 7:33",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Mark 7:34",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Mark 7:35",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 7:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 7:37",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Debate over Defilement",
+            "start": "Mark 7:1",
+            "end": "Mark 7:23",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "hypocrisy",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Syrophoenician Woman",
+            "start": "Mark 7:24",
+            "end": "Mark 7:30",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Healing of the Deaf and Mute Man",
+            "start": "Mark 7:31",
+            "end": "Mark 7:37",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

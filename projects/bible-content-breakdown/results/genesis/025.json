@@ -1,0 +1,239 @@
+{
+    "book": "Genesis",
+    "chapter": 25,
+    "verses": [
+        {
+            "ref": "Gen 25:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 25:2",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 25:3",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 25:4",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 25:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Gen 25:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 25:7",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 25:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 25:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 25:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Gen 25:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 25:12",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 25:13",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 25:14",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 25:15",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 25:16",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 25:17",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 25:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 25:19",
+            "function": "catalog"
+        },
+        {
+            "ref": "Gen 25:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 25:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 25:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 25:23",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Gen 25:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 25:25",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 25:26",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 25:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 25:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 25:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 25:30",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Gen 25:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 25:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Gen 25:33",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Gen 25:34",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Abraham's Final Days and Isaac's Succession",
+            "start": "Gen 25:1",
+            "end": "Gen 25:11",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Ishmael's Line Established",
+            "start": "Gen 25:12",
+            "end": "Gen 25:18",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Isaac's Sons: Birth and Early Conflict",
+            "start": "Gen 25:19",
+            "end": "Gen 25:34",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

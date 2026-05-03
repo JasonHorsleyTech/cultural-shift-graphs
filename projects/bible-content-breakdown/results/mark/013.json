@@ -1,0 +1,213 @@
+{
+    "book": "Mark",
+    "chapter": 13,
+    "verses": [
+        {
+            "ref": "Mark 13:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 13:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mark 13:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 13:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mark 13:5",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Mark 13:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mark 13:7",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Mark 13:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mark 13:9",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mark 13:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mark 13:11",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mark 13:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mark 13:13",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Mark 13:14",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mark 13:15",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Mark 13:16",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Mark 13:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mark 13:18",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Mark 13:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mark 13:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mark 13:21",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Mark 13:22",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mark 13:23",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Mark 13:24",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mark 13:25",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mark 13:26",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mark 13:27",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mark 13:28",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Mark 13:29",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mark 13:30",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mark 13:31",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Mark 13:32",
+            "function": "theological"
+        },
+        {
+            "ref": "Mark 13:33",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Mark 13:34",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Mark 13:35",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Mark 13:36",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Mark 13:37",
+            "function": "moral_instruction"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Olivet Discourse: Signs and Watchfulness",
+            "start": "Mark 13:1",
+            "end": "Mark 13:37",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

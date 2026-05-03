@@ -1,0 +1,237 @@
+{
+    "book": "Joshua",
+    "chapter": 10,
+    "verses": [
+        {
+            "ref": "Josh 10:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 10:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 10:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 10:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 10:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 10:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 10:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 10:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Josh 10:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 10:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Josh 10:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Josh 10:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Josh 10:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 10:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Josh 10:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 10:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 10:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 10:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 10:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Josh 10:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 10:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 10:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 10:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 10:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 10:25",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Josh 10:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 10:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 10:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 10:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 10:30",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Josh 10:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 10:32",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Josh 10:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 10:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 10:35",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 10:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 10:37",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 10:38",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 10:39",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 10:40",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Josh 10:41",
+            "function": "narrative"
+        },
+        {
+            "ref": "Josh 10:42",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Josh 10:43",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Defeat of the Five Amorite Kings",
+            "start": "Josh 10:1",
+            "end": "Josh 10:43",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

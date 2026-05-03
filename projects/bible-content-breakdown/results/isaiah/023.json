@@ -1,0 +1,125 @@
+{
+    "book": "Isaiah",
+    "chapter": 23,
+    "verses": [
+        {
+            "ref": "Isa 23:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 23:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 23:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 23:4",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 23:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 23:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 23:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 23:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 23:9",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Isa 23:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 23:11",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 23:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 23:13",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 23:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 23:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 23:16",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Isa 23:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 23:18",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Oracle Against Tyre",
+            "start": "Isa 23:1",
+            "end": "Isa 23:18",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

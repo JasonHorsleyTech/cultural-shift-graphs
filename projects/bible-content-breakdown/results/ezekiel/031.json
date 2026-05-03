@@ -1,0 +1,113 @@
+{
+    "book": "Ezekiel",
+    "chapter": 31,
+    "verses": [
+        {
+            "ref": "Ezek 31:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 31:2",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ezek 31:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 31:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 31:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 31:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 31:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 31:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 31:9",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ezek 31:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 31:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 31:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 31:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 31:14",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ezek 31:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 31:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 31:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 31:18",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Judgment on Egypt",
+            "start": "Ezek 31:1",
+            "end": "Ezek 31:18",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

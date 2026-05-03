@@ -1,0 +1,208 @@
+{
+    "book": "Matthew",
+    "chapter": 17,
+    "verses": [
+        {
+            "ref": "Matt 17:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 17:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 17:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 17:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 17:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Matt 17:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 17:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 17:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 17:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 17:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 17:11",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 17:12",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Matt 17:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 17:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 17:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 17:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 17:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 17:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 17:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 17:20",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 17:22",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Matt 17:23",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 17:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 17:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Matt 17:26",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Matt 17:27",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Transfiguration",
+            "start": "Matt 17:1",
+            "end": "Matt 17:13",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Healing of the Demon-Possessed Boy",
+            "start": "Matt 17:14",
+            "end": "Matt 17:20",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Prediction of Jesus' Death and Resurrection",
+            "start": "Matt 17:22",
+            "end": "Matt 17:23",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Temple Tax",
+            "start": "Matt 17:24",
+            "end": "Matt 17:27",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                }
+            ]
+        }
+    ]
+}

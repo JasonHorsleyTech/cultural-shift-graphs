@@ -1,0 +1,183 @@
+{
+    "book": "Ezekiel",
+    "chapter": 11,
+    "verses": [
+        {
+            "ref": "Ezek 11:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 11:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 11:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 11:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 11:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ezek 11:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 11:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 11:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 11:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 11:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 11:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 11:12",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezek 11:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezek 11:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 11:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 11:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 11:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 11:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 11:19",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Ezek 11:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 11:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 11:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 11:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 11:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 11:25",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Judgment Against Jerusalem's Wicked Leaders",
+            "start": "Ezek 11:1",
+            "end": "Ezek 11:13",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Promise of Restoration and Return",
+            "start": "Ezek 11:14",
+            "end": "Ezek 11:21",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "The Departure of God's Glory from the Temple",
+            "start": "Ezek 11:22",
+            "end": "Ezek 11:25",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

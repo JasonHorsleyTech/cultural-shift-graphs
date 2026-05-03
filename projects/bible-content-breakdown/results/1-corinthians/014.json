@@ -1,0 +1,217 @@
+{
+    "book": "1 Corinthians",
+    "chapter": 14,
+    "verses": [
+        {
+            "ref": "1 Cor 14:1",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Cor 14:2",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 14:3",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 14:4",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Cor 14:5",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Cor 14:6",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Cor 14:7",
+            "function": "wisdom"
+        },
+        {
+            "ref": "1 Cor 14:8",
+            "function": "wisdom"
+        },
+        {
+            "ref": "1 Cor 14:9",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Cor 14:10",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 14:11",
+            "function": "wisdom"
+        },
+        {
+            "ref": "1 Cor 14:12",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Cor 14:13",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "1 Cor 14:14",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 14:15",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Cor 14:16",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Cor 14:17",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Cor 14:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Cor 14:19",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Cor 14:20",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Cor 14:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "1 Cor 14:22",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 14:23",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Cor 14:24",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Cor 14:25",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Cor 14:26",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Cor 14:27",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "1 Cor 14:28",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "1 Cor 14:29",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "1 Cor 14:30",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "1 Cor 14:31",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Cor 14:32",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Cor 14:33",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 14:34",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "1 Cor 14:35",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "1 Cor 14:36",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Cor 14:37",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Cor 14:38",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Cor 14:39",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "1 Cor 14:40",
+            "function": "moral_instruction"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Paul's Teaching on Spiritual Gifts in Corporate Worship",
+            "start": "1 Cor 14:1",
+            "end": "1 Cor 14:40",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

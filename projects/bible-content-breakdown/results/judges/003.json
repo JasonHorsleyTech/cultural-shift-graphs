@@ -1,0 +1,228 @@
+{
+    "book": "Judges",
+    "chapter": 3,
+    "verses": [
+        {
+            "ref": "Judges 3:1",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Judges 3:2",
+            "function": "theological"
+        },
+        {
+            "ref": "Judges 3:3",
+            "function": "catalog"
+        },
+        {
+            "ref": "Judges 3:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Judges 3:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 3:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Judges 3:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 3:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 3:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 3:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Judges 3:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 3:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 3:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 3:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 3:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 3:16",
+            "function": "specifications",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Judges 3:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 3:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 3:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 3:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 3:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 3:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 3:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 3:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 3:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 3:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 3:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 3:28",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Judges 3:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 3:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Judges 3:31",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Test: Why the Nations Were Left",
+            "start": "Judges 3:1",
+            "end": "Judges 3:4",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Othniel Delivers Israel from Cushan-Rishathaim",
+            "start": "Judges 3:5",
+            "end": "Judges 3:11",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Ehud Kills Eglon and Delivers Israel from Moab",
+            "start": "Judges 3:12",
+            "end": "Judges 3:30",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Shamgar Delivers Israel from the Philistines",
+            "start": "Judges 3:31",
+            "end": "Judges 3:31",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

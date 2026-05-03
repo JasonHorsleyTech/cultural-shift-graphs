@@ -1,0 +1,129 @@
+{
+    "book": "Proverbs",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "Prov 2:1",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 2:2",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 2:3",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 2:4",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 2:5",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 2:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Prov 2:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Prov 2:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Prov 2:9",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 2:10",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 2:11",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 2:12",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 2:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 2:14",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 2:15",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 2:16",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 2:17",
+            "function": "sexual_marital",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 2:18",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 2:19",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 2:20",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 2:21",
+            "function": "theological"
+        },
+        {
+            "ref": "Prov 2:22",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Path to Wisdom",
+            "start": "Prov 2:1",
+            "end": "Prov 2:22",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.8
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "book": "Joshua",
+    "chapter": 4,
+    "verses": [
+        {
+            "ref": "Joshua 4:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Joshua 4:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Joshua 4:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "Joshua 4:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Joshua 4:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Joshua 4:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Joshua 4:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Joshua 4:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Joshua 4:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Joshua 4:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Joshua 4:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Joshua 4:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Joshua 4:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Joshua 4:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Joshua 4:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Joshua 4:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Joshua 4:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Joshua 4:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Joshua 4:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "Joshua 4:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Joshua 4:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Joshua 4:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Joshua 4:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Joshua 4:24",
+            "function": "theological"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Crossing the Jordan and the Memorial Stones",
+            "start": "Joshua 4:1",
+            "end": "Joshua 4:24",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

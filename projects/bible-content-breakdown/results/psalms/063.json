@@ -1,0 +1,81 @@
+{
+    "book": "Psalms",
+    "chapter": 63,
+    "verses": [
+        {
+            "ref": "Psalm 63:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 63:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 63:3",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalm 63:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 63:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 63:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 63:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 63:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 63:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Psalm 63:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Psalm 63:11",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "David Seeking God in the Wilderness",
+            "start": "Psalm 63:1",
+            "end": "Psalm 63:11",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

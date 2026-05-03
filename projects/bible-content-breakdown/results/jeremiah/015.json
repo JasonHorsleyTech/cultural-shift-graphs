@@ -1,0 +1,142 @@
+{
+    "book": "Jeremiah",
+    "chapter": 15,
+    "verses": [
+        {
+            "ref": "Jer 15:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 15:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 15:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 15:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 15:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 15:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 15:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 15:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 15:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 15:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Jer 15:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 15:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 15:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 15:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 15:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Jer 15:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 15:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Jer 15:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Jer 15:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 15:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Jer 15:21",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Judgment Against Judah",
+            "start": "Jer 15:1",
+            "end": "Jer 15:14",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Jeremiah's Prayer and God's Promise",
+            "start": "Jer 15:15",
+            "end": "Jer 15:21",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

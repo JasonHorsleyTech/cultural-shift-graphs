@@ -1,0 +1,101 @@
+{
+    "book": "Amos",
+    "chapter": 4,
+    "verses": [
+        {
+            "ref": "Amos 4:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 4:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 4:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 4:4",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Amos 4:5",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Amos 4:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 4:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 4:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 4:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 4:10",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Amos 4:11",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Amos 4:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Amos 4:13",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Judgment on Israel's Injustice and Hypocrisy",
+            "start": "Amos 4:1",
+            "end": "Amos 4:13",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

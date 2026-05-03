@@ -1,0 +1,182 @@
+{
+    "book": "Ezra",
+    "chapter": 6,
+    "verses": [
+        {
+            "ref": "Ezra 6:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezra 6:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezra 6:3",
+            "function": "specifications",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezra 6:4",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ezra 6:5",
+            "function": "specifications",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ezra 6:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ezra 6:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ezra 6:8",
+            "function": "civil_law",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezra 6:9",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezra 6:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Ezra 6:11",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Ezra 6:12",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezra 6:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezra 6:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ezra 6:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezra 6:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezra 6:17",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezra 6:18",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezra 6:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ezra 6:20",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Ezra 6:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ezra 6:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Opposition to the Temple Rebuilding",
+            "start": "Ezra 6:1",
+            "end": "Ezra 6:15",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Temple Dedication and Passover Celebration",
+            "start": "Ezra 6:16",
+            "end": "Ezra 6:22",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "redemption",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "book": "Leviticus",
+    "chapter": 10,
+    "verses": [
+        {
+            "ref": "Lev 10:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 10:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 10:3",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 10:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 10:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 10:6",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 10:7",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lev 10:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 10:9",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 10:10",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 10:11",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 10:12",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 10:13",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 10:14",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 10:15",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 10:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 10:17",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 10:18",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 10:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 10:20",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Nadab and Abihu's Unauthorized Offering",
+            "start": "Lev 10:1",
+            "end": "Lev 10:7",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                }
+            ]
+        },
+        {
+            "name": "Priestly Instructions for Aaron",
+            "start": "Lev 10:8",
+            "end": "Lev 10:15",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Sin Offering Dispute",
+            "start": "Lev 10:16",
+            "end": "Lev 10:20",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

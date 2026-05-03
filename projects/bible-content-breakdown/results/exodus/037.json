@@ -1,0 +1,157 @@
+{
+    "book": "Exodus",
+    "chapter": 37,
+    "verses": [
+        {
+            "ref": "Ex 37:1",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 37:2",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 37:3",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 37:4",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 37:5",
+            "function": "specifications",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ex 37:6",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 37:7",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 37:8",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 37:9",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 37:10",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 37:11",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 37:12",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 37:13",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 37:14",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 37:15",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 37:16",
+            "function": "specifications",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ex 37:17",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 37:18",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 37:19",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 37:20",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 37:21",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 37:22",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 37:23",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 37:24",
+            "function": "specifications",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ex 37:25",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 37:26",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 37:27",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 37:28",
+            "function": "specifications"
+        },
+        {
+            "ref": "Ex 37:29",
+            "function": "specifications",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.4
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Construction of the Tabernacle",
+            "start": "Ex 37:1",
+            "end": "Ex 37:29",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

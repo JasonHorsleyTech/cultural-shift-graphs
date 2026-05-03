@@ -1,0 +1,137 @@
+{
+    "book": "Malachi",
+    "chapter": 2,
+    "verses": [
+        {
+            "ref": "Mal 2:1",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Mal 2:2",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Mal 2:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mal 2:4",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mal 2:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Mal 2:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Mal 2:7",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Mal 2:8",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mal 2:9",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mal 2:10",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Mal 2:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mal 2:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mal 2:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Mal 2:14",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "sexual_marital",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Mal 2:15",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Mal 2:16",
+            "function": "sexual_marital",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Mal 2:17",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Prophetic Indictment of Priests and People",
+            "start": "Mal 2:1",
+            "end": "Mal 2:17",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

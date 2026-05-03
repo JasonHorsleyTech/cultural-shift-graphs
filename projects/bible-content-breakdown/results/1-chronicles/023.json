@@ -1,0 +1,177 @@
+{
+    "book": "1 Chronicles",
+    "chapter": 23,
+    "verses": [
+        {
+            "ref": "1 Chr 23:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 23:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 23:3",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 23:4",
+            "function": "specifications",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Chr 23:5",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Chr 23:6",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Chr 23:7",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 23:8",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 23:9",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 23:10",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 23:11",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 23:12",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 23:13",
+            "function": "catalog",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Chr 23:14",
+            "function": "catalog",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Chr 23:15",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 23:16",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 23:17",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 23:18",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 23:19",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 23:20",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 23:21",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 23:22",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 23:23",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 23:24",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 23:25",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "1 Chr 23:26",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Chr 23:27",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 23:28",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "1 Chr 23:29",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Chr 23:30",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "1 Chr 23:31",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "1 Chr 23:32",
+            "function": "ritual_instruction"
+        }
+    ],
+    "stories": [
+        {
+            "name": "David's Preparation for Solomon's Succession",
+            "start": "1 Chr 23:1",
+            "end": "1 Chr 23:32",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

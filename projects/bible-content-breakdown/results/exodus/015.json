@@ -1,0 +1,170 @@
+{
+    "book": "Exodus",
+    "chapter": 15,
+    "verses": [
+        {
+            "ref": "Exo 15:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 15:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Exo 15:3",
+            "function": "theological"
+        },
+        {
+            "ref": "Exo 15:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Exo 15:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Exo 15:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Exo 15:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Exo 15:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Exo 15:9",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Exo 15:10",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Exo 15:11",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exo 15:12",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Exo 15:13",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exo 15:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Exo 15:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Exo 15:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Exo 15:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Exo 15:18",
+            "function": "theological"
+        },
+        {
+            "ref": "Exo 15:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exo 15:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 15:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 15:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 15:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 15:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 15:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 15:26",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exo 15:27",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Red Sea Victory Song",
+            "start": "Exo 15:1",
+            "end": "Exo 15:21",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Testing at Marah",
+            "start": "Exo 15:22",
+            "end": "Exo 15:27",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

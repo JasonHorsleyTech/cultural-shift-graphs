@@ -1,0 +1,149 @@
+{
+    "book": "Psalms",
+    "chapter": 71,
+    "verses": [
+        {
+            "ref": "Ps 71:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 71:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 71:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 71:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 71:5",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 71:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 71:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 71:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 71:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 71:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Ps 71:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Ps 71:12",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 71:13",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 71:14",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 71:15",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 71:16",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 71:17",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 71:18",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 71:19",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Ps 71:20",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 71:21",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 71:22",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 71:23",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 71:24",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Prayer for Protection and Vindication",
+            "start": "Ps 71:1",
+            "end": "Ps 71:24",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

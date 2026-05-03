@@ -1,0 +1,250 @@
+{
+    "book": "Proverbs",
+    "chapter": 6,
+    "verses": [
+        {
+            "ref": "Prov 6:1",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 6:2",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 6:3",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 6:4",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 6:5",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 6:6",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 6:7",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 6:8",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 6:9",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 6:10",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 6:11",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 6:12",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 6:13",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 6:14",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 6:15",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 6:16",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Prov 6:17",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 6:18",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 6:19",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 6:20",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 6:21",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 6:22",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 6:23",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 6:24",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 6:25",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Prov 6:26",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Prov 6:27",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 6:28",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 6:29",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Prov 6:30",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 6:31",
+            "function": "civil_law",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 6:32",
+            "function": "sexual_marital",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 6:33",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Prov 6:34",
+            "function": "sexual_marital"
+        },
+        {
+            "ref": "Prov 6:35",
+            "function": "sexual_marital"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Avoiding Foolish Pledges",
+            "start": "Prov 6:1",
+            "end": "Prov 6:5",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "The Ant's Lesson on Diligence",
+            "start": "Prov 6:6",
+            "end": "Prov 6:11",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "The Fool's Destruction",
+            "start": "Prov 6:12",
+            "end": "Prov 6:15",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Seven Things God Hates",
+            "start": "Prov 6:16",
+            "end": "Prov 6:19",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Guard Parental Commands",
+            "start": "Prov 6:20",
+            "end": "Prov 6:24",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "The Danger of Adultery",
+            "start": "Prov 6:25",
+            "end": "Prov 6:35",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "sexual_purity",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

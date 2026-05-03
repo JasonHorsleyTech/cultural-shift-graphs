@@ -1,0 +1,173 @@
+{
+    "book": "Psalms",
+    "chapter": 35,
+    "verses": [
+        {
+            "ref": "Ps 35:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 35:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 35:3",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 35:4",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 35:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 35:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 35:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 35:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 35:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 35:10",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Ps 35:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 35:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 35:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 35:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 35:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 35:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 35:17",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 35:18",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 35:19",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 35:20",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 35:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 35:22",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 35:23",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 35:24",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 35:25",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 35:26",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 35:27",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 35:28",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "David's Prayer for Deliverance from Unjust Enemies",
+            "start": "Ps 35:1",
+            "end": "Ps 35:28",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

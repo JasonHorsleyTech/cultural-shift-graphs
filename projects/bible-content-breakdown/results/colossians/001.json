@@ -1,0 +1,244 @@
+{
+    "book": "Colossians",
+    "chapter": 1,
+    "verses": [
+        {
+            "ref": "Col 1:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Col 1:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Col 1:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Col 1:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Col 1:5",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Col 1:6",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Col 1:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Col 1:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Col 1:9",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Col 1:10",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Col 1:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Col 1:12",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Col 1:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Col 1:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Col 1:15",
+            "function": "theological"
+        },
+        {
+            "ref": "Col 1:16",
+            "function": "theological"
+        },
+        {
+            "ref": "Col 1:17",
+            "function": "theological"
+        },
+        {
+            "ref": "Col 1:18",
+            "function": "theological"
+        },
+        {
+            "ref": "Col 1:19",
+            "function": "theological"
+        },
+        {
+            "ref": "Col 1:20",
+            "function": "theological"
+        },
+        {
+            "ref": "Col 1:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Col 1:22",
+            "function": "theological"
+        },
+        {
+            "ref": "Col 1:23",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Col 1:24",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Col 1:25",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Col 1:26",
+            "function": "theological"
+        },
+        {
+            "ref": "Col 1:27",
+            "function": "theological"
+        },
+        {
+            "ref": "Col 1:28",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Col 1:29",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Letter Opening and Thanksgiving",
+            "start": "Col 1:1",
+            "end": "Col 1:8",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "Prayer and Christological Proclamation",
+            "start": "Col 1:9",
+            "end": "Col 1:20",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.6
+                }
+            ]
+        },
+        {
+            "name": "Reconciliation and Call to Faithfulness",
+            "start": "Col 1:21",
+            "end": "Col 1:23",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.7
+                }
+            ]
+        },
+        {
+            "name": "Paul's Apostolic Ministry and the Revealed Mystery",
+            "start": "Col 1:24",
+            "end": "Col 1:29",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "sacrifice",
+                    "weight": 1.2
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.8
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.6
+                }
+            ]
+        }
+    ]
+}

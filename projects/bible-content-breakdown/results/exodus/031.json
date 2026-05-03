@@ -1,0 +1,159 @@
+{
+    "book": "Exodus",
+    "chapter": 31,
+    "verses": [
+        {
+            "ref": "Exo 31:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 31:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 31:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exo 31:4",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exo 31:5",
+            "function": "specifications"
+        },
+        {
+            "ref": "Exo 31:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Exo 31:7",
+            "function": "catalog"
+        },
+        {
+            "ref": "Exo 31:8",
+            "function": "catalog"
+        },
+        {
+            "ref": "Exo 31:9",
+            "function": "catalog"
+        },
+        {
+            "ref": "Exo 31:10",
+            "function": "catalog"
+        },
+        {
+            "ref": "Exo 31:11",
+            "function": "catalog"
+        },
+        {
+            "ref": "Exo 31:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exo 31:13",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Exo 31:14",
+            "function": "civil_law",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Exo 31:15",
+            "function": "civil_law",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exo 31:16",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Exo 31:17",
+            "function": "theological"
+        },
+        {
+            "ref": "Exo 31:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Bezalel and the Tabernacle Builders",
+            "start": "Exo 31:1",
+            "end": "Exo 31:11",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Sabbath Covenant",
+            "start": "Exo 31:12",
+            "end": "Exo 31:17",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "The Tablets of Testimony",
+            "start": "Exo 31:18",
+            "end": "Exo 31:18",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

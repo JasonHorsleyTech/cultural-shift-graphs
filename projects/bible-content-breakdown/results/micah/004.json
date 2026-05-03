@@ -1,0 +1,101 @@
+{
+    "book": "Micah",
+    "chapter": 4,
+    "verses": [
+        {
+            "ref": "Mic 4:1",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mic 4:2",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mic 4:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mic 4:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mic 4:5",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Mic 4:6",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Mic 4:7",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Mic 4:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mic 4:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mic 4:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mic 4:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Mic 4:12",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Mic 4:13",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Future Kingdom and Zion's Restoration",
+            "start": "Mic 4:1",
+            "end": "Mic 4:13",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

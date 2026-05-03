@@ -1,0 +1,158 @@
+{
+    "book": "Ezekiel",
+    "chapter": 14,
+    "verses": [
+        {
+            "ref": "Ezek 14:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 14:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 14:3",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ezek 14:4",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezek 14:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Ezek 14:6",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Ezek 14:7",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ezek 14:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 14:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 14:10",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ezek 14:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Ezek 14:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ezek 14:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 14:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 14:15",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 14:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 14:17",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 14:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 14:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 14:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 14:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 14:22",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ezek 14:23",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Warning Against Idolatry and False Prophets",
+            "start": "Ezek 14:1",
+            "end": "Ezek 14:11",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "The Four Judgments on Jerusalem",
+            "start": "Ezek 14:12",
+            "end": "Ezek 14:23",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

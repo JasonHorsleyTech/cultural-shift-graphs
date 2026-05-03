@@ -1,0 +1,241 @@
+{
+    "book": "Leviticus",
+    "chapter": 6,
+    "verses": [
+        {
+            "ref": "Lev 6:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 6:2",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 6:3",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 6:4",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 6:5",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Lev 6:6",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 6:7",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 6:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 6:9",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 6:10",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 6:11",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 6:12",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 6:13",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 6:14",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 6:15",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 6:16",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 6:17",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "purity_dietary",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 6:18",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 6:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 6:20",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 6:21",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lev 6:22",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 6:23",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 6:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 6:25",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 6:26",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 6:27",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "purity_dietary",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Lev 6:28",
+            "function": "ritual_instruction",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Lev 6:29",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 6:30",
+            "function": "ritual_instruction"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Guilt Offering for Trespass Against Holy Things",
+            "start": "Lev 6:1",
+            "end": "Lev 6:7",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Burnt Offering Law",
+            "start": "Lev 6:8",
+            "end": "Lev 6:13",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Grain Offering Law",
+            "start": "Lev 6:14",
+            "end": "Lev 6:18",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "High Priest's Daily Grain Offering",
+            "start": "Lev 6:19",
+            "end": "Lev 6:23",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "sacrifice",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Sin Offerings for Unintentional Sins",
+            "start": "Lev 6:24",
+            "end": "Lev 6:30",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

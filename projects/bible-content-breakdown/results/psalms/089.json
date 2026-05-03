@@ -1,0 +1,322 @@
+{
+    "book": "Psalms",
+    "chapter": 89,
+    "verses": [
+        {
+            "ref": "Ps 89:1",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 89:2",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 89:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ps 89:4",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ps 89:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 89:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 89:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 89:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 89:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 89:10",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 89:11",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 89:12",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 89:13",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 89:14",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 89:15",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 89:16",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 89:17",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 89:18",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 89:19",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 89:20",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 89:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ps 89:22",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ps 89:23",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ps 89:24",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ps 89:25",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 89:26",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ps 89:27",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 89:28",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 89:29",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ps 89:30",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 89:31",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 89:32",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Ps 89:33",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 89:34",
+            "function": "theological"
+        },
+        {
+            "ref": "Ps 89:35",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 89:36",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 89:37",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 89:38",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 89:39",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 89:40",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 89:41",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 89:42",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 89:43",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 89:44",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 89:45",
+            "function": "narrative",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 89:46",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 89:47",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 89:48",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 89:49",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 89:50",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 89:51",
+            "function": "narrative"
+        },
+        {
+            "ref": "Ps 89:52",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Covenant with David",
+            "start": "Ps 89:3",
+            "end": "Ps 89:37",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences_of_sin",
+                    "weight": 0.8
+                }
+            ]
+        },
+        {
+            "name": "The King's Rejection and Lament",
+            "start": "Ps 89:38",
+            "end": "Ps 89:51",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences_of_sin",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

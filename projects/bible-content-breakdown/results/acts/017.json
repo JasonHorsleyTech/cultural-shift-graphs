@@ -1,0 +1,231 @@
+{
+    "book": "Acts",
+    "chapter": 17,
+    "verses": [
+        {
+            "ref": "Acts 17:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 17:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 17:3",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Acts 17:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 17:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 17:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 17:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 17:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 17:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 17:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 17:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 17:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 17:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 17:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 17:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 17:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 17:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 17:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Acts 17:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 17:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 17:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 17:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 17:23",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Acts 17:24",
+            "function": "theological"
+        },
+        {
+            "ref": "Acts 17:25",
+            "function": "theological"
+        },
+        {
+            "ref": "Acts 17:26",
+            "function": "theological"
+        },
+        {
+            "ref": "Acts 17:27",
+            "function": "theological"
+        },
+        {
+            "ref": "Acts 17:28",
+            "function": "theological"
+        },
+        {
+            "ref": "Acts 17:29",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 17:30",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Acts 17:31",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Acts 17:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 17:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 17:34",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Paul's Mission in Thessalonica",
+            "start": "Acts 17:1",
+            "end": "Acts 17:9",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "courage",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Paul's Mission in Berea",
+            "start": "Acts 17:10",
+            "end": "Acts 17:15",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Paul's Speech at the Areopagus",
+            "start": "Acts 17:16",
+            "end": "Acts 17:34",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.7
+                }
+            ]
+        }
+    ]
+}

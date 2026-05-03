@@ -1,0 +1,97 @@
+{
+    "book": "1 Thessalonians",
+    "chapter": 3,
+    "verses": [
+        {
+            "ref": "1Thess 3:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1Thess 3:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1Thess 3:3",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1Thess 3:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "1Thess 3:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "1Thess 3:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "1Thess 3:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "1Thess 3:8",
+            "function": "theological"
+        },
+        {
+            "ref": "1Thess 3:9",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "1Thess 3:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1Thess 3:11",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "1Thess 3:12",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "1Thess 3:13",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Paul's Pastoral Care for the Thessalonians",
+            "start": "1Thess 3:1",
+            "end": "1Thess 3:13",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

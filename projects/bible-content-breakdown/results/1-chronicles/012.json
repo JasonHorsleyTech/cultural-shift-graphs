@@ -1,0 +1,238 @@
+{
+    "book": "1 Chronicles",
+    "chapter": 12,
+    "verses": [
+        {
+            "ref": "1Chr 12:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1Chr 12:2",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1Chr 12:3",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Chr 12:4",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Chr 12:5",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Chr 12:6",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Chr 12:7",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Chr 12:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1Chr 12:9",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Chr 12:10",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Chr 12:11",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Chr 12:12",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Chr 12:13",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Chr 12:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "1Chr 12:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "1Chr 12:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "1Chr 12:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "1Chr 12:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1Chr 12:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "1Chr 12:20",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1Chr 12:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "1Chr 12:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "1Chr 12:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1Chr 12:24",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Chr 12:25",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Chr 12:26",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Chr 12:27",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Chr 12:28",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Chr 12:29",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1Chr 12:30",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Chr 12:31",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Chr 12:32",
+            "function": "catalog",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1Chr 12:33",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Chr 12:34",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Chr 12:35",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Chr 12:36",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Chr 12:37",
+            "function": "catalog"
+        },
+        {
+            "ref": "1Chr 12:38",
+            "function": "narrative"
+        },
+        {
+            "ref": "1Chr 12:39",
+            "function": "narrative"
+        },
+        {
+            "ref": "1Chr 12:40",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Warriors Rally to David",
+            "start": "1Chr 12:1",
+            "end": "1Chr 12:22",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.5
+                }
+            ]
+        },
+        {
+            "name": "Israel Crowns David King at Hebron",
+            "start": "1Chr 12:23",
+            "end": "1Chr 12:40",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

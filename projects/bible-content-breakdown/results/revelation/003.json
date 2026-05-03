@@ -1,0 +1,191 @@
+{
+    "book": "Revelation",
+    "chapter": 3,
+    "verses": [
+        {
+            "ref": "Rev 3:1",
+            "function": "theological"
+        },
+        {
+            "ref": "Rev 3:2",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Rev 3:3",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Rev 3:4",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rev 3:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 3:6",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Rev 3:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Rev 3:8",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Rev 3:9",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 3:10",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Rev 3:11",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.45
+            }
+        },
+        {
+            "ref": "Rev 3:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 3:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Rev 3:14",
+            "function": "theological"
+        },
+        {
+            "ref": "Rev 3:15",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.45
+            }
+        },
+        {
+            "ref": "Rev 3:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 3:17",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Rev 3:18",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Rev 3:19",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Rev 3:20",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Rev 3:21",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Rev 3:22",
+            "function": "moral_instruction"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Letter to the Church in Sardis",
+            "start": "Rev 3:1",
+            "end": "Rev 3:6",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Letter to the Church in Philadelphia",
+            "start": "Rev 3:7",
+            "end": "Rev 3:13",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Letter to the Church in Laodicea",
+            "start": "Rev 3:14",
+            "end": "Rev 3:22",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "hypocrisy",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

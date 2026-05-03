@@ -1,0 +1,189 @@
+{
+    "book": "1 Corinthians",
+    "chapter": 12,
+    "verses": [
+        {
+            "ref": "1 Cor 12:1",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 12:2",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 12:3",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 12:4",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 12:5",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 12:6",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 12:7",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Cor 12:8",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 12:9",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 12:10",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 12:11",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 12:12",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 12:13",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 12:14",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 12:15",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "1 Cor 12:16",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "1 Cor 12:17",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 12:18",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 12:19",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 12:20",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 12:21",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "1 Cor 12:22",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "1 Cor 12:23",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "1 Cor 12:24",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "1 Cor 12:25",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "1 Cor 12:26",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "1 Cor 12:27",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 12:28",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 12:29",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 12:30",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Cor 12:31",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Spiritual Gifts and the Body of Christ",
+            "start": "1 Cor 12:1",
+            "end": "1 Cor 12:31",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "humility",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

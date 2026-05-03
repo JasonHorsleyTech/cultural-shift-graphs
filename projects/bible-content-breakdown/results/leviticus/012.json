@@ -1,0 +1,57 @@
+{
+    "book": "Leviticus",
+    "chapter": 12,
+    "verses": [
+        {
+            "ref": "Lev 12:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Lev 12:2",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 12:3",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 12:4",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 12:5",
+            "function": "purity_dietary"
+        },
+        {
+            "ref": "Lev 12:6",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 12:7",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "Lev 12:8",
+            "function": "ritual_instruction"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Postpartum Purification Law",
+            "start": "Lev 12:1",
+            "end": "Lev 12:8",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

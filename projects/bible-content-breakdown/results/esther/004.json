@@ -1,0 +1,105 @@
+{
+    "book": "Esther",
+    "chapter": 4,
+    "verses": [
+        {
+            "ref": "Est 4:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 4:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 4:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 4:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 4:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 4:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 4:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 4:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 4:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 4:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 4:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "civil_law",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Est 4:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 4:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 4:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Est 4:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 4:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Est 4:17",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Esther Decides to Intercede for Her People",
+            "start": "Est 4:1",
+            "end": "Est 4:17",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "courage",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "book": "2 Chronicles",
+    "chapter": 23,
+    "verses": [
+        {
+            "ref": "2 Chr 23:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 23:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 23:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chr 23:4",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "2 Chr 23:5",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "2 Chr 23:6",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "2 Chr 23:7",
+            "function": "ritual_instruction"
+        },
+        {
+            "ref": "2 Chr 23:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 23:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 23:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 23:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 23:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 23:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 23:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 23:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 23:16",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "2 Chr 23:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 23:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "2 Chr 23:19",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Chr 23:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Chr 23:21",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Restoration of King Joash and Purge of Baal Worship",
+            "start": "2 Chr 23:1",
+            "end": "2 Chr 23:21",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

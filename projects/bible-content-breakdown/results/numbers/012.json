@@ -1,0 +1,97 @@
+{
+    "book": "Numbers",
+    "chapter": 12,
+    "verses": [
+        {
+            "ref": "Num 12:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 12:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 12:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 12:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 12:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 12:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Num 12:7",
+            "function": "theological"
+        },
+        {
+            "ref": "Num 12:8",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Num 12:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 12:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 12:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 12:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 12:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 12:14",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Num 12:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Num 12:16",
+            "function": "catalog"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Miriam and Aaron Speak Against Moses",
+            "start": "Num 12:1",
+            "end": "Num 12:15",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

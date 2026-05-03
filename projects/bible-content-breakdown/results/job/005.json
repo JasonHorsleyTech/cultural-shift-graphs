@@ -1,0 +1,157 @@
+{
+    "book": "Job",
+    "chapter": 5,
+    "verses": [
+        {
+            "ref": "Job 5:1",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 5:2",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 5:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Job 5:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 5:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Job 5:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 5:7",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Job 5:8",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Job 5:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 5:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 5:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 5:12",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 5:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 5:14",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Job 5:15",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 5:16",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 5:17",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Job 5:18",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 5:19",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 5:20",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 5:21",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 5:22",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 5:23",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "Job 5:24",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 5:25",
+            "function": "theological"
+        },
+        {
+            "ref": "Job 5:26",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.15
+            }
+        },
+        {
+            "ref": "Job 5:27",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Eliphaz's Argument for Job's Repentance",
+            "start": "Job 5:1",
+            "end": "Job 5:27",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

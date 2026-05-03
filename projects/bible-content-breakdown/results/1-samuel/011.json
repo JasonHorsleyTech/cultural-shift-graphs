@@ -1,0 +1,101 @@
+{
+    "book": "1 Samuel",
+    "chapter": 11,
+    "verses": [
+        {
+            "ref": "1 Sam 11:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 11:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 11:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 11:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 11:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 11:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Sam 11:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Sam 11:8",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Sam 11:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 11:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 11:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 11:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 11:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "1 Sam 11:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Sam 11:15",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Saul Defeats the Ammonites at Jabesh Gilead",
+            "start": "1 Sam 11:1",
+            "end": "1 Sam 11:15",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 0.7
+                }
+            ]
+        }
+    ]
+}

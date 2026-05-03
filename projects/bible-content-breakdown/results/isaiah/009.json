@@ -1,0 +1,182 @@
+{
+    "book": "Isaiah",
+    "chapter": 9,
+    "verses": [
+        {
+            "ref": "Isa 9:1",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 9:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 9:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 9:4",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 9:5",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 9:6",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Isa 9:7",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 9:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 9:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Isa 9:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 9:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 9:12",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 9:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 9:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 9:15",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Isa 9:16",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Isa 9:17",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 9:18",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 9:19",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 9:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 9:21",
+            "function": "prophecy",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Promised Light and Messianic Child",
+            "start": "Isa 9:1",
+            "end": "Isa 9:7",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Israel's Arrogance and Escalating Judgment",
+            "start": "Isa 9:8",
+            "end": "Isa 9:21",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,342 @@
+{
+    "book": "Deuteronomy",
+    "chapter": 4,
+    "verses": [
+        {
+            "ref": "Deut 4:1",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Deut 4:2",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 4:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 4:4",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Deut 4:5",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 4:6",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 4:7",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 4:8",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 4:9",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 4:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 4:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 4:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 4:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 4:14",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 4:15",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 4:16",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 4:17",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 4:18",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 4:19",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 4:20",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 4:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Deut 4:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 4:23",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 4:24",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 4:25",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 4:26",
+            "function": "prophecy",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 4:27",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Deut 4:28",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Deut 4:29",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 4:30",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 4:31",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 4:32",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 4:33",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 4:34",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 4:35",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 4:36",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 4:37",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 4:38",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Deut 4:39",
+            "function": "theological"
+        },
+        {
+            "ref": "Deut 4:40",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Deut 4:41",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 4:42",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Deut 4:43",
+            "function": "catalog"
+        },
+        {
+            "ref": "Deut 4:44",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 4:45",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 4:46",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Deut 4:47",
+            "function": "narrative"
+        },
+        {
+            "ref": "Deut 4:48",
+            "function": "catalog"
+        },
+        {
+            "ref": "Deut 4:49",
+            "function": "catalog"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Moses' Exhortation to Keep the Covenant",
+            "start": "Deut 4:1",
+            "end": "Deut 4:40",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 0.8
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 0.7
+                }
+            ]
+        },
+        {
+            "name": "Cities of Refuge and Territory Defined",
+            "start": "Deut 4:41",
+            "end": "Deut 4:49",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 0.5
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,205 @@
+{
+    "book": "Exodus",
+    "chapter": 32,
+    "verses": [
+        {
+            "ref": "Exod 32:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exod 32:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exod 32:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exod 32:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exod 32:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Exod 32:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Exod 32:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exod 32:8",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Exod 32:9",
+            "function": "theological"
+        },
+        {
+            "ref": "Exod 32:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Exod 32:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Exod 32:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exod 32:13",
+            "function": "theological"
+        },
+        {
+            "ref": "Exod 32:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exod 32:15",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Exod 32:16",
+            "function": "specifications",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Exod 32:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exod 32:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exod 32:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exod 32:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exod 32:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exod 32:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exod 32:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exod 32:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exod 32:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exod 32:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exod 32:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exod 32:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exod 32:29",
+            "function": "theological"
+        },
+        {
+            "ref": "Exod 32:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Exod 32:31",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exod 32:32",
+            "function": "theological"
+        },
+        {
+            "ref": "Exod 32:33",
+            "function": "theological"
+        },
+        {
+            "ref": "Exod 32:34",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Exod 32:35",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "The Tablets of Testimony",
+            "start": "Exod 32:1",
+            "end": "Exod 32:35",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

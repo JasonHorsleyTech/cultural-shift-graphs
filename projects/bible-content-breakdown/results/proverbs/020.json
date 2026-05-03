@@ -1,0 +1,169 @@
+{
+    "book": "Proverbs",
+    "chapter": 20,
+    "verses": [
+        {
+            "ref": "Proverbs 20:1",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 20:2",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 20:3",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 20:4",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 20:5",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 20:6",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 20:7",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 20:8",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 20:9",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Proverbs 20:10",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Proverbs 20:11",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 20:12",
+            "function": "theological"
+        },
+        {
+            "ref": "Proverbs 20:13",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Proverbs 20:14",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 20:15",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 20:16",
+            "function": "civil_law"
+        },
+        {
+            "ref": "Proverbs 20:17",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 20:18",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Proverbs 20:19",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Proverbs 20:20",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Proverbs 20:21",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 20:22",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Proverbs 20:23",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Proverbs 20:24",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Proverbs 20:25",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 20:26",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 20:27",
+            "function": "theological"
+        },
+        {
+            "ref": "Proverbs 20:28",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 20:29",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Proverbs 20:30",
+            "function": "wisdom"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Wisdom on Character, Conduct, and Justice",
+            "start": "Proverbs 20:1",
+            "end": "Proverbs 20:30",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 0.7
+                }
+            ]
+        }
+    ]
+}

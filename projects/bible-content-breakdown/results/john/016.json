@@ -1,0 +1,185 @@
+{
+    "book": "John",
+    "chapter": 16,
+    "verses": [
+        {
+            "ref": "John 16:1",
+            "function": "theological"
+        },
+        {
+            "ref": "John 16:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "John 16:3",
+            "function": "theological"
+        },
+        {
+            "ref": "John 16:4",
+            "function": "theological",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 16:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 16:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 16:7",
+            "function": "theological",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "John 16:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "John 16:9",
+            "function": "theological"
+        },
+        {
+            "ref": "John 16:10",
+            "function": "theological"
+        },
+        {
+            "ref": "John 16:11",
+            "function": "theological"
+        },
+        {
+            "ref": "John 16:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 16:13",
+            "function": "prophecy"
+        },
+        {
+            "ref": "John 16:14",
+            "function": "theological"
+        },
+        {
+            "ref": "John 16:15",
+            "function": "theological"
+        },
+        {
+            "ref": "John 16:16",
+            "function": "prophecy"
+        },
+        {
+            "ref": "John 16:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 16:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 16:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 16:20",
+            "function": "prophecy"
+        },
+        {
+            "ref": "John 16:21",
+            "function": "wisdom",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 16:22",
+            "function": "prophecy"
+        },
+        {
+            "ref": "John 16:23",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "John 16:24",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "John 16:25",
+            "function": "prophecy"
+        },
+        {
+            "ref": "John 16:26",
+            "function": "prophecy"
+        },
+        {
+            "ref": "John 16:27",
+            "function": "theological"
+        },
+        {
+            "ref": "John 16:28",
+            "function": "theological"
+        },
+        {
+            "ref": "John 16:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 16:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 16:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "John 16:32",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "John 16:33",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Persecution and the Spirit's Witness",
+            "start": "John 16:1",
+            "end": "John 16:33",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "faith_trust",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

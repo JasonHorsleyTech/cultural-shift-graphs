@@ -1,0 +1,227 @@
+{
+    "book": "Proverbs",
+    "chapter": 14,
+    "verses": [
+        {
+            "ref": "Prov 14:1",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Prov 14:2",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Prov 14:3",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.7
+            }
+        },
+        {
+            "ref": "Prov 14:4",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 14:5",
+            "function": "civil_law",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Prov 14:6",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 14:7",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Prov 14:8",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Prov 14:9",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Prov 14:10",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 14:11",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Prov 14:12",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.7
+            }
+        },
+        {
+            "ref": "Prov 14:13",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 14:14",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Prov 14:15",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Prov 14:16",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.7
+            }
+        },
+        {
+            "ref": "Prov 14:17",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.7
+            }
+        },
+        {
+            "ref": "Prov 14:18",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 14:19",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "Prov 14:20",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 14:21",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Prov 14:22",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Prov 14:23",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 14:24",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 14:25",
+            "function": "civil_law",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Prov 14:26",
+            "function": "theological"
+        },
+        {
+            "ref": "Prov 14:27",
+            "function": "theological"
+        },
+        {
+            "ref": "Prov 14:28",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 14:29",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.6
+            }
+        },
+        {
+            "ref": "Prov 14:30",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 14:31",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.7
+            }
+        },
+        {
+            "ref": "Prov 14:32",
+            "function": "wisdom",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Prov 14:33",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 14:34",
+            "function": "theological"
+        },
+        {
+            "ref": "Prov 14:35",
+            "function": "wisdom"
+        }
+    ],
+    "stories": []
+}

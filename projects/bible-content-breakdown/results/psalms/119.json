@@ -1,0 +1,765 @@
+{
+    "book": "Psalms",
+    "chapter": 119,
+    "verses": [
+        {
+            "ref": "Psa 119:1",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Psa 119:2",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Psa 119:3",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Psa 119:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:6",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 119:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:9",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Psa 119:10",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:11",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:12",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 119:13",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 119:14",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 119:15",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:16",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 119:17",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:18",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:19",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:20",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:21",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:22",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:23",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:24",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 119:25",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:26",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:27",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:28",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:29",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:30",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:31",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:32",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 119:33",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:34",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:35",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:36",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:37",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:38",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:39",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:40",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:41",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:42",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:43",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:44",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:45",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:46",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 119:47",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 119:48",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 119:49",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:50",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:51",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:52",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:53",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:54",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 119:55",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:56",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:57",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:58",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:59",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:60",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:61",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:62",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 119:63",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:64",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 119:65",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:66",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:67",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psa 119:68",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 119:69",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:70",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:71",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psa 119:72",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 119:73",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:74",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:75",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:76",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:77",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:78",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:79",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:80",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:81",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:82",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:83",
+            "function": "theological",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Psa 119:84",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:85",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:86",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:87",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:88",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:89",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:90",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:91",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:92",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:93",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:94",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:95",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:96",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:97",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 119:98",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psa 119:99",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psa 119:100",
+            "function": "theological",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psa 119:101",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:102",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:103",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 119:104",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:105",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 119:106",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:107",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:108",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 119:109",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:110",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:111",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:112",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:113",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:114",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:115",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:116",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:117",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:118",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:119",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:120",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:121",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Psa 119:122",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:123",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:124",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:125",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:126",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:127",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 119:128",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:129",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 119:130",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 119:131",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 119:132",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:133",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:134",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:135",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:136",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psa 119:137",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:138",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:139",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:140",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 119:141",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:142",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:143",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:144",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:145",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:146",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:147",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:148",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:149",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:150",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:151",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:152",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:153",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:154",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:155",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:156",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:157",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:158",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:159",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 119:160",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:161",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:162",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 119:163",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:164",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 119:165",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:166",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:167",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:168",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:169",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:170",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:171",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 119:172",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psa 119:173",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:174",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:175",
+            "function": "theological"
+        },
+        {
+            "ref": "Psa 119:176",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "Meditation on Loving and Keeping God's Law",
+            "start": "Psa 119:1",
+            "end": "Psa 119:176",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "courage",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

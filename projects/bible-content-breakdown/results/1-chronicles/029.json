@@ -1,0 +1,181 @@
+{
+    "book": "1 Chronicles",
+    "chapter": 29,
+    "verses": [
+        {
+            "ref": "1 Chr 29:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 29:2",
+            "function": "specifications",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "1 Chr 29:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 29:4",
+            "function": "specifications"
+        },
+        {
+            "ref": "1 Chr 29:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 29:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 29:7",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 29:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 29:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 29:10",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "1 Chr 29:11",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.5
+            }
+        },
+        {
+            "ref": "1 Chr 29:12",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Chr 29:13",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "1 Chr 29:14",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Chr 29:15",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Chr 29:16",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Chr 29:17",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Chr 29:18",
+            "function": "theological"
+        },
+        {
+            "ref": "1 Chr 29:19",
+            "function": "theological",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Chr 29:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 29:21",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "1 Chr 29:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 29:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 29:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 29:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 29:26",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 29:27",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 29:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chr 29:29",
+            "function": "catalog"
+        },
+        {
+            "ref": "1 Chr 29:30",
+            "function": "catalog"
+        }
+    ],
+    "stories": [
+        {
+            "name": "David's Final Blessing and the Coronation of Solomon",
+            "start": "1 Chr 29:1",
+            "end": "1 Chr 29:30",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "generosity",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

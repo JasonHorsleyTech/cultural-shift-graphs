@@ -1,0 +1,110 @@
+{
+    "book": "Isaiah",
+    "chapter": 25,
+    "verses": [
+        {
+            "ref": "Isa 25:1",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Isa 25:2",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 25:3",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 25:4",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 25:5",
+            "function": "theological"
+        },
+        {
+            "ref": "Isa 25:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 25:7",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 25:8",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 25:9",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.75
+            }
+        },
+        {
+            "ref": "Isa 25:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 25:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Isa 25:12",
+            "function": "prophecy"
+        }
+    ],
+    "stories": [
+        {
+            "name": "God's Vindication and Eschatological Hope",
+            "start": "Isa 25:1",
+            "end": "Isa 25:9",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "care_vulnerable",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "Judgment Against Moab",
+            "start": "Isa 25:10",
+            "end": "Isa 25:12",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "humility",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

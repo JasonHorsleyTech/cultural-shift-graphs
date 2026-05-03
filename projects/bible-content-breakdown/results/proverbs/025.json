@@ -1,0 +1,139 @@
+{
+    "book": "Proverbs",
+    "chapter": 25,
+    "verses": [
+        {
+            "ref": "Prov 25:1",
+            "function": "catalog"
+        },
+        {
+            "ref": "Prov 25:2",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 25:3",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 25:4",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Prov 25:5",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 25:6",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 25:7",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 25:8",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Prov 25:9",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 25:10",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 25:11",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 25:12",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 25:13",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 25:14",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 25:15",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Prov 25:16",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 25:17",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 25:18",
+            "function": "wisdom",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Prov 25:19",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 25:20",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 25:21",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 25:22",
+            "function": "moral_instruction",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Prov 25:23",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 25:24",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 25:25",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 25:26",
+            "function": "wisdom"
+        },
+        {
+            "ref": "Prov 25:27",
+            "function": "moral_instruction"
+        },
+        {
+            "ref": "Prov 25:28",
+            "function": "wisdom"
+        }
+    ],
+    "stories": []
+}

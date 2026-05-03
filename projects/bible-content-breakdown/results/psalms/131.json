@@ -1,0 +1,45 @@
+{
+    "book": "Psalms",
+    "chapter": 131,
+    "verses": [
+        {
+            "ref": "Psalm 131:1",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Psalm 131:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 131:3",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "A Song of Humility and Trust",
+            "start": "Psalm 131:1",
+            "end": "Psalm 131:3",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "humility",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

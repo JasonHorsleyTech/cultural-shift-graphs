@@ -1,0 +1,105 @@
+{
+    "book": "Esther",
+    "chapter": 3,
+    "verses": [
+        {
+            "ref": "Esther 3:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Esther 3:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Esther 3:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Esther 3:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Esther 3:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Esther 3:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Esther 3:7",
+            "function": "catalog",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Esther 3:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Esther 3:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Esther 3:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Esther 3:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Esther 3:12",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Esther 3:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Esther 3:14",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Esther 3:15",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Haman's Plot to Destroy the Jews",
+            "start": "Esther 3:1",
+            "end": "Esther 3:15",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences_of_sin",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "hypocrisy",
+                    "weight": 0.7
+                }
+            ]
+        }
+    ]
+}

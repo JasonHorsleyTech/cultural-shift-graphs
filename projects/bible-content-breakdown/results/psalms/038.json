@@ -1,0 +1,141 @@
+{
+    "book": "Psalms",
+    "chapter": 38,
+    "verses": [
+        {
+            "ref": "Ps 38:1",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 38:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 38:3",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Ps 38:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 38:5",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 38:6",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 38:7",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 38:8",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 38:9",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 38:10",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 38:11",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 38:12",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "narrative",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 38:13",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 38:14",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 38:15",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 38:16",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 38:17",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 38:18",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Ps 38:19",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 38:20",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Ps 38:21",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Ps 38:22",
+            "function": "poetry_praise"
+        }
+    ],
+    "stories": [
+        {
+            "name": "David's Lament and Prayer for Deliverance",
+            "start": "Ps 38:1",
+            "end": "Ps 38:22",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "mercy",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

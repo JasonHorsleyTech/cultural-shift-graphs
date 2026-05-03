@@ -1,0 +1,89 @@
+{
+    "book": "1 Chronicles",
+    "chapter": 13,
+    "verses": [
+        {
+            "ref": "1 Chronicles 13:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chronicles 13:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chronicles 13:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chronicles 13:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chronicles 13:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chronicles 13:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chronicles 13:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chronicles 13:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chronicles 13:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chronicles 13:10",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "1 Chronicles 13:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chronicles 13:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chronicles 13:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "1 Chronicles 13:14",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Moving the Ark of God",
+            "start": "1 Chronicles 13:1",
+            "end": "1 Chronicles 13:14",
+            "continues_from_previous": false,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "obey_god",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

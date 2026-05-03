@@ -1,0 +1,194 @@
+{
+    "book": "2 Samuel",
+    "chapter": 12,
+    "verses": [
+        {
+            "ref": "2 Sam 12:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 12:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 12:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 12:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 12:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 12:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 12:7",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "2 Sam 12:8",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Sam 12:9",
+            "function": "theological"
+        },
+        {
+            "ref": "2 Sam 12:10",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Sam 12:11",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Sam 12:12",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Sam 12:13",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Sam 12:14",
+            "function": "prophecy"
+        },
+        {
+            "ref": "2 Sam 12:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 12:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 12:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 12:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 12:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 12:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 12:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 12:22",
+            "function": "narrative",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Sam 12:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "wisdom",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Sam 12:24",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Sam 12:25",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Sam 12:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 12:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 12:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 12:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 12:30",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "2 Sam 12:31",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Nathan Confronts David",
+            "start": "2 Sam 12:1",
+            "end": "2 Sam 12:25",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "consequences",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "obey_god",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "Siege of Rabbah",
+            "start": "2 Sam 12:26",
+            "end": "2 Sam 12:31",
+            "continues_from_previous": true,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

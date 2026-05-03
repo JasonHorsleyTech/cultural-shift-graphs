@@ -1,0 +1,165 @@
+{
+    "book": "Daniel",
+    "chapter": 8,
+    "verses": [
+        {
+            "ref": "Dan 8:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 8:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 8:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 8:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 8:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 8:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 8:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 8:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 8:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 8:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 8:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 8:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 8:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 8:14",
+            "function": "prophecy",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Dan 8:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 8:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 8:17",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.4
+            }
+        },
+        {
+            "ref": "Dan 8:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Dan 8:19",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 8:20",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Dan 8:21",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Dan 8:22",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Dan 8:23",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 8:24",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Dan 8:25",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Dan 8:26",
+            "function": "prophecy",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Dan 8:27",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Daniel's Vision and Its Interpretation",
+            "start": "Dan 8:1",
+            "end": "Dan 8:27",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 2.0
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "redemption",
+                    "weight": 0.8
+                }
+            ]
+        }
+    ]
+}

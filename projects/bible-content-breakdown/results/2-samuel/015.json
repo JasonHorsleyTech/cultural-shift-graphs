@@ -1,0 +1,210 @@
+{
+    "book": "2 Samuel",
+    "chapter": 15,
+    "verses": [
+        {
+            "ref": "2 Sam 15:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 15:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 15:3",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 15:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 15:5",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 15:6",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 15:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 15:8",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 15:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 15:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 15:11",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 15:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 15:13",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 15:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 15:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 15:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 15:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 15:18",
+            "function": "narrative",
+            "secondary": {
+                "function": "catalog",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "2 Sam 15:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 15:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 15:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 15:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 15:23",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 15:24",
+            "function": "narrative",
+            "secondary": {
+                "function": "ritual_instruction",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Sam 15:25",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "2 Sam 15:26",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "2 Sam 15:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 15:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 15:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 15:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 15:31",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "2 Sam 15:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 15:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 15:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 15:35",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 15:36",
+            "function": "narrative"
+        },
+        {
+            "ref": "2 Sam 15:37",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Absalom's Rebellion",
+            "start": "2 Sam 15:1",
+            "end": "2 Sam 15:12",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "hypocrisy",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences_of_sin",
+                    "weight": 1.0
+                }
+            ]
+        },
+        {
+            "name": "David's Flight from Jerusalem",
+            "start": "2 Sam 15:13",
+            "end": "2 Sam 15:37",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "loyalty",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

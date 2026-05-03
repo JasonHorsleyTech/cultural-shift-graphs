@@ -1,0 +1,210 @@
+{
+    "book": "Acts",
+    "chapter": 23,
+    "verses": [
+        {
+            "ref": "Acts 23:1",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 23:2",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 23:3",
+            "function": "narrative",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 23:4",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 23:5",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.25
+            }
+        },
+        {
+            "ref": "Acts 23:6",
+            "function": "narrative",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 23:7",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 23:8",
+            "function": "theological"
+        },
+        {
+            "ref": "Acts 23:9",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 23:10",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 23:11",
+            "function": "narrative",
+            "secondary": {
+                "function": "prophecy",
+                "weight": 0.35
+            }
+        },
+        {
+            "ref": "Acts 23:12",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 23:13",
+            "function": "catalog"
+        },
+        {
+            "ref": "Acts 23:14",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 23:15",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 23:16",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 23:17",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 23:18",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 23:19",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 23:20",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 23:21",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 23:22",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 23:23",
+            "function": "narrative",
+            "secondary": {
+                "function": "specifications",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Acts 23:24",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 23:25",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 23:26",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 23:27",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 23:28",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 23:29",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 23:30",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 23:31",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 23:32",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 23:33",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 23:34",
+            "function": "narrative"
+        },
+        {
+            "ref": "Acts 23:35",
+            "function": "narrative"
+        }
+    ],
+    "stories": [
+        {
+            "name": "Paul's Testimony Before the Sanhedrin",
+            "start": "Acts 23:1",
+            "end": "Acts 23:11",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "courage",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                }
+            ]
+        },
+        {
+            "name": "The Assassination Plot and Transfer to Caesarea",
+            "start": "Acts 23:12",
+            "end": "Acts 23:35",
+            "continues_from_previous": true,
+            "continues_in_next": true,
+            "morals": [
+                {
+                    "theme": "justice",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "loyalty",
+                    "weight": 1.0
+                },
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "book": "Psalms",
+    "chapter": 52,
+    "verses": [
+        {
+            "ref": "Psalm 52:1",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        },
+        {
+            "ref": "Psalm 52:2",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 52:3",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 52:4",
+            "function": "poetry_praise"
+        },
+        {
+            "ref": "Psalm 52:5",
+            "function": "prophecy",
+            "secondary": {
+                "function": "poetry_praise",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalm 52:6",
+            "function": "prophecy"
+        },
+        {
+            "ref": "Psalm 52:7",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "moral_instruction",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalm 52:8",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.3
+            }
+        },
+        {
+            "ref": "Psalm 52:9",
+            "function": "poetry_praise",
+            "secondary": {
+                "function": "theological",
+                "weight": 0.2
+            }
+        }
+    ],
+    "stories": [
+        {
+            "name": "David's Trust Against the Evildoer",
+            "start": "Psalm 52:1",
+            "end": "Psalm 52:9",
+            "continues_from_previous": false,
+            "continues_in_next": false,
+            "morals": [
+                {
+                    "theme": "gods_power",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "faith_trust",
+                    "weight": 1.5
+                },
+                {
+                    "theme": "consequences",
+                    "weight": 1.0
+                }
+            ]
+        }
+    ]
+}

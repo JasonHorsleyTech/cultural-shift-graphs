@@ -22,8 +22,9 @@ export default defineConfig({
         howSorryYouFeel: resolve(root, 'graphable/how-sorry-you-feel/index.html'),
         waterUsage: resolve(root, 'graphable/water-usage/index.html'),
         shareOfThePie: resolve(root, 'graphable/share-of-the-pie/index.html'),
-        bangForBuck: resolve(root, 'graphable/bang-for-buck/index.html'),
+        // bang-for-buck: blocked (see projects/bang-for-buck/BLOCKED.md)
         bibleContentBreakdown: resolve(root, 'graphable/bible-content-breakdown/index.html'),
+        scienceToActionLag: resolve(root, 'graphable/science-to-action-lag/index.html'),
       },
     },
   },

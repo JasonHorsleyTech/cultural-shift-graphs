@@ -116,6 +116,8 @@ If a spin-off idea emerges during exploration, save it to `ideas/<slug>.md` and 
 
 **done** — Project complete. Orchestrator ignores it.
 
+**blocked** — Held back from deploy because Jason has concerns about the research, framing, or methodology that need rework. The orchestrator skips these (same as `done`/`deploy`). Drop a `BLOCKED.md` in the project directory with the date, the concrete concerns, and what needs to happen before it can move back to `deploy`. To unblock: address the concerns, set status back to `graph` (rebuild) or `deploy` (if only minor edits were needed), and delete `BLOCKED.md`.
+
 ### Project directory layout
 
 ```

@@ -93,6 +93,24 @@
         </a>
         <span class="text-[var(--text-muted)] text-sm ml-2">(31,085 verses categorized by function and moral theme)</span>
       </li>
+      <li>
+        <a
+          href="/graphable/science-to-action-lag/"
+          class="underline decoration-2 underline-offset-4 hover:decoration-[var(--text-muted)]"
+        >
+          How long does it take society to act on what science already knows?
+        </a>
+        <span class="text-[var(--text-muted)] text-sm ml-2">(32 hazards, lag from first evidence to first binding regulation)</span>
+      </li>
+      <li>
+        <a
+          href="/graphable/share-of-the-pie/"
+          class="underline decoration-2 underline-offset-4 hover:decoration-[var(--text-muted)]"
+        >
+          What share of the pie do I get?
+        </a>
+        <span class="text-[var(--text-muted)] text-sm ml-2">(worker compensation as a share of GDP, 70 years)</span>
+      </li>
     </ul>
 
     <hr class="mt-12 border-[var(--border)]" />

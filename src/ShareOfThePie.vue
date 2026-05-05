@@ -111,7 +111,7 @@ function buildCharts() {
       scales: {
         x: { grid: { color: c.grid }, ticks: { color: c.text, maxTicksLimit: 16 } },
         y: {
-          min: 30, max: 90,
+          min: 0, max: 100,
           grid: { color: c.grid },
           ticks: { color: c.text, callback: v => `${v}%` },
           title: { display: true, text: '% of GDP per capita', color: c.text },
@@ -198,6 +198,7 @@ function buildCharts() {
       scales: {
         x: { grid: { color: c.grid }, ticks: { color: c.text, maxTicksLimit: 12 } },
         y: {
+          min: 0, max: 100,
           grid: { color: c.grid },
           ticks: { color: c.text, callback: v => `${v}%` },
           title: { display: true, text: '% of GDP per capita', color: c.text },
@@ -257,6 +258,7 @@ function buildCharts() {
       scales: {
         x: { grid: { color: c.grid }, ticks: { color: c.text, maxTicksLimit: 16 } },
         y: {
+          min: 0, max: 100,
           grid: { color: c.grid },
           ticks: { color: c.text, callback: v => `${v}%` },
           title: { display: true, text: '%', color: c.text },

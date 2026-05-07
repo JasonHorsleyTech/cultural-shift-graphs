@@ -1,0 +1,591 @@
+# Polish — sexually-charged vocabulary dump
+# Latin script.
+# No definitions. No scoring. Just words, one per line.
+
+## Organs — penis (clinical)
+- prącie
+- członek
+- penis
+- narząd płciowy męski
+- genitalia męskie
+- żołądź
+- napletek
+- narząd rodny męski
+
+## Organs — penis (slang/crude)
+- chuj
+- kutas
+- fiut
+- pała
+- pal
+- drąg
+- kij
+- wał
+- wałek
+- kołek
+- bolec
+- laska
+- gałka
+- sikawka
+- kiełbasa
+- ogórek
+- banan
+- pistolet
+- flak
+- pałka
+- sztacheta
+- żerdź
+- badyl
+- tyczka
+- siusiak
+- ptaszek
+- sikuś
+
+## Organs — vagina (clinical)
+- pochwa
+- srom
+- wargi sromowe
+- wargi sromowe większe
+- wargi sromowe mniejsze
+- wzgórek łonowy
+- przedsionek pochwy
+- błona dziewicza
+- narząd rodny żeński
+
+## Organs — vagina (slang/crude)
+- pizda
+- cipa
+- cipka
+- dziura
+- szpara
+- figa
+- muszelka
+- mokra dziura
+- kita
+- menda
+- lipa
+- szparugla
+
+## Organs — anus (clinical)
+- odbyt
+- odbytnica
+- zwieracz odbytu
+- otwór odbytniczy
+- pośladki
+- pośladek
+- krocze
+
+## Organs — anus (slang/crude)
+- dupa
+- dupsko
+- tyłek
+- zadek
+- pupa
+- pupcia
+- plecy
+- cztery litery
+- dziura
+- kuper
+
+## Organs — testicles (clinical)
+- jądra
+- moszna
+- najądrza
+- gruczoł krokowy
+
+## Organs — testicles (slang/crude)
+- jaja
+- kule
+- kulki
+- ikry
+- jajka
+
+## Organs — breasts (clinical)
+- piersi
+- gruczoły piersiowe
+- sutek
+- brodawka sutkowa
+- biust
+
+## Organs — breasts (slang/crude)
+- cycki
+- cyc
+- dojki
+- banie
+- melony
+- balony
+- gruszki
+- fatałaszki
+- biust (borderline)
+
+## Organs — clitoris (clinical)
+- łechtaczka
+
+## Organs — clitoris (slang)
+- klitoris
+
+## Organs — other (clinical)
+- macica
+- szyjka macicy
+- jajniki
+- jajowody
+- gruczoł Bartholina
+- nasieniowody
+- prostata
+
+## Acts — intercourse (clinical)
+- stosunek płciowy
+- współżycie seksualne
+- kopulacja
+- koitus
+- penetracja
+- akt płciowy
+- akt seksualny
+- zbliżenie
+- zbliżenie cielesne
+- intymność fizyczna
+- kontakt seksualny
+
+## Acts — intercourse (slang/crude)
+- pierdolić
+- jebać
+- ruchać
+- dymać
+- bzykać
+- przelecieć
+- wyruchać
+- wbić
+- pojebać
+- dać dupy
+- wziąć na ostro
+- zalec się
+- przeruchać
+- napierdolić się
+- dobrać się
+
+## Acts — oral sex (clinical)
+- fellatio
+- cunnilingus
+- seks oralny
+
+## Acts — oral sex (slang/crude)
+- obciągać
+- obciągnąć
+- ssać
+- lizać
+- robić loda
+- loda
+- głęboki gardłowy
+- połknąć
+
+## Acts — masturbation (clinical)
+- masturbacja
+- onanizm
+- samozaspokojenie
+- autoerotyzm
+
+## Acts — masturbation (slang/crude)
+- walić konia
+- onanizować się
+- rżnąć konia
+- dawać sobie pięciopalcówkę
+- walić druta
+- bzykać się
+- dymać się
+- dymać jedną ręką
+
+## Acts — anal sex (clinical)
+- stosunek analny
+- seks analny
+- penetracja analna
+- sodomia
+
+## Acts — anal sex (slang/crude)
+- robić w dupę
+- dymać w dupę
+- pierdolić w dupę
+- wbić w dupę
+
+## Acts — other
+- pettning
+- głęboki pocałunek
+- zboczenie
+- całowanie z językiem
+
+## Fluids and physical states
+- nasienie
+- sperma
+- wytrysk
+- ejakulacja
+- orgazm
+- podniecenie
+- wzwód
+- erekcja
+- mokra
+- wydzielina
+- wilgoć
+- soki
+- chlać
+- strzelać
+- spuścić
+- wytrysnąć
+- przedwytrysk
+- smegma
+- menstruacja
+- okres
+
+## Desire / arousal / descriptors
+- napalony
+- napalona
+- podniecony
+- podniecona
+- namiętny
+- lubieżny
+- pożądliwy
+- żądny
+- zmysłowy
+- jurny
+- jurna
+- rozwiązły
+- rozwiązła
+- oziębły
+- oziębła
+- frigidna
+- skromny
+- skromna
+- powściągliwy
+- rozpalony
+- rozpalona
+- żądza
+- żądza cielesna
+- pożądanie
+- namiętność
+- chuć
+- rozkosz
+- zmysłowość
+- lubieżność
+- lubieżnik
+- libertyn
+
+## Identities / orientations (clinical)
+- homoseksualny
+- homoseksualna
+- heteroseksualny
+- biseksualny
+- aseksualny
+- lesbijka
+- gej
+- biseksualista
+- biseksualistka
+- transeksualny
+- transseksualista
+- transseksualistka
+- transgender
+- queer
+- panseksualny
+- interseksualny
+- niebinarny
+- niebinarna
+- osoba transpłciowa
+
+## Identities / orientations (slurs)
+- pedał
+- pedzio
+- ciota
+- cwel
+- homek
+- lesba
+- lesbo
+- zboczeńiec
+- zboczeniec
+- sodomita
+- pederasta
+- przegięty
+- przegięta
+- babochłop
+- babsztyl
+- zniewieściały
+- menda
+- dupa wołowa
+
+## Insults built from sexual vocabulary
+- kurwa
+- kurwa mać
+- kurwiarstwo
+- kurwiszon
+- kurwiszyn
+- dziwka
+- suka
+- pierdolony
+- pierdolona
+- jebany
+- jebana
+- chujowy
+- chujnia
+- chujek
+- dupek
+- dupeczka
+- dupcze
+- pizdun
+- pizduś
+- zajebisty
+- zjebany
+- pojebany
+- podjebać
+- wkurwiać
+- nakurwiać
+- fiutek
+- kutafon
+- skurwysyn
+- skurwiel
+- jebaka
+- pierdolec
+- pierdoła
+- cwaniaczek
+- cwel
+
+## Sex work and pornography
+- prostytutka
+- prostytucja
+- kurwa
+- dziwka
+- ulicznica
+- ladacznica
+- jawnogrzesznica
+- nierządnica
+- alfons
+- sutener
+- burdel
+- dom publiczny
+- dom rozkoszy
+- burdelmama
+- pornografia
+- porno
+- film dla dorosłych
+- kino dla dorosłych
+- erotyk
+- striptiz
+- striptizerka
+- striptizer
+- peep show
+- sex-shop
+- escort
+- sponsor
+- sponsorowanie
+- utrzymanka
+- utrzymanek
+
+## Reproductive / contraceptive (sexually charged)
+- prezerwatywa
+- kondom
+- gumka
+- kapturek
+- środek antykoncepcyjny
+- pigułka antykoncepcyjna
+- tabletka
+- spirala
+- wkładka domaciczna
+- stosunek przerywany
+- przerwa
+- bezpieczny seks
+- wkładka hormonalna
+
+## Kink / fetish / paraphilia
+- BDSM
+- sado-maso
+- sadyzm
+- masochizm
+- sadysta
+- sadystka
+- masochista
+- masochistka
+- dominacja
+- submisja
+- dominujący
+- dominująca
+- submisywny
+- submisywna
+- uległość
+- fetyszyzm
+- fetysz
+- fetyszysta
+- bondage
+- uwiązanie
+- klaps
+- chłosta
+- voyeuryzm
+- ekshibicjonizm
+- pedofilia
+- nekrofilia
+- zoofilia
+- transwestytyzm
+- transwestyta
+- perwersja
+- zboczenie
+- parafilia
+- orgia
+- seks grupowy
+- trójkąt
+- gang bang
+- ménage à trois
+- rola odwrócona
+- fisting
+- golden shower
+- latex (w kontekście fetyszystycznym)
+- role-play
+
+## Euphemisms and idioms
+- robić to
+- spać z kimś
+- być z kimś
+- kochać się
+- uprawiać miłość
+- iść do łóżka
+- pójść z kimś
+- bliskie kontakty
+- bliskość fizyczna
+- zbliżenie
+- pieszczoty
+- gra wstępna
+- całować się na całego
+- obściskiwać się
+- obmacywać
+- lizać znaczki
+- dopełnić małżeństwa
+- zaciągnąć do łóżka
+- zabrać do siebie
+- zalecać się
+- zaliczyć
+- poderwać
+
+## Archaic / literary / dated
+- nierząd
+- wszeteczność
+- sprośność
+- wszetecznik
+- wszetecznica
+- lubieżność
+- żądza cielesna
+- nieobyczajność
+- nierządnica
+- jawnogrzesznica
+- ladacznica
+- ulicznica
+- bezwstyd
+- hańba
+- pohańbić
+- zbezcześcić
+- splugawić
+- splugawić się
+- nieczysta
+- skokos
+- łoże
+- łoże małżeńskie
+- cudzołóstwo
+- cudzołożnica
+- cudzołożnik
+- grzech cielesny
+- grzech nieczysty
+- nierząd
+
+## Internet / subculture
+- NSFW
+- nudes
+- seksty
+- sexting
+- dick pic
+- orgazm
+- hentai
+- ahegao
+- loli (kontrowersyjne)
+- yaoi
+- yuri
+- ecchi
+- Rule 34
+- milf
+- dilf
+- GILF
+- twink
+- bara
+- incel
+- simp
+- ONS (one night stand)
+- FWB
+- hookup
+- booty call
+- fuck buddy
+- catfishing
+- catfish
+- camgirl
+- camboy
+- OnlyFans
+- kreator treści dla dorosłych
+- PornHub (jako generyczne)
+- trolling seksualny
+- revenge porn
+- deepfake porno
+- neta (internet slang — przelecieć)
+
+## Culture-specific — Catholic shame and sin vocabulary
+- grzech
+- grzech nieczysty
+- grzech cielesny
+- nieczystość
+- wszeteczność
+- rozwiązłość
+- bezwstyd
+- wstrzemięźliwość
+- czystość
+- dziewictwo
+- dziewica
+- cnota
+- utrata cnoty
+- stracić cnotę
+- skromność
+- skromna kobieta
+- obyczajność
+- nieobyczajność
+- jawnogrzesznica
+- cudzołóstwo
+- nierząd
+- in vitro (politycznie i religijnie nacechowane)
+- antykoncepcja (religijnie nacechowane)
+- aborcja (religijnie i politycznie nacechowane)
+
+## Culture-specific — Honor and shame of female sexuality
+- kobieta lekkich obyczajów
+- lekkich obyczajów
+- nieczysta kobieta
+- pohańbić
+- hańba
+- splugawić się
+- zbezcześcić
+- skrzywdzona kobieta
+- upadła kobieta
+- niesławna
+- dziwka
+- szlaja
+- szlajać się
+- puszczać się
+- puszczalska
+- szmatka
+- flejtucha
+- pryska
+- porządna kobieta (jako odwrotność)
+- nieskromna
+
+## Culture-specific — Silesian / regional dialect
+- fjut (Silesian variant)
+- fjuta
+- szlunga
+- szmaciak
+- dupa blada (Silesian expression)
+- kurołap
+
+## Culture-specific — Prison and military slang
+- cwel
+- grypsera (prison underworld)
+- brać na gwałt
+- brać z tyłu
+- cipciuch
+- dupa do ściany

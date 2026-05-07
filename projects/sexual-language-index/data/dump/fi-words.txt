@@ -1,0 +1,574 @@
+# Finnish — sexually-charged vocabulary dump
+# Latin script.
+# No definitions. No scoring. Just words, one per line.
+
+## Organs — penis (clinical)
+- penis
+- fallus
+- siitin
+- miehen sukupuolielin
+- sukupuolielimet
+
+## Organs — penis (slang/crude)
+- kyrpä
+- mulkku
+- kalu
+- tikku
+- pippeli
+- pippuri
+- nakki
+- makkara
+- keppi
+- torvi
+- tumppu
+- pölli
+- häntä
+- putki
+- möhkäle
+- pömpeli
+- lintu
+- kulli
+- lirpakki
+- piippi
+- pyörylä
+- kökkö
+- poika
+- tipu
+
+## Organs — vagina (clinical)
+- vagina
+- vulva
+- emätin
+- häpy
+- ulkosynnyttimet
+- häpyhuulet
+
+## Organs — vagina (slang/crude)
+- vittu
+- pillu
+- pimppi
+- tussu
+- mussu
+- rako
+- pimpero
+- simpukka
+- kotelo
+- possu
+- kakku
+- huttu
+
+## Organs — breasts (clinical)
+- rinta
+- rintarauhaset
+- maitorauhaset
+- nisä
+- nänni
+
+## Organs — breasts (slang/crude)
+- tissit
+- napit
+- möykyt
+- pommit
+- mehupussit
+- huput
+- ittit
+- duput
+- masit
+- melmut
+- pullopommit
+- kokkarat
+- patukka
+
+## Organs — testicles (clinical)
+- kivekset
+- testikkelit
+- sukurauhaset
+
+## Organs — testicles (slang/crude)
+- munat
+- pallit
+- pallurat
+- potut
+- kullit
+- herneet
+- kananmunat
+
+## Organs — anus (clinical)
+- peräaukko
+- anus
+- peräsuoli
+
+## Organs — anus (slang/crude)
+- perse
+- pylly
+- persereikä
+- pyllyreikä
+- takaosa
+- takamus
+- takapuoli
+- rinkeli
+- oopperatalo
+
+## Organs — clitoris (clinical)
+- klitoris
+- häpykieli
+
+## Organs — clitoris (slang/crude)
+- nysty
+- klitta
+- pilli
+- simpukan helmi
+
+## Organs — other
+- eturauhaset
+- prostaatti
+- immenkalvo
+- neitsytkalvo
+- häpykukkula
+- g-piste
+- väliliha
+
+## Acts — intercourse (clinical)
+- sukupuoliyhdyntä
+- yhdyntä
+- koitus
+- kopulaatio
+- penetraatio
+- tunkeutuminen
+- seksuaalinen kanssakäyminen
+
+## Acts — intercourse (slang/crude)
+- naida
+- panna
+- nussia
+- painaa
+- pimputtaa
+- hässiä
+- pokata
+- ryskyttää
+- harata
+- törkiä
+- kolvata
+- lysätä
+- köniä
+- pullistaa
+- sörkkiä
+- pilluilla
+- porata
+- tunkea
+- rynkytellä
+- pompputtaa
+- nakata
+- tuputella
+- stiflata
+
+## Acts — fellatio (clinical)
+- fellatio
+- suuseksi
+- oraaliseksi
+
+## Acts — fellatio (slang/crude)
+- suihinotto
+- antaa suihin
+- imeskellä
+- nussia suulla
+- imee kyrpää
+- syödä kyrpää
+- imuroida
+
+## Acts — cunnilingus (clinical)
+- cunnilingus
+
+## Acts — cunnilingus (slang/crude)
+- nuolla
+- syödä pillua
+- hutunkeitto
+- imeskellä pillua
+- pillunsyönti
+
+## Acts — masturbation (clinical)
+- masturbaatio
+- itsetyydytys
+- onania
+
+## Acts — masturbation (slang/crude)
+- runkata
+- runkkaaminen
+- runkkaaja
+- vetää käteen
+- hakata käteen
+- hieroa
+- hoitaa itse
+- huskata
+- käpälöidä
+- nuijia
+
+## Acts — anal (clinical)
+- anaaliyhdyntä
+- anaaliseksi
+- sodomia
+- anaalinen penetraatio
+
+## Acts — anal (slang/crude)
+- perseeseen nussiminen
+- perseseksi
+- pyllyseksi
+- tagata
+- antaa perseeseen
+- porautuua perseen
+
+## Acts — ejaculation (clinical)
+- ejakulaatio
+- siemensyöksyminen
+- siemensyöksy
+
+## Acts — ejaculation (slang/crude)
+- laueta
+- laukeaminen
+- tulla
+- spitata
+- roiskia
+- mälliä puistaa
+
+## Acts — orgasm (clinical)
+- orgasmi
+
+## Acts — orgasm (slang/crude)
+- laueta
+- tulla
+- huippuun pääseminen
+- saavuttaa huippu
+- orgasmoida
+
+## Fluids and physical states (clinical)
+- sperma
+- siemenneste
+- ejakulaatti
+- esiliukaste
+- esineste
+- emätinlima
+- emätinerite
+- erektio
+- kovettuminen
+
+## Fluids and physical states (slang)
+- mälli
+- maito
+- mönjä
+- luraus
+- lutkaus
+- standi
+- lanttu pystyssä
+- tikku pystyssä
+- pystyynä
+- kova
+
+## Desire, arousal, descriptors (clinical)
+- seksuaalinen halu
+- libido
+- kiihottuminen
+- seksuaalinen kiihottuminen
+- seksuaalinen vetovoima
+- seksuaalinen vietti
+- vietti
+
+## Desire, arousal, descriptors (slang/colloquial)
+- kiimainen
+- kiimassa
+- himo
+- himokas
+- seksihimoinen
+- kuuma
+- tulinen
+- märkä
+- palava halu
+- lihallinen halu
+- frigidi
+- kylmäinen
+- löysä
+- seksikäs
+- himoittava
+- vilkas
+- haluava
+
+## Identities and orientations (clinical)
+- homoseksuaali
+- homosexuaalinen
+- heteroseksuaali
+- biseksuaali
+- lesbo
+- lesbilainen
+- transseksuaali
+- transgender
+- transihminen
+- aseksuaali
+- panseksuaali
+- intersukupuolinen
+- queer
+- muunsukupuolinen
+- ei-binäärinen
+- sukupuoli-identiteetti
+- seksuaalinen suuntautuminen
+- sukupuolen moninaisuus
+- demiseksuaali
+
+## Identities and orientations (slurs)
+- hintti
+- hinttari
+- homppeli
+- faggotti
+- lesbokki
+- transukka
+- imuvaris
+- huivipää
+- homosika
+- neitikki
+- töpöhäntä
+- perseenkäyttäjä
+- poikamies (dated pejorative)
+- pupu
+
+## Sexual insults and profanity
+- vittu
+- vittusaatana
+- vittupää
+- kyrpänpää
+- perseenreikä
+- mulkku
+- paskiainen
+- huora
+- lutka
+- lutkka
+- horo
+- äpärä
+- panohousu
+- panopukki
+- vittuilija
+- vittuileminen
+- huoritella
+- runkkaaja
+- painu vittuun
+- haista vittu
+- nussia vittua
+- homovittu
+- hinttuperse
+- äitisi on huora
+- helvetin huora
+- saatanan vittu
+- panettaja
+
+## Sex work and pornography
+- prostituutio
+- prostituoitu
+- huora
+- seksityöntekijä
+- ilotyttö
+- ilotalo
+- bordelli
+- parittaja
+- strippari
+- strippaaja
+- eroottiset palvelut
+- escort
+- pornografia
+- porno
+- pornofilmi
+- pornoelokuva
+- pornotähti
+- amatöörporno
+- kovaporno
+- pehmeäporno
+- striptiisi
+- liveseksi
+- camgirl
+- OnlyFans-tyttö
+- seksimyyjä
+- katuhuora
+- ilonpitäjä
+
+## Reproductive and contraceptive
+- kondomi
+- kumit
+- kumi
+- mansetti
+- lateksipaita
+- ehkäisy
+- ehkäisypilleri
+- neitsyys
+- deflooraatio
+- raskaaksi tekeminen
+- siittäminen
+
+## Sexually transmitted infections
+- sukupuolitauti
+- kuppa
+- tippuri
+- klamydia
+- herpes
+- kondylooma
+- sukupuolitartunta
+
+## Kink, fetish, paraphilia
+- BDSM
+- sadomasokismi
+- sadismi
+- masokismi
+- fetismi
+- bondage
+- dominanssi
+- alistuminen
+- alistaja
+- alistuva
+- herruus
+- nöyristely
+- piiskaaminen
+- sidonta
+- kuristaminen
+- nipistely
+- dominatrix
+- orja
+- isäntä
+- emäntä
+- roolileikki
+- rooleilu
+- kinky
+- voyerismi
+- voyeuristi
+- ekshibitionismi
+- ekshibitionisti
+- jalkafetiikki
+- bondage-köysi
+- nahka-asut
+- lateksi
+- polyamorismi
+- swingerit
+- swingailu
+- ryhmäseksi
+- gangbang
+- kolmio
+- kolmikko
+- orgia
+- karkeelot
+- dominointi
+- alistaminen
+- anaalitappi
+- seksilelut
+- vibraattori
+- dildo
+- dildoilu
+
+## Euphemisms and idioms
+- tehdä se
+- mennä sänkyyn
+- nukkua jonkun kanssa
+- harrastaa seksiä
+- harrastaa rakkautta
+- maata jonkun kanssa
+- olla intiimi
+- touhuilla
+- pitää hauskaa
+- lähentyminen
+- petting
+- esileikki
+- hyväily
+- pussailla
+- seksata
+- yhden yön juttu
+- pikavittu
+- satunnaisseksi
+- seksikaveri
+- etuja ilman velvoitteita
+- käydä jonkun päällä
+- laittaa
+- muhinoida
+
+## Archaic and literary
+- lempi
+- lempeily
+- haureellinen
+- haure
+- haureus
+- siivottomuus
+- siveetön
+- siveellinen
+- siveellisyys
+- hekuma
+- huoruus
+- himokas
+- vietteleminen
+- viettelys
+- lemmekki
+- morsiusvuode
+- irstas
+- irstastelu
+- langennut nainen
+- lankeaminen
+- himoinen
+- hekumointi
+- lihanhimo
+
+## Internet and subculture
+- hentai
+- ecchi
+- wanking
+- fapping
+- nettiporno
+- sekstaus
+- sexting
+- Tinder-pano
+- hookup
+- nettiseksi
+- kamerashow
+- pornoilu
+- camming
+- pron
+- thicc
+- lewdi
+- NSFW
+- simp
+- paypig
+- cuck
+- cuckoldaus
+- nännikuva
+- dickpic
+- slutdropping
+- thirst trap
+
+## Culture-specific — Lutheran sexual shame vocabulary
+- häpeä
+- syntisyys
+- synti
+- irstas
+- hurskaus
+- siveellinen
+- viettelijä
+- lankeaminen
+- langennut
+- siveys
+- siveellisyysrikos
+- hekumoitsija
+- syntinen nainen
+
+## Culture-specific — Finnish military and prison slang
+- kapinainen
+- siippa
+- nussijainen
+- kyrvänkäyttäjä
+- pano-osasto
+- panopaikka
+- makuupussi
+
+## Culture-specific — Finnish regional and dialectal
+- mussuttaa
+- hossuttaa
+- nussata
+- lyssiä
+- pilluttaa
+- vituttaa
+- persetä
+- naittaa
+- naitella
+- koipeli
+- potku perseen
+- pilluilu
+- kyrvänpää

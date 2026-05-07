@@ -1,0 +1,794 @@
+# Brazilian Portuguese — sexually-charged vocabulary dump
+# Latin script.
+# No definitions. No scoring. Just words, one per line.
+
+## Organs — penis (clinical)
+- pênis
+- falo
+- membro viril
+- glande
+- prepúcio
+- órgão sexual masculino
+- corpo cavernoso
+- uretra peniana
+
+## Organs — penis (slang/crude)
+- pau
+- piroca
+- rola
+- caralho
+- cacete
+- pinto
+- pica
+- vara
+- nabo
+- ferramenta
+- pauzão
+- instrumento
+- minhoca
+- salsicha
+- linguiça
+- pepino
+- trombeta
+- pincel
+- bagulho
+- bisnaga
+- manguerão
+- toco
+- pauzinho
+- estouro
+- verga
+- membro
+- troço
+
+## Organs — vagina (clinical)
+- vagina
+- vulva
+- clitóris
+- lábios maiores
+- lábios menores
+- monte pubiano
+- monte de Vênus
+- hímen
+- introito vaginal
+- canal vaginal
+- parede vaginal
+
+## Organs — vagina (slang/crude)
+- buceta
+- xota
+- xoxota
+- cona
+- pepeca
+- racha
+- tcheca
+- crica
+- boceta
+- xoxo
+- periquita
+- totó
+- fuça
+- xibiu
+- passarinho
+- gruta
+- abismo
+- bresanha
+- mexeriquinha
+- ratinha
+- papai
+- fenda
+- racha
+
+## Organs — clitoris (slang/crude)
+- grelo
+- botão
+- cabecinha
+- carneirinho
+
+## Organs — anus (clinical)
+- ânus
+- reto
+- esfíncter anal
+- canal anal
+- região perianal
+
+## Organs — anus (slang/crude)
+- cu
+- buraco
+- fundilho
+- portal
+- naica
+- olho do cu
+- rabo
+- burraca
+- ranhura
+
+## Organs — buttocks (slang/crude)
+- bunda
+- bundão
+- rabo
+- traseiro
+- nádegas
+- bumbum
+- popô
+- culona
+- quartos traseiros
+
+## Organs — breasts (clinical)
+- mamas
+- seios
+- glândulas mamárias
+- mamilo
+- aréola
+- tecido mamário
+
+## Organs — breasts (slang/crude)
+- peitos
+- tetas
+- peitão
+- mama
+- bico
+- maminha
+- melões
+- globos
+- berinjelas
+- esferas
+- chapadão
+- mamilão
+- topa
+- butiás
+
+## Organs — testicles (clinical)
+- testículos
+- escroto
+- saco escrotal
+- epidídimo
+
+## Organs — testicles (slang/crude)
+- bolas
+- saco
+- colhões
+- bagos
+- ovos
+- baga
+- penduricalhos
+- pendurado
+
+## Acts — intercourse (clinical)
+- coito
+- cópula
+- relação sexual
+- ato sexual
+- penetração
+- cópula vaginal
+- cópula anal
+- intromissão
+- cópula intravaginal
+- fornicação
+- concúbito
+- cópula oral
+
+## Acts — intercourse (slang/crude)
+- foder
+- trepar
+- transar
+- meter
+- comer
+- dar
+- tomar
+- bombar
+- bicar
+- safar
+- fuder
+- enrabar
+- enfiar
+- botar
+- chingar
+- sacanear
+- fazer sexo
+- transa
+- trepa
+- ferrando
+- dando uma de
+- fazer aquilo
+- meter o pau
+- dar uma fodida
+- uma rapidinha
+
+## Acts — oral sex (clinical)
+- felação
+- fellatio
+- cunilíngua
+- cunnilingus
+- estimulação oral
+- sexo oral
+
+## Acts — oral sex (slang/crude)
+- boquete
+- boquetão
+- chupar
+- mamar
+- xoxar
+- lamber
+- dar boquete
+- chupar o pau
+- beijo grego
+- lamber o cu
+- comer com a boca
+- fazer oral
+- fazer xixi
+- mama-pau
+
+## Acts — masturbation (clinical)
+- masturbação
+- onanismo
+- autoerotismo
+- estimulação manual
+
+## Acts — masturbation (slang/crude)
+- punheta
+- punhetada
+- bater punheta
+- se punhetar
+- branlar
+- sovar
+- se tocar
+- dar uma mãozinha
+- friccionar
+- manobrar
+- pegar na própria
+- fazer no dedo
+- se mexer
+- se esfregar
+
+## Acts — anal sex (slang/crude)
+- sexo anal
+- anal
+- colocar no cu
+- meter no cu
+- dar o cu
+- tomar no cu
+- enrabar
+- enfiar no buraco
+- fazer pelo fundilho
+- arrombar
+
+## Fluids and physical states
+- esperma
+- sêmen
+- ejaculado
+- porra
+- leitinho
+- leite
+- gozo
+- gozada
+- secreção vaginal
+- lubrificação
+- molhada
+- ficar molhada
+- molhar a calcinha
+- pré-ejaculatório
+- líquido seminal
+- ereção
+- pau duro
+- teso
+- tesão
+- ficar teso
+- tesudo
+- boner
+- ejacular
+- gozar
+- vir
+- chegar
+- orgasmo
+- clímax
+- descarga
+
+## Desire / arousal / descriptors
+- tesão
+- tarado/tarada
+- cacheiro/cacheira
+- safado/safada
+- fogoso/fogosa
+- excitado/excitada
+- libidinoso/libidinosa
+- lascivo/lasciva
+- puteiro (adj.)
+- luxurioso/luxuriosa
+- gostoso/gostosa
+- gostosão/gostosona
+- sensual
+- apimentado/apimentada
+- quente
+- safadeza
+- tesudeza
+- malicioso/maliciosa
+- frígido/frígida
+- frio/fria
+- inibido/inibida
+- recalcado/recalcada
+- careta
+- trancado/trancada
+- pudico/pudica
+- assexuado/assexuada
+- castrado/castrada (metaphorically)
+- pau-mole (impotent)
+- moleza
+- frouxo/frouxa
+- seco/seca
+
+## Identities / orientations (clinical)
+- homossexual
+- heterossexual
+- bissexual
+- assexual
+- pansexual
+- lésbica
+- gay
+- transgênero
+- travesti
+- intersexo
+- queer
+- cisgênero
+- não-binário
+- demissexual
+- polissexual
+- andrógino
+- fluido (gênero fluido)
+
+## Identities / orientations (slurs and reclaimed)
+- viado
+- veado
+- bicha
+- bichona
+- bixona
+- sapatão
+- sapatilha
+- sapata
+- boiola
+- paneleiro
+- frango
+- fruto
+- frutinha
+- baitola
+- traveco
+- pintosa
+- bundudo
+- pocona
+- bofe
+- entendido/entendida (dated, reclaimed)
+- gayzão
+- fresquinho
+- maricas
+- fresco
+- efeminado
+- montada
+- marimacho
+- caminhoneira
+
+## Insults built from sexual vocabulary
+- filho da puta
+- filha da puta
+- f.d.p.
+- vá se foder
+- vai tomar no cu
+- vai se fuder
+- cu de pau
+- porra que pariu
+- puta que pariu
+- punheteiro/punheteira
+- vagabunda
+- vadia
+- puta
+- piranha
+- galinha
+- vaca
+- cachorra
+- putinha
+- rapariga (in Brazil: slut)
+- safada
+- sem-vergonha
+- descarada/descarado
+- ordinária/ordinário
+- arrombado/arrombada
+- corneta
+- corno
+- corno manso
+- corna
+- chifrudo
+- cuzona
+- puta de meia
+- trambolho
+- inútil de pau mole
+- froxa
+- piriguete
+- piranha do lixo
+- lixo
+- prostituta de esquina
+- vai se lascar
+- come-cu
+- bucetão
+
+## Sex work and pornography
+- prostituta
+- profissional do sexo
+- trabalhadora sexual
+- meretriz
+- puta
+- putinha
+- piranha
+- michê
+- garota de programa
+- garoto de programa
+- programa
+- cafetão
+- cafetina
+- gigolô
+- bordel
+- puteiro
+- zona
+- casa de tolerância
+- cabaré
+- boate
+- prostíbulo
+- pornografia
+- pornô
+- ator pornô
+- atriz pornô
+- stripper
+- dançarina erótica
+- acompanhante
+- escort
+- conteúdo adulto
+- sexo pago
+- serviço sexual
+- ganha-pão sexual
+- sacanagem paga
+
+## Reproductive / contraceptive (sexually charged)
+- camisinha
+- preservativo
+- borracha
+- capote
+- capa
+- gorro
+- anticoncepcional
+- pílula
+- de manhã cedo (morning-after euphemism)
+- pílula do dia seguinte
+- vasectomia
+- laqueadura
+- aborto
+- abortar
+- gravidez indesejada
+
+## Kink / fetish / paraphilia
+- BDSM
+- bondage
+- dominação
+- submissão
+- dominante
+- submisso/submissa
+- dom
+- sub
+- sadomasoquismo
+- dominatrix
+- voyeurismo
+- voyeur
+- exibicionismo
+- exibicionista
+- fetichismo
+- fetiche
+- masoquismo
+- masoquista
+- sadismo
+- sádico/sádica
+- fisting
+- spanking
+- surra
+- chicote
+- algemas
+- mordaça
+- corda (bondage rope)
+- role play
+- fantasia
+- fantasia sexual
+- jogo de papéis
+- sexo em grupo
+- gangbang
+- orgia
+- troca de casais
+- swing
+- swinger
+- cuckold
+- corno (fetish context)
+- hotwife
+- ménage a trois
+- sexo a três
+- squirt
+- squirting
+- pee play
+- douche dorée
+- parafilia
+- furry
+- BDSM pesado
+- escravidão sexual
+- servidão
+- trampling
+- pés (foot fetish)
+- látex
+- couro
+- uniforme (fetish)
+- professor/aluno (roleplay)
+
+## Euphemisms and idioms
+- fazer amor
+- fazer aquilo
+- o negócio
+- a tal coisa
+- intimidade
+- relação íntima
+- ir para a cama
+- dormir juntos
+- ficaram juntos
+- rolar
+- pegação
+- ficar com
+- dar aquela de
+- uma rapidinha
+- um programinha
+- noite de núpcias
+- lua de mel
+- dar-se
+- entregou-se
+- se envolveu
+- se conheceram melhor
+- fizeram sujeira
+- malícia
+- travessura
+- brincadeira de adulto
+- carinho especial
+- dar aquela de gostar
+- pular a cerca
+- botar chifre
+- colocar chifre
+- trair
+- trairagem
+- caso
+- aventura
+
+## Archaic / literary / dated
+- fornicar
+- fornicação
+- lúbrico/lúbrica
+- lubricidade
+- concubina
+- amásia
+- manceba
+- mancebo
+- devassidão
+- libertinagem
+- libertino/libertina
+- dissoluto/dissoluta
+- carnal
+- libidinagem
+- tribadismo
+- pederastia
+- sodomia
+- sodomita
+- concúbito
+- fresco (dated slur)
+- vício nefando
+- ato nefando
+- mancebia
+- brejeiro/brejeira
+- galante
+- cortesã
+- mundana
+- rameira
+- fadista
+- mulher da vida
+- mulher perdida
+- mulher de má vida
+
+## Internet / subculture
+- nudes
+- pack
+- vazar nudes
+- sexting
+- print íntimo
+- conteúdo adulto
+- Only (OnlyFans)
+- cria conteúdo
+- live
+- webcam
+- cam
+- sugar daddy
+- sugar baby
+- sugar
+- affair
+- amante
+- amigão
+- caso
+- fling
+- gostosinha
+- musa
+- gata/gato
+- bombom
+- coroa (older lover)
+- maduro/madura
+- putaria
+- safadeza
+- sacanagem
+- 18+
+- explícito
+- hard
+- soft
+- hentai
+- r34
+- NSFW
+- DM nudes
+- pede nudes
+- manda nudes
+- coloca na DM
+- crush
+- affair digital
+- envolvimento
+- F.D.P.
+- paia (bad sex / wasting time)
+- dar uma de safado
+- catfish sexual
+- assédio digital
+
+## Culture-specific — ficar (Brazilian hookup culture)
+- ficar
+- ficada
+- ficante
+- ficante sem compromisso
+- ficou com
+- arranjou alguém
+- pegação
+- pegar
+- rodar
+- arrastar
+- fisgar
+- dar em cima
+- cantada
+- cantada pesada
+- cantada safada
+- papo de sedução
+- paquera
+- paquerando
+- flerte
+- assanhado/assanhada
+- chegar junto
+- chegar por baixo
+
+## Culture-specific — honor/shame sexuality (corno/cornudo complex)
+- corno
+- cornudo
+- corna
+- chifrudo
+- botar chifre
+- colocar chifre
+- chifre
+- trairagem
+- trair
+- traição
+- ser traído
+- ser chifrado
+- honra sexual
+- mulher honrada
+- mulher da vida
+- moça direita
+- moça de família
+- mulher de respeito
+- defender a honra
+- desonrar
+- manchar a honra
+- virgindade
+- himen intacto
+- virgem
+- perdeu a virgindade
+- defloração
+- deflorar
+- defloration
+
+## Culture-specific — malandro / malandragem
+- malandro
+- malandragem
+- galanteador
+- conquistador
+- sedutor
+- pegador
+- mulherengo
+- mulhereiro
+- don-juan
+- playboy
+- safado
+- danado
+- donjuanesco
+- boçal
+- assanhado
+- metedor
+- pegador serial
+- comedor
+
+## Culture-specific — Carnaval sexuality
+- putaria de carnaval
+- folia
+- frevinha
+- corpo nu
+- pelado/pelada
+- seios à mostra
+- topless
+- exibir o corpo
+- frota (group sex)
+- orgia de carnaval
+- pegação de bloco
+- trepada de carnaval
+- ficante de carnaval
+- sacanagem de carnaval
+
+## Culture-specific — religious/moral framing (borrowed into Brazilian Portuguese from Catholicism)
+- pecado carnal
+- impuro/impura
+- luxúria
+- carne
+- tentação da carne
+- atos da carne
+- devasso/devassa
+- dissoluto/dissoluta
+- fornicador/fornicadora
+- adultério
+- adúltero/adúltera
+- concupiscência
+- torpe
+- torpeza
+- desvirtuado/desvirtuada
+- desviado/desviada
+- perverso/perversa
+- imoral
+- indecente
+- obceno/obscena
+- indecoroso/indecorosa
+- profano/profana
+
+## Culture-specific — travesti / trans identity (Brazilian-specific context)
+- travesti
+- travestismo
+- traveco (derogatory)
+- montada
+- transformista
+- drag queen
+- drag king
+- transsexual
+- trans
+- transição
+- transicionar
+- hormonizar
+- operada
+- não-operada
+- passabilidade
+- passar (to pass as gender)
+- descobrir-se
+- assumir-se
+- se assumir
+
+## Culture-specific — prison / military slang
+- bicha (prison)
+- passivo
+- ativo
+- dar o cu
+- tomar no cu
+- frango (passive)
+- boiola de cadeia
+- se perder (to become passive)
+- homem (active partner - prison)
+- dar pro ativo
+- forçar
+- forçar alguém
+- caiu de pato
+- bode (older forced partner)
+- novinho (young target)
+- colar com (prison protection with sexual implication)

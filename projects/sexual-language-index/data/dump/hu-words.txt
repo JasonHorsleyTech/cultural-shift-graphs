@@ -1,0 +1,589 @@
+# Hungarian — sexually-charged vocabulary dump
+# Latin script.
+# No definitions. No scoring. Just words, one per line.
+
+## Organs — penis (clinical)
+- pénisz
+- fallosz
+- hímvessző
+- hímtag
+- hímszerv
+- glans penis
+- praeputium
+- fityma
+
+## Organs — penis (slang/crude)
+- fasz
+- farok
+- pöcs
+- fütyü
+- mony
+- nyél
+- rúd
+- bot
+- csöve
+- kukac
+- kolbász
+- csirkenyak
+- kürtő
+- karó
+- dárda
+- pecek
+- spárga
+- sárgarépa
+- banán
+- makk
+- gereben
+- tőr
+- hüvelykujj
+- virsli
+- köcsög
+
+## Organs — vagina (clinical)
+- vagina
+- vulva
+- hüvely
+- szeméremtest
+- szeméremajkak
+- belső szeméremajkak
+- külső szeméremajkak
+- vestibulum vaginae
+
+## Organs — vagina (slang/crude)
+- punci
+- pina
+- lyuk
+- rés
+- macska
+- cica
+- nyúl
+- kagyló
+- pecsét
+- hasíték
+- buci
+- barlang
+- alagút
+- muffin
+- rózsa
+- repedés
+- csatorna
+
+## Organs — breasts (clinical)
+- mell
+- emlő
+- mellbimbó
+- areola
+- emlőmirigy
+
+## Organs — breasts (slang/crude)
+- cici
+- csöcs
+- dinnye
+- búbos
+- köcsög
+- léggömb
+- domb
+- keblei
+- mellek
+- gömböc
+
+## Organs — testicles (clinical)
+- here
+- herék
+- ondóhólyag
+- ondóvezeték
+- scrotum
+- herezacskó
+
+## Organs — testicles (slang/crude)
+- tök
+- golyó
+- dió
+- mogyoró
+- tökzacskó
+
+## Organs — anus (clinical)
+- anus
+- végbél
+- végbélnyílás
+- végbélcsatorna
+- rectum
+
+## Organs — anus (slang/crude)
+- segg
+- fenék
+- popsi
+- gödör
+- seggluk
+
+## Organs — clitoris (clinical)
+- klitorisz
+- csikló
+
+## Organs — clitoris (slang/crude)
+- gomb
+- bütyök
+- bab
+
+## Organs — other anatomical
+- méh
+- uterus
+- petefészek
+- szeméremszőrzet
+- labia
+
+## Acts — intercourse (clinical)
+- közösülés
+- nemi aktus
+- nemi érintkezés
+- szexuális aktus
+- kopuláció
+- koitus
+- coitus
+- szexuális közösülés
+- vaginális közösülés
+
+## Acts — intercourse (slang/crude)
+- baszás
+- kúrás
+- dugás
+- hancúrozás
+- ledugja
+- beledug
+- megcsinál
+- letol
+- megszúr
+- megdugja
+- szúr
+
+## Acts — fellatio (clinical)
+- felláció
+- penisorális stimuláció
+- orogenitális aktus
+
+## Acts — fellatio (slang/crude)
+- leszopás
+- szopás
+- blöki
+- fütyültetés
+- szopja
+
+## Acts — cunnilingus (clinical)
+- cunnilingus
+- vulva orális stimulációja
+- vulva orális ingerlése
+
+## Acts — cunnilingus (slang/crude)
+- nyalás
+- pinalyalás
+- lenyalja
+- maci
+
+## Acts — masturbation (clinical)
+- maszturbáció
+- önkielégítés
+- önstimulálás
+- autoerotika
+- onánia
+
+## Acts — masturbation (slang/crude)
+- verés
+- húzás
+- faszverés
+- kézzel csinálni
+- simogatja
+- ujjazás
+
+## Acts — anal sex (clinical)
+- anális szex
+- anális közösülés
+- anális penetráció
+- rektális közösülés
+
+## Acts — anal sex (slang/crude)
+- seggebaszás
+- seggbe dugni
+- hátsó bejáraton
+
+## Acts — other sexual acts (clinical)
+- penetráció
+- szexuális stimuláció
+- erogén stimuláció
+- frottage
+- tribadizmus
+- intercrurális szex
+- orális szex
+- anileikció
+
+## Acts — other sexual acts (slang/crude)
+- ujjal csinálni
+- passzív aktus
+- aktív aktus
+- bedugi
+- becsúszik
+
+## Acts — sexual positions
+- misszionárius helyzet
+- kutya helyzet
+- lovagló helyzet
+- fordított lovagló
+- spoon helyzet
+- oldalfekvős
+
+## Acts — foreplay and related
+- előjáték
+- utójáték
+- simogatás
+- csókolózás
+- nyalogatás
+- harapás
+
+## Fluids and physical states
+- ondó
+- spermium
+- ejakulátum
+- magömlés
+- hüvelyi váladék
+- előváladék
+- nedvesség
+- merevedés
+- erekció
+- kemény
+- merev
+- felállt
+
+## Orgasm
+- orgazmus
+- kielégülés
+- csúcspont
+- elmegy
+- kijön
+- megjön
+- lerobban
+- elszór
+- leszór
+
+## Desire / arousal / descriptors
+- szexuális vágy
+- kéjvágy
+- libidó
+- kéj
+- gerjedés
+- gerjed
+- be van gerjedve
+- kéjes
+- kéjenc
+- buja
+- bujaság
+- szenvedélyes
+- frigid
+- frigidség
+- impotens
+- impotencia
+- potencia
+- nimfomán
+- szatiriázis
+- vágyakozás
+- gerjedelem
+- ledér
+- könnyűvérű
+- tüzes
+
+## Identities / orientations (clinical)
+- homoszexuális
+- heteroszexuális
+- biszexuális
+- aszexuális
+- leszbikus
+- transznemű
+- transzgender
+- transzszexuális
+- queer
+- pánszexuális
+- interszexuális
+- nem-bináris
+- gender-fluid
+- demiszexuális
+- aromantikus
+- grászexuális
+
+## Identities / orientations (neutral/reclaimed)
+- meleg
+- bi
+- transz
+- enby
+- drag queen
+- drag king
+- genderqueer
+
+## Identities / orientations (slurs)
+- buzi
+- buznyák
+- buzeráns
+- pedál
+- leszi
+- pederaszt
+- szodomiták
+- buzis
+- homó
+- buziféle
+- csöcsös (derogatory for trans)
+- szodómita
+
+## Insults built from sexual vocabulary
+- kurvaanyád
+- anyád picsáját
+- kurvafasz
+- bazmeg
+- baszd meg
+- picsába
+- picsafej
+- faszfej
+- ribanc
+- szajha
+- lotyó
+- ringyó
+- kurafi
+- fattyú
+- szuka
+- seggfej
+- tökfej
+- fasz arc
+- segglyuk
+- buzifej
+- picsa arc
+- ringyócska
+- kibaszott
+- faszra húzott
+- kibasz
+
+## Expletive constructions
+- anyád
+- faszom
+- a faszom
+- bassza meg
+- megbasszam
+- az anyád istenit
+- az anyád keservit
+- a kurva életét
+- seggbe
+
+## Sex work and pornography
+- prostituált
+- kurva
+- szexmunkás
+- futtatás
+- strici
+- kerítő
+- kerítőnő
+- bordélyház
+- bordély
+- pornó
+- pornográfia
+- pornófilm
+- szexfilm
+- erotika
+- escort
+- sztrippklub
+- rúdtáncos
+- meztelen táncos
+- camgirl
+- webcam modell
+- onlyfans tartalom
+- felnőtt tartalom
+
+## Reproductive / contraceptive (sexually charged)
+- óvszer
+- gumi
+- kondóm
+- fogamzásgátló
+- tabletta
+- szexuálisan átvihető fertőzés
+- nemi betegség
+- HIV
+- AIDS
+- gonorrhoea
+- szifilisz
+- herpes
+- chlamydia
+
+## Kink / fetish / paraphilia
+- BDSM
+- dominancia
+- szubmisszió
+- fetisizmus
+- fétis
+- parafília
+- voyerizmus
+- voyeur
+- exhibicionizmus
+- exhibicionista
+- szadizmus
+- mazochizmus
+- szadomazochizmus
+- szadista
+- mazochista
+- bondage
+- domináns
+- szubmisszív
+- rabszolga
+- gazda
+- úr
+- úrnő
+- orgia
+- gangbang
+- swinger
+- cuckold
+- csoportszex
+- háromszög
+- láb fétis
+- lábimádó
+- transzvesztita
+- pegging
+- arany eső
+- spanking
+- megkötözés
+- rimming
+- edge play
+- impact play
+- szexuális uralom
+- nyitott kapcsolat
+- poliamória
+- poliamórikus
+- szexuális játék
+
+## Euphemisms and idioms
+- csinálja
+- lefekszik valakivel
+- együtt tölt éjszakát
+- intim kapcsolat
+- szeretkeznek
+- kaland
+- hancúroz
+- megadja magát
+- közeledik
+- enged
+- megismeri
+- intimitás
+- hálószobában
+- feküdj mellém
+- vigaszt talál
+- közeli kapcsolat
+- elcsábít
+- szerelmi játék
+- románc
+- flört
+- összejönnek
+- összebújnak
+- benéz hozzá
+
+## Archaic / literary / dated
+- paráznaság
+- kéjelgés
+- szűzesség
+- erkölcstelenség
+- szemérem
+- vérfertőzés
+- céda
+- kacér
+- kéjnő
+- kéjlak
+- tisztátalan
+- erkölcstelen nő
+- libidinózus
+- testi vágy
+- frivolság
+- szabados erkölcsű
+- ledérség
+- bujálkodás
+- parázna
+- csábítónő
+- kerítés (procuring - archaic)
+
+## Internet / subculture
+- szexting
+- nudes
+- dick pic
+- sextortion
+- revenge porn
+- fap
+- simp
+- incel
+- hentai
+- deepfake szex
+- camming
+- catfish szex
+- ghostolás
+- sextorolás
+- VR porn
+- AI porn
+- snapchat szex
+- szex chat
+- egyperceses
+- NTR
+- cuck
+
+## Culture-specific — Magyar anyázó formulák (mother-curse constructions)
+- anyád picsája
+- kurvaanyád istenit
+- anyád keservit
+- anyád teremtőjét
+- az anyád szűzanyát
+- anyádba
+- ringyó anyád
+- anyádat
+
+## Culture-specific — Vallási/erkölcsi fogalmak (religious/moral sexual vocabulary)
+- szűzesség
+- paráznaság
+- erkölcstelenség
+- tisztaság
+- bűn
+- bűnös vágy
+- testi kísértés
+- nemi erkölcs
+- halálos bűn
+- bujálkodás
+- nemi visszaélés
+- testi bűn
+- bűnös érintkezés
+
+## Culture-specific — Hűtlenség és félrelépés (infidelity vocabulary)
+- megcsal
+- félrelép
+- szerető
+- viszonya van
+- titkos szerető
+- szarvasokat tesz
+- felszarvazza
+- megcsalt
+- szeretőt tart
+- párját csalja
+
+## Culture-specific — Testi szégyenítés (slut-shaming vocabulary)
+- kurválkodik
+- mindenki lepedőjén
+- gyorsan lefekszik
+- könnyen elérhető
+- mindenki játékszere
+- ribancnak néz
+- szexuálisan elérhető
+- felszedik az utcán
+
+## Culture-specific — Szexfüggőség és -zavar (sexual addiction/dysfunction vocabulary)
+- szexfüggőség
+- pornófüggőség
+- szexuális zavar
+- szexuális diszfunkció
+- anorgazmia
+- vaginizmus
+- ejakulációs zavar
+- korai magömlés
+
+## Culture-specific — Katonai és börtönszleng (military/prison slang)
+- passzív partner
+- aktív partner
+- szopós
+- passzív aktus
+- bekéri
+- kiosztja

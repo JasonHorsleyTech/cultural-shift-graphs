@@ -452,7 +452,7 @@ function main() {
 
     const result = spawnSync('/opt/homebrew/bin/claude', [
       '-p', prompt,
-      '--model', 'opus',
+      '--model', 'sonnet',
       '--dangerously-skip-permissions',
       '--max-turns', String(MAX_TURNS),
     ], {

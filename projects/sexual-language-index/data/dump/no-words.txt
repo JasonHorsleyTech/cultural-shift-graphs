@@ -1,0 +1,746 @@
+# Norwegian (Bokmål) — sexually-charged vocabulary dump
+# Latin script.
+# No definitions. No scoring. Just words, one per line.
+
+## Organs — penis (clinical)
+- penis
+- fallos
+- phallus
+- kjønnslem
+- mannlig kjønnsorgan
+- glans
+- forhud
+- ereksjonsorganet
+
+## Organs — penis (slang/crude)
+- kuk
+- kukken
+- pikk
+- pikken
+- lem
+- pipe
+- pølse
+- slange
+- stav
+- banan
+- joystick
+- diller
+- snabel
+- stokk
+- snikk
+- pir
+- peis
+- verktøy
+- skrujern
+- lansen
+- kjeppen
+- bein
+- tingest
+- dingsen
+
+## Organs — vagina (clinical)
+- vagina
+- vulva
+- skjede
+- kjønnslepper
+- ytre kjønnslepper
+- indre kjønnslepper
+- slimhinne
+- bartolinkjertler
+- jomfruhinna
+
+## Organs — vagina (slang/crude)
+- fitte
+- fitten
+- kuse
+- mus
+- snippen
+- hule
+- potte
+- katta
+- blomst
+- dato
+- rosa
+- knipa
+- tissevansen
+- våten
+- neden
+- snurpen
+- bønsen
+- skitgropa
+- gropen
+- nøtsen
+
+## Organs — clitoris (clinical)
+- klitoris
+- klitorishodet
+- forhudsfold
+
+## Organs — clitoris (slang/crude)
+- klitten
+- knupp
+- perlen
+- knotten
+- lille pikk
+
+## Organs — breasts (clinical)
+- bryst
+- bryster
+- brystkjertler
+- brystvorte
+- areola
+- mammae
+
+## Organs — breasts (slang/crude)
+- pupper
+- puppene
+- dibber
+- knotter
+- knoller
+- melonene
+- meloner
+- baguetter
+- kurver
+
+## Organs — testicles (clinical)
+- testikler
+- testis
+- pung
+- skrotum
+- bitestikler
+- sædholdere
+- sædblem
+
+## Organs — testicles (slang/crude)
+- baller
+- ballene
+- kuler
+- nøtter
+- stein
+- posen
+- kurven
+
+## Organs — anus (clinical)
+- anus
+- endetarm
+- rektum
+- analåpning
+- analsfinkter
+- endetarmsåpning
+
+## Organs — anus (slang/crude)
+- ræv
+- reva
+- rompe
+- rumpa
+- baken
+- bakenden
+- rumpehull
+- rævehole
+- ræveknott
+- bakdøren
+- rævet
+
+## Organs — other anatomical
+- prostata
+- livmor
+- eggstokk
+- eggleder
+- sædsekk
+- sædrør
+- skritt
+- underliv
+- nedentil
+- kjønnshår
+- skrittet
+
+## Acts — intercourse (clinical)
+- samleie
+- koitus
+- kopulasjon
+- seksuell omgang
+- penetrering
+- seksuell kontakt
+- intim kontakt
+
+## Acts — intercourse (slang/crude)
+- knulle
+- pule
+- knalle
+- bolle
+- stikke
+- bore
+- banke
+- ri
+- kjøre
+- pumpe
+- stange
+- rampe
+- dytte
+- ta
+- ta noen
+- ha sex
+- sleike
+- hive
+- gni
+- gnikke
+- trykke
+- klave
+
+## Acts — fellatio (clinical)
+- fellatio
+- oralt samleie
+- oral seks
+- oral stimulering
+- penissugning
+
+## Acts — fellatio (slang/crude)
+- suge
+- suging
+- blowjob
+- pikksug
+- gi hode
+- ta i munnen
+- deepthroat
+- munnjobbe
+
+## Acts — cunnilingus (clinical)
+- cunnilingus
+- oral stimulering av vulva
+- klitorisstimulerng
+
+## Acts — cunnilingus (slang/crude)
+- slikke
+- å spise ut
+- å ete fitte
+- tungepusle
+- tunge ned
+- rævslikking
+
+## Acts — anal sex (clinical)
+- analt samleie
+- anal penetrering
+- anal sex
+
+## Acts — anal sex (slang/crude)
+- rævsex
+- rumpesex
+- ta det i ræva
+- bakdørsinngang
+- ta bakfra
+- å knulle i ræva
+- analknulling
+
+## Acts — masturbation (clinical)
+- masturbering
+- masturbasjon
+- onani
+- onanering
+- selvtilfredsstillelse
+- selvstimulering
+
+## Acts — masturbation (slang/crude)
+- runke
+- runking
+- rykke av seg
+- gnulle
+- dille
+- slå av seg
+- slå pikken
+- fingre seg selv
+- onanere
+- nulle
+
+## Acts — other sexual acts
+- petting
+- kline
+- beføle
+- fingre
+- fingering
+- handjob
+- håndjobb
+- prostatamassasje
+- rimming
+- dry humping
+- tittysex
+- ta på
+- klå
+- mase
+- stryke
+- kjæle
+
+## Acts — sexual positions
+- misjonærposisjon
+- doggestilling
+- cowgirl
+- omvendt cowgirl
+- spooning
+- sideposisjon
+- bakfra
+- knelende
+
+## Fluids and physical states — semen
+- sæd
+- sperma
+- ejakulat
+- sekret
+- sædsaft
+- presekret
+- kumm
+- skudd
+- skyt
+- hvit saus
+- sperm
+
+## Fluids and physical states — vaginal
+- vaginalvæske
+- lubrikasjon
+- naturlig fuktighet
+- begjærsvæske
+
+## Fluids and physical states — arousal / erection
+- ereksjon
+- stivar
+- stiv pikk
+- stivhet
+- morgenreisning
+- fuktig
+- opphisselse
+- tent
+
+## Fluids and physical states — orgasm / ejaculation
+- orgasme
+- klimaks
+- utløsning
+- ejakulasjon
+- komme
+- sprute
+- skyte
+- topp
+- sprette
+- eksplodering
+
+## Desire / arousal / descriptors
+- kåt
+- kåtskap
+- opphisset
+- tent
+- fyrig
+- vill
+- liderlig
+- begjærlig
+- begjær
+- lyst
+- lysten
+- seksualdrift
+- libido
+- sexlyst
+- erotikk
+- erotisk
+- sensuell
+- sensualitet
+- brennende
+- ivrig
+- varm
+- gal etter
+- heit
+- horny
+- frigjort
+- seksuelt hemmede
+- frigid
+- puritansk
+- pryd
+- blufferdig
+- avholdende
+- tiltrekning
+- forføring
+- forførerisk
+- seksuelt sulten
+- seksuell appetitt
+- seksuell tiltrekning
+- forbudt
+- seksuell frustrasjon
+- seksuell spenning
+- kåtfinger
+- kjemi
+
+## Identities / orientations (clinical)
+- homofil
+- lesbisk
+- bifil
+- biseksuell
+- heteroseksuell
+- transperson
+- transseksuell
+- transmann
+- transkvinne
+- aseksuell
+- skeiv
+- panseksuell
+- ikke-binær
+- interseks
+- interseksuell
+- demiseksuell
+- allseksuell
+- aromantisk
+- queer
+- grayseksuell
+- abrosexuell
+- homoromantisk
+- seksuell orientering
+- kjønnsidentitet
+
+## Identities / orientations (slurs)
+- homo
+- soper
+- bøsse
+- lesbe
+- transe
+- fjonget
+- nøttekopp
+- femi
+- femse
+- tassete
+- han-kjerring
+- pikksugare
+- lesbete
+- fjott
+
+## Insults built from sexual vocabulary
+- kuksuger
+- fittesuger
+- drittfitte
+- ludder
+- hore
+- horunge
+- fitte
+- pikk
+- kuk
+- ræhål
+- rumpehull
+- soper
+- bøsse
+- slut
+- sexmaniak
+- nymfoman
+- tispe
+- merr
+- slampe
+- tøyte
+- tøs
+- fille
+- løsaktig
+- lettsint
+- billig
+- slask
+- jævla hore
+- skarve hore
+- pikkhue
+- pikkfjes
+- fittepest
+- rævslikker
+- kukk
+
+## Sex work and pornography
+- prostitusjon
+- prostituert
+- sexarbeider
+- hore
+- ludder
+- eskorte
+- callgirl
+- callboy
+- bordell
+- horehus
+- hallik
+- souteneur
+- alfons
+- gigolo
+- stripping
+- stripperinne
+- stripper
+- sexklubb
+- porno
+- pornografi
+- pornofilm
+- sexfilm
+- erotika
+- nakenbilder
+- amatørporno
+- hjemmeporno
+- sexleketøy
+- dildo
+- vibrator
+- massasjeparlor
+- escortetjeneste
+
+## Reproductive / contraceptive (sexually charged)
+- kondom
+- gummi
+- prevensjon
+- p-pille
+- spiral
+- dagetterpille
+- pessar
+- glidekrem
+- glide
+- lateks
+- kondombeskyttelse
+- jomfruhinne
+- defloring
+- omskjæring
+
+## Kink / fetish / paraphilia
+- BDSM
+- bondage
+- dominans
+- underkastelse
+- sadisme
+- masochisme
+- SM
+- sadomasochisme
+- fetisj
+- fetisisme
+- rollelek
+- voyeurisme
+- ekshibisjonisme
+- fisting
+- analfisting
+- rimming
+- gylden regn
+- vannsport
+- pisking
+- spanking
+- binding
+- dominatrix
+- slave
+- mester
+- mistress
+- ydmykelse
+- pisk
+- sele
+- munnkule
+- edgeplay
+- cuckolding
+- cuckold
+- hotwife
+- swinging
+- swinger
+- swingerklubb
+- åpent parforhold
+- polyamori
+- trekant
+- orgie
+- gruppeknull
+- gloryhull
+- dogging
+- cruising
+- cottaging
+- libertinisme
+- nekrofili
+- zoofili
+- pedofili
+- transvestisme
+- infantilisme
+- sissy
+- bukakke
+- creampie
+- dobbeltpenetrasjon
+- facial
+- gangbang
+
+## Euphemisms and idioms
+- å gjøre det
+- ligge med
+- sove med
+- gå til sengs med
+- under dyna
+- å ha det gøy
+- hygge seg
+- nærkontakt
+- intimitet
+- nærhet
+- gjøre sin plikt
+- frigjøring
+- å tilfredsstille
+- samvær
+- å ha noe gående
+- å ta det helt ut
+- boltrelek
+- nattlek
+- å unne hverandre
+- varme hverandre
+- å gjøre sagflis
+- å knappe
+- engangsgreit
+- å gå hele veien
+- å gi seg hen
+
+## Archaic / literary / dated
+- hor
+- utukt
+- leyermål
+- leiermål
+- skjøge
+- boltre seg
+- avle
+- avl
+- løsaktighet
+- vellyst
+- skjørlevnet
+- løskvinn
+- løskvinde
+- buhle
+- frille
+- mø
+- elskerinne
+- elskerinde
+- beile
+- fri
+- horedriveri
+- konkubine
+- konkubinat
+- metressen
+- skjøgelevnet
+- utsvevende
+- løssluppen
+- lettferdig
+- umoralsk
+- ærbarhet
+- usømmelig
+- anstøtelig
+- pervers
+- perversjon
+- horehuset
+- hor-handel
+- skamløs
+- skjøgeaktig
+
+## Internet / subculture
+- nudes
+- dick pic
+- sexting
+- hookup
+- ONS
+- FWB
+- simp
+- incel
+- camgirl
+- camboy
+- OnlyFans
+- milf
+- dilf
+- twink
+- bear
+- otter
+- wolf
+- cub
+- daddy
+- sugar daddy
+- sugar momma
+- thirst trap
+- simping
+- booty call
+- situationship
+- vanilla
+- findom
+- femboy
+- fuckboy
+- fuckgirl
+- engangsknull
+- leake
+- deepfake
+- catfish
+- ghoste etter sex
+- dry texting
+- knullekompis
+- knullevenn
+- e-girl
+
+## LGBTQ+ community-specific
+- bunn
+- topp
+- vers
+- aktiv
+- passiv
+- drag queen
+- drag king
+- butch
+- femme
+- stud
+- enby
+- crossdresser
+- queerbaiting
+- lavender marriage
+- bear community
+- hanky code
+- pride
+- coming out
+- closeted
+- skapet
+
+## Sexual violence / coercion (vocabulary inventory)
+- voldtekt
+- voldtektsmann
+- seksuelt overgrep
+- blotting
+- seksuell trakassering
+- overgrep
+- incest
+- barneporno
+- grooming
+- seksuell utpressing
+
+## Sexual health / medicine
+- klamydia
+- gonore
+- syfilis
+- herpes
+- HPV
+- HIV
+- seksuelt overførbare sykdommer
+- SOI
+- abort
+- uønsket graviditet
+- seksuell dysfunksjon
+- impotens
+- erektil dysfunksjon
+- vaginisme
+- anorgasmi
+
+## Culture-specific — Norse / folk heritage
+- niding
+- nidvise
+- argr
+- ragr
+- ergi
+- frille
+- leyrmál
+- manfall
+- nidstong
+
+## Culture-specific — Lutheran moral register
+- syndig
+- synd
+- skam
+- skamfull
+- æreløs
+- avholdenhet
+- sølibat
+- kyskhetsbelte
+- seksuell skam
+- skambelagt
+- kysk
+- kyskhet
+- sølibatær
+- jomfru
+- jomfrudom
+- møydom
+- defloration
+
+## Culture-specific — russ / youth subculture
+- russeknull
+- russ-jomfru
+- jomfrutur
+- lørdagsknull
+- hytte-hookup

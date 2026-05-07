@@ -1,0 +1,951 @@
+# Czech — sexually-charged vocabulary dump
+# Latin script.
+# No definitions. No scoring. Just words, one per line.
+
+## Organs — penis (clinical)
+- penis
+- pohlavní úd
+- mužský pohlavní orgán
+- mužské přirození
+- přirození
+- pohlavní orgán
+- mužské genitálie
+
+## Organs — penis (slang/crude)
+- péro
+- pták
+- kokot
+- čurák
+- čůrák
+- šulin
+- ocas
+- bidlo
+- tyč
+- kolík
+- nástroj
+- hadice
+- šlauf
+- pindík
+- ptáček
+- chuj
+- pinďour
+- bimbas
+- fáfr
+- šavle
+- kus
+- palice
+- válec
+- váleček
+- vrtulník
+- proutek
+- klacek
+- hůl
+- bodec
+- čumák
+- prut
+- kůl
+- šťoural
+
+## Organs — vagina (clinical)
+- vagína
+- pochva
+- vulva
+- ženské pohlavní orgány
+- ženské přirození
+- genitálie
+- rodidla
+- ženský pohlavní orgán
+
+## Organs — vagina (slang/crude)
+- kunda
+- píča
+- pizda
+- dírka
+- škvíra
+- štěrbina
+- manda
+- kundička
+- figa
+- škatulka
+- šišina
+- dupa
+- mameluk
+- koze
+- slina
+- díra
+- prasklinka
+- skulina
+
+## Organs — clitoris (clinical)
+- klitoris
+- poštěváček
+
+## Organs — clitoris (slang)
+- boubek
+- knoflík
+- pupík
+- brouk
+
+## Organs — labia (clinical)
+- stydké pysky
+- velké stydké pysky
+- malé stydké pysky
+- labia majora
+- labia minora
+
+## Organs — testicles (clinical)
+- varlata
+- testes
+- pohlavní žlázy
+
+## Organs — testicles (slang/crude)
+- koule
+- vajíčka
+- kulky
+- ořechy
+- kuličky
+- šišky
+- kola
+- gule
+- kulky
+- švestky
+
+## Organs — scrotum (clinical)
+- šourek
+- skrotum
+
+## Organs — scrotum (slang)
+- váček
+- kožák
+- brašna
+
+## Organs — breasts (clinical)
+- prsa
+- ňadra
+- prsní žlázy
+- poprsí
+- mléčná žláza
+- prsní žláza
+
+## Organs — breasts (slang/crude)
+- kozy
+- cecky
+- vemena
+- dudy
+- cici
+- melony
+- hrnce
+- haldy
+- boule
+- sádlíčka
+- cupy
+- joule
+- makuče
+- tuky
+- kopce
+- balony
+- granáty
+- makule
+
+## Organs — nipples (clinical)
+- bradavky
+- dvorec bradavky
+- areola
+
+## Organs — nipples (slang)
+- hroty
+- špičky
+- pecky
+- pihy
+
+## Organs — anus (clinical)
+- řitní otvor
+- anus
+- konečník
+- rektum
+
+## Organs — anus (slang/crude)
+- prdel
+- řiť
+- zadek
+- zadnice
+- průchod
+- díra
+- prdele
+- prdelka
+- zadko
+- buřt
+- škvíra (anal)
+
+## Organs — glans / foreskin (clinical)
+- žalud
+- žaluď
+- předkožka
+
+## Organs — perineum / prostate (clinical)
+- hráz
+- perineum
+- prostata
+- předstojná žláza
+
+## Organs — hymen (clinical)
+- panenská blána
+- hymen
+
+## Acts — intercourse (clinical)
+- pohlavní styk
+- soulož
+- koitus
+- kopulace
+- souložit
+- pohlavní akt
+- sexuální styk
+- koitovat
+- sexuální intercours
+- pohlavní spojení
+
+## Acts — intercourse (slang/crude)
+- šukat
+- šoustat
+- píchat
+- trkat
+- mrdat
+- mrdnout
+- bouchat
+- tlouct
+- jet
+- dělat to
+- prácat
+- prcat
+- zajet
+- fukat
+- strčit
+- dát
+- naklepat
+- nacpat
+- nabodnout
+- narýt
+- šlapat
+- šuknout
+- šoustnout
+- zabouchat
+- ždímat
+- šťouchat
+- zabalit
+- zatlouct
+- vrazit
+
+## Acts — fellatio (clinical)
+- felace
+- felatio
+- orální stimulace penisu
+- orální sex
+
+## Acts — fellatio (slang/crude)
+- kouřit
+- foukat
+- sát
+- cucát
+- dát do huby
+- dát do úst
+- dát dýmku
+- vyšlapat
+- cucnout
+- zpivkovat
+- honit hubou
+
+## Acts — cunnilingus (clinical)
+- cunnilingus
+- orální stimulace vulvy
+- orální sex (ženský)
+- anilingus (adjacent)
+
+## Acts — cunnilingus (slang/crude)
+- lízat
+- jíst
+- žrát
+- jít dolů
+- mlsat
+- cucat
+- šlapat jazykem
+- lizat
+
+## Acts — masturbation (clinical)
+- masturbace
+- onanie
+- autoerotismus
+- sebeuspokojení
+- masturbovat
+- onanovat
+- autostimulace
+
+## Acts — masturbation (slang/crude)
+- honit
+- honit si to
+- tlouct si to
+- stlouct
+- dřít si
+- vytřepat
+- mávat s tím
+- šlapat
+- fapovat
+- hojit si
+- cucat si
+- hnát
+- honit dřevěného
+- vyprazdňovat
+
+## Acts — anal sex (clinical)
+- anální styk
+- anální pohlavní styk
+- anální sex
+- sodomie
+
+## Acts — anal sex (slang/crude)
+- šukat do prdele
+- anál
+- zajet zezadu
+- dát zezadu
+- zezadu
+- zadní vchod
+- přes záda
+
+## Acts — ejaculation (clinical)
+- ejakulace
+- výstřik
+- výron semene
+- ejakulovat
+
+## Acts — ejaculation (slang/crude)
+- vystříknout
+- vyhodit
+- vylejt
+- přijít
+- vyprskout
+- vyhoupnout
+- zakončit
+- vyšplíchnout
+
+## Acts — orgasm (clinical)
+- orgasmus
+- vyvrcholení
+- dosažení orgasmu
+- sexuální kulminace
+
+## Acts — orgasm (slang)
+- přijít
+- dojít
+- přijít si
+- vyprsknout
+- vybouchnout
+- dojít si
+- skončit
+
+## Acts — arousal / foreplay (clinical)
+- sexuální vzrušení
+- předehra
+- erotické vzrušení
+- stimulace
+- erogení zóny
+
+## Acts — arousal / foreplay (slang)
+- zahřívat
+- rozpalovat
+- rozehřívat
+- pálit
+- drásat
+- šimrat
+- šimrání
+- pohrávat si
+
+## Acts — group sex
+- skupinový sex
+- trojka
+- čtyřka
+- orgie
+- gangbang
+- gang bang
+- swingování
+- výměna partnerů
+- párty
+
+## Acts — virginity / defloration (clinical)
+- deflorace
+- zbavit panenství
+- deflorovat
+
+## Acts — virginity / defloration (slang)
+- přijít o panenství
+- vzít panenství
+- prásknout
+
+## Acts — striptease
+- striptýz
+- striptease
+- svlékat se
+
+## Fluids — semen (clinical)
+- sperma
+- ejakulát
+- semeno
+- semenná tekutina
+- spermie
+
+## Fluids — semen (slang/crude)
+- hlen
+- výstřik
+- šťáva
+- mléko
+- bílá
+- mlíčko
+- kejda
+- výron
+- cikáč
+
+## Fluids — vaginal / arousal (clinical)
+- lubrikace
+- vaginální výtok
+- vaginální sekret
+- přirozená lubrikace
+
+## Fluids — vaginal / arousal (slang)
+- šťáva
+- vlhkost
+- mokrá
+- šlemák
+- šáva
+
+## Physical states — erection (clinical)
+- erekce
+- ztopoření
+- tumescence
+
+## Physical states — erection (slang)
+- stojak
+- stojícák
+- natopení
+- válec
+- lata
+- tyč
+- stoják
+- tvrdý
+
+## Physical states — arousal / desire (clinical)
+- sexuální vzrušení
+- vzrušení
+- sexuální apetence
+- libido
+- sexuální touha
+- erotická přitažlivost
+
+## Desire / arousal descriptors (slang/crude)
+- napalený
+- natopený
+- rozžhavený
+- nadržený
+- v říji
+- horký
+- chtivý
+- žádostivý
+- rozjetý
+- zahřátý
+- hladový
+- rozhávěný
+- napnutý
+- naštvaný na sex
+- napálený
+- rozchlípaný
+
+## Desire / arousal descriptors (clinical/formal)
+- sexuálně vzrušený
+- libidinózní
+- eroticky motivovaný
+- vzrušený
+- smyslný
+
+## Frigid / prudish descriptors
+- frigidní
+- chladná
+- chladný
+- studenou rybu
+- cudný
+- puritánský
+- zaseklý
+- zastydlý
+- stydlivý
+- zaražený
+- svázaný
+- sexuálně inhibovaný
+- inhibovaný
+- prúderní
+
+## Identities — sexual orientation (clinical)
+- homosexuál
+- homosexuálka
+- homosexualita
+- heterosexuál
+- heterosexuálka
+- heterosexualita
+- bisexuál
+- bisexuálka
+- bisexualita
+- asexuál
+- asexuálka
+- asexualita
+- pansexuál
+- pansexualita
+- gay
+- lesba
+- lesbička
+- lesbismus
+- queer
+- transgender
+- transsexuál
+- transsexuálka
+- transsexualita
+- intersex
+- intersexuální
+- demisexuální
+- sapiosexuální
+
+## Identities — sexual orientation (slurs)
+- teplouš
+- buzerant
+- teplý
+- homouš
+- buzík
+- buzen
+- buzna
+- šoufl
+- teploun
+- homo (derogatory)
+- perverzák
+- zvrátenec
+- deviant
+- úchyl
+- úchylák
+- teplar
+- teploch
+- buzík
+- lesba (slur context)
+- lesbácká
+- bouzerant
+- buzerantka
+- tetka (effeminate man slur)
+
+## Identities — gender non-conforming
+- transvestita
+- transvestit
+- transvestismus
+- drag queen
+- drag king
+- cross-dresser
+- androgyn
+- nebinární
+- genderfluid
+- genderqueer
+- hermafrodit
+
+## Insults built from sexual vocabulary
+- kurva
+- děvka
+- šlapka
+- coura
+- mrcha
+- svině
+- kunda (insult)
+- píča (insult)
+- kokot (insult)
+- čurák (insult)
+- péro (insult)
+- buzerant (insult)
+- pindík (insult)
+- hajzl
+- zkurvysyn
+- šoufl
+- zjebanec
+- kokotina
+- pičovina
+- kurvinec
+- zasraný kokot
+- zatrolený čurák
+- mrdka
+- zašukaný
+- zkurvenej
+- coura (insult)
+- šukna
+- kurba
+- čůráčku
+- péráčku
+- prdelník
+- šoufl
+- teplouši (vocative insult)
+
+## Sex work
+- prostitutka
+- prostitut
+- děvka
+- kurva
+- šlapka
+- pouliční prostitutka
+- noční motýl
+- nevěstka
+- eskort
+- call girl
+- escort girl
+- pasák
+- kuplíř
+- kuplířka
+- bordel
+- nevěstinec
+- erotický salón
+- masážní salón
+- striptérka
+- striptér
+- striptýz
+- peep show
+- sexuální turismus
+- obchod se ženami
+- obchod se sexem
+- sex worker
+- sexuální pracovnice
+- webcam modelka
+- live sex
+- mužský prostitut
+- žigolo
+
+## Pornography / sex industry terminology
+- pornografie
+- porno
+- pornohvězda
+- pornoherec
+- pornoherečka
+- hardcore
+- softcore
+- erotický film
+- erotický časopis
+- sex shop
+- amatérské porno
+- gonzo
+- fetish film
+- MILF
+- GILF
+- hentai
+- živé vystoupení
+- sex show
+- erotická linka
+- telefonní sex
+- chat sex
+- erotický chat
+- livecam
+- camgirl
+
+## Reproductive / contraceptive
+- prezervativ
+- kondom
+- gumička
+- pryžák
+- kabátek
+- antikoncepce
+- pilulka
+- nitroděložní tělísko
+- spirála
+- potrat
+- interrupce
+- oplodnění
+- početí
+- těhotenství
+- plodnost
+- neplodnost
+- sterilita
+- hormonální antikoncepce
+- mužská sterilizace
+- ženská sterilizace
+- vasektomie
+
+## Kink / fetish / paraphilia (clinical)
+- sadismus
+- masochismus
+- sadomasochismus
+- fetišismus
+- voyeurismus
+- exhibicionismus
+- pedofilie
+- zoofilie
+- nekrofilie
+- frotérismus
+- voyerismus
+- kleptolagnónia
+- masochismus
+- pyrolagnie
+- parafílie
+- narcismus (sexual)
+- infantilismus (sexual)
+
+## Kink / fetish / paraphilia (community vocabulary)
+- BDSM
+- bondáž
+- dominance
+- submise
+- submisivita
+- dominantní
+- submisivní
+- otrok
+- otrokyně
+- pán
+- paní
+- domina
+- dominatrix
+- bič
+- pouta
+- okovy
+- bičování
+- disciplína
+- ponížení
+- humiliace
+- golden shower
+- zlatá sprcha
+- spanking
+- výprask
+- bondage
+- lano
+- shibari
+- fetiš
+- fetiš na nohy
+- latexový fetiš
+- kůžový fetiš
+- fisting
+- rimming
+- pegging
+- cuckolding
+- cuckold
+- swinger
+- exhibice
+- roleplaying
+- cosplay (sexual)
+- watersports
+- impact play
+- bezpečné slovo
+- safeword
+- consent
+- degenerát (subculture use)
+
+## Euphemisms and idioms
+- dělat to
+- milovat se
+- jít spolu do postele
+- být intimní
+- trávit noc spolu
+- jít na to
+- sblížit se
+- pohrát si
+- hýbat se
+- být blízko
+- věci pro dospělé
+- dospělácký film
+- pod peřinou
+- za zavřenými dveřmi
+- vzájemné potěšení
+- fyzická blízkost
+- intimní chvíle
+- dát si
+- zahřát se
+- zahřát postele
+- randit
+- flirtovat
+- svést
+- namlouvat
+- koketovat
+- lichotit
+- jít si lehnout
+- spát spolu
+- sdílet postel
+- sdílet pokoj
+- být s někým
+- jít na rande
+- jít do záchoda (crude joked phrase for quickie)
+- pořídit si číslo
+- mít poměr
+- mít románek
+- mít aféru
+
+## Archaic / literary / dated
+- souložnice
+- smilstvo
+- smilnit
+- chlípnost
+- chlípný
+- nevěstka
+- zhýralost
+- zhýralý
+- oplzlost
+- oplzlý
+- nečistota (moral sense)
+- hřích těla
+- tělesný hřích
+- smyslnost
+- žádostivost
+- chtíč
+- vilnost
+- vilný
+- frejíř
+- frejovat
+- konkubína
+- cizoložství
+- cizoložit
+- smilný
+- prostopášný
+- nestydatost
+- nestydatý
+- kurba
+- dívka lehkých mravů
+- žena volných mravů
+- bezectnost
+- nemravnost
+- nemravný
+- hanebnost
+- hanebný
+- svůdník
+- svůdnice
+- láskyplný dotyk
+- rozkošník
+- rozkošnice
+- zhýralec
+- smilník
+- smilnice
+- chlípník
+- libertín
+- záletník
+- záletnice
+- poběhlice
+- coura (historical)
+- hampejz (archaic brothel)
+- jarmark (archaic fair / market — euphemism)
+- lahůdkář (gourmand — archaic euphemism)
+
+## Internet / subculture slang
+- fapovat
+- fap
+- thot
+- simp
+- sexting
+- nudes
+- dick pic
+- onlyfans
+- hentai
+- waifu
+- e-girl
+- deepthroat
+- creampie
+- doggystyle
+- gangbang (online)
+- prasárna
+- špinavé video
+- camka
+- camgirl
+- NNN
+- coomer
+- degenere
+- lewd
+- NSFW
+- érotický mém
+- šukanec (online insult)
+- pérovník
+- kokotina (bullshit/stupidity — derived)
+- pičovina (crap/nonsense — derived)
+- zjebanec (fuckup)
+- zkurvenec
+- čůráček (diminutive insult — internet)
+- kekw (slang adjacent)
+- slay (borrowed)
+- zadní vstup
+- péro na stole (meme phrase)
+- šukat ze zadku
+- šukat jako králíci
+
+## Culture-specific — Czech moral/religious vocabulary of sexuality
+- hřích (sin)
+- hříšný (sinful)
+- smilstvo (fornication — biblical register)
+- cizoložství (adultery — legal/religious)
+- hanba (shame)
+- nestydatý (shameless)
+- cudnost (chastity)
+- panenství (virginity)
+- panna (virgin)
+- poctivost (applied to sexual fidelity)
+- počestná žena (respectable woman)
+- mravní poklesek (moral slip)
+- mravnost (morality)
+- neřest (vice)
+- smyslné pokušení (sensual temptation)
+- hříšná touha (sinful desire)
+- tělesné touhy (carnal desires)
+- tělesné potěšení (carnal pleasure)
+- mravokárce (moralist)
+- moralizování (moralizing)
+- pokrytectví (hypocrisy — sexual context)
+- vášeň (passion — both positive and sin-adjacent)
+- svádění (seduction — spiritually loaded)
+- padlá žena (fallen woman)
+
+## Culture-specific — Czech honor / shame vocabulary for women's sexuality
+- ctnost (virtue — female)
+- ctnostná žena (virtuous woman)
+- lehká žena (easy woman)
+- bezectná (dishonorable)
+- coura (slag)
+- šlapka (streetwalker)
+- děvka (whore — shaming)
+- kurva (whore — shaming / expletive)
+- nevěstka (harlot — dated)
+- žena volných mravů (woman of loose morals)
+- dívka lehkých mravů (girl of easy morals)
+- poběhlice (strumpet — archaic shaming)
+- zvrhlost (perversity)
+- lehkomyslná (frivolous — female)
+- ošlehaná (worn-out — female shaming)
+- vyšlapaná (trodden — female shaming)
+- rozchechtaná (crass/shameless)
+
+## Culture-specific — Czech pub / folk humor register (hospodský humor)
+- naklepat (to knock up / pound)
+- prcat (regional variant: to fuck)
+- narýt (to root — crude)
+- nacpat (to stuff / fill)
+- nabodnout (to impale — crude)
+- ošukat (to cheat on / also to fuck)
+- prdel k prodeji (ass for sale — crude joke phrase)
+- víš co ti říkám (crude dismissal — sexual extension)
+- vyšlapat (to wear out — sexual)
+- šoufl (shunting — crude)
+- šukancovat (extended verb from šukat)
+- vybagrovat (to excavate — crude sex slang)
+- natáhnout (to stretch out — crude)
+- nakrmit (to feed — crude oral sex slang)
+- přijít na své (to get what you came for — idiom with sexual use)
+- dát si do nosu (to get one in — ambiguous idiom)
+
+## Culture-specific — Czech romantic / relational vocabulary
+- milenec (lover)
+- milenka (mistress / lover)
+- milenecký poměr (love affair)
+- nevěra (infidelity)
+- podvádění (cheating)
+- trojúhelník (love triangle)
+- manželská nevěra (marital infidelity)
+- jednonoční stání (one-night stand)
+- kamarád s výhodami (friends with benefits)
+- románek (fling / romance)
+- aféra (affair)
+- zálet (fling — male)
+- záletnice (woman who has affairs)
+- záletník (man who has affairs)
+- svůdce (seducer)
+- flirt (flirt)
+- namlouvání (courtship)
+- svádění (seduction)
+- osahávání (groping)
+- osahávat (to grope)
+- obtěžování (harassment)
+- sexuální obtěžování (sexual harassment)

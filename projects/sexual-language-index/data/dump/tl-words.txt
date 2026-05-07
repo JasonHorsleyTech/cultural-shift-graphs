@@ -1,0 +1,611 @@
+# Tagalog (Filipino) — sexually-charged vocabulary dump
+# Latin script (with select native Baybayin-derived terms where applicable).
+# No definitions. No scoring. Just words, one per line.
+
+## Organs — penis (clinical)
+- penis
+- phalus
+- falus
+- ari ng lalaki
+- kasangkapan ng lalaki
+- reproductive organ ng lalaki
+- ari
+
+## Organs — penis (slang/crude)
+- titi
+- burat
+- etits
+- tite
+- bird
+- buto
+- boto
+- bakal
+- batuta
+- uten
+- kukote
+- unat
+- sitsit
+- butat
+- piging
+- balong
+- bote
+- buko
+- singkwenta
+- tool
+- itlog (as whole package)
+- kutsilyo
+
+## Organs — vagina (clinical)
+- vagina
+- ari ng babae
+- pudendum
+- vulva
+- labya
+- puki (occupies both clinical and crude registers)
+- klitoris (general area reference)
+
+## Organs — vagina (slang/crude)
+- puki
+- pepe
+- kepyas
+- kiki
+- keps
+- puday
+- bilat
+- betsi
+- betsey
+- putot
+- pisit
+- kengkoy
+- butas
+- higad
+- kinig
+- pekpek
+
+## Organs — clitoris
+- klitoris
+- utong ng puki
+- kuto
+- utong sa babae
+
+## Organs — breasts (clinical)
+- suso
+- dibdib
+- seno
+- utong (nipple)
+- mammary
+
+## Organs — breasts (slang/crude)
+- boobs
+- chichis
+- titig
+- pakpak
+- bola
+- melons
+- niyog
+- bayabas
+- mansanas
+- supsupin
+- suso (doubles across both registers)
+
+## Organs — testicles (clinical)
+- bayag
+- testikulo
+- testikulô
+
+## Organs — testicles (slang/crude)
+- itlog
+- bola
+- bolitas
+- mani
+- bayag (doubles across both registers)
+
+## Organs — anus (clinical)
+- puwit
+- puwet
+- pwet
+- rektum
+- tumbong
+
+## Organs — anus (slang/crude)
+- butas
+- butas ng puwit
+- butas ng puwet
+- likuran
+- daan sa likod
+
+## Acts — intercourse (clinical)
+- pakikipagtatalik
+- pagtatalik
+- pakikipagtalik
+- pakikiisa
+- koitus
+- kopulasyon
+- sexual intercourse
+- pakikiapid (formal/literary)
+- apid
+
+## Acts — intercourse (slang/crude)
+- kantot
+- kantutan
+- tira
+- tirahin
+- tulak
+- karet
+- kulo
+- balik
+- bayo
+- magbayo
+- hindot
+- gangbang
+- quickie
+- one night stand
+
+## Acts — oral sex (clinical)
+- felasyon
+- cunnilingus
+- oral sex
+- oral na pakikipagtatalik
+
+## Acts — oral sex (slang/crude)
+- chupa
+- chupahin
+- subo
+- sipsipin
+- dilaan
+- pagdilaan
+- pagchupaan
+- blowjob
+- eating out
+
+## Acts — masturbation (clinical)
+- masturbasyon
+- masturbation
+- onanism
+- pagpapasaya ng sarili
+
+## Acts — masturbation (slang/crude)
+- jakol
+- mag-jakol
+- jakulan
+- dedo
+- kamot
+- sariling sikap
+- labas
+- palakpak
+
+## Acts — anal sex (clinical)
+- anal intercourse
+- anal na pakikipagtatalik
+- sodomy
+
+## Acts — anal sex (slang/crude)
+- puwitero
+- puwitang
+- likod
+- sa likod
+- backdoor
+- reverse
+
+## Acts — other sexual acts
+- foreplay
+- kinig
+- hagod
+- kiskis
+- grind
+- dry humping
+- fingering
+- finger
+- dedo (fingering, female)
+- handjob
+- reach around
+
+## Fluids and physical states
+- tamod
+- seminal fluid
+- sperm
+- putok
+- labasan
+- laglag
+- basâ
+- katas
+- tigas
+- nagbabanat
+- nagtitigas
+- tayo (erect)
+- ereksyon
+- vaginal discharge
+- precome
+- precom
+- nakalagay
+- wetness
+- arousal fluid
+- libog na katas
+
+## Desire / arousal / descriptors
+- malibog
+- libog
+- kalibugan
+- kahalayan
+- mahalay
+- lascibo
+- lasciva
+- nakakaaliw (arousing, euphemistic)
+- nakakarangsang
+- mapanghikayat
+- mainit
+- naakit
+- basâ na
+- matigas na
+- excited
+- horny
+- turned on
+- naka-on
+- naiipit
+- mapang-akit
+- senswal
+- sekswal
+- maalwan
+- maluwag
+- malaswa
+- madulas
+- matamis (sweet, seductive euphemism)
+- prigo (frigid)
+- malamig (cold, frigid)
+- walang gana (without desire)
+- mababa ang libog
+- mataas ang libog
+- mapagmahal (loving, euphemism)
+- mainitin ang dugo (hot-blooded)
+- pabaya (loose)
+
+## Identities — clinical / neutral
+- homoseksuwal
+- biseksuwal
+- heteroseksuwal
+- aseksuwal
+- panseksuwal
+- lesbyana
+- gay
+- transgender
+- queer
+- interseks
+- nonbinary
+
+## Identities — community / slang
+- bakla
+- beki
+- bading
+- tomboy
+- tibo
+- silahis
+- bayot
+- binabae
+- agi
+- transpinay
+- transpinoy
+- T-bird
+- ladyboy
+- ladyboi
+- parlorista
+- paminta
+- loka (affectionate)
+- krung-krung (affectionate)
+- ate (for older gay/trans)
+- besh
+- beshie
+- kapatid (sibling, in LGBT community)
+
+## Identities — slurs
+- bakla (weaponized)
+- bading (derogatory)
+- bayot (derogatory)
+- badaf
+- pokpok na bakla
+- binabae (derogatory use)
+- chaka (ugly/sexually repellent)
+- loca
+- tibo (derogatory use)
+- tomboy (derogatory use)
+- abnormal
+- baklain
+
+## Insults built from sexual vocabulary
+- putang ina
+- putanginamo
+- putanginang yan
+- tangina
+- tanginamo
+- puta
+- punyeta
+- leche
+- gago
+- hayop
+- hayupak
+- hindot
+- kantot ka
+- kantutan mo sarili mo
+- jakulero
+- jakulera
+- pokpok
+- malanding babae
+- malanding lalaki
+- landi
+- malandî
+- pakshet
+- pucha
+- putakti
+- puñeta
+- walanghiya (shameless, sexual)
+- walang delicadeza
+- bastos
+- kabastusan
+- pokwang
+- bitch
+- siraulo
+- piraso
+- gahasa (rape/rapist used as insult)
+- palayas
+
+## Sex work and pornography
+- puta
+- pokpok
+- GRO
+- bayarang babae
+- kalapating mababa ang lipad
+- babae sa gabi
+- babae ng gabi
+- bugaw
+- mambabarang
+- bold star
+- KTV girl
+- entertainer
+- hospitality girl
+- escort
+- salot (derogatory for sex workers)
+- pornograpiya
+- porn
+- bold
+- bold film
+- blue film
+- rated X
+- obscene materials
+- sex video
+- SV
+- amateur
+- content creator (euphemism)
+
+## Reproductive / contraceptive (sexually charged)
+- goma
+- kondom
+- kapote
+- balut (condom slang)
+- rubbers
+- proteksyon
+- IUD
+- contraceptive
+- pills
+- birth control
+- planong pampamilya
+
+## Affair and relationship transgression vocabulary
+- kabit
+- kerida
+- kirida
+- querida
+- babae sa labas
+- lalaki sa labas
+- third party
+- loverboy
+- manloloko
+- playboy
+- toro
+- casanova
+- manliligaw na may asawa
+- panloloko
+- manghahalik
+- mangaaliw
+- taksil sa asawa
+- mangliligaw
+- ligaw sa labas
+
+## Kink / fetish / paraphilia
+- BDSM
+- bondage
+- dominasyon
+- submisyon
+- sadomasokismo
+- sadismo
+- masokismo
+- fetisismo
+- voyeur
+- voyeurismo
+- exhibisionismo
+- exhibisionista
+- threesome
+- threeway
+- orgy
+- orgi
+- swinger
+- role play
+- ilog play (golden shower)
+- foot fetish
+- sado
+- maso
+- mistress (BDSM role)
+- master (BDSM role)
+- slave (BDSM role)
+- dom
+- sub
+
+## Euphemisms and idioms
+- gumawa ng masamang bagay
+- makipaglaro
+- magkasama
+- magsama
+- doon na nangyari
+- maghalikan (as euphemism)
+- nagmamahalan
+- mainit ang sitwasyon
+- nagpainit
+- dumating na
+- nangyari na
+- ginawa nila
+- ginaganap
+- kinabig
+- maglaro
+- makipagkuwentuhan
+- kumausap (in certain contexts)
+- makipagsapalaran
+- magtampisaw
+- magligos nang magkasama
+- magtulungan (help each other, euphemism)
+- nagkaka-intindihan (understanding each other, euphemism)
+- "gawin natin"
+- "doon tayo"
+- "halika"
+- "magkasama tayo"
+
+## Archaic / literary / dated
+- pakikiapid
+- makiapid
+- apid
+- patutot
+- mangaliwa
+- talik (literary for sex act)
+- magtakal
+- harlot
+- birhen
+- pagkadalisay
+- dalaga (purity-loaded)
+- salaula
+- kahalayan (archaic moralistic)
+- kasamaan ng laman (sin of the flesh)
+- laman (flesh, archaic sexual meaning)
+- kasalanan ng laman
+- pagpaparumi (defilement)
+- pagsasamantala (exploitation, older usage)
+- kadungisan (filth, sexual)
+- pagkakasala ng katawan
+- mangagaliwa
+- ligalig ng katawan
+
+## Internet / subculture coinages
+- jowa (partner/lover — from gay slang, now mainstream)
+- ka-jowa
+- lodi
+- FWB
+- booty call
+- hookup
+- ONS
+- NSA
+- DTF
+- MILF
+- DILF
+- GILF
+- sugar daddy
+- sugar mommy
+- sugar baby
+- bato-bato (casual, slang for hookup culture)
+- Netflix and chill
+- ghosting (in sexual/dating context)
+- situationship
+- talking stage
+- no drama
+- ayaw ko ng drama
+- sextortion
+- catfish (sexual deception)
+- finsta (sex/thirst content account)
+- spam account (nudes-related)
+- OF (OnlyFans, used as noun and verb)
+- content
+- sikreto (secret partner)
+
+## Culture-specific — Bakla identity complex
+- bakla
+- beki
+- bading
+- bayot
+- agi
+- parlorista
+- bekimon
+- swardspeak
+- gay lingo
+- jejebekî
+- gay speak
+- paminta
+- bespren (best friend, gay lingo)
+- bes
+- chika (gossip in gay community)
+- charing
+- chos
+- awra
+- bongga
+- ekek
+- kaloka
+- grabe (intense, sexually charged in gay usage)
+- loka-loka
+- beshieness
+- shuga
+- jokla
+
+## Culture-specific — Kabit (affair) honor economy
+- kabit
+- kabitero
+- kabitera
+- third party
+- Other Woman / Other Man
+- pabaya (neglected spouse)
+- asawa sa labas
+- ligtas na relasyon (safe relationship, ironic for secret affair)
+- laro lang (just playing)
+- panandalian (temporary, used for affair)
+- para sa kasiyahan lang
+- walang pangako (no commitment)
+- secret lover
+
+## Culture-specific — Dalaga/Birhen purity-shame system
+- dalaga
+- binata
+- birhen
+- birhen pa rin
+- pagkadalisay
+- kalinisan
+- kadalisayan
+- mabuting babae
+- marangal na babae
+- mahinhin
+- mahinhin na dalaga
+- madaling makuha (easy to get)
+- basta-basta (cheap/easy)
+- nagbigay na (already gave it up)
+- nag-give up na
+- hindi birhen
+- nawala na ang pagkadalisay
+- naglaro na
+- nalagpasan na
+- pinalaya na ang sarili
+
+## Culture-specific — Religious/moral sexual framing
+- kasalanan
+- makasalanan
+- imoralidad
+- mahalay
+- bastos
+- walang hiya
+- mapanghiya
+- imoral
+- kahalayan
+- kabastusan
+- pakikiapid (fornication)
+- sekswal na kasalanan
+- kasalanan ng katawan
+- laman at dugo (flesh and blood, as sexual weakness)
+- diablo (devil, causing sexual temptation)
+- tukso (temptation, sexual)
+- natutukso (being sexually tempted)
+- pagpaparumi ng katawan
+- kadungisan ng katawan
+- makamundo
+- salaula
+- bulagsak (dissolute)

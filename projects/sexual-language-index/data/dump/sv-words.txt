@@ -1,0 +1,904 @@
+# Swedish — sexually-charged vocabulary dump
+# Latin script.
+# No definitions. No scoring. Just words, one per line.
+
+## Organs — penis (clinical)
+- penis
+- fallosen
+- manslem
+- könsorgan
+- glans penis
+- preputs
+- urinrör
+- prostata
+- sädesledare
+- penis corporа
+
+## Organs — penis (slang/crude)
+- kuk
+- snopp
+- pitt
+- balle
+- kuse
+- pillen
+- staven
+- svansen
+- snoken
+- spöet
+- pluggen
+- lillemannen
+- gossen
+- köttkorven
+- köttbulten
+- pinnen
+- gurkan
+- bananen
+- borraren
+- piskan
+- sleven
+- tjockisen
+- läppen
+- pansen
+- stycket
+
+## Organs — vagina (clinical)
+- vagina
+- vulva
+- slida
+- blygdläppar
+- labia minora
+- labia majora
+- mödomshinna
+- livmoderhalsen
+- klitoris
+- skammelen
+
+## Organs — vagina (slang/crude)
+- fitta
+- mutta
+- mus
+- mussla
+- snippa
+- kissen
+- hålet
+- potta
+- skratthålet
+- bönan
+- burken
+- trampet
+- grottан
+- tunnan
+- punden
+- koftan
+- röret
+- sprickan
+
+## Organs — breasts (clinical)
+- bröst
+- bröstkörtlar
+- bröstvårtor
+- areola
+- mammae
+
+## Organs — breasts (slang/crude)
+- tuttar
+- patter
+- mesar
+- dillor
+- balkonger
+- muggar
+- bröstkulor
+- lurar
+- kanoner
+- balonger
+- headlights
+- kulorna
+- bitarna
+
+## Organs — testicles (clinical)
+- testiklar
+- skrotum
+- gonader
+- sädeskanaler
+
+## Organs — testicles (slang/crude)
+- bollar
+- pung
+- ägg
+- kulor
+- hängen
+- krukor
+- äpplen
+- nötterna
+
+## Organs — anus (clinical)
+- anus
+- analöppning
+- rektum
+- ändtarm
+- analsfinkter
+
+## Organs — anus (slang/crude)
+- röv
+- rövhål
+- häck
+- stjärt
+- bak
+- bakdel
+- ändan
+- portalen
+- bakbordet
+
+## Organs — clitoris (clinical)
+- klitoris
+- klitorishätta
+- klitoris glans
+
+## Organs — clitoris (slang/crude)
+- knappen
+- pärlan
+- klissen
+- lille vän
+- lansen
+- lappen
+
+## Organs — genitals (general clinical and semi-clinical)
+- genitalia
+- könsdel
+- intimdel
+- underliv
+- skam
+- ljumsken
+- skamben
+- blygdben
+- könszon
+- intim zon
+- könsorgan
+
+## Acts — intercourse (clinical)
+- samlag
+- koitus
+- penetrering
+- vaginalt samlag
+- sexuell förbindelse
+- sexuell akt
+- kopulering
+- kopulation
+- sexuellt umgänge
+
+## Acts — intercourse (slang/crude)
+- knulla
+- ligga
+- banga
+- pula
+- borra
+- plogga
+- mecka
+- hugga
+- nagga
+- göra det
+- vara med
+- köra
+- ha sex
+- blanda ben
+- gå hela vägen
+- ta det hela vägen
+- sätta in
+- stoppa in
+- fylla på
+- ladda av
+- ligga ihop
+- klanga
+- gå med
+
+## Acts — oral sex (clinical)
+- oralsex
+- fellatio
+- cunnilingus
+- avsugning
+- anilingus
+- oro-genital kontakt
+
+## Acts — oral sex (slang/crude)
+- pipa
+- suga av
+- ge en pipa
+- äta fitta
+- slicka fitta
+- rimma
+- djuphalsning
+- 69
+- munknulla
+- ge blowjob
+- slicka röven
+- sugrör
+
+## Acts — anal sex (clinical)
+- analsex
+- anal penetrering
+- analt samlag
+- anal koitus
+
+## Acts — anal sex (slang/crude)
+- rövknulla
+- ta bakvägen
+- knulla i röven
+- plugga röven
+- köra bakvägen
+- knulla bakifrån
+
+## Acts — masturbation (clinical)
+- masturbation
+- onani
+- självtillfredsställelse
+- autoerotism
+
+## Acts — masturbation (slang/crude)
+- runka
+- onanera
+- pulla
+- rycka av sig
+- slå av en
+- klappa av
+- klittra
+- smörja
+- fingra sig
+- runka kuken
+- pulla fitta
+- handjob
+
+## Acts — other sexual acts and activities
+- fingra
+- handjob
+- tittsex
+- frottage
+- petting
+- förspel
+- efterspel
+- smeka
+- kela
+- hångla
+- ragga
+- haffa
+- nafsa
+- nappa
+- strippa
+- lapdance
+- dansa nära
+- missionärsposition
+- hundstyle
+- sked
+- kvinna ovanpå
+- cowgirl
+- doggy
+- reverse cowgirl
+- trekant
+- gruppsex
+- orgie
+- swingning
+- kroppen mot kroppen
+- gnida sig mot
+
+## Fluids and physical states
+- sperma
+- sädesvätska
+- ejakulat
+- smegma
+- vaginalvätska
+- lubrikation
+- erektion
+- stånd
+- ståndet
+- utlösning
+- klimax
+- orgasm
+- blöthet
+- fuktighet
+- spruta
+- komma
+- förspelsvätska
+- mjölken
+- saften
+- ladda av
+- hård
+- stel
+- styfhed
+- svullnad
+- pigg
+- fuktig
+- droppande
+- rinnande
+
+## Desire / arousal / descriptors
+- kåt
+- het
+- upphetsad
+- liderlig
+- lust
+- begär
+- åtrå
+- sensuell
+- erotisk
+- sexig
+- törstig
+- pigg
+- ivrig
+- frän
+- kåtis
+- frigid
+- frostig
+- impotent
+- potent
+- anorgasmisk
+- pryd
+- stram
+- kall
+- vällust
+- liderlighet
+- lösaktig
+- promiskuös
+- lätt
+- lösaktighet
+- tändа
+- vällustig
+- lidelsefull
+- passionerad
+- hänryckt
+- besatt
+- begärlig
+- frestande
+- lockande
+- förförisk
+- eld i byxorna
+- sexuellt laddad
+- kylig
+- iskall
+- kylslaget
+- het i byxorna
+
+## Identities / orientations (clinical)
+- homosexuell
+- heterosexuell
+- bisexuell
+- asexuell
+- pansexuell
+- transsexuell
+- transperson
+- transkvinna
+- transman
+- intersexuell
+- queer
+- lesbisk
+- icke-binär
+- genderfluid
+- aromantisk
+- polyamorös
+- demisexuell
+- graysexuell
+- sapiosexuell
+- omnisexuell
+- allosexuell
+- cishetero
+- cis
+- HBTQ
+- HBTQI
+- HBTQIA+
+- heteronormativ
+- könsöverskridande
+
+## Identities / orientations (slurs and reclaimed terms)
+- bög
+- flata
+- homo
+- fjolla
+- transa
+- transvestit
+- mes
+- bögen
+- flatisan
+- lesbo
+- homse
+- bytta
+- skrutt
+- perv
+- pervo
+- bögjävel
+- fikus
+- queera
+- sissyn
+- tansen
+
+## Insults built from sexual vocabulary
+- rövhål
+- kukhuvud
+- kukfejs
+- fittslem
+- slampa
+- horunge
+- rövslickare
+- morknullare
+- kuktryne
+- fittatryne
+- kuksugare
+- bögjävel
+- kuksnut
+- rövskata
+- fitthuvud
+- knullhora
+- kukslickare
+- rövslagare
+- fittefejs
+- rövbög
+- jäkla hora
+- kuk-ansiktet
+- fittan du
+- horröven
+- bögsatan
+- svin
+- as
+- packet
+- skräpet
+- dryga hora
+
+## Sex work and pornography
+- hora
+- prostituerad
+- prostitution
+- hallick
+- kopplare
+- sotenör
+- bordell
+- bordellmamma
+- eskort
+- escortdam
+- escortman
+- porr
+- pornografi
+- porrfilm
+- porrstjärna
+- porrskådis
+- porrproducent
+- strippa
+- strippklubb
+- mjukporr
+- hårdporr
+- amatörporr
+- gayporrr
+- sexfilm
+- sugardejting
+- sugardaddy
+- sugarbabe
+- sugarmommy
+- massagesalong
+- gatuprostitution
+- sexarbetare
+- callgirl
+- gigolo
+- escortservice
+- glädjeflicka
+- glädjehus
+- lättfotad
+- lösaktig kvinna
+- backgatuflicka
+- bordellmadame
+- sexköp
+- sexsäljare
+- sexköpare
+
+## Reproductive / contraceptive (sexually charged)
+- kondom
+- gummi
+- kapott
+- regnrock
+- p-piller
+- spiral
+- abort
+- abortera
+- preventivmedel
+- spermiedödare
+- pessar
+- säkra perioden
+- abortklinik
+- graviditetstest
+- könssjukdom
+- klamydia
+- gonorré
+- syfilis
+- herpes
+- kondylom
+- HIV
+- AIDS
+- STI
+- STD
+- morgondagen-pillet
+- akut-p-piller
+- oplanerad graviditet
+
+## Kink / fetish / paraphilia
+- BDSM
+- bondage
+- sadism
+- masochism
+- dominans
+- underkastelse
+- fetisch
+- rollspel
+- sexleksak
+- vibrator
+- dildo
+- analplug
+- piska
+- handbojor
+- fotfetisch
+- voyeurism
+- exhibitionism
+- parafili
+- pedofili
+- zoofili
+- nekrofili
+- incest
+- sadomasochism
+- dominatrix
+- sub
+- dom
+- slav
+- gloryhål
+- swingerklubb
+- swinging
+- cuckolding
+- cuckold
+- gyllene skur
+- urolagni
+- latex
+- läderfetisch
+- ageplay
+- furry
+- klismafili
+- voyeur
+- exhibitionist
+- blindfold
+- rep
+- läderrem
+- snörning
+- kopplingselementet
+- servil
+- auktoritär
+- mäster
+- tjänare
+- herre
+- slav-kontrakt
+- CNC
+- kroppsmodifikation
+- piercing-fetisch
+- vaxlek
+- temperaturlek
+- sensory deprivation
+
+## Euphemisms and idioms
+- göra det
+- ligga med
+- sova med
+- vara intim med
+- dela säng med
+- komma varandra nära
+- ha roligt
+- under täcket
+- i sängkammaren
+- en snabb en
+- quickie
+- nattmössan
+- gå hela vägen
+- nästan hela vägen
+- lite kul
+- mysa
+- hålla varandra om
+- prova på
+- experimentera
+- gå på kaffe
+- komma över
+- ta in en på rummet
+- övernatta
+- tillbringa natt ihop
+- dela kudde
+- ta hem nån
+- dra ihop
+- haka
+- lira ihop
+- nattens äventyr
+- en natt bara
+- kärleksakt
+- kärleksliv
+- kärleksstund
+- visa ömhet
+- visa kärlek
+- bli nära varandra
+
+## Archaic / literary / dated terms
+- sköka
+- hor
+- otukt
+- skörlevnad
+- bolande
+- bålande
+- lusta
+- vällust
+- liderlighet
+- köttslig
+- köttsliga begär
+- syndig
+- frilla
+- konkubinat
+- lönskaläge
+- boleri
+- utlevnad
+- älskarinna
+- älskare
+- skörlevnadskvinna
+- oanständig
+- osedlig
+- sedlighet
+- utsvävning
+- utsvävande
+- otuktigt
+- köttsligt umgänge
+- vällustliv
+- lösa seder
+- sengångare
+- blanda säng
+- tjuvskytte
+- vällustkvinna
+- kärleksgud
+- sensualism
+- begärets slaveri
+- syndfull
+- köttets lust
+- köttets begär
+- fallen kvinna
+- lösaktig man
+- sedlighetsbrott (archaic legal term)
+
+## Internet / subculture slang
+- MILF
+- GILF
+- DILF
+- BILF
+- fwb
+- nudes
+- nudsar
+- sexting
+- OF
+- OnlyFans
+- simp
+- incel
+- cuck
+- nofap
+- coomer
+- hookup
+- dtf
+- ghosting
+- catfish
+- thot
+- femboy
+- egirl
+- snap-sex
+- nakenbilder
+- dickpic
+- hämndporr
+- läckta bilder
+- finsta
+- sext
+- kinkster
+- vanilla
+- zaddy
+- daddy
+- mommy
+- thicc
+- pawg
+- BBC
+- sugar baby
+- findomme
+- onlyfans-tjej
+- fansly
+- leaks
+- OF-content
+- sexbot
+- AI-porr
+- deepfake-porr
+- twitch-thot
+- egirl
+- uwu (sexuellt kodat)
+- e-sex
+- cam-sex
+- webcam-sex
+- livesex
+- stripshow online
+- virtuell sex
+
+## Culture-specific — Swedish relational vocabulary (samboliv och kärleksliv)
+- sambo
+- kompisknull
+- knullkompis
+- öppen relation
+- polyamori
+- dejta
+- ligga runt
+- haffa
+- ragga
+- haja
+- nappa
+- plocka upp
+- träffas
+- dejt
+- festknull
+- konferensknull
+- one night stand
+- en natt
+- utan förpliktelser
+- casual sex
+- kryssning
+- dra ihop
+- nattklubbs-sex
+- FFFS
+- kompisar med fördelar
+- samliv
+- kärleksliv
+- sexliv
+- parrelation
+- förhållande
+- affär
+- kärleksaffär
+- otrohet
+- tjuvknulla
+- sidoprojektet
+
+## Culture-specific — sex och samlevnad (Swedish sex-ed register)
+- samtycke
+- gränser
+- njutning
+- sexuell hälsa
+- könsidentitet
+- sexuell orientering
+- fortplantning
+- puberteten
+- menstruation
+- mensen
+- säker sex
+- frivillighet
+- normkritik
+- heteronorm
+- könsroll
+- sexpositiv
+- sexnegativ
+- sexualitet
+- intimitet
+- kropp och kön
+- sexuell frigörelse
+- frigjord
+- sexuell upplysning
+- samlevnad
+- samliv
+- sexuell aptit
+- sexuell attraktion
+- libido
+- afrodisiakum
+- anafrodisiakum
+
+## Culture-specific — Nordic religious/moral sexual vocabulary
+- synd
+- otukt
+- hor
+- frestelse
+- köttslig synd
+- skörlevnad
+- oanständighet
+- osedlighet
+- avhållsamhet
+- kyskhet
+- kyskhetslöfte
+- celibat
+- äktenskapsbrott
+- trohet
+- otrohet
+- löftesbetygelse
+- syndfull begäran
+- köttslig njutning
+- begärets synd
+- frestelsens väg
+
+## Culture-specific — shame and social policing
+- slampa
+- hora-stigmat
+- pryd
+- skambelagd
+- sexuell skam
+- blygd
+- blygsel
+- generad
+- skämmas
+- lösaktig
+- ryktet
+- ryktessmuts
+- hora sig
+- hora ut sig
+- lättfotad
+- lätt på foten
+- lätt
+- utan gränser
+- gå till sängs med vem som helst
+- flicksnack
+- pojksnack
+- bete sig som en hora
+- slampa-skammen
+- slutshaming
+- slutskamning
+- könsbaserat förtryck
+- sexuell stigmatisering
+- horkall (being called a whore)
+- dubbelmoral
+- det är ok för killar
+- inte ok för tjejer
+
+## Culture-specific — Swedish sexual policy and legal vocabulary
+- sexköp
+- sexköpslagen
+- koppleri
+- sexhandel
+- människohandel för sexuella ändamål
+- sexslaveri
+- prostitutionstjänst
+- köp av sexuell tjänst
+- nordiska modellen
+- könsneutral lagstiftning
+- sexuellt samtycke (legal standard)
+- sexuellt tvång
+- samtyckeslag
+- sexualbrott
+- våldtäkt
+- sexuellt ofredande
+- sexuellt utnyttjande
+- incestövergrepp
+- blottning
+- oönskad beröring
+
+## Culture-specific — sexual dysfunction and clinical psychology
+- erektionsproblem
+- erektil dysfunktion
+- prematur ejakulation
+- fördröjd ejakulation
+- anorgasmi
+- vaginism
+- dyspareunia
+- hypersexualitet
+- sexmissbruk
+- sexuell frustration
+- sexuell dysfunktion
+- libidoförlust
+- kastration
+- sterilisering
+- vasektomi
+- könsdysfori
+- könskorrigering
+- könsbekräftande behandling
+- hormonbehandling
+
+## Culture-specific — gender identity and transition vocabulary
+- könskorrigering
+- könsbytet
+- hormonbehandling
+- mastektomi
+- phalloplastik
+- vaginoplastik
+- dragqueen
+- dragking
+- cross-dresser
+- cross-dressing
+- könsöverskridande
+- könsneutral
+- könsdysfori
+- könskongruens
+- transidentitet
+- transövergång
+- deadname
+- könstillhörighet
+- juridiskt kön
+- folkbokförd som

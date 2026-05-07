@@ -25,6 +25,7 @@ export default defineConfig({
         // bang-for-buck: blocked (see projects/bang-for-buck/BLOCKED.md)
         bibleContentBreakdown: resolve(root, 'graphable/bible-content-breakdown/index.html'),
         scienceToActionLag: resolve(root, 'graphable/science-to-action-lag/index.html'),
+        sexualLanguageIndex: resolve(root, 'graphable/sexual-language-index/index.html'),
       },
     },
   },

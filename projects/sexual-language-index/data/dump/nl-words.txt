@@ -1,0 +1,699 @@
+# Dutch — sexually-charged vocabulary dump
+# Latin script.
+# No definitions. No scoring. Just words, one per line.
+
+## Organs — penis (clinical)
+- penis
+- fallus
+- phallus
+- geslachtsdeel
+- geslachtsorgaan
+- mannelijk lid
+- schaamdeel
+- lid
+- roede
+
+## Organs — penis (slang/crude)
+- lul
+- pik
+- piemel
+- piel
+- pikkie
+- zaakje
+- ding
+- slang
+- worst
+- knuppel
+- staak
+- spuit
+- banaan
+- wortel
+- paal
+- broekslang
+- jongeheer
+- poepert
+- stijve
+- paaltje
+- roe
+- stok
+- pippel
+- plasser
+- plassertje
+- kippenlul
+
+## Organs — vagina (clinical)
+- vagina
+- vulva
+- schede
+- schaamlippen
+- geslachtsspleet
+- labia
+- introïtus
+
+## Organs — vagina (slang/crude)
+- kut
+- poes
+- doos
+- gleuf
+- spleet
+- pruim
+- mossel
+- schelp
+- tulp
+- kitje
+- holletje
+- bloempot
+- poesje
+- spleetje
+- kruis
+- vijg
+- bef
+- tuin
+
+## Organs — clitoris (clinical)
+- clitoris
+- kittelaar
+
+## Organs — clitoris (slang/crude)
+- knopje
+- bolletje
+- knobbeltje
+- kitteltje
+
+## Organs — testicles (clinical)
+- testikels
+- testes
+- scrotum
+- balzak
+
+## Organs — testicles (slang/crude)
+- ballen
+- kloten
+- noten
+- pruimen
+- zak
+- klokkenspel
+- klokjes
+- eieren
+
+## Organs — breasts (clinical)
+- borsten
+- mammae
+- borstklieren
+- tepels
+
+## Organs — breasts (slang/crude)
+- tieten
+- tetten
+- boobs
+- meloenen
+- appeltjes
+- knokkers
+- koepeltjes
+- knobbels
+- speklapjes
+- melkflesjes
+- duiven
+- tietjes
+
+## Organs — anus (clinical)
+- anus
+- rectum
+- endeldarm
+- sfincter
+
+## Organs — anus (slang/crude)
+- kont
+- gat
+- aars
+- reet
+- poepgat
+- kontje
+- asgat
+- achterkant
+- poepstoel
+- asterisk
+
+## Organs — other external genitalia (clinical)
+- perineum
+- mons pubis
+- schaamheuvel
+- schaamstreek
+- schaamhaar
+- areool
+- lies
+- frenulum
+- prepuce
+- voorhuid
+- glans
+
+## Acts — intercourse (clinical)
+- coïtus
+- copulatie
+- geslachtsgemeenschap
+- seksuele gemeenschap
+- penetratie
+- seksueel verkeer
+- bijslaap
+- intieme omgang
+
+## Acts — intercourse (slang/crude)
+- neuken
+- naaien
+- wippen
+- rammen
+- bonken
+- beuken
+- palen
+- rijden
+- tikken
+- pompen
+- kachelen
+- scoren
+- doen
+- het doen
+- liggen met
+- berijden
+- knallen
+- slaan
+- klappen
+- rossen
+- steken
+- sloffen
+- hossen
+- afrossen
+- nummertje maken
+
+## Acts — oral sex (clinical)
+- fellatio
+- cunnilingus
+- orale seks
+- anilingus
+
+## Acts — oral sex (slang/crude)
+- pijpen
+- zuigen
+- beffen
+- likken
+- rimmen
+- kontlikken
+- blasen
+- afzuigen
+- afslikken
+
+## Acts — masturbation (clinical)
+- masturbatie
+- zelfbevrediging
+- onanie
+- autoerotisme
+
+## Acts — masturbation (slang/crude)
+- rukken
+- aftrekken
+- jerken
+- vingeren
+- friemelen
+- schoffelen
+- pelen
+- masseren
+- spelen
+- zich affrukken
+- zichzelf klaarmaken
+- afrukken
+
+## Acts — anal sex (clinical)
+- anale gemeenschap
+- anaal verkeer
+- sodomie
+
+## Acts — anal sex (slang/crude)
+- kontneuken
+- aarsneuke
+- sodomiseren
+- kontrijden
+- inrijden
+
+## Acts — other sexual acts (clinical)
+- seksuele stimulatie
+- frottage
+- interfemorale coïtus
+- handjob
+- seksuele betrekkingen
+- voyeurisme
+- exhibitionisme
+- fisting
+
+## Acts — other sexual acts (slang/crude)
+- aftrekken (mutual)
+- handjob
+- spelen
+- betasten
+- tasten
+- graaien
+- grijpen
+- knijpen
+- wrijven
+- strelen
+- kroelen
+- fisten
+- vuisten
+- vingeren (someone else)
+- titfuck
+- tepelneuken
+
+## Fluids and physical states
+- sperma
+- zaad
+- ejaculaat
+- pre-ejaculaat
+- klaarkomenvocht
+- vaginaal vocht
+- vaginale afscheiding
+- lubricatie
+- erectie
+- stijve
+- zaadlozing
+- ejaculatie
+- orgasme
+- klaarkomen
+- spuiten
+- klaarspuiten
+- opgewondenheid
+- seksuele opwinding
+- nat worden
+- vloeien
+
+## Desire / arousal / descriptors
+
+- geil
+- hitsig
+- opgewonden
+- wellustig
+- lascief
+- wulps
+- sensueel
+- libidineus
+- preuts
+- frigide
+- kuis
+- ingetogen
+- lust
+- begeerte
+- seksueel verlangen
+- libido
+- drift
+- geslachtsdrift
+- wellust
+- afrodisiacum
+- aphrodisiacum
+- kippenvel
+- sidderen
+- gloeien
+- branden
+- snikheet
+- stijf staan
+- nat zijn
+- klaar staan
+
+## Identities / orientations (clinical)
+- homoseksueel
+- heteroseksueel
+- biseksueel
+- aseksueel
+- lesbisch
+- lesbienne
+- gay
+- transgender
+- transseksueel
+- intersekse
+- queer
+- panseksueel
+- niet-binair
+- genderqueer
+- genderneutraal
+- genderfluid
+- polyamoureus
+- monogaam
+- demiseksueel
+- sapiosexueel
+- omniseksueel
+- aromantisch
+
+## Identities / orientations (slurs)
+- flikker
+- nicht
+- mietje
+- poot
+- pot
+- travestiet
+- tante
+- nichtje
+- warme broeder
+- seringengast
+- flikkie
+- potenlichter
+- katje
+- zwaartje (regional dated)
+- fagger
+- homo (when used pejoratively)
+- pervoot
+
+## Insults built from sexual vocabulary
+- lul
+- eikel
+- klootzak
+- kuttekop
+- kutwijf
+- slet
+- gore slet
+- sloerie
+- del
+- hoer
+- hoerenjong
+- hoerenzoon
+- neukerd
+- rukker
+- aftrekker
+- kontlikker
+- pijper
+- lulhannes
+- lulletje
+- neuker
+- geile aap
+- vieze smeerlap
+- vieze viezerik
+- seksmaniak
+- vuile slet
+- viespeuk
+- gore pik
+- aangerukte lul
+- eikeldier
+- kleine lul
+- likkerd
+- leiper
+- feeks
+- tyfushoer
+- kankerhoer
+- tyfushomo
+- kankernicht
+- aidspijper
+- mietjesgedrag
+- linkse hoer
+- twitterhoer
+- vuile homo
+
+## Sex work and pornography
+- prostituee
+- prostitutie
+- sekswerker
+- hoer
+- raamprostitutie
+- raamprostituee
+- straatprostituee
+- tippelaar
+- tippelaarster
+- escortdame
+- callgirl
+- callboy
+- gigolo
+- pooier
+- souteneur
+- bordeelhouder
+- bordeel
+- seksclub
+- privéhuis
+- erotische massagesalon
+- peepshow
+- seksbioscoop
+- sexbioscoop
+- tippelzone
+- seksinrichting
+- hoerenloper
+- klant
+- pornografie
+- porno
+- pornofilm
+- hardcoreporno
+- softcoreporno
+- erotische film
+- erotiek
+- seksshop
+- seksspeeltje
+- dildo
+- vibrator
+- seksmagazine
+- pornosite
+- webcamseks
+- camgirl
+- camboy
+- onlyfans
+- pornoacteur
+- pornoactrice
+- pornoster
+
+## Reproductive / contraceptive (sexually charged)
+- condoom
+- kapotje
+- gummitje
+- pil
+- anticonceptie
+- voorbehoedsmiddel
+- spiraaltje
+- IUD
+- coïtus interruptus
+- morning-afterpil
+- zaadcel
+- eicel
+- bevruchting
+- zwangerschap
+- ongeplande zwangerschap
+- onveilige seks
+- veilige seks
+
+## Kink / fetish / paraphilia
+- BDSM
+- bondage
+- dominantie
+- submissie
+- sadisme
+- masochisme
+- sadomasochisme
+- fetisj
+- rollenspel
+- zweep
+- slaaf
+- slavin
+- meesteres
+- meester
+- onderdanige
+- dominante
+- spanking
+- handboeien
+- blinddoek
+- watersport
+- pissplay
+- scat
+- enema
+- voetenfetisj
+- latex
+- rubber
+- leder
+- voetenfetisjisme
+- kruisigingsfetisj
+- elektrostimulatie
+- waxspel
+- voyeurisme
+- exhibitionisme
+- frotteurisme
+- pedofilie
+- necrofilie
+- zoofilie
+- bestiality
+- groepseks
+- orgie
+- swingen
+- swingers
+- triolisme
+- gangbang
+- dogging
+- cruisen
+- darkroom
+- glorygat
+- age play
+- daddy
+- littlegirl
+- crossdressing
+- travestie
+- petticoat
+- hentai
+- tentakels
+- furry
+- pegging
+- strapon
+- strap-on
+- cuckolding
+- cuckold
+- hotwife
+- queening
+- face-sitting
+- deepthroat
+- edging
+- orgasmecontrole
+- chastity belt
+- kuisheidsring
+- kuisheidsgordel
+- pijnlust
+- zweepslag
+- whipping
+- flogging
+
+## Euphemisms and idioms
+- vrijen
+- de liefde bedrijven
+- het doen
+- met iemand naar bed gaan
+- de daad
+- de daad der liefde
+- intiem zijn
+- samenzijn
+- bij iemand slapen
+- onder de lakens duiken
+- een nummertje maken
+- een wip maken
+- in bed rollen
+- de nacht doorbrengen met
+- kaarsen aansteken
+- tussen de lakens
+- kroelen
+- knuffelen
+- wrijven
+- versieren
+- versierpoging
+- inpakken
+- de deur uitgaan met
+- bietenbrug
+- de kers op de taart
+- de kat bij de melk
+- het haantje spelen
+- miereneuken (secondary meaning: nitpicking, but literally sexual)
+- de broek laten zakken
+- zijn broek uittrekken
+
+## Archaic / literary / dated
+- ontucht
+- hoererij
+- onkuisheid
+- onzedelijkheid
+- wellust (archaic register)
+- vleesgenot
+- vleselijk
+- vleeslusten
+- onteerden
+- schaamdelen
+- bijslaper
+- bijvrouw
+- minnares
+- minnaar
+- minne
+- minnespel
+- minnekozend
+- overspel
+- overspelig
+- zedendelict
+- zedenmisdrijf
+- zedenschennis
+- voedseling
+- Venusberg
+- vleesdrift
+- lijfsdrift
+- geslachtskunde
+- geslachtsdaad
+- seksuologie
+- wulpsheid
+- dartelheid
+- dartel
+- wellustigaard
+- hoerenloper (formal/dated)
+- koket
+- kits
+- losbol
+- liederlijk
+- liederlijkheid
+- loszinnig
+- losbandige
+- verdorven
+- zedeloos
+- immoreel
+
+## Internet / subculture
+- sexting
+- nudes
+- nootjes
+- dick pic
+- catfishing
+- simp
+- cuck
+- incel
+- femcel
+- hookup
+- swipen
+- matchen
+- FWB
+- ONS
+- cyberseks
+- MILF
+- cougar
+- zaddy
+- thirst trap
+- booty call
+- Netflix and chill
+- walk of shame
+- thicc
+- thot
+- hoe
+- freak
+- baddie
+- rule 34
+- doujin
+- sugar daddy
+- sugar mama
+- camming
+- finsta (used for sexual content)
+- snapchat nudes
+- onlyfans link
+- rekt (sexually)
+- geilt
+- deepfake
+- revenge porn
+- wraakporno
+- sextortion
+- grooming
+- catfish
+- DM-slides
+
+## Culture-specific — gedoogbeleid / Dutch tolerance culture
+- de Wallen
+- Rosse Buurt
+- tippelzone
+- gedoogbeleid
+- gedoogzone
+- seksinrichting
+- vergunde prostituee
+- seksreclame
+- raamprostitutie
+- prostitutiezone
+- exploitant (of sex establishment)
+- seksuele dienstverlening
+
+## Culture-specific — Dutch disease-compound profanity (ziekte + seksuele belediging)
+- tyfushoer
+- kankerhoer
+- tyfushomo
+- kankernicht
+- aidspijper
+- pokkenhoer
+- teringhoer
+- cholerapik
+- klerenslet
+- godverdomse hoer
+- godverdomse nicht

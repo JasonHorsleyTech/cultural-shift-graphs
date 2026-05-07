@@ -1,0 +1,573 @@
+# Turkish — sexually-charged vocabulary dump
+# Latin script with Turkish characters.
+# No definitions. No scoring. Just words, one per line.
+
+## Organs — penis (clinical)
+- penis
+- fallus
+- erkek cinsel organı
+- erkek üreme organı
+- üye
+- erkek organı
+
+## Organs — penis (slang/crude)
+- sik
+- yarak
+- kamış
+- alet
+- çük
+- kazık
+- hortum
+- şiş
+- boru
+- kılıç
+- sopa
+- değnek
+- zımba
+- muz
+- pipi
+- erkeklik
+- şişko
+- uzun olan
+
+## Organs — vagina (clinical)
+- vajina
+- vulva
+- dış genital organlar
+- dölyolu
+- kadın cinsel organı
+- kadın üreme organı
+
+## Organs — vagina (slang/crude)
+- am
+- amcık
+- yarık
+- delik
+- çatı
+- kedi
+- mağara
+- sandık
+- çiçek
+- fiş
+- bohça
+- göt (used interchangeably in crude slang)
+
+## Organs — labia
+- labya
+- am dudağı
+- küçük dudak
+- büyük dudak
+- iç dudak
+- dış dudak
+
+## Organs — clitoris
+- klitoris
+- am başı
+- beze
+- küçük tepe
+
+## Organs — testicles (clinical)
+- testis
+- testisler
+- skrotum
+- husye
+- erkek üreme bezi
+
+## Organs — testicles (slang/crude)
+- taşak
+- yumurta
+- top
+- haya
+- çan
+- tokmak
+- torba
+
+## Organs — anus (clinical)
+- anüs
+- makat
+- rektum
+- anal açıklık
+
+## Organs — anus (slang/crude)
+- göt
+- kıç
+- popo
+- bok deliği
+- delik
+- geri taraf
+- yüzük
+- arkası
+
+## Organs — breasts (clinical)
+- meme
+- göğüs
+- kadın memesi
+- büst
+- meme başı
+
+## Organs — breasts (slang/crude)
+- balon
+- top
+- yuvarlak
+- meme ucu
+- biberon
+- taş
+- karpuz
+
+## Acts — intercourse (clinical)
+- cinsel ilişki
+- koitus
+- kopülasyon
+- çiftleşme
+- birleşme
+- penetrasyon
+
+## Acts — intercourse (slang/crude)
+- sikmek
+- sikişmek
+- becermek
+- düzlemek
+- sokmak
+- çakmak
+- daldırmak
+- kazmak
+- kıymak
+- germek
+- sürtmek
+- dürtmek
+- bommak
+- bum yapmak
+- yapmak
+- itiştirmek
+
+## Acts — fellatio (clinical)
+- fellasyo
+- oral seks
+- oral cinsel ilişki
+- penis üzerine oral uyarı
+
+## Acts — fellatio (slang/crude)
+- sakso
+- ağza almak
+- yalamak
+- emmek
+- ağız işi
+- sak
+- düdük çalmak
+- ötmek
+- içmek
+
+## Acts — cunnilingus (clinical)
+- kunilingus
+- cunnilingus
+- vajinal oral seks
+- kadın üzerine oral seks
+
+## Acts — cunnilingus (slang/crude)
+- am yalamak
+- amcık yemek
+- yemek
+- aşağıya inmek
+- dalış yapmak
+
+## Acts — masturbation (clinical)
+- mastürbasyon
+- otoerotizm
+- elle tatmin
+- mastürbe olmak
+
+## Acts — masturbation (slang/crude)
+- otuzbir
+- 31 çekmek
+- otuzbir çekmek
+- sıvazlamak
+- elleme
+- çekmek
+- avuçlamak
+- kendini tatmin
+- otuzbirci
+
+## Acts — anal sex (clinical)
+- anal seks
+- anal ilişki
+- anal kopülasyon
+- anal penetrasyon
+
+## Acts — anal sex (slang/crude)
+- götten sikmek
+- göt vermek
+- götten almak
+- arkadan vermek
+- arkadan almak
+- arkadan girmek
+- livata
+
+## Acts — ejaculation / orgasm (clinical)
+- orgazm
+- ejakülasyon
+- boşalma
+- klimaks
+- doruk noktası
+
+## Acts — ejaculation / orgasm (slang/crude)
+- boşalmak
+- atmak
+- püskürtmek
+- patlamak
+- gelmek
+- fışkırtmak
+- zıplamak
+
+## Acts — other sexual acts
+- sürünmek
+- frotaj
+- titizlik
+- oral-anal seks
+- rimming
+- grup seks
+- üçlü
+- dörtlü
+- orji
+- swinger
+- aldatmak
+- aldatma
+- çapkınlık
+
+## Fluids and physical states
+- meni
+- sperm
+- sperma
+- döl
+- vajinal sıvı
+- vajinal akıntı
+- ıslaklık
+- ereksiyon
+- sertleşme
+- kalkık
+- dikilme
+- dikilmek
+- sertleşmek
+- ıslanmak
+- kayganlık
+
+## Desire / arousal / descriptors
+- şehvet
+- cinsel istek
+- libido
+- azgın
+- azmak
+- tahrik
+- tahrik olmak
+- azdırmak
+- şehvetli
+- seksi
+- arzulu
+- dolu
+- kaşıntı
+- fitil çekmek
+- cinsel arzu
+- kasıtlı kışkırtma
+- aşerme
+- cinsel heyecan
+
+## Frigid / prudish descriptors
+- frigid
+- soğuk
+- iffetli
+- cimri
+- kapalı
+- buz gibi
+- isteksiz
+- soğuk kadın
+- taşlık
+
+## Virginity
+- bekâret
+- kızlık
+- bakire
+- kız zarı
+- kızlık zarı
+- el değmemiş
+- temiz
+- bozulmamış
+- bekâretini kaybetmek
+- ilk gece
+
+## Identities / orientations (clinical)
+- eşcinsel
+- gey
+- lezbiyen
+- biseksüel
+- heteroseksüel
+- aseksüel
+- panseksüel
+- transseksüel
+- transgender
+- interseks
+- queer
+- kuir
+- homoseksüel
+- trans kadın
+- trans erkek
+- nonbinary
+
+## Identities / orientations (slurs)
+- ibne
+- oğlancı
+- top
+- götçü
+- laço
+- lezzo
+- yavşak
+- gavat
+- it
+- ibneleşmek
+- androgün
+- hem erkek hem kadın
+- yarım erkek
+- bozuk
+- sapık
+- cinsiyetsiz
+
+## Insults built from sexual vocabulary
+- orospu çocuğu
+- orospu dölü
+- piç
+- kahpe
+- kaltak
+- sürtük
+- amına koyayım
+- amk
+- götüne koyayım
+- sik herif
+- siktir
+- siktir git
+- siktir ol
+- amın oğlu
+- amına koyduğum
+- am oğlu
+- kahpe orospu
+- sikik
+- göt herif
+- sikilesi
+- orospu torunu
+- sıçtığım
+- bok torunu
+
+## Sex work and pornography
+- fahişe
+- orospu
+- hayat kadını
+- seks işçisi
+- eskort
+- genelev
+- randevuevi
+- konsomatris
+- bar kızı
+- pavyon kızı
+- kenarcu
+- sokak kadını
+- pezevenk
+- pezevenklik
+- muhabbet tellalı
+- pornografi
+- porno
+- müstehcen
+- erotik
+- erotik film
+- seks filmi
+- müstehcenlik
+- amatör porno
+- genelevci
+
+## Reproductive / contraceptive (sexually charged)
+- prezervatif
+- kondom
+- kapot
+- lastik
+- kaput
+- doğum kontrolü
+- sünnet
+- sünnetli
+- sünnetsiz
+
+## Kink / fetish / paraphilia
+- BDSM
+- fetiş
+- fetişizm
+- dominasyon
+- submissif
+- sado-mazohizm
+- sadizm
+- mazohizm
+- bondaj
+- rol yapma
+- kostüm oyunu
+- voyörizm
+- voyör
+- teşhircilik
+- teşhirci
+- fetişist
+- dominatrix
+- dominant
+- alt
+- üst
+- köleleştirme
+- efendi
+- köle
+- kırbaç
+- kelepçe
+- egzibisyonizm
+- voyörizm
+- urolagnia
+- zoofili
+- nekrofili
+- çocuk istismarı
+
+## Euphemisms and idioms
+- sevişmek
+- yatmak
+- birlikte olmak
+- ilişkiye girmek
+- ilişki kurmak
+- iş yapmak
+- kaynaşmak
+- dürtüşmek
+- yakınlaşmak
+- o işi yapmak
+- yatağa gitmek
+- geceyi birlikte geçirmek
+- dans etmek
+- oyun oynamak
+- aşk yapmak
+- muhabbet etmek
+- eğlenmek
+- takılmak
+
+## Archaic / literary / dated
+- zina
+- zinakâr
+- livata
+- ırz
+- iffet
+- mahrem
+- avret
+- cariye
+- odalık
+- harem
+- haremlik
+- selamlık
+- haremağası
+- oğlan
+- mut'a
+- zinahane
+- şehvetperest
+- nefsine düşkün
+- rüşvet-i nefs
+- fitne
+- fâhişe
+- devşirme
+- mehriye
+- sefa sürmek
+- ahlak bozukluğu
+- zina evi
+- fücur
+- fâcir
+- taharet
+
+## Internet / subculture
+- amk
+- mlkk
+- siktirbob
+- sexting
+- nudes
+- nood
+- milf
+- dilf
+- onlyfans
+- cam seks
+- cyberseks
+- sikilesi
+- otuzbirci
+- atan
+- dick pic
+- sikik kafalar
+- göt resmini atmak
+- dm atmak
+- azdır beni
+- gece arkadaşı
+
+## Prison / military slang
+- ezik
+- taşınan
+- imam
+- çömlek
+- yüzük
+- koğuş ibneciği
+- angarya
+
+## Culture-specific — honor/shame economy (namus)
+- namus
+- namuslu
+- namussuz
+- ırz
+- ırza geçmek
+- iffet
+- iffetsiz
+- edep
+- edepsiz
+- hayâ
+- utanmaz
+- şeref
+- şerefsiz
+- yüzsüz
+- rezalet
+- ar
+- arsız
+- iffetsizlik
+- namusu kirletmek
+- kız namusu
+- aile namusu
+- namus cinayeti
+- töre
+- töre cinayeti
+- kirlenmiş
+- bozulmuş
+- elden düşme
+- başkasının artığı
+
+## Culture-specific — religious/moral sex classification (helal/haram)
+- haram
+- helal
+- zina
+- zinakâr
+- livata
+- mut'a
+- mehir
+- nikâh
+- şehvet
+- nefis
+- fitne
+- haramlık
+- günah
+- günahkâr
+- tövbe
+- mahrem
+- setr-i avret
+- istimna
+- cünüp
+- gusül
+
+## Culture-specific — köçek/travesti/lubunya tradition
+- köçek
+- zenne
+- travesti
+- lubunya
+- lubun
+- rakkase
+- dansöz
+- ladyboy
+- kız gibi erkek
+- erkek gibi kadın
+- çift cinsiyetli
+- hermafrodit

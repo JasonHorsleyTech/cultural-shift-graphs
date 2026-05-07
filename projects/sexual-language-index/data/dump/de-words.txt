@@ -1,0 +1,1036 @@
+# German — sexually-charged vocabulary dump
+# Latin script.
+# No definitions. No scoring. Just words, one per line.
+
+## Organs — penis (clinical)
+- Penis
+- Glied
+- Phallus
+- Membrum virile
+- Geschlechtsteil
+- Geschlechtsorgan
+- Genitale
+- männliches Genitale
+- Harnröhre
+- Vorhaut
+- Eichel
+- Penisschaft
+- Corpus cavernosum
+
+## Organs — penis (slang/crude)
+- Schwanz
+- Schwengel
+- Pimmel
+- Piller
+- Zipfel
+- Lümmel
+- Gurke
+- Rüssel
+- Wurst
+- Prügel
+- Riemen
+- Dödel
+- Piephahn
+- Pinsel
+- Rohr
+- Schniepel
+- Schniedel
+- Schniedewutz
+- Hosenmast
+- Gemächt
+- Knüppel
+- Dingsbums
+- Ding
+- Bimbo
+- Hammelbein
+- Bolzen
+- Pflock
+- Stab
+- Zumpferl
+- Latte
+- Rammbock
+- Bengel
+- Pracker
+- Dreizack
+- Kolben
+- Mast
+- Turm
+- Anker
+- Fahnenstange
+- Johannes
+- Peter
+- Hans
+
+## Organs — vagina (clinical)
+- Vagina
+- Vulva
+- Scheide
+- Schamlippen
+- Labien
+- Labium majus
+- Labium minus
+- Introitus
+- Vestibulum
+- Hymen
+- Jungfernhäutchen
+
+## Organs — vagina (slang/crude)
+- Muschi
+- Fotze
+- Möse
+- Schlitz
+- Spalte
+- Ritze
+- Schnecke
+- Mumu
+- Kiste
+- Büchse
+- Dose
+- Loch
+- Pinke
+- Furche
+- Spalt
+- Pflaume
+- Muschel
+- Mumpe
+- Fummel
+- Feuchtgebiet
+- Lusthöhle
+- Schatzkästchen
+- Kesse
+- Tunke
+- Klapp
+- Klapper
+- Feuchtzone
+
+## Organs — vagina (Austrian/regional)
+- Fut
+- Wuze
+- Hascherl
+- Gatsch
+
+## Organs — clitoris (clinical)
+- Klitoris
+- Kitzler
+- Clitoris
+
+## Organs — clitoris (slang)
+- Knöpfchen
+- Perle
+- Knubbel
+- Knopf
+- Zünglein
+- Zünder
+
+## Organs — breasts (clinical)
+- Brust
+- Brüste
+- Mamma
+- Mammae
+- Brustdrüse
+- Busen
+- Areola
+- Brustwarze
+- Mamille
+
+## Organs — breasts (slang/crude)
+- Titten
+- Möpse
+- Hupen
+- Melonen
+- Dinger
+- Zitzen
+- Knubber
+- Knubbel
+- Hügel
+- Puffer
+- Körbchen
+- Ballon
+- Kirschen
+- Nüsse
+- Wölbungen
+- Beulen
+- Euter
+- Noppis
+- Busenwunder
+
+## Organs — testicles (clinical)
+- Hoden
+- Hodensack
+- Skrotum
+- Testes
+- Epididymis
+- Samenleiter
+
+## Organs — testicles (slang/crude)
+- Eier
+- Klöten
+- Nüsse
+- Bälle
+- Säcke
+- Kronjuwelen
+- Hänger
+- Gehänge
+- Eiersack
+- Batzen
+- Gewicht
+- Klunker
+- Wumpen
+- Juwelen
+
+## Organs — anus (clinical)
+- Anus
+- After
+- Rektum
+- Sphinkter ani
+- Schließmuskel
+- Analöffnung
+
+## Organs — anus (slang/crude)
+- Arschloch
+- Rosette
+- Loch
+- Hintern
+- Popo
+- Hinterteil
+- Kehrseite
+- Sterz
+- Wertheimer
+- Knick
+- Falltür
+- Hintertürchen
+
+## Organs — general/combined genitalia (clinical)
+- Genitalia
+- Genitalbereich
+- Schambereich
+- Schamgegend
+- Schamhügel
+- Mons pubis
+- Perineum
+- Damm
+- Leistenbereich
+- Schamhaare
+- Schambehaarung
+- Pubis
+
+## Acts — intercourse (clinical)
+- Geschlechtsverkehr
+- Koitus
+- Kohabitation
+- Kopulation
+- Beischlaf
+- Sexualverkehr
+- Intimverkehr
+- Penetration
+- Koitieren
+- Kopulieren
+- Sexueller Akt
+- Sexualakt
+- Koitaler Akt
+- Deflorierung
+
+## Acts — intercourse (slang/crude)
+- ficken
+- vögeln
+- bumsen
+- poppen
+- nageln
+- rammeln
+- bolzen
+- reiten
+- stechen
+- stoßen
+- knallen
+- hämmern
+- durchvögeln
+- besteigen
+- flachlegen
+- vernaschen
+- aufreißen
+- reinbuttern
+- reinhauen
+- reinpfeffern
+- reindrücken
+- ranhängen
+- ranvögeln
+- draufgehen
+- begatten
+- schleppen
+- verführen
+- abschleppen
+- abficken
+- durchknallen
+- ranknallen
+- zubumsen
+- verhunzen
+- verweißen
+
+## Acts — oral sex (clinical)
+- Fellatio
+- Cunnilingus
+- Oralsex
+- Anilingus
+- Oralstimulation
+- genitooraler Kontakt
+
+## Acts — oral sex (slang/crude)
+- blasen
+- einen blasen
+- lutschen
+- lecken
+- ablecken
+- abschlecken
+- Blowjob
+- Deepthroat
+- Rimming
+- Rimjob
+- Muschilecken
+- Schwanzlutschen
+- abblasen
+- befriedigen
+
+## Acts — masturbation (clinical)
+- Masturbation
+- Onanie
+- Selbstbefriedigung
+- Masturbieren
+- Onanieren
+- Autoerotismus
+- manuelle Stimulation
+
+## Acts — masturbation (slang/crude)
+- wichsen
+- wixen
+- einen runterholen
+- sich einen abwichsen
+- sich einen runterwichsen
+- sich einen abwedeln
+- wedeln
+- fingern
+- sich befingern
+- sich befummeln
+- einen runterwichsen
+- abspritzen
+- sich befriedigen
+- Handarbeit machen
+- Handarbeit
+- rubbeln
+- reiben
+- friemeln
+
+## Acts — anal sex (clinical)
+- Analverkehr
+- Analsex
+- Analerlebnisse
+- anale Penetration
+- rektaler Coitus
+
+## Acts — anal sex (slang/crude)
+- Arschficken
+- in den Arsch ficken
+- hintenrum
+- anal vögeln
+- po-ficken
+- durch die Hintertür
+- Sodomie
+- Endaround
+
+## Acts — other sexual acts (clinical)
+- Petting
+- Zärtlichkeit
+- erotische Stimulation
+- Frottage
+- gegenseitige Masturbation
+- Tribadismus
+- Tribben
+- Intercruralsex
+- Mammafellatio
+- Paraphilie
+
+## Acts — other sexual acts (slang/crude)
+- Fummeln
+- Baggern
+- Grapschen
+- Abgrapschen
+- Befummeln
+- knutschen
+- schmusen
+- abknutschen
+- French Kiss
+- Zungenküsse
+- petting machen
+- Handjob
+- Titfick
+- Titten ficken
+- Schieben
+- Drücken
+- Reiben
+- Friemeln
+
+## Fluids — semen (clinical)
+- Sperma
+- Ejakulat
+- Samen
+- Samenflüssigkeit
+- Spermium
+- Spermien
+- Samenerguss
+- Ejakulation
+- Prostatasekret
+- Seminalplasma
+
+## Fluids — semen (slang/crude)
+- Wichse
+- Soße
+- Milch
+- Saft
+- Spritze
+- Schuss
+- Sahne
+- Jizz
+- Cum
+- Brühe
+- Pampe
+- Load
+
+## Fluids — vaginal (clinical)
+- Scheidenflüssigkeit
+- Lubrikation
+- Vaginalsekret
+- Lubrikationsflüssigkeit
+- Bartholin-Drüsensekret
+- Squirt
+
+## Fluids — vaginal (slang)
+- Frauensaft
+- Liebessaft
+- nass sein
+- Nässe
+- Feuchtigkeit
+- Schmierstoff
+
+## Physical states — erection
+- Erektion
+- Ständer
+- Latte
+- Steife
+- steif sein
+- steif werden
+- Glied im Stehen
+- Morgenlatte
+- Dauererektion
+- Priapismus
+
+## Physical states — arousal
+- Erregung
+- Erregtsein
+- Lust
+- Geilheit
+- Sexuelle Spannung
+- Vorspiel
+- Orgasmus
+- Höhepunkt
+- kommen
+- Klimax
+- Multiorgasmus
+- Anspannung
+- Entladung
+- Ejakulation
+
+## Desire / arousal / descriptors (clinical)
+- Libido
+- Sexualtrieb
+- Geschlechtstrieb
+- Trieb
+- Begehren
+- Verlangen
+- sexuelles Verlangen
+- sexuelle Anziehung
+- erogene Zone
+- Frigidität
+- Anorgasmie
+- Hypersexualität
+- Nymphomanie
+- Satyriasis
+
+## Desire / arousal / descriptors (slang/colloquial)
+- geil
+- heiß
+- scharf
+- scharf auf jemanden
+- notgeil
+- rappelgeil
+- spitzkeil
+- brünstig
+- mannstoll
+- weibstoll
+- lüstern
+- wollüstig
+- lasziv
+- begierig
+- erregt
+- aufgegeil
+- aufgegeilt
+- sexuell frustriert
+- verklemmt
+- prüde
+- frigide
+- verbiestert
+- zimperlich
+- verknöchert
+- spießig
+- aufgetaut
+- heiß wie Frittenfett
+- heiß wie Kohle
+- brunftig
+- Brunft
+- in Brunst
+
+## Identities / orientations (clinical/neutral)
+- homosexuell
+- heterosexuell
+- bisexuell
+- asexuell
+- pansexuell
+- lesbisch
+- schwul
+- transsexuell
+- transgender
+- Transfrau
+- Transmann
+- intersexuell
+- queer
+- nicht-binär
+- genderqueer
+- agender
+- genderfluid
+- demisexuell
+- graysexuell
+- aromantisch
+- polyamourös
+- monogam
+- Androphilie
+- Gynäkophilie
+- LGBTIQ+
+- Lesbierin
+- Homosexueller
+- Bisexueller
+
+## Identities / orientations (slurs)
+- Schwuchtel
+- Tunte
+- Warmer Bruder
+- Warmer
+- Homo
+- Päderast
+- §175er
+- Hundertfünfundsiebziger
+- Arschficker
+- Hintenrum
+- Süßer
+- Butterblume
+- verkehrt
+- andersrum
+- Transe
+- Zwitterwesen
+- Lesbe (pejorative use)
+- Tribade
+- Mannweib
+- Schwesterlein
+- Lila Lavendel
+- Tante
+- Tuntenschwein
+- Tuntenalarm
+- Stricher
+- Strichjunge
+- Strichjungs-Homo
+
+## Insults built from sexual vocabulary
+- Arschloch
+- Wichser
+- Wichserin
+- Hurensohn
+- Schlampe
+- Nutte
+- Fotze
+- Luder
+- Flittchen
+- Drecksau
+- Pisser
+- Wixer
+- Saukerl
+- Saftsack
+- Miststück
+- Mistkerl
+- Dreckskerl
+- Schweinhund
+- Pissnelke
+- Vollpfosten
+- Muterficker
+- Fotzengesicht
+- Penisgesicht
+- Schwanzgesicht
+- Arschgesicht
+- Arschgeige
+- Arschkriecher
+- Nuttensohn
+- Hurenbock
+- Hurenkind
+- Scheiß-Wichser
+- Affenwichser
+- Dreckswichser
+- Drecksnutte
+- Pissnutte
+- Billignutte
+- Billigschlampe
+- Dreckschlampe
+- Schlampsack
+- Dreckshure
+- Schlampe
+- Bitch
+- Scheiß-Bitch
+
+## Sex work and pornography (clinical/formal)
+- Prostituierte
+- Prostitution
+- Sexarbeit
+- Sexarbeiterin
+- Bordell
+- Laufhaus
+- Etablissement
+- Straßenstrich
+- Zuhälter
+- Zuhälterei
+- Pornografie
+- Pornographie
+- Erotikfilm
+- Sexfilm
+- Freizügigkeit
+- Freierverkehr
+- Rotlichtmilieu
+- Rotlichtviertel
+- Rotlichtbezirk
+
+## Sex work and pornography (slang/crude)
+- Puff
+- Freudenhaus
+- Stundenhotel
+- Liebesnest
+- Nutte
+- Hure
+- Dirne
+- Metze
+- Freudenmädchen
+- Callgirl
+- Callboy
+- Gigolo
+- Lustknabe
+- Porno
+- Pornofilm
+- Wichsvorlage
+- Strich
+- Strichjunge
+- Strichmädchen
+- Stricher
+- Loverboy
+- Zuhälter
+- Lude
+- Macker
+- Beschützer
+- Softporno
+- Hardcore-Porno
+- Amateur-Porno
+- Splatterfilm
+- Escortdame
+- Escort
+
+## Reproductive / contraceptive (sexually charged)
+- Kondom
+- Pariser
+- Gummi
+- Verhütungsmittel
+- Pille
+- Diaphragma
+- Spirale
+- Empfängnisverhütung
+- Verhütung
+- Abtreibung
+- Schwangerschaftsabbruch
+- Sterilisation
+- Vasektomie
+- Koitus interruptus
+- Abspritzen
+- Samenbank
+- Befruchtung
+
+## Kink / fetish / paraphilia (clinical)
+- Fetischismus
+- Voyeurismus
+- Exhibitionismus
+- Sadismus
+- Masochismus
+- Sadomasochismus
+- Pädophilie
+- Nekrophilie
+- Zoophilie
+- Transvestismus
+- Transvestitismus
+- Frotteurismus
+- Voyeur
+- Partnerschaftliche Paraphilie
+- Paraphilie
+- Scopophilie
+
+## Kink / fetish / paraphilia (community vocabulary)
+- BDSM
+- Bondage
+- Dominanz
+- Submission
+- Dominatrix
+- Domina
+- Herr
+- Herrin
+- Sklave
+- Sklavin
+- Sub
+- Dom
+- Switch
+- Unterwerfung
+- Unterwürfigkeit
+- Rollenspiel
+- Fesselung
+- Handfesselung
+- Seilbindage
+- Shibari
+- Strick-Bondage
+- Knebel
+- Augenbinde
+- Peitsche
+- Reitgerte
+- Spanking
+- Spankung
+- Bestrafung
+- Natursekt
+- Kaviar
+- Golddusche
+- Goldener Regen
+- Atemkontrolle
+- Würgen
+- Choking
+- Edging
+- Ruined Orgasm
+- Keuschheitsgürtel
+- Keuschheitskäfig
+- Keuschhaltung
+- Latexfetisch
+- Gummifetisch
+- Schuhfetisch
+- Fußfetisch
+- Strumpfhosenfetisch
+- Wäschefetisch
+- Crossdressing
+- Genderbending
+- Sissy
+- Feminisierung
+- Pegging
+- Fisting
+- Faustfick
+- Strap-on
+- Dildofick
+- Anal-Plug
+- Buttplug
+- Vibrator
+- Masturbator
+- Sextoy
+- Sexspielzeug
+- Dreier
+- Gangbang
+- Partnertausch
+- Swingen
+- Swingerclub
+- Pärchenclub
+- Orgie
+- Dogging
+- Cruising
+- Watersports
+
+## Euphemisms and idioms
+- es treiben
+- es machen
+- miteinander schlafen
+- ins Bett gehen
+- zusammen sein
+- Liebe machen
+- intim werden
+- sich vergnügen
+- körperliche Liebe
+- körperliche Nähe
+- Zärtlichkeiten austauschen
+- Schäferstündchen
+- Nachmittagsschläfchen
+- eine Nummer schieben
+- eine Nummer machen
+- Quickie
+- flachlegen
+- aufs Kreuz legen
+- Beziehungspflege
+- Liebesspiel
+- Liebesnacht
+- Liebesakt
+- Verkehr haben
+- in flagranti
+- unter der Bettdecke
+- zwischen den Laken
+- auf die Tour gehen
+- auf Tour sein
+- Bettgeschichte
+- Betthäschen
+- Liebschaft
+- Affäre
+- Verhältnis
+- Seitensprung
+- Fremdgehen
+- Ehebruch
+- Bettenturnen
+- Horizontale Tätigkeit
+
+## Archaic / literary / dated
+- Unzucht
+- Hurerei
+- Sodomie
+- Unkeuschheit
+- Unkeusch
+- Buhlschaft
+- Buhle
+- Kebsweib
+- Kebse
+- Mairesse
+- Mätresse
+- Konkubine
+- Konkubinat
+- Wollust
+- Fleischeslust
+- Fleischlich
+- Unzüchtig
+- Sittlichkeitsdelikt
+- Sittlichkeitsverbrechen
+- Lüsternheit
+- Gemächt
+- Schamteile
+- Schamglieder
+- Lustmord
+- Lustmörder
+- Schamlosigkeit
+- Freudenknabe
+- Knabenliebe
+- Päderastie
+- Hintertreppenroman
+- Schundliteratur
+- Lustspiel
+- Verführer
+- Verführerin
+- Verführung
+- Schmutzfinke
+- Schmutzfink
+- Kuppler
+- Kupplerin
+- Kuppelei
+- Kupplerinnen
+- Hängematte
+- Sittenpolizei
+- Sittenlosigkeit
+- Liederlichkeit
+- Liederlich
+- Schlüpfrig
+- Unzüchtigkeiten
+- Zote
+- Zoterei
+- Unflätig
+- Unflätigkeit
+
+## Psychoanalytic / Freudian vocabulary (sexually charged)
+- Libido
+- Trieb
+- Es
+- Ödipuskomplex
+- Elektrakomplex
+- Penisbeneid
+- Kastrationsangst
+- Lustprinzip
+- Todestrieb
+- Urszene
+- Sublimierung
+- Verdrängung
+- Verdrängter Wunsch
+- Perversion
+- Polymorphe Perversion
+- Primärprozess
+- Lusthöhle
+- Primärobjekt
+- Fixierung
+- Regression
+- Phallusphase
+- Oralphase
+- Analphase
+- Genitale Phase
+
+## Internet / subculture
+- Sexting
+- Nudes
+- Nacktbilder
+- Camming
+- Cybersex
+- Netzsex
+- Dirty Talk
+- Masturbations-Chat
+- Hook-up
+- Fuckbuddy
+- NSA-Sex
+- One-Night-Stand
+- ONS
+- Booty Call
+- Situationship
+- Hentai
+- Smut
+- Rule 34
+- Coomer
+- Simp
+- Incel
+- Volcel
+- MILF
+- DILF
+- Cougar
+- Twink
+- Bear
+- Otter
+- Cub
+- Daddy
+- Sugar Daddy
+- Sugar Baby
+- Femboy
+- Trap
+- Thot
+- Ethot
+- OnlyFans-Girl
+- Cam-Girl
+- Cam-Boy
+- Deepfake-Porno
+- Revenge-Porn
+- Racheporno
+- Rachepornografie
+- Creampie
+- Squirting
+- Pegging
+- Cuckolding
+- Cuckold
+- Hotwife
+- Breeding
+- Bareback
+- Bareback-Sex
+- Natursex
+- Dogging
+- Stealthing
+- Catfishing
+- Dick-Pic
+- Schwanzfoto
+- Flexi
+- Flirten
+- Sexuelle Belästigung online
+- Brigading (sexual harassment context)
+
+## Culture-specific — Freikörperkultur
+- Freikörperkultur
+- FKK
+- FKK-Strand
+- FKK-Verein
+- Naturismus
+- Naturist
+- Nudismus
+- Nudist
+- Nacktbaden
+- Nacktcamping
+- Nacktkultur
+- Nacktheit
+- Nacktbadestrand
+- Freiluft-Nudismus
+
+## Culture-specific — Aufklärung / sex education discourse
+- Sexualaufklärung
+- Aufklärung
+- Sexualerziehung
+- Sexualpädagogik
+- Sexualkunde
+- Schamgrenzen
+- Schamgefühl
+- Intimitätsgrenzen
+- Grenzüberschreitung
+- Zustimmung
+- Einwilligung
+- Konsens
+
+## Culture-specific — shame / moral vocabulary
+- Scham
+- Schande
+- Schandtat
+- Schamhaftigkeit
+- Prüderie
+- Sittenstrenge
+- Tugendhaftigkeit
+- Keuschheit
+- Enthaltsamkeit
+- Enthaltung
+- Züchtigkeit
+- Züchtig
+- Anstand
+- Anständigkeit
+- Unanständigkeit
+- Unanständig
+- Sünde
+- Sündhaft
+- Sündenbock
+- Lasterhaft
+- Laster
+- Unsittlichkeit
+- Sittenwidrig
+- Sittenwidrigkeit
+- Schandmaul
+- Zoten reißen
+- Zotenreißer
+
+## Culture-specific — Paragraph 175 / legal-historical
+- Paragraph 175
+- §175
+- §175er
+- Sittlichkeitsdelikt
+- Sittendelikt
+- Widernatürliche Unzucht
+- Unnatürliche Unzucht
+- gleichgeschlechtliche Handlung
+- homosexuelle Handlung
+- Homosexualität unter Strafe
+
+## Culture-specific — compound insults / portmanteau slurs
+- Schlampenpack
+- Nutten-Alarm
+- Wichsergesicht
+- Schwanzlutscher
+- Votzengesicht
+- Arschlecker
+- Arschkriecher
+- Saftsack
+- Ekelpaket
+- Dreckstück
+- Schmierlappen
+- Schmierlappenkerl
+- Wichstuch
+- Eierlecker
+- Klotenfresser
+- Mosenküsser
+- Pornosau
+- Pornoschnurrbart
+- Ficklöffel
+- Fickfehler
+- Wichserkanal
+- Spermarochen
+- Sahnegesicht

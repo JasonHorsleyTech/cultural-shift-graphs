@@ -1,0 +1,468 @@
+# Swahili — sexually-charged vocabulary dump
+# Latin script.
+# No definitions. No scoring. Just words, one per line.
+
+## Organs — penis (clinical)
+- uume
+- mbolo
+- sehemu ya uzazi ya kiume
+- ala za kiume
+- kiungo cha uzazi cha kiume
+
+## Organs — penis (slang/crude)
+- mboro
+- mboo
+- konde
+- nyoka
+- fimbo
+- rungu
+- mti
+- bomba
+- bunduki
+- ndizi
+- mkia
+- kipande
+- shindano
+
+## Organs — vagina (clinical)
+- uke
+- sehemu ya uzazi ya kike
+- ala za kike
+- mlango wa uzazi
+- farji
+
+## Organs — vagina (slang/crude)
+- kuma
+- kunyi
+- tundu
+- shimo
+- pango
+- kisimi
+- tunda
+- papai
+- paka
+- mwanya
+
+## Organs — breasts (clinical)
+- titi
+- matiti
+- tezi ya maziwa
+- chuchu
+
+## Organs — breasts (slang/crude)
+- mabonge
+- mapipa
+- matunda
+- magubeti
+- mazizi
+
+## Organs — testicles (clinical)
+- korodani
+- pumbu
+- mbegu za kiume
+- mapumbu
+
+## Organs — testicles (slang/crude)
+- mayai
+- mawe
+- mbegu
+- makende
+- vitakasa
+
+## Organs — anus (clinical)
+- mkundu
+- njia ya haja kubwa
+- tundu la nyuma
+
+## Organs — anus (slang/crude)
+- shimo la nyuma
+- njia ya nyuma
+- matako
+
+## Organs — clitoris (clinical)
+- kinembe
+- kichwa cha uke
+
+## Organs — clitoris (slang/crude)
+- kipande kidogo cha uke
+- kiungo kidogo
+
+## Organs — general genitalia
+- sehemu za siri
+- tupu
+- mapaja
+- kiuno
+- sehemu za chini
+
+## Acts — intercourse (clinical)
+- kujamiiana
+- ngono
+- tendo la ndoa
+- tendo la mapenzi
+- kuungana kimwili
+- kuoana
+- starehe za mwili
+- shughuli za ngono
+
+## Acts — intercourse (slang/crude)
+- kutomba
+- kudunda
+- kuchomeka
+- kuingilia
+- kupiga msumari
+- kutua
+- kushinda
+- kukamua
+- kupanda
+- kushika
+- kudundika
+- kupigana
+- kula nyama
+- kusuguana
+
+## Acts — fellatio (clinical)
+- kunyonya uume
+- tendo la mdomo kwa uume
+
+## Acts — fellatio (slang/crude)
+- kunyonya
+- kufanya mdomo
+- kumeza
+- kula mboro
+- kutafuna
+
+## Acts — cunnilingus (clinical)
+- kunyonya uke
+- tendo la mdomo kwa uke
+
+## Acts — cunnilingus (slang/crude)
+- kulamba kuma
+- kula kuma
+- kulamba
+- kufanya mdomo wa kike
+
+## Acts — masturbation (clinical)
+- punyeto
+- kujisaidia kimwili
+- kujifanyia
+- kujiridhisha kimwili
+
+## Acts — masturbation (slang/crude)
+- kupiga punyeto
+- kujipiga
+- kujicheza
+- kujikuna
+- kujisaidia
+- kujiridhisha
+
+## Acts — anal sex (clinical)
+- kujamiiana kwa njia ya nyuma
+- ngono ya mkundu
+- ulawiti
+- liwata
+
+## Acts — anal sex (slang/crude)
+- kutomba mkundu
+- kupita nyuma
+- kuingia nyuma
+- kupiga nyuma
+
+## Acts — other sexual acts
+- kutia vidole
+- kukanda
+- kusugua
+- kugusana kimwili
+- kupapasa
+
+## Fluids — semen (clinical)
+- manii
+- shahawa
+- mbegu ya kiume
+- majimaji ya kiume
+
+## Fluids — semen (slang/crude)
+- maji
+- uji
+- maziwa ya kiume
+- shinda
+- mwaga
+
+## Fluids — vaginal fluid
+- majimaji ya kike
+- maji ya uke
+- unyevunyevu
+
+## Fluids — other sexually charged
+- hedhi
+- damu ya hedhi
+
+## Physical states — erection
+- msimamo
+- kusimama kwa uume
+- ukakamavu
+- kuumka
+- nguvu ya uume
+
+## Physical states — orgasm
+- kilele
+- kupata kilele
+- kumwaga
+- kutiririka
+- kukimbia
+- kupata starehe ya juu
+
+## Desire / arousal (clinical)
+- tamaa ya ngono
+- hamu ya ngono
+- msisimko
+- kuchochewa
+- kusisimka
+- hisia za ngono
+- msukumo wa ngono
+
+## Desire / arousal (slang/crude)
+- nyege
+- kuwa na nyege
+- moto wa ngono
+- kiu ya ngono
+- kupigwa na tamaa
+- kutamani
+- ashiki
+- lahafu
+- shauku ya mwili
+- taka
+- naskia nyege
+
+## Desire — frigid / absent
+- baridi
+- mtu bila tamaa
+- kutokuwa na hamu
+- ukavu
+- kujizuia ngono
+- mtu mzito wa ngono
+
+## Identities / orientations (clinical)
+- ushoga
+- usagaji
+- msagaji
+- mpenzi wa jinsia moja
+- mashoga
+- bisexual
+- asexual
+- jinsia ya tatu
+- mwenye jinsia mbili
+
+## Identities / orientations (slur/crude)
+- shoga
+- basha
+- msenge
+- mke wa mwanaume
+- mtu wa upande huo
+- mtu wa aina hiyo
+- kabichi
+- nyegere
+- mzinga
+- laini
+- mtu wa mkono wa kushoto
+- msagaji wa kutisha
+
+## Insults built on sexual vocabulary
+- mwana wa malaya
+- mwana wa kahaba
+- mtomba mama yako
+- mtomba baba yako
+- mla kuma
+- mnyonyi wa mboro
+- mla mboro
+- mwana haramu
+- mzaa haramu
+- fisadi wa ngono
+- aibu ya familia
+- umalaya wako
+- mchafuzi
+- wewe malaya
+- wewe kahaba
+- mtu wa aibu
+- fedheha ya ukoo
+
+## Sex work and pornography
+- malaya
+- kahaba
+- ukahaba
+- umalaya
+- changudoa
+- lanye
+- sungura
+- mjakazi
+- biashara ya ngono
+- danguro
+- nyumba ya starehe
+- dalali wa malaya
+- ponografia
+- filamu chafu
+- picha chafu
+- video za ngono
+- filamu za ngono
+- blue film
+- mteja
+- huduma za ngono
+- kutoa huduma
+- tafsiri chafu
+
+## Reproductive / contraceptive (sexually charged)
+- kondom
+- mpira
+- hewa
+- kinga ya ngono
+- uzazi wa mpango
+- vidonge vya kuzuia mimba
+- kujikinga
+- dawa za kuzuia ujauzito
+
+## Kink / fetish / paraphilia
+- BDSM
+- maumivu ya starehe
+- utumwa wa ngono
+- kufungwa
+- kupigwa kwa raha
+- fetishi
+- mapenzi ya nguvu
+- udhibiti
+- mtumwa wa ngono
+- bwana wa ngono
+- bibi wa ngono
+- kujisalimisha
+- kutawala
+
+## Euphemisms and idioms
+- kulala pamoja
+- kufanya mapenzi
+- kuwa pamoja
+- shughuli za kitandani
+- starehe za kitandani
+- mchezo wa kitandani
+- mchezo wa mapenzi
+- tendo la usiku
+- shughuli za usiku
+- kucheza mchezo
+- kutembea naye
+- kufanya kazi pamoja
+- burudani
+- kupumzika pamoja
+- kufanya ladha
+- kufanya mambo
+- ladha ya maisha
+- kuchungulia
+- kufurahiana
+
+## Archaic / literary / dated
+- pendo la mwili
+- furaha ya mwili
+- tendo la ubunifu wa uzazi
+- mpenzi wa mwili
+- mapenzi ya kimwili
+- ladha ya mwili
+- faraja ya mwili
+- starehe za mwili
+
+## Internet / subculture / recent slang
+- toa nyege
+- side chic
+- friends with benefits
+- situationship
+- kushinda kazi
+- shoot shot
+- tumefanya
+- mchezaji
+- dryfrend
+- kupigia debe
+- sponsor
+- kunyakua
+- mpenzi wa whatsapp
+- mtu wa inbox
+- dm za ngono
+- sext
+- sexting
+- nudes
+- kutuma picha za uchi
+
+## Culture-specific — Islamic sexual jurisprudence (Swahili coastal)
+- zina
+- zinaa
+- haramu
+- halal
+- nikah
+- talaka
+- iddah
+- mahram
+- mtu wa zina
+- mtoto wa zina
+- mahali pa zina
+- mzinifu
+- hukumu ya ngono
+- tohara
+
+## Culture-specific — honor/shame economy
+- heshima
+- aibu
+- soni
+- fedheha
+- kuharibu heshima
+- kuangusha heshima
+- msichana mbaya
+- mwanamke mbaya
+- tabia mbaya
+- usafi
+- kudhalilika
+- kuosha aibu
+- uchi wa aibu
+- kupoteza thamani
+- mali ya mwili
+
+## Culture-specific — traditional initiation and sexual education
+- unyago
+- jando
+- mshenga
+- mwali
+- ngoma ya unyago
+- funzo la ngono
+- siri za wanawake
+- siri za wanaume
+- kuingia ukubwani
+- mafunzo ya ndoa
+- kukomaa
+- kukua kijinsia
+
+## Culture-specific — nyumba ndogo (kept-woman institution)
+- nyumba ndogo
+- bibi mdogo
+- mke wa pili
+- suria
+- bibi wa nyumba ya pili
+- mpenzi wa siri
+- mke wa siri
+- ndoa ya siri
+- mtu wa nyumbani
+- mpendwa wa siri
+
+## Culture-specific — transactional sex and sugar relationships
+- sponsor
+- baba wa mapenzi
+- mama wa mapenzi
+- mzee tajiri
+- mapenzi ya pesa
+- kutoa mwili
+- kutumikia kwa ngono
+- biashara ya mwili
+- mpenzi wa kununua
+- kufanya biashara ya starehe
+- kutafuta maisha kwa mwili
+
+## Culture-specific — coastal Swahili erotic traditions
+- taarab ya mapenzi
+- maneno ya kupendeza
+- mchezo wa tausi
+- wimbo wa starehe
+- mashairi ya mapenzi ya mwili
+- ngoma ya kuchekesha
+- dansi ya kupendezana

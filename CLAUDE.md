@@ -207,6 +207,10 @@ If the deploy script breaks or you need to understand the underlying AWS steps, 
 - **One unit of work per agent invocation.** Do the thing, write to disk, update status, exit.
 - If you find a partial or incomplete file from a previous failed run, replace it — don't append to garbage.
 
+## TODO
+
+- **Per-ticket model selection.** Right now `scripts/orchestrate.mjs` hardcodes a single `--model` flag (currently flipped between `opus` and `sonnet` by hand depending on token budget). Ideally each ticket — or each project — declares its own model, so cheap/mechanical tickets run on Sonnet while harder reasoning gets Opus. Could be a `model` field in the ticket frontmatter, or a project-level `model` file like `mode`/`priority`. Orchestrator reads it and picks the right `--model` per spawn.
+
 ## Legacy
 
 - The `.chief/` directory contains PRDs from the earlier chief-based workflow. These are done — new work uses the orchestrator pipeline in `projects/`.

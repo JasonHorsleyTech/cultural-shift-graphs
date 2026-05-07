@@ -1,0 +1,748 @@
+# Indonesian — sexually-charged vocabulary dump
+# Latin script.
+# No definitions. No scoring. Just words, one per line.
+
+## Organs — penis (clinical)
+- penis
+- alat kelamin pria
+- alat kelamin laki-laki
+- organ seksual pria
+- zakar
+- batang kemaluan
+- organ reproduksi pria
+- kemaluan pria
+- alat vital pria
+- Mr. P
+- organ intim pria
+- bagian pribadi pria
+
+## Organs — penis (slang/crude)
+- kontol
+- peler
+- pelir
+- burung
+- titit
+- batang
+- bengkong
+- udin
+- konek
+- pak tua
+- tongkat
+- pentung
+- joystick
+- senjata
+- piston
+- si kecil
+- junior
+- anu (referring to penis)
+- burung pipit
+- lidi
+- tiang
+- batang besi
+
+## Organs — vagina (clinical)
+- vagina
+- vulva
+- labia
+- klitoris
+- organ seksual wanita
+- alat kelamin wanita
+- kemaluan wanita
+- alat vital wanita
+- organ reproduksi wanita
+- Miss V
+- organ intim wanita
+- lubang kelamin wanita
+- kelentit
+- bibir vagina
+
+## Organs — vagina (slang/crude)
+- memek
+- pepek
+- puki
+- tempik
+- kitit
+- lobang
+- peti
+- itil
+- bawah
+- rapet
+- semprit
+- colek
+- kolam
+
+## Organs — breasts (clinical)
+- payudara
+- mammae
+- kelenjar susu
+- buah dada
+- puting susu
+
+## Organs — breasts (slang/crude)
+- toket
+- tetek
+- susu
+- buah
+- dot
+- puting
+- dada
+- gunung kembar
+- balon
+
+## Organs — testicles (clinical)
+- testis
+- skrotum
+- buah pelir
+- buah zakar
+- kantung zakar
+- epididimis
+
+## Organs — testicles (slang/crude)
+- biji
+- telor
+- kantong
+- kacang
+- butir
+
+## Organs — anus (clinical)
+- anus
+- rektum
+- dubur
+- lubang anus
+- perineum
+
+## Organs — anus (slang/crude)
+- pantat
+- bokong
+- lubang belakang
+- buntut
+- entong
+- belakang
+
+## Organs — other / general genitalia
+- kemaluan
+- selangkangan
+- bagian intim
+- organ vital
+- titik G
+- titik sensitif
+- area pribadi
+
+## Acts — intercourse (clinical)
+- hubungan seksual
+- senggama
+- kopulasi
+- koitus
+- coitus
+- persetubuhan
+- berhubungan badan
+- berhubungan intim
+- sanggama
+- bersetubuh
+- penetrasi
+
+## Acts — intercourse (slang/crude)
+- ngentot
+- entot
+- ngewe
+- ewe
+- gituan
+- begituan
+- ML
+- main
+- sikat
+- bercinta
+- tidur bareng
+- tidur bersama
+- ngocol
+- nggarap
+- dikerjain
+- ngeseks
+- kimpoi
+- kawin
+- nyetubuhin
+- disetubui
+- naik ranjang
+- masuk kamar
+- ngamar
+- doing it
+
+## Acts — fellatio (clinical)
+- fellatio
+- seks oral pada penis
+- stimulasi oral penis
+
+## Acts — fellatio (slang/crude)
+- ngisep
+- nyepong
+- blowjob
+- BJ
+- diisep
+- sedot
+- pipa
+- numbal
+- ngulum
+
+## Acts — cunnilingus (clinical)
+- cunnilingus
+- seks oral pada vagina
+- stimulasi oral vagina
+
+## Acts — cunnilingus (slang/crude)
+- jilat
+- dijilat
+- makan
+- ngelaba
+- nyusu
+- lidah bawah
+
+## Acts — masturbation (clinical)
+- masturbasi
+- onani
+- stimulasi diri sendiri
+- ejakulasi mandiri
+
+## Acts — masturbation (slang/crude)
+- ngocok
+- coli
+- main sendiri
+- remas
+- jikuk
+- kepak
+- pegang sendiri
+- ngerot
+- LD
+- peluk guling
+
+## Acts — anal sex (clinical)
+- seks anal
+- penetrasi anal
+- sodomi
+- hubungan anal
+- liwath
+
+## Acts — other sexual acts
+- petting
+- foreplay
+- cumbu rayu
+- meremas
+- meraba
+- fingering
+- handjob
+- tribadisme
+- fisting
+- rimming
+- necking
+- ciuman dalam
+- bercumbu
+- ngangkang
+- ngebor
+- goyang
+
+## Acts — sexual violence
+- perkosaan
+- memperkosa
+- pelecehan seksual
+- kekerasan seksual
+- molest
+- cat calling
+- pelecehan
+
+## Fluids and physical states
+- sperma
+- air mani
+- mani
+- cairan vagina
+- cairan pelumas
+- keputihan
+- ereksi
+- tegang
+- berdiri
+- keras
+- ngaceng
+- basah
+- becek
+- orgasme
+- klimaks
+- ejakulasi
+- ejakulasi dini
+- rembesan
+- lendir
+- disfungsi ereksi
+- impotensi
+- ereksi spontan
+- skuirt
+
+## Desire / arousal / descriptors
+- terangsang
+- birahi
+- nafsu
+- syahwat
+- gairah
+- libido
+- horny
+- gatel
+- nakal
+- panas
+- binal
+- menggebu
+- bernafsu
+- cabul
+- mesum
+- seksi
+- hot
+- montok
+- semok
+- bohay
+- molek
+- aduhai
+- dingin
+- frigid
+- kurang bergairah
+- lemah syahwat
+- panas dingin
+- menggairahkan
+- menggoda
+- menantang
+- menor
+- menor-menoran
+- sensual
+- erotis
+- vulgar
+
+## Identities / orientations (clinical)
+- homoseksual
+- heteroseksual
+- biseksual
+- aseksual
+- lesbian
+- gay
+- transgender
+- transeksual
+- interseks
+- queer
+- non-biner
+- panseksual
+- omniseksual
+- demiseksual
+- aromantis
+- poliseksual
+- gender fluid
+- androgini
+
+## Identities / orientations (slang/community)
+- homo
+- lesbi
+- tomboi
+- waria
+- transpuan
+- transpria
+- belok
+- gay pasif
+- gay aktif
+- vers
+- top
+- bottom
+- butch
+- femme
+- FTM
+- MTF
+- drag queen
+- drag king
+- biseks
+- jijay
+- cewek-cewek
+- cowok-cowok
+- straight
+- hetero
+- kucing
+- laki-laki menyukai laki-laki
+- perempuan menyukai perempuan
+- LGBT
+- LGBTQ
+
+## Identities / orientations (slurs)
+- banci
+- bencong
+- maho
+- pondan
+- bede
+- wadam
+- lelaki jadi-jadian
+- bukan laki-laki asli
+- bukan perempuan asli
+- ndak normal
+- tidak normal
+- penyimpangan
+- abnormal
+- sakit jiwa (applied to LGBT as slur)
+
+## Insults built from sexual vocabulary
+- lonte
+- sundal
+- sundel
+- jablay
+- jablai
+- bispak
+- perek
+- murahan
+- gampangan
+- lacur
+- cabe-cabean
+- barang murah
+- simpanan
+- matre
+- muka kontol
+- ngentot lu
+- anak haram
+- haram jadah
+- bajingan
+- bangsat
+- kampang
+- kampret
+- pecun
+- perempuan murahan
+- wanita simpanan
+- tidak punya harga diri
+- tidak tahu malu
+- ternoda
+- bejad
+- tukang mesum
+- dasar mesum
+- cabul
+- playboy (as insult)
+- buaya
+- playboy kampung
+- muka memek
+- ngentot sendiri
+
+## Sex work and pornography
+- pelacur
+- pekerja seks
+- PSK
+- PSK online
+- prostitusi
+- bordil
+- lokalisasi
+- mucikari
+- germo
+- mami
+- ayam
+- ayam kampus
+- kupu-kupu malam
+- open BO
+- BO
+- gigolo
+- porno
+- pornografi
+- bokep
+- film porno
+- film biru
+- video mesum
+- video syur
+- VCD biru
+- striptis
+- industri hiburan dewasa
+- pijat plus
+- pijat senggol
+- jajan
+- mangkal
+- short time
+- long time
+- tante girang
+- sugar baby
+- sugar daddy
+- kencan berbayar
+- escor
+- artis porno
+- bintang porno
+- pemandu lagu
+- cewek panggilan
+- pria panggilan
+- karaoke plus
+- dagangan
+- barang
+- narik
+- tarif
+- pelanggan
+- langganan
+- melacur
+- dilacurkan
+- jualan
+- stok
+- kelas
+
+## Reproductive / contraceptive (sexually charged)
+- kondom
+- karet
+- KB
+- pil KB
+- spiral
+- IUD
+- suntik KB
+- kontrasepsi
+- kontrasepsi darurat
+- pil pagi hari
+- aborsi
+- abortus
+- hamil di luar nikah
+- kehamilan tidak diinginkan
+- perawan
+- perjaka
+- hilang keperawanan
+- defloration
+- pertama kali
+- vasektomi
+- tubektomi
+- sterilisasi
+
+## Kink / fetish / paraphilia
+- BDSM
+- bondage
+- dominasi
+- submisi
+- sadomasokisme
+- sadisme
+- masokisme
+- fetish
+- fetisisme
+- voyeurisme
+- eksibisionisme
+- pedofilia
+- nekrofilia
+- zoofilia
+- bestialitas
+- role play
+- RP
+- cosplay seksual
+- swinger
+- poliamori
+- threesome
+- orgi
+- gangbang
+- golden shower
+- MILF
+- foot fetish
+- latex fetish
+- shibari
+- cuckolding
+- cuckold
+- hotwife
+- peeping tom
+- dom
+- sub
+- budak
+- tuan
+- nyonya
+- collar
+- safeword
+- rope bondage
+- vaginisme
+- anorgasmia
+
+## Euphemisms and idioms
+- begituan
+- gituan
+- hubungan intim
+- berhubungan
+- bermesraan
+- ML
+- anu
+- itu
+- berbagi kasih
+- melakukan hubungan
+- menyatu
+- bersatu
+- masuk
+- masuk ke dalam
+- naik ranjang
+- masuk kamar
+- ngamar
+- saling mencintai
+- tidur bersama
+- kencan
+- main-main
+- ranjang empuk
+- bercanda (joke - euphemism when implying sex)
+- nemenin (to accompany - euphemism)
+- mampir (to drop by - booty call sense)
+- kencan panas
+- ngobrol berdua (talk one-on-one - euphemism)
+
+## Archaic / literary / dated
+- sanggama
+- jimak
+- jima
+- zina
+- sihaq
+- muhshan
+- gundik
+- selir
+- nyai
+- lacur
+- sundal
+- bersetubuh
+- persetubuhan
+- loba
+- rendah
+- hina
+- perempuan nakal
+- perempuan jahat
+- bercumbu rayu
+- gairah berahi
+- diracuni nafsu
+- wanita tuna susila
+- tuna susila
+- pezina
+
+## Internet / subculture
+- bokep
+- syur
+- konten panas
+- video viral
+- video syur
+- OF
+- OnlyFans
+- langganan OF
+- FWB
+- one night stand
+- DTF
+- body count
+- ghosting
+- PHP
+- modus
+- 18+
+- konten dewasa
+- kirim foto
+- foto bugil
+- video call seks
+- cyber sex
+- sexting
+- ngeWA
+- ngegas
+- goyang TikTok
+- twerking
+- ABG
+- jomblo
+- bucin
+- PHP-in
+- panas-panasan
+- meme 18+
+- Bigo
+- cabe-cabean
+- sugarbaby culture
+- virgin
+- hymen check (used in discourse)
+
+## Culture-specific — Islamic moral/legal classification
+- zina
+- zina muhshan
+- zina ghairu muhshan
+- liwath
+- sihaq
+- mahram
+- ghirah
+- aurat
+- haram
+- halal
+- nikah
+- nikah siri
+- kawin kontrak
+- mut'ah
+- istimta
+- wanita simpanan
+- simpanan
+- perbuatan keji
+- maksiat
+- fasik
+- fasad
+
+## Culture-specific — Honor/shame economy
+- malu
+- aib
+- izzah
+- cela
+- ternoda
+- najis
+- kehormatan
+- martabat
+- harga diri
+- murahan
+- gampangan
+- tidak tahu malu
+- kehormatan keluarga
+- noda
+- aib keluarga
+- memalukan
+- merusak nama baik
+- jatuh martabat
+- hilang malu
+- tidak bermoral
+
+## Culture-specific — Bugis five-gender system
+- calabai
+- calalai
+- bissu
+- oroané
+- makkunrai
+
+## Culture-specific — waria/banci community vocabulary
+- waria
+- transpuan
+- transpria
+- banci
+- bencong
+- wadam
+- salon banci
+- jalan malam
+- operasi (gender surgery colloquial)
+- suntik hormon
+- silicon
+- berdandan
+- dunia waria
+- komunitas waria
+- lintas gender
+
+## Culture-specific — Javanese sexual/mystical vocabulary
+- lingga
+- yoni
+- ngukup
+- kemproh
+- genyot
+- ngetot
+- edan birahi
+- lampah sesat
+- birahi
+- murka nafsu
+
+## Culture-specific — dangdut/entertainment sexual innuendo
+- goyang
+- ngebor
+- goyang ngebor
+- hot
+- panas
+- menggairahkan
+- menggoda penonton
+- joget
+- goyang dua jari
+- goyang inul
+- dangdut panas
+
+## Culture-specific — jajan economy (transactional sex slang)
+- jajan
+- jajanan
+- dagangan
+- stok
+- narik
+- tarif
+- pelanggan tetap
+- mangkal
+- lokasi
+- kelas satu
+- kelas dua
+- short time
+- long time
+- booking
+- open
+- nego
+- DP (down payment - advance payment for sex)

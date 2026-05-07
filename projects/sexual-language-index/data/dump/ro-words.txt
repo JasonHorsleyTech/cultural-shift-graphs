@@ -1,0 +1,687 @@
+# Romanian — sexually-charged vocabulary dump
+# Latin script.
+# No definitions. No scoring. Just words, one per line.
+
+## Organs — penis (clinical)
+- penis
+- falus
+- organ genital masculin
+- membre viril
+- gland
+- prepuț
+- frenul penian
+- corp cavernos
+- uretră penisului
+- scrot
+- vezicule seminale
+- prostată
+- epididim
+- cordon spermatic
+
+## Organs — penis (slang/crude)
+- pulă
+- puliță
+- pulan
+- putulică
+- sculă
+- prăjină
+- cârnat
+- cârnăcior
+- ciocan
+- ciocănel
+- pistol
+- băț
+- vergea
+- vergeaua
+- bormaşină
+- măciucă
+- trombon
+- manivela
+- beldie
+- piță
+- unealtă
+- instrument
+- macaroană
+- coroana (glans slang)
+- piston
+- arc
+
+## Organs — vagina (clinical)
+- vagin
+- vulvă
+- labii majore
+- labii minore
+- clitoris
+- himen
+- col uterin
+- uter
+- ovare
+- trompe uterine
+- vestibul vaginal
+
+## Organs — vagina (slang/crude)
+- pizdă
+- pizduliță
+- pizdoi
+- pasăre
+- pasărica
+- gaură
+- culifă
+- fufă
+- mincă
+- moară
+- clămpă
+- bibilică
+- fanta
+- matcă
+- pisică
+
+## Organs — breasts (clinical)
+- sân
+- sâni
+- glande mamare
+- mamelon
+- areolă
+- sfârc
+- țesut mamar
+
+## Organs — breasts (slang/crude)
+- țâță
+- țâțe
+- balonice
+- meloane
+- pepeni
+- globuri
+- mere
+- buși
+
+## Organs — testicles (slang/crude)
+- coaie
+- ouă
+- bile
+- boabe
+- pietricele
+- boșoroage
+- ciosvârtă
+
+## Organs — anus and buttocks (clinical)
+- anus
+- rect
+- sfincter anal
+- perineu
+
+## Organs — anus and buttocks (slang/crude)
+- cur
+- fund
+- dos
+- popou
+- bucă
+- buci
+- funduleț
+- gaura din spate
+- găoacă
+
+## Acts — clinical
+- act sexual
+- raport sexual
+- coitus
+- copulație
+- penetrare vaginală
+- penetrare anală
+- felație
+- cunilingus
+- anilingus
+- masturbație
+- sodomie
+- sex oral
+- sex anal
+- ejaculare
+- orgasm
+- erecție
+- excitare sexuală
+- lubrifiere vaginală
+- dezvirginare
+- desflorare
+- fornicație
+- tribadism
+- poluție nocturnă
+- emisia nocturnă
+
+## Acts — slang/crude
+- futere
+- a fute
+- a se fute
+- futai
+- a trage un futai
+- a da la cur
+- muie
+- a face muie
+- a suge pula
+- a linge
+- a o freca
+- labă
+- a da labă
+- a trage o labă
+- a se masturba
+- a bate palma
+- a o trage
+- a o pune
+- a vârî
+- a băga
+- a împunge
+- a da drumul
+- a termina
+- a veni
+- a tromboni
+- a o lua pe la spate
+- a o lua în gură
+- a se da
+- a face furca
+- a freca
+- poziția 69
+- a-și freca menta
+
+## Fluids and physical states
+- spermă
+- lichid seminal
+- ejaculat
+- lapte
+- zeamă
+- pre-ejaculat
+- lichide vaginale
+- lubrifiant natural
+- scurgere vaginală
+- întărit
+- tare
+- umed
+- udă
+- în erecție
+- excitat
+- excitată
+- pregătit
+- pregătită
+- climax
+- orgasmat
+- orgasmată
+
+## Desire, arousal, descriptors
+- poftă sexuală
+- libido
+- dorință sexuală
+- excitație
+- tensiune sexuală
+- atracție sexuală
+- înfocat
+- înfocată
+- aprins
+- aprinsă
+- câinos
+- pofticios
+- pofticioa
+- lasciv
+- lascivă
+- lasciviitate
+- libidinos
+- libidinoa
+- focos
+- focoasă
+- avid
+- dornic
+- dornic de
+- în călduri
+- flămând după
+- senzual
+- senzuală
+- erotic
+- erotică
+- voluptuos
+- voluptuoasă
+- seducător
+- seducătoare
+- lubric
+- lubrică
+- nerăbdător
+- atractiv sexual
+- apetisant
+- tentant
+- frigid
+- frigidă
+- frigiditate
+- pudic
+- pudică
+- pudoare
+- castitate
+- cast
+- castă
+- dezmăț
+- desfrâu
+
+## Identities and orientations (clinical)
+- homosexual
+- homosexuală
+- homosexualitate
+- heterosexual
+- heterosexuală
+- bisexual
+- bisexuală
+- bisexualitate
+- asexual
+- asexuală
+- asexualitate
+- transgen
+- transsexual
+- transsexuală
+- transexualitate
+- intersex
+- lesbiana
+- lesbiancă
+- gay
+- queer
+- pansexual
+- pansexuală
+- non-binar
+- non-binară
+- agender
+- demisexual
+- demisexuală
+- fluid sexual
+- polisexual
+
+## Identities and orientations (slurs/derogatory)
+- poponar
+- poponeală
+- bulangiu
+- muist
+- invertit
+- sodomit
+- pederast
+- pervers
+- degenerat
+- marică
+- muieratic
+- efeminat
+- bărbat moale
+- pișpiriță
+- futut în cur
+- tribadă
+
+## Insults built from sexual vocabulary
+- pizda mă-tii
+- pizda mă-sii
+- futu-ți morții
+- futu-te-n gură
+- futu-ți
+- du-te-n pizda mă-tii
+- du-te-n pula mea
+- sugător de pulă
+- în pizda mă-sii
+- coaiele mă-tii
+- mă-ta e curvă
+- futut în bot
+- futut în gură
+- futut în cap
+- suge-o
+- pizdar
+- labagiu
+- futar
+- futaciune
+- javra
+- cățea
+- cățea în călduri
+- scroafă
+- putoare
+- pezevenk
+- pezevenghi
+- nenorocitule
+- ticălosule
+- mizerabilule
+- porc
+- porcărie
+- murdărie
+- târâtură
+- a-și bate joc
+
+## Sex work and pornography
+- prostituată
+- prostituție
+- prostituare
+- proxenet
+- proxenetism
+- bordel
+- casă de toleranță
+- casă cu fete
+- curvăsărie
+- curvă
+- curvă ieftină
+- curvar
+- târfă
+- târfă ordinară
+- fată de stradă
+- femeie de plăcere
+- femeie de stradă
+- femeie ușoară
+- escort
+- escortă
+- call girl
+- gigolo
+- stripper
+- dansatoare exotică
+- pornografie
+- film porno
+- industria pornografică
+- vedetă porno
+- actriță porno
+- actor porno
+- masaj erotic
+- sex contra cost
+- sex contra bani
+- prostituată de lux
+- turism sexual
+- mușteriu
+
+## Reproductive and contraceptive
+- prezervativ
+- gumă
+- costum de scafandru
+- contraceptiv
+- pilulă contraceptivă
+- pilula de a doua zi
+- spirală
+- diafragmă contraceptivă
+- ligatura tubelor
+- vasectomie
+- contracepție de urgență
+- avort
+
+## Kink, fetish, paraphilia
+- sadomasochism
+- BDSM
+- sadism
+- masochism
+- sadist
+- sadistă
+- masochist
+- masochistă
+- dominare
+- supunere
+- stăpân
+- stăpână
+- sclav sexual
+- sclavă sexuală
+- roabă
+- bondage
+- legare
+- fetișism
+- fetiș
+- voyeurism
+- voyeur
+- exhibiționism
+- exhibiționist
+- exhibiționistă
+- pedofilie
+- necrofilie
+- zoofilie
+- bestialitate
+- fisting
+- rimming
+- watersports
+- scat
+- latex
+- flagelare
+- bici
+- cătușe
+- dominatrix
+- submisiv
+- submisivă
+- role play erotic
+- travestit
+- travestire
+- crossdressing
+- pantofar
+- fetiș de picior
+- macrofilie
+- necrofilie
+- urofilie
+- coprofilie
+
+## Sex acts (borrowed/modern pornographic vocabulary)
+- deepthroat
+- gangbang
+- ménage à trois
+- threesome
+- squirting
+- creampie
+- anal
+- cowgirl
+- poziția misionarului
+- doggy style
+- patrupedie
+
+## Euphemisms and idioms
+- a face dragoste
+- a face sex
+- a se culca cu cineva
+- a petrece noaptea împreună
+- la pat
+- faptul cărnii
+- a pune coarnele
+- a înșela
+- a o face
+- a intra în joc
+- o tură
+- aventură de o noapte
+- aventură extraconjugală
+- aventură amoroasă
+- relație intimă
+- contact intim
+- intimitate
+- momentul intim
+- lucrul ăla
+- chestia aia
+- treabă murdară
+- a o trage
+- vrei să vii la mine
+- a ieși cu cineva (în context intim)
+- a se întâlni cu cineva (în context sexual)
+- ibovnică (archaic/euphemistic)
+- a se distra (to have fun — sexual euphemism)
+
+## Archaic, literary, dated
+- desfrânare
+- desfrânată
+- desfrânat
+- destrăbălare
+- destrăbălat
+- destrăbălată
+- preacurvie
+- preacurvar
+- curvărie
+- curvie
+- sodoma
+- sodomia
+- plăcerile cărnii
+- osânda cărnii
+- patima cărnii
+- faptul rușinos
+- cocotă
+- hetairă
+- curtezană
+- metresă
+- amantă
+- amant
+- ibovnic
+- odaliscă
+- ținută
+- forfecuță
+- amorez
+- amorezat
+- drăguță
+- mahalagioaică
+
+## Internet, subculture, modern slang
+- sexting
+- nudes
+- dick pic
+- thirst trap
+- fuckboy
+- side chick
+- situationship
+- FWB
+- ONS
+- Netflix and chill
+- hookup
+- ghosting
+- slide în DM-uri
+- OnlyFans
+- camgirl
+- camboy
+- revenge porn
+- leaked
+- thot
+- hoe
+- zaddy
+- sugar daddy
+- sugar baby
+- bimbo
+- simping
+- simp
+- e-girl
+- swipe right
+- swipe left
+- match
+- rizz
+- slay (în context sexual)
+- fut (abreviere SMS)
+
+## Sex toys and accessories
+- vibrator
+- dildo
+- consolator
+- jucărie sexuală
+- margele anale
+- masturbator
+- lubrifiant
+- afrodiziac
+- lenjerie erotică
+- corset (în context erotic)
+
+## Sex-adjacent clinical and legal
+- viol
+- abuz sexual
+- hărțuire sexuală
+- agresiune sexuală
+- molestare sexuală
+- adulter
+- infidelitate
+- bigamie
+- poligamie
+- poliamorie
+- incest
+- disfuncție sexuală
+- disfuncție erectilă
+- impotent
+- impotență
+- vaginism
+- dispareunia
+- libidinozitate
+- deviație sexuală
+- parafilie
+
+## Culture-specific — honor and shame (rușine / onoare)
+- rușine
+- dezonoare
+- rușinea familiei
+- cinstea femeii
+- fată cinstită
+- fată de măritat
+- virginitate
+- feciorie
+- a-și pierde fecioria
+- a-și pierde onoarea
+- dezonorată
+- compromisă
+- uşuratică
+- fată ușoară
+- fată de moravuri ușoare
+- femeiuştă
+- nevinovăție
+- curată
+- murdară
+- spurcată
+- pătată
+- rușinos
+- rușinoasă
+- a face de rușine
+- năravuri
+- dezonorarea familiei
+
+## Culture-specific — cuckoldry (încornorat)
+- încornorat
+- coarne
+- coarnele
+- a pune coarnele
+- a-i pune coarne
+- bărbat cu coarne
+- a fi înșelat
+- înșelat
+- înșelată
+- trădare conjugală
+- soție necredincioasă
+- soț înșelat
+- bou
+- cornoran
+
+## Culture-specific — religious and moral framing
+- păcat
+- păcatul cărnii
+- desfrânare
+- curvie
+- preacurvie
+- sodomie
+- spurcat
+- spurcată
+- necurat
+- necurată
+- nelegiuit
+- nelegiuită
+- osânda
+- osânda cărnii
+- dezmăț
+- viciu
+- nărav
+- neomenie
+- poftele cărnii
+- plăcerile lumești
+- a cădea în păcat
+- stricăciune
+- depravare
+- decadență morală
+
+## Culture-specific — Ottoman-Turkish loanwords
+- pezevenk
+- pezevenghi
+- odaliscă
+- harem
+- muşteriu
+
+## Culture-specific — folk love magic (descântece / farmece)
+- farmece
+- farmec de dragoste
+- descântec de dragoste
+- legat
+- dezlegat
+- a lega bărbatul
+- a lega femeia
+- a face rău cuiva (în sens erotic)
+- dragoste legată
+
+## Culture-specific — military and prison slang
+- cocoș
+- curcă
+- a fi luat de soție
+- receptor
+- emițător
+- activ
+- pasiv
+- a da țeapă
+- a se da (în context carceral)

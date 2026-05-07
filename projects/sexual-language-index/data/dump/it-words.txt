@@ -1,0 +1,606 @@
+# Italian — sexually-charged vocabulary dump
+# Latin script.
+# No definitions. No scoring. Just words, one per line.
+
+## Organs — penis (clinical)
+- pene
+- fallo
+- membro virile
+- organo maschile
+- glande
+- prepuzio
+- uretra
+- corpo cavernoso
+
+## Organs — penis (slang/crude)
+- cazzo
+- minchia
+- uccello
+- pisello
+- verga
+- asta
+- bastone
+- mazza
+- randello
+- arnese
+- aggeggio
+- affare
+- cazzone
+- uccelone
+- salsiccia
+- salame
+- salamino
+- banana
+- tromba
+- flauto
+- bacchetta
+- lancia
+- spada
+- cannone
+- pistola
+- serpente
+- pirolo
+- pippolo
+- coda
+- paleo
+- nerbo
+- pirla
+- belin
+- casso
+- picio
+- ciula
+
+## Organs — vagina (clinical)
+- vagina
+- vulva
+- labbra vaginali
+- imene
+- monte di venere
+- vestibolo vaginale
+
+## Organs — vagina (slang/crude)
+- figa
+- fica
+- fessa
+- gnocca
+- patata
+- passera
+- potta
+- mona
+- topa
+- topina
+- buco
+- buchino
+- fenditura
+- spacco
+- conchiglia
+- cozza
+- grotta
+- rosa
+- fiore
+- ciccia
+- fighetta
+- pagnotta
+- labbra
+
+## Organs — clitoride (clinical)
+- clitoride
+
+## Organs — clitoride (slang/crude)
+- bottone
+- pisellino
+- bocciolo
+- perla
+- nodino
+
+## Organs — seno/mammelle (clinical)
+- seno
+- mammella
+- ghiandola mammaria
+- areola
+- capezzolo
+
+## Organs — seno/mammelle (slang/crude)
+- tette
+- tettone
+- poppe
+- poppa
+- zinne
+- zizze
+- meloni
+- pompelmi
+- palloni
+- sfere
+- globi
+- ciacce
+- latterie
+
+## Organs — testicoli (clinical)
+- testicolo
+- testicoli
+- gonadi
+- epididimo
+- scroto
+
+## Organs — testicoli (slang/crude)
+- palle
+- coglioni
+- maroni
+- zebedei
+- attributi
+- gioielli di famiglia
+- noci
+- minchioni
+
+## Organs — ano (clinical)
+- ano
+- retto
+- sfintere anale
+
+## Organs — ano (slang/crude)
+- culo
+- culetto
+- rosetta
+- buco del culo
+- cannello
+- deretano
+- chiappa
+- chiappe
+- fondoschiena
+- posteriore
+- sedere
+- natiche
+
+## Acts — coito (clinical)
+- coito
+- copula
+- copulazione
+- amplesso
+- rapporto sessuale
+- congiunzione carnale
+- penetrazione
+- atto sessuale
+- atto carnale
+- coizione
+
+## Acts — coito (slang/crude)
+- scopare
+- fottere
+- chiavare
+- trombare
+- sbattere
+- farla
+- farsela
+- mettercela
+- infilare
+- sfondare
+- spaccare
+- martellare
+- scopacchiare
+- fottacchiare
+- andare a letto
+
+## Acts — fellatio (clinical)
+- fellatio
+- fellazione
+- sesso orale maschile
+
+## Acts — fellatio (slang/crude)
+- pompino
+- bocchino
+- succhiare
+- fare un pompino
+- ingollare
+- mangiarselo
+- slurpare
+- lavorare col bocchino
+
+## Acts — cunnilingus (clinical)
+- cunnilingus
+- sesso orale femminile
+
+## Acts — cunnilingus (slang/crude)
+- leccare
+- fare la linguina
+- mangiarla
+- ciucciare la figa
+- andare sotto
+
+## Acts — masturbazione (clinical)
+- masturbazione
+- onanismo
+- autoerotismo
+
+## Acts — masturbazione (slang/crude)
+- sega
+- seghe
+- farsi una sega
+- corvettare
+- ditalino
+- ditare
+- ditalinare
+- smanettare
+- palparsi
+
+## Acts — sesso anale (clinical)
+- coito anale
+- penetrazione anale
+- sodomia
+
+## Acts — sesso anale (slang/crude)
+- inculata
+- inculare
+- andare di culo
+- prenderlo nel culo
+- sfondare il culo
+- entrare dal retro
+- sodomizzare
+
+## Acts — orgasmo (clinical)
+- orgasmo
+- eiaculazione
+- climax
+
+## Acts — orgasmo (slang/crude)
+- venire
+- sborrare
+- scaricarsi
+- arrivare
+- scoppiare
+- finire
+
+## Fluids and physical states
+- sperma
+- liquido seminale
+- eiaculato
+- sborra
+- fluido vaginale
+- lubrificazione vaginale
+- erezione
+- tumescenza
+- stare duro
+- avercelo duro
+- incazzarsi
+- stare in piedi
+- essere bagnata
+- latte
+- spruzzo
+- sbobba
+
+## Desire / arousal / descriptors
+- eccitato
+- eccitata
+- arrapato
+- arrapata
+- in calore
+- voglia
+- caldo
+- calda
+- lussurioso
+- lascivo
+- libertino
+- libidinoso
+- pruriginoso
+- libido
+- pulsione sessuale
+- appetito sessuale
+- bramosia carnale
+- voglie carnali
+- sfrenato
+- dissoluto
+- depravato
+- vizioso
+- lascivia
+- lussuria
+- frigido
+- frigida
+- impotente
+- anorgasmico
+- castrato
+- casto
+- pudico
+- bacchettone
+- bigotto
+- puritano
+- moralizzatore
+
+## Identities / orientations (clinical)
+- omosessuale
+- eterosessuale
+- bisessuale
+- asessuale
+- pansessuale
+- transessuale
+- transgender
+- intersessuale
+- non binario
+- cisgender
+- lesbica
+- gay
+- queer
+- omosessualità
+- bisessualità
+- orientamento sessuale
+- identità di genere
+- travestitismo
+
+## Identities / orientations (slurs)
+- frocio
+- finocchio
+- ricchione
+- culattone
+- busone
+- checca
+- checco
+- invertito
+- sodomita
+- pederasta
+- pervertito
+- femminuccia
+- tribade
+- anomalo
+- lesbiaccia
+- travestito
+
+## Insults built from sexual vocabulary
+- vaffanculo
+- fanculo
+- figlio di puttana
+- testa di cazzo
+- testa di minchia
+- faccia di culo
+- coglione
+- cogliona
+- stronzo
+- stronza
+- cornuto
+- cornuta
+- becco
+- inculato
+- rompicoglioni
+- rompipalle
+- cazzata
+- minchiata
+- fregnaccia
+- troiaio
+- bastardo
+- bastarda
+- svergognato
+- svergognata
+- porco
+- porca
+- porco Dio
+- porca miseria
+- porca Madonna
+- incoglionirsi
+
+## Sex work and pornography
+- prostituta
+- meretrice
+- puttana
+- troia
+- baldracca
+- bagascia
+- mignotta
+- sgualdrina
+- donnaccia
+- battona
+- lucciola
+- passeggiatrice
+- squillo
+- escort
+- call girl
+- magnaccia
+- lenone
+- ruffiano
+- protettore
+- bordello
+- casino
+- postribolo
+- casa chiusa
+- lupanare
+- pornografia
+- pornofilm
+- pornodivo
+- pornodiva
+- pornoattore
+- pornoattrice
+- orgia
+- scambismo
+- meretricio
+- turismo sessuale
+
+## Reproductive / contraceptive (sexually charged)
+- preservativo
+- profilattico
+- guanto
+- cappuccio
+- cappelletto
+- gomma
+- anticoncezionale
+- spirale
+- pillola
+- sesso non protetto
+- sterilizzazione
+- vasectomia
+- gravidanza indesiderata
+
+## Kink / fetish / paraphilia
+- BDSM
+- bondage
+- dominazione
+- sottomissione
+- sadomasochismo
+- sadismo
+- masochismo
+- feticismo
+- voyeurismo
+- esibizionismo
+- esibizionista
+- dominatrice
+- sottomesso
+- frustino
+- shibari
+- fisting
+- golden shower
+- triolismo
+- parafilia
+- pedofilia
+- necrofilia
+- zoofilia
+- bestialità
+- coprofilia
+- urofilia
+- cuckolding
+- cornuto consenziente
+- spogliarellista
+- striptease
+- lap dance
+- vibratore
+- dildo
+- strap-on
+- feticismo del piede
+- feticismo degli abiti
+- anello del pene
+
+## Euphemisms and idioms
+- fare l'amore
+- andare a letto insieme
+- stare insieme
+- avere una storia
+- avere un'avventura
+- avere un flirt
+- tradire
+- mettere le corna
+- portare le corna
+- consumare il matrimonio
+- togliersi la voglia
+- soddisfare il desiderio
+- stuzzicare
+- fare le cose
+- farlo
+- la cosa
+- darsi bello
+- darsi bella
+- godersela
+- divertirsi
+- fare i giochi
+- inclinazioni
+- vizio solitario
+- il terzo sesso
+- cambiare le lenzuola
+- rifare il letto
+
+## Archaic / literary / dated
+- fornicazione
+- fornicare
+- libertinaggio
+- concubina
+- concubinato
+- pederastia
+- tribadismo
+- inversione sessuale
+- perversione
+- piaceri venerici
+- delitto contro il pudore
+- oscenità
+- polluzione
+- mollezza
+- effeminatezza
+- rammollimento
+- impudicizia
+- impudico
+- corruzione
+- seduzione
+- postribolo
+- gigolò
+- incontro galante
+- svago carnale
+- rendez-vous
+- cicisbeo
+- mantenuta
+
+## Internet / subculture
+- sextare
+- sexting
+- nudes
+- inviare nudi
+- revenge porn
+- deepfake erotico
+- cam
+- camgirl
+- camboy
+- OnlyFans
+- fare l'OFer
+- simp
+- cuck
+- incel
+- pornostar
+- MILF
+- twink
+- bear
+- daddy
+- zaddy
+- NTR
+- ahegao
+- hentai
+- squirting
+- creampie
+- cumshot
+- facial
+- scissoring
+- tribbing
+- edging
+- gooning
+- gangbang
+- hookup
+- app di incontri
+- findomme
+
+## Culture-specific — Onore/vergogna (honor-shame economy of sexuality)
+- cornuto
+- mettere le corna
+- portare le corna
+- fare le corna
+- onore
+- disonore
+- vergogna
+- svergognato
+- disonorata
+- macchia sull'onore
+- onta
+- gelosia
+- tradimento
+- adulterio
+- adultera
+- adultero
+- fedeltà
+- infedeltà
+- bastardo
+- figlio illegittimo
+- figlio di nessuno
+- donnaiolo
+- cascamorto
+- rovina famiglie
+- amante
+- mantenuta
+- donna di facili costumi
+- donna leggera
+- ragazza facile
+- ci va con tutti
+- gira
+- puttanella
+- di dubbia moralità
+
+## Culture-specific — Femminiello (Neapolitan third-gender category)
+- femminiello
+- femminiella
+
+## Culture-specific — Dialetti regionali (region-specific terms)
+- minchia
+- mona
+- belin
+- casso
+- picio
+- pirla
+- ciula

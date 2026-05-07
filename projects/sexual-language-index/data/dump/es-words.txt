@@ -1,0 +1,652 @@
+# Spanish (Castilian + Latin American) — sexually-charged vocabulary dump
+# Latin script.
+# No definitions. No scoring. Just words, one per line.
+
+## Organs — penis (clinical)
+- pene
+- falo
+- miembro viril
+- órgano genital masculino
+- glande
+- prepucio
+- uretra
+- cuerpo cavernoso
+
+## Organs — penis (slang/crude)
+- polla
+- verga
+- picha
+- pito
+- rabo
+- nabo
+- cipote
+- poronga
+- pija
+- pinga
+- minga
+- chota
+- tranca
+- bicho
+- paloma
+- garrote
+- pilín
+- pichula
+- pirulo
+- chopo
+- tronco
+- mazo
+- bastón
+- joystick
+- pepino
+- zanahoria
+- hueso
+- herramienta
+- aparato
+- pirinola
+- pico
+- choncho
+- turco
+- botija
+- pollón
+- capullo
+
+## Organs — vagina (clinical)
+- vagina
+- vulva
+- labios vaginales
+- introito
+- monte de Venus
+- canal vaginal
+
+## Organs — vagina (slang/crude)
+- coño
+- chocho
+- concha
+- raja
+- crica
+- papaya
+- panocha
+- toto
+- bollo
+- chumino
+- almeja
+- chichi
+- cueva
+- cachimba
+- minino
+- cuca
+- pepa
+- chocha
+- cotorra
+- gruta
+- cosita
+- bizcocho
+- conchasumadre
+- chirri
+- bobo
+- vicha
+- flor
+- bobita
+
+## Organs — breasts (clinical)
+- senos
+- mamas
+- glándulas mamarias
+- areola
+
+## Organs — breasts (slang/crude)
+- tetas
+- pechos
+- bubis
+- chichis
+- lolas
+- melones
+- ubres
+- domingas
+- pechuga
+- tetitas
+- palomitas
+- nenas
+- cholas
+- pelotas
+
+## Organs — testicles (clinical)
+- testículos
+- gónadas
+- escroto
+
+## Organs — testicles (slang/crude)
+- huevos
+- cojones
+- pelotas
+- bolas
+- güevos
+- turmas
+- tanates
+- albóndigas
+- cataplines
+- cocos
+- nueces
+- compañeros
+- colgajos
+
+## Organs — anus (clinical)
+- ano
+- esfínter anal
+
+## Organs — anus (slang/crude)
+- culo
+- ojete
+- fundillo
+- orto
+- traste
+- agujero
+- hoyo
+- siete
+- bombo
+- pompis
+
+## Organs — clitoris (clinical)
+- clítoris
+
+## Organs — clitoris (slang/crude)
+- perla
+- botón
+- pepita
+- campanita
+- perlita
+
+## Organs — buttocks (sexual register)
+- nalgas
+- trasero
+- pompas
+- posaderas
+- ancas
+- pompi
+- culito
+- culazo
+- lomo
+
+## Acts — clinical
+- coito
+- cópula
+- relaciones sexuales
+- penetración
+- felación
+- cunnilingus
+- masturbación
+- sodomía
+- coito anal
+- coito oral
+- eyaculación
+- orgasmo
+- excitación sexual
+- cópula vaginal
+- fornicación
+- intercurso sexual
+- tribadismo
+- froteurismo
+
+## Acts — intercourse (slang/crude)
+- follar
+- coger
+- chingar
+- tirar
+- culiar
+- joder
+- pisar
+- clavar
+- garchar
+- templar
+- zumbar
+- culear
+- singlar
+- sing***
+- cachear
+- cachar
+- mojar
+- revolcarse
+- encamarse
+- montarse
+- cañar
+- echar un polvo
+- echar un casquete
+- polvar
+- dar
+
+## Acts — oral sex (slang/crude)
+- mamar
+- chupar
+- lamer
+- hacer una mamada
+- dar cabeza
+- comerse el coño
+- limpiar
+- besar negro
+- engullir
+- bajar
+- comerse la concha
+
+## Acts — masturbation
+- hacerse una paja
+- pajear
+- pajearse
+- hacerse una manuela
+- jalársela
+- cascársela
+- punetearse
+- pelársela
+- frotarse
+- tocarse
+- manipularse
+- hacerse el/la solitario/a
+- fapear
+
+## Acts — other specific
+- penetrar
+- empamar
+- ensartar
+- fistear
+- fisting
+- atar
+- azotar
+- humillar
+- dominar
+- someter
+- disciplinar
+
+## Fluids and physical states
+- semen
+- esperma
+- espermatozoides
+- flujo vaginal
+- lubricación
+- leche
+- lefa
+- corrida
+- líquido preseminal
+- erección
+- empalme
+- empalmarse
+- tenerla parada
+- ponerse dura
+- humedad
+- mojarse
+- estar húmeda
+- excitación
+- calentura
+- correrse
+- venirse
+- acabar
+- squirt
+- squirtear
+
+## Desire / arousal / descriptors
+- caliente
+- cachondo/a
+- arrecho/a
+- salido/a
+- excitado/a
+- lujurioso/a
+- libidinoso/a
+- rijoso/a
+- lascivo/a
+- sensual
+- erótico/a
+- fogoso/a
+- ardiente
+- calentorro/a
+- morboso/a
+- guarrete/a
+- cerdo/a
+- verde
+- vicioso/a
+- pervertido/a
+- frígido/a
+- apagado/a
+- impotente
+- anorgásmico/a
+- sin líbido
+
+## Identities / orientations — clinical
+- homosexual
+- heterosexual
+- bisexual
+- asexual
+- pansexual
+- lesbiana
+- gay
+- transexual
+- transgénero
+- intersexual
+- queer
+- no binario/a
+- demisexual
+- fluido de género
+
+## Identities / orientations — slurs
+- maricón
+- marica
+- puto
+- joto
+- culero
+- mariquita
+- marión
+- afeminado
+- invertido/a
+- sodomita
+- tortillera
+- marimacho
+- camionera
+- bollera
+- trava
+- trolo/a
+- sarasa
+- loca
+- vieja loca
+- entendido/a
+- del otro lado
+- de los otros
+- bugarrón
+- pajero/a
+- nena
+
+## Insults built from sexual vocabulary
+- hijo de puta
+- cabrón/cabrona
+- cornudo/a
+- mamón/mamona
+- gilipollas
+- pendejo/a
+- putón/putona
+- zorrita
+- zorra
+- guarra
+- fulana
+- cualquiera
+- puta madre
+- chinga tu madre
+- coño de tu madre
+- me cago en tu puta madre
+- vete a tomar por culo
+- que te folle un pez
+- polla en vinagre
+- mamada
+- putear
+- jodido/a
+- sinvergüenza
+- cabroncete
+- gonorrea
+- hp
+- culicagado
+- culiao
+- huevón/weón
+- conchasumadre
+
+## Sex work and pornography
+- prostituta
+- prostitución
+- meretriz
+- ramera
+- furcia
+- puta
+- trabajo sexual
+- trabajadora sexual
+- chica de alterne
+- dama de compañía
+- escort
+- yira
+- burdel
+- prostíbulo
+- lupanario
+- casa de citas
+- zona roja
+- proxeneta
+- chulo
+- caficho
+- macró
+- padrote
+- alcahuete/a
+- fiolo
+- pornografía
+- porno
+- película X
+- actriz porno
+- actor porno
+- webcam
+- camgirl
+- camboy
+- striptease
+- cabaret
+- contenido adulto
+- OnlyFans
+- porno amateur
+- porno casero
+- pornografía de venganza
+
+## Reproductive / contraceptive (sexually charged)
+- condón
+- preservativo
+- forro
+- goma
+- globo
+- marcha atrás
+- anticonceptivo
+- píldora
+- DIU
+- himen
+- virginidad
+- desflorar
+- primera vez
+
+## Kink / fetish / paraphilia
+- BDSM
+- dominación
+- sumisión
+- sadomasoquismo
+- sadismo
+- masoquismo
+- bondage
+- ataduras
+- flagelación
+- disciplina
+- exhibicionismo
+- voyeurismo
+- fetiche
+- fetichismo
+- zoofilia
+- pedofilia
+- coprofilia
+- urolagnia
+- lluvia dorada
+- necrofilia
+- roleplay
+- juego de roles
+- juego de poder
+- collar
+- amo/a
+- esclavo/a
+- sumisa
+- ninfomanía
+- satiriasis
+- swinger
+- intercambio de parejas
+- poliamor
+- orgía
+- trío
+- sexo en grupo
+- ménage à trois
+- doble penetración
+- beso negro
+
+## Euphemisms and idioms
+- hacerlo
+- hacer el amor
+- estar con alguien
+- acostarse con alguien
+- llevarse al huerto
+- meterse en la cama
+- rollo
+- ligue
+- ligar
+- polvo
+- echar un polvo
+- menearse
+- estar con ganas
+- calentar los motores
+- la cosita
+- eso
+- la cosa
+- asuntos carnales
+- placeres de la carne
+- entre las sábanas
+- ir al grano
+- morrear
+- morreo
+- echarse al sobre
+- pillar
+- tener un lío
+- follón
+- asunto de cama
+
+## Archaic / literary / dated
+- ayuntamiento carnal
+- cópula carnal
+- cohabitación
+- lujuria
+- lascivia
+- impudicia
+- deshonra
+- concubina
+- manceba
+- barragana
+- fornicar
+- pecado carnal
+- acto carnal
+- desfloramiento
+- himeneo
+- virgo
+- bello sexo
+- el tálamo
+- concupiscencia
+- libídine
+- lujuriar
+- carne flaca
+- estupro
+- enfermedad venérea
+- mal venéreo
+- tribada
+- safismo
+- sáfica
+- mancebía
+- hembra
+
+## Internet / subculture
+- sexting
+- pack
+- nudes
+- pedir pack
+- hacer un pack
+- leakear
+- grooming
+- thirst trap
+- FWB
+- hookup
+- situationship
+- simp
+- incel
+- macho alfa
+- fap
+- NSFW
+- contenido explícito
+- para mayores
+- sexo virtual
+- stalkear
+- ghosting
+- match sexual
+- sugar daddy
+- sugar mommy
+
+## Culture-specific — morbo (Castilian erotic transgression concept)
+- morbo
+- ser un morbo
+- tener morbo
+- dar morbo
+- morbazo
+
+## Culture-specific — honor/shame economy of sexuality
+- honra
+- deshonra
+- deshonrar
+- vergüenza
+- pudor
+- recato
+- recatada
+- indecente
+- indecencia
+- obsceno/a
+- obscenidad
+- liviandad
+- liviana
+- mujer caída
+- mujer pública
+- buena fama
+- mala fama
+- fácil
+- suelta
+- ligera
+- deshonra familiar
+- honor familiar
+- puta vergüenza
+- desvergonzada
+- mujer de vida alegre
+- mujer de la calle
+
+## Culture-specific — machismo / virility vocabulary
+- macho
+- machismo
+- machista
+- hombría
+- virilidad
+- ser muy hombre
+- calzonazos
+- mandilón
+- consentidor
+- cornudo
+- cabrón
+- víbora
+- seductora
+- femme fatale
+
+## Culture-specific — LGBTQ+ community internal vocabulary
+- ambiente
+- el ambiente
+- ser de ambiente
+- pluma
+- plumilla
+- mariposa
+- bollería
+- lesbianismo
+- transformista
+- drag queen
+- drag king
+- travestismo
+- travesti
+- pasivo
+- activo
+
+## Culture-specific — regional-specific crude terms
+- singadera
+- pinga
+- bicho
+- huevón
+- weón
+- jevita
+- arrecho
+- marico
+- cachar
+- conchasumadre
+- culiao
+- piruja
+- naco/naca
+- piroba

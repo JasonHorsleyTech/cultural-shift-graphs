@@ -1,0 +1,545 @@
+# Danish — sexually-charged vocabulary dump
+# Latin script.
+# No definitions. No scoring. Just words, one per line.
+
+## Organs — penis (clinical)
+- penis
+- fallos
+- phallus
+- lem
+- kønslem
+- mandligt kønsorgan
+- mandligt lem
+
+## Organs — penis (slang/crude)
+- pik
+- diller
+- tissemand
+- pind
+- pæl
+- stav
+- pølse
+- snabel
+- mast
+- kok
+- bavl
+- banan
+- stang
+- lansen
+- pistol
+- kødhammer
+- andehale
+- svirvel
+- pikkelil
+- kodehale
+- mandestav
+
+## Organs — vagina (clinical)
+- vagina
+- vulva
+- skede
+- kønsspalte
+- hymen
+- mødomshinde
+- ydre kønslæber
+- indre kønslæber
+
+## Organs — vagina (slang/crude)
+- kusse
+- fisse
+- mus
+- missen
+- hullet
+- potten
+- blomsten
+- tissekone
+- fjæsen
+- gabet
+- knæbet
+- skridtet
+
+## Organs — breasts (clinical)
+- bryst
+- bryster
+- brystkirtler
+- mammae
+- brystvorte
+
+## Organs — breasts (slang/crude)
+- patter
+- pupper
+- tutter
+- didier
+- meloner
+- bakker
+- knolde
+- mælkeflasker
+- knapper
+
+## Organs — testicles (clinical)
+- testikler
+- testis
+- skrotum
+- pung
+- bitestikler
+
+## Organs — testicles (slang/crude)
+- baller
+- kugler
+- nødder
+- sten
+- æbler
+- hængesække
+
+## Organs — anus (clinical)
+- anus
+- endetarm
+- endetarmsåbning
+- rektum
+- analåbning
+
+## Organs — anus (slang/crude)
+- røvhul
+- ballesprækken
+- lortehul
+- pikporten
+- stjernen
+- bagholdet
+
+## Organs — clitoris (clinical)
+- klitoris
+
+## Organs — clitoris (slang)
+- klit
+- lille mand
+- knappen
+- perlen
+- spidsen
+
+## Organs — general / other
+- køn
+- kønsdele
+- underliv
+- mellemkødet
+- G-punkt
+- erogene zoner
+- ballerne
+
+## Acts — intercourse (clinical)
+- samleje
+- koitus
+- seksuel omgang
+- penetration
+- analsamleje
+- vaginalt samleje
+- seksuel kontakt
+
+## Acts — oral (clinical)
+- fellatio
+- cunnilingus
+- oralsamleje
+- anilingus
+
+## Acts — masturbation (clinical)
+- masturbation
+- onani
+- selvtilfredsstillelse
+- autoerotik
+
+## Acts — other (clinical)
+- ejakulation
+- orgasme
+- seksuel stimulation
+- fisting
+- fingering
+
+## Acts — intercourse (slang/crude)
+- kneppe
+- bolle
+- pule
+- knalde
+- banke
+- stikke til
+- pumpe
+- hamre
+- køre
+- rive
+- rode i
+- hugge
+- skrue
+- rage
+- give den gas
+- kneppe løs
+- gøre det
+- ligge med
+- score
+- befri
+
+## Acts — oral (slang/crude)
+- sutte
+- piksutte
+- blowjob
+- give et blowjob
+- slikke
+- slikke fisse
+- gå ned på
+- rim
+- runde
+
+## Acts — masturbation (slang/crude)
+- rykke
+- rykke af
+- slå af
+- fap
+- klapper af
+- piske pik
+- banke pikken
+- smøre
+- gnide
+
+## Acts — other (slang/crude)
+- fiste
+- fingre
+- gnubbe
+- nusse
+- pille ved
+- rode
+
+## Fluids and physical states
+- sæd
+- sperma
+- ejakulat
+- sperm
+- sædceller
+- vaginalsekret
+- naturlig smøring
+- præejakulat
+- komme
+- skyde
+- sprutte
+- kvindelig ejakulation
+- erektion
+- rejsning
+- stivert
+- hård
+- slap
+- fugt
+- våd
+
+## Desire / arousal / descriptors
+- kåd
+- liderlig
+- ophidset
+- pirrende
+- lystfuld
+- brændende
+- hed
+- varm
+- tørst
+- begærlig
+- lystbetont
+- erotisk
+- sensuel
+- afholden
+- kysk
+- snerpet
+- frigid
+- kold
+- puritansk
+- prüd
+- hyperseksuel
+- seksuel
+- aseksuel
+
+## Identities / orientations (clinical / neutral)
+- homoseksuel
+- heteroseksuel
+- biseksuel
+- panseksuel
+- aseksuel
+- demiseksuel
+- aromantisk
+- omniseksuel
+- lesbisk
+- bøsse
+- skeiv
+- queer
+- transgender
+- transkønnet
+- transeksuel
+- ciskønnet
+- intersex
+- intersekskønnet
+- ikke-binær
+- non-binær
+- genderqueer
+- genderfluid
+- agender
+
+## Identities / orientations (slurs)
+- homo
+- fudpakker
+- røvpuler
+- lebbe
+- bøssepik
+- tøset mand
+- fissen dreng
+- tungebøsse
+- kvindebøsse
+- mandeslikker
+- mandehore
+- suttebøsse
+
+## Insults built from sexual vocabulary
+- pikansigt
+- røvhul
+- kussemunding
+- piksuger
+- kusseslikker
+- fis
+- tøs
+- hore
+- ludder
+- slampe
+- løs tøs
+- horunge
+- luderunge
+- din mor
+- bastard
+- pikpuler
+- pikpuls
+- kødpolo
+- hundeslikker
+- blærerøv
+
+## Sex work and pornography
+- prostitueret
+- sexarbejder
+- hore
+- ludder
+- callgirl
+- escort
+- bordel
+- ludersted
+- luderhus
+- alfon
+- hallik
+- suler
+- sexklub
+- stripklub
+- stripper
+- pornografi
+- porno
+- pornofilm
+- pornostjerne
+- amatørporno
+- sexshow
+- peepshow
+- live-sex
+- erotisk massageklinik
+- happy ending
+- gladeafslutning
+
+## Reproductive / contraceptive
+- kondom
+- gummi
+- præservativ
+- gummimand
+- p-pille
+- prævention
+- spiral
+- pessar
+- svanger
+- gravid
+- befrugtning
+
+## Kink / fetish / paraphilia
+- BDSM
+- bondage
+- dominans
+- underkastelse
+- sadomasochisme
+- sadisme
+- masochisme
+- fetichisme
+- fetish
+- dominatrix
+- dominatrice
+- undergiven
+- dominant
+- slave
+- herre
+- dame
+- piskning
+- spanking
+- pisk
+- læder
+- latex
+- gummifetich
+- fodtilbedelse
+- voyeurisme
+- voyeur
+- ekshibitionisme
+- ekshibitionist
+- frotterisme
+- swinging
+- swingerklub
+- trekant
+- gruppeknep
+- gangbang
+- dobbeltpenetration
+- crossdressing
+- transvestisme
+- parafili
+- nekrofili
+- zoofili
+- pedofili
+- urolagni
+- gylden regn
+- koprofili
+- autoerotisk asfiksi
+- halsklemning
+- dildo
+- vibrator
+- buttplug
+- cockring
+- penisring
+- brystvorteklemmer
+- mundbolde
+- halsbånd
+- findom
+
+## Euphemisms and idioms
+- gøre det
+- ligge med
+- gå i seng med
+- elske
+- elske med
+- hygge sig
+- lege
+- nusse
+- kæle
+- røre ved
+- komme tæt på
+- have besøg
+- den lille død
+- det dejlige
+- det der
+- sommerdag
+- det der med hinanden
+
+## Archaic / literary / dated
+- utugt
+- horeri
+- løsagtighed
+- letfærdig
+- usædelighed
+- skøge
+- frille
+- hanrej
+- horn
+- hornbærer
+- manddomsorgan
+- manddom
+- jomfrudom
+- jomfruelig
+- mødom
+- kødets lyst
+- syndig begær
+- agterskib
+- stjert
+- blotte sig
+- legemlig
+- bolster
+- kjødelig omgangelse
+- skamløshed
+
+## Internet / subculture
+- sexting
+- nudes
+- dick pic
+- ONS
+- FWB
+- hookup
+- swipe
+- fap
+- simp
+- incel
+- thirst trap
+- simping
+- ghoste
+- catfish
+- camming
+- OnlyFans
+- premium snap
+- sugardaddy
+- sugarbabe
+- milf
+- dilf
+- cougar
+- toy boy
+- netflix and chill
+- knepperi
+- findom
+- e-dating
+- tinder-fyr
+- tinder-pige
+- seksrelaterede emojis
+
+## Culture-specific — Snerpethed (quintessentially Danish moral prudishness)
+- snerpet
+- stiv
+- tørhed
+- spændt
+- generet
+- flov
+- skamfuld
+- tilbageholdenhed
+- blufærdighed
+- pryderi
+
+## Culture-specific — Nordisk frisindethed (Nordic sexual permissiveness)
+- frisindet
+- sexpositivitet
+- frigjort
+- nudisme
+- naturisme
+- friluftssex
+- strandnudisme
+- åbensindet
+- afslappet holdning
+- tabubrydende
+
+## Culture-specific — Dansk pornoarv (Danish pornography legal heritage, post-1969)
+- dansk porno
+- sexfilm
+- pornolegalisering
+- blødporno
+- hårdporno
+- jysk porno
+- sexmesse
+- erotik-messe
+
+## Culture-specific — Kønsneutralitet (gender-neutral vocabulary)
+- hen
+- kønsneutral
+- nonbinær
+- de/dem
+- vedkommende
+
+## Culture-specific — Seksuel skam og ære (sexual shame and honor vocabulary)
+- skam
+- ære
+- uærlig
+- æreløs
+- nedværdigende
+- beskidt
+- snavset
+- vanærende
+- syndig
+- uanstændig
+- umoralsk
+- frække
+- fræk
+- upassende
+- skamløs

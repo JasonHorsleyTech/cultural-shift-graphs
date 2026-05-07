@@ -1,0 +1,825 @@
+# Vietnamese — sexually-charged vocabulary dump
+# Latin script (Quốc Ngữ — Vietnamese native orthography).
+# No definitions. No scoring. Just words, one per line.
+
+## Organs — penis (clinical)
+- dương vật
+- bộ phận sinh dục nam
+- quy đầu
+- bao quy đầu
+- niệu đạo nam
+- hãm dương
+- thân dương vật
+- hội âm nam
+
+## Organs — penis (slang/crude)
+- cặc
+- cu
+- buồi
+- chim
+- vòi
+- súng
+- cây
+- gậy
+- của quý
+- cái ấy
+- vật
+- thứ đó
+- đầu buồi
+- đầu cặc
+- cu cậu
+- thằng cu
+- con cu
+- của nợ
+- khẩu súng
+- cây kiếm
+- cán bút
+- cái đó
+
+## Organs — vagina (clinical)
+- âm đạo
+- âm hộ
+- âm vật
+- tiền đình âm đạo
+- màng trinh
+- âm môi lớn
+- âm môi nhỏ
+- lỗ âm đạo
+- tuyến Bartholin
+- tuyến Skene
+- tiền đình
+- hội âm nữ
+
+## Organs — vagina (slang/crude)
+- lồn
+- bướm
+- mèo
+- hĩm
+- mu
+- lỗ
+- của
+- hoa
+- cái đó
+- cái kia
+- lỗ nhỏ
+- hoa hồng
+- cái ấy
+- lỗ l*
+- con mèo
+- bướm hồng
+- hoa đào
+
+## Organs — breasts (clinical)
+- vú
+- tuyến vú
+- ngực
+- núm vú
+- quầng vú
+- mô vú
+- ống dẫn sữa
+
+## Organs — breasts (slang/crude)
+- bầu ngực
+- nõn nường
+- hàng
+- bưởi
+- dưa
+- bình sữa
+- bánh bao
+- quả đào
+- ti
+- núm ti
+- vú sữa
+- bộ ngực
+- cặp bưởi
+- cặp dưa
+
+## Organs — testicles (clinical)
+- tinh hoàn
+- bìu
+- thừng tinh
+- mào tinh hoàn
+
+## Organs — testicles (slang/crude)
+- dái
+- hòn dái
+- trứng
+- bi
+- hai trứng
+- hòn bi
+- đôi bi
+- hai hòn
+
+## Organs — anus (clinical)
+- hậu môn
+- trực tràng
+- cơ vòng hậu môn
+- ống hậu môn
+
+## Organs — anus (slang/crude)
+- lỗ đít
+- đít
+- mông
+- cái lỗ sau
+- lỗ hậu
+- lỗ tròn
+
+## Organs — other (clinical)
+- clitoris
+- tử cung
+- buồng trứng
+- cổ tử cung
+- vòi trứng
+- tiền liệt tuyến
+- túi tinh
+- ống dẫn tinh
+- bìu dái
+
+## Organs — body parts with strong sexual charge
+- mông
+- háng
+- bẹn
+- đùi trong
+- lưng dưới
+- cổ
+- tai
+- rốn
+- nách
+- kẽ ngực
+
+## Acts — clinical
+- giao hợp
+- giao cấu
+- quan hệ tình dục
+- thủ dâm
+- xuất tinh
+- kích dục
+- cực khoái
+- đạt cực khoái
+- quan hệ tình dục qua đường miệng
+- quan hệ tình dục qua đường hậu môn
+- kích thích âm vật
+- thụ thai
+- thụ tinh
+- sinh sản
+- giao tiếp tình dục
+- hành vi tình dục
+- hiếp dâm
+- cưỡng dâm
+- cưỡng bức tình dục
+- quấy rối tình dục
+- xâm hại tình dục
+- lạm dụng tình dục
+- tấn công tình dục
+- loạn luân
+- thông dâm
+- ngoại tình
+- gian dâm
+- tà dâm
+- dâm ô
+- phô dâm
+- bạo dâm
+- khổ dâm
+- ái vật
+- ấu dâm
+- thú dâm
+- tử thi dâm
+- phá thai
+- nạo thai
+- triệt sản
+
+## Acts — slang/crude
+- địt
+- đụ
+- chịch
+- sục
+- xỉa
+- đâm
+- cắm
+- nhét
+- cưỡi
+- ngồi lên
+- làm tình
+- làm chuyện ấy
+- ân ái
+- lên giường
+- ngủ với
+- quan hệ
+- vui vẻ
+- vào phòng
+- gần gũi
+- thân mật
+- bú
+- húp
+- liếm
+- thổi kèn
+- thổi sáo
+- liếm lồn
+- bú cặc
+- thổi
+- tự sướng
+- tự xử
+- quay tay
+- đánh máy
+- giải quyết
+- giải tỏa
+- lên đỉnh
+- địt lỗ đít
+- đụ hậu môn
+- ăn
+- nuốt
+- tắm tiên
+- giải quyết nhu cầu
+- thỏa mãn nhu cầu
+- đổi tình
+
+## Acts — foreplay and touching
+- vuốt ve
+- sờ mó
+- mân mê
+- lần mò
+- bóp
+- nắn
+- thăm dò
+- kích thích
+- dạo đầu
+- hôn
+- khóa môi
+- hôn sâu
+- liếm môi
+- hun
+- hôn môi
+- hôn trộm
+- rờ rẫm
+- rờ
+- sờ
+- cấu véo
+- cắn
+- mút
+
+## Fluids and physical states — clinical
+- tinh dịch
+- tinh trùng
+- dịch âm đạo
+- dịch tiết âm đạo
+- dịch tiền xuất tinh
+- dịch bôi trơn
+- cương cứng
+- dương vật cương
+- cương dương
+- rối loạn cương dương
+- xuất tinh sớm
+- xuất tinh ngược
+- di tinh
+- mộng tinh
+- kích thích tình dục
+- sung huyết
+
+## Fluids and physical states — slang/crude
+- nước
+- nước khoái
+- nước tình
+- bắn
+- phóng
+- ra
+- ướt
+- chảy nước
+- cứng
+- đứng
+- đứng cái
+- cứng cái
+- phun
+- xịt
+- boom
+- phê
+- sướng
+- đã
+- lên đỉnh
+
+## Desire / arousal / descriptors
+- dâm dục
+- háo sắc
+- dâm đãng
+- tình dục
+- ham muốn tình dục
+- thèm
+- hứng
+- hứng tình
+- bốc
+- bốc lửa
+- nứng
+- thèm muốn
+- tình dâm
+- dâm
+- lão dâm
+- già dâm
+- dê
+- dê già
+- thèm khát
+- khao khát
+- cuồng tình
+- mê tình
+- si tình
+- đắm say
+- ham muốn
+- tò mò tình dục
+- mơ tưởng tình dục
+- tưởng tượng tình dục
+- giấc mơ tình dục
+- lạnh
+- lạnh lùng tình dục
+- vô cảm tình dục
+- yếu sinh lý
+- liệt dương
+- bất lực
+- sung
+- gợi cảm
+- quyến rũ
+- nóng bỏng
+- khêu gợi
+- gợi tình
+- kích thích
+- thao túng tình dục
+- phóng túng
+- trác táng
+- phóng đãng
+- dâm loạn
+- xuân tình
+- xuân dâm
+- tình si
+
+## Identities / orientations — clinical
+- đồng tính
+- đồng tính luyến ái
+- đồng tính nam
+- đồng tính nữ
+- lưỡng tính
+- vô tính
+- dị tính
+- chuyển giới
+- người chuyển giới
+- chuyển giới nam sang nữ
+- chuyển giới nữ sang nam
+- liên giới tính
+- không nhị phân giới tính
+- xu hướng tình dục
+- bản dạng giới
+- giới tính thứ ba
+- đa tình dục
+- toàn tính
+- tình dục học
+- queer
+
+## Identities / orientations — slurs and informal
+- bê đê
+- pê đê
+- bóng
+- bóng lộ
+- bóng kín
+- bóng lẫy
+- đồng cô
+- hoạn quan
+- ái nam ái nữ
+- ẻo lả
+- đàn bà
+- giả gái
+- giả trai
+- les
+- tom
+- les tom
+- đực rựa
+- thẳng
+- bi
+- nửa nạc nửa mỡ
+- lưỡng tính luyến ái
+- năng
+- nam tính giả tạo
+- nữ tính hóa
+
+## Insults built from sexual vocabulary
+- địt mẹ
+- đụ má
+- đụ mẹ
+- địt mẹ mày
+- mẹ kiếp
+- chó đẻ
+- đồ chó đẻ
+- con đĩ
+- con đĩ thúi
+- đồ đĩ
+- đồ dâm phụ
+- đồ l*
+- đồ cặc
+- đéo
+- vãi lồn
+- vãi cặc
+- vãi đái
+- mặt l*
+- thằng cặc
+- con l*
+- đồ biến thái
+- đồ dê
+- đồ súc vật
+- thằng điếm
+- đồ điếm
+- đồ chó
+- tao địt mày
+- mày l*
+- đồ đểu
+- khốn nạn tình dục
+- bú c*
+- thổi c*
+- liếm l*
+- đồ tởm
+- đồ thối
+- con ranh
+
+## Sex work and pornography
+- gái mại dâm
+- gái điếm
+- điếm
+- gái
+- gái gọi
+- gái làm tiền
+- gái bán dâm
+- bán dâm
+- mại dâm
+- nhà thổ
+- nhà chứa
+- ổ điếm
+- tú bà
+- ma cô
+- dắt gái
+- môi giới tình dục
+- khách làng chơi
+- đi chơi gái
+- đi mua dâm
+- tiếp viên
+- tiếp viên bia ôm
+- bia ôm
+- karaoke ôm
+- đi khách
+- tiếp khách
+- dịch vụ đặc biệt
+- trai bao
+- gái bao
+- cave
+- khiêu dâm
+- phim khiêu dâm
+- phim người lớn
+- phim sex
+- phim đen
+- phim cấp 3
+- phim 18
+- ảnh khiêu dâm
+- ảnh nóng
+- clip nóng
+- clip nhạy cảm
+- lộ clip
+- dâm thư
+- dâm họa
+- thoát y
+- múa thoát y
+- tạp chí người lớn
+- nội dung 18+
+- phim XXX
+- buôn dâm
+- buôn bán tình dục
+- nô lệ tình dục
+- bóc lột tình dục
+- mua bán người
+- kỹ nữ
+- thanh lâu
+- lầu xanh
+
+## Reproductive / contraceptive (sexually charged)
+- bao cao su
+- mũ
+- áo mưa
+- bao
+- thuốc tránh thai
+- vòng tránh thai
+- triệt sản
+- phá thai
+- nạo phá thai
+- có thai
+- có bầu
+- mang thai ngoài ý muốn
+- xuất tinh ngoài
+- tránh thai khẩn cấp
+- thuốc sau khi quan hệ
+
+## Kink / fetish / paraphilia
+- bạo dâm
+- khổ dâm
+- ái vật
+- loạn dâm
+- ràng buộc
+- BDSM
+- bondage
+- dom
+- sub
+- switch
+- shibari
+- kiểm soát thống trị
+- đóng vai
+- chủ nô lệ tình dục
+- ngập thở
+- chân dâm
+- kích thích đau
+- hóa trang tình dục
+- mặc đồ da
+- nhìn trộm tình dục
+- phô dâm
+- thú dâm
+- ấu dâm
+- tử thi dâm
+- latex
+- hóa trang thú
+- furry
+- đồng phục tình dục
+- thiếu nữ dâm
+- già dâm
+- nhóm dâm
+- bịt mắt
+- còng tay tình dục
+- đánh roi tình dục
+- nến nóng tình dục
+
+## Euphemisms and idioms
+- chuyện vợ chồng
+- chuyện ấy
+- chuyện người lớn
+- chuyện riêng tư
+- ân ái
+- chăn gối
+- mây mưa
+- vui vẻ với nhau
+- vào phòng
+- tâm sự
+- tình ái
+- đi chơi
+- gần gũi với nhau
+- thân mật với nhau
+- sinh hoạt vợ chồng
+- đời sống tình dục
+- đời sống vợ chồng
+- nhu cầu sinh lý
+- giải quyết sinh lý
+- cái chuyện đó
+- việc của người lớn
+- loan phượng
+- ái ân
+- hoa nguyệt
+- phong tình
+- lên giường với nhau
+
+## Archaic / literary / dated
+- phòng the
+- ái ân
+- dâm thư
+- dâm loạn
+- phong trần
+- ả đào
+- ca kỹ
+- hoa nguyệt
+- phòng trung thuật
+- dưỡng sinh tình dục
+- thất tình
+- lục dục
+- hiếu sắc
+- dâm bôn
+- xuân sắc
+- trăng hoa
+- phong tình
+- tình si
+- trác táng
+- đàng điếm
+- tiết phụ
+- thủ tiết thờ chồng
+- kỹ nữ hạng cao
+- kỹ nữ hạng thấp
+- khách làng chơi
+- hành lạc
+- lạc thú xác thịt
+- xác thịt
+- nhục dục
+- thú xác thịt
+- nhục cảm
+- nhục thể
+- tình dục nhục thể
+
+## Internet / subculture
+- thả thính
+- thả thính tình dục
+- cắm sừng
+- bị cắm sừng
+- đội sừng
+- xúc xích
+- bánh mì kẹp
+- clip nhạy cảm
+- lộ hàng
+- thả rông
+- nóng
+- sexy
+- hot
+- body
+- sextoy
+- dildo
+- vibrator
+- AV
+- JAV
+- hentai
+- ecchi
+- waifu
+- simp
+- incel
+- fap
+- cam sex
+- chat sex
+- sex online
+- video call sex
+- sextortion
+- revenge porn
+- deepfake
+- group kín
+- page 18+
+- ảnh nhạy cảm
+- share ảnh
+- clip sex
+- clip đen
+- phim 18+
+- nứng
+- thèm địt
+- đm
+- đmm
+- vcl
+- cc
+- vl
+- tự xử
+- boom
+- lên đỉnh
+- phê sướng
+- onlyfans
+- camgirl
+- camboy
+- livestream sex
+- đặt dịch vụ
+- đặt gái
+
+## Culture-specific — third-gender and spirit-medium roles
+- bóng cải lương
+- con đồng
+- ông đồng
+- bà đồng
+- hầu đồng
+- đồng cô
+- người lên đồng
+- bóng rỗi
+- bóng hoa
+- đồng thầy
+- kathoey
+- ladyboy
+- người đồng tính nữ (lesbian - community term)
+- người đồng tính nam (gay - community term)
+- LGBT
+- cộng đồng LGBT
+- cầu vồng
+- phẫu thuật chuyển giới
+- liệu pháp hormone
+- estrogen
+- testosterone
+- phẫu thuật ngực
+- phẫu thuật tạo hình âm đạo
+- phẫu thuật tạo hình dương vật
+
+## Culture-specific — honor/shame economy of sexuality
+- trinh tiết
+- trinh nữ
+- màng trinh
+- thất trinh
+- mất trinh
+- con gái hư
+- gái hư
+- đĩ
+- lẳng lơ
+- lăng loàn
+- lăng nhăng
+- đàng điếm
+- không đứng đắn
+- hư thân mất nết
+- mất nết
+- thất đức
+- ô nhục
+- bất trinh
+- đức hạnh
+- tiết hạnh
+- thủ tiết
+- gái ngoan
+- con gái ngoan
+- trinh trắng
+- trong trắng
+- trong sạch
+- dâm phụ
+- dâm đãng
+- phóng túng
+- lăng loàn
+- trăng hoa
+- trác táng
+- tai tiếng
+- bê bối
+- ngoại tình
+- tòm tem
+- bồ
+- bồ nhí
+- người tình
+- tiểu tam
+- tình nhân
+- ghen
+- ghen tuông
+- ghen tình
+
+## Culture-specific — Taoist / traditional medicine sexuality
+- tinh khí
+- thận dương
+- thận âm
+- khí lực
+- bổ thận
+- tráng dương
+- bổ dương
+- ích tinh
+- sinh lý
+- yếu sinh lý
+- bổ thận tráng dương
+- bổ tinh khí
+- di tinh
+- mộng tinh
+- bất lực sinh lý
+- nội công
+- dương khí
+- âm dương hòa hợp
+- tâm thận bất giao
+- hỏa vượng
+- thận hư
+
+## Culture-specific — sexually-transmitted context and disease vocabulary
+- bệnh lây truyền qua đường tình dục
+- bệnh tình dục
+- bệnh hoa liễu
+- bệnh lậu
+- giang mai
+- mụn rộp sinh dục
+- sùi mào gà
+- HIV
+- AIDS
+- chlamydia
+- trichomonas
+- nấm âm đạo
+- viêm âm đạo
+
+## Culture-specific — positions and acts with Vietnamese vernacular labels
+- tư thế truyền giáo
+- tư thế chó
+- làm từ phía sau
+- phụ nữ trên trên
+- ngồi trên mặt
+- tư thế sáu chín
+- sáu chín
+- 69
+- tay ba
+- bộ ba
+- nhóm tình dục
+- ba người
+- bốn người
+- đụ tập thể
+- quan hệ nhóm
+
+## Culture-specific — social roles and terms for sex industry adjacent figures
+- bồ nhí
+- người tình trẻ
+- tình nhân bí mật
+- nhân tình
+- vợ bé
+- vợ lẽ
+- thê thiếp
+- thiếp
+- nàng hầu
+- hầu gái
+- đào
+- ả đào
+
+## Culture-specific — sexual insult compound forms unique to Vietnamese
+- thằng đĩ đực
+- con đĩ đực
+- đồ dâm phụ
+- thằng dâm dê
+- con dâm phụ
+- lũ dâm ô
+- đồ dâm loạn
+- lão dê tình dục
+- đồ háo sắc
+- thằng hiếu dâm
+- đồ mất nết
+- con mất nết
+- loại bất trinh
+- đồ vô liêm sỉ tình dục

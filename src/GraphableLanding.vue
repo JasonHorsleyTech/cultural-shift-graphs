@@ -111,6 +111,15 @@
         </a>
         <span class="text-[var(--text-muted)] text-sm ml-2">(worker compensation as a share of GDP, 70 years)</span>
       </li>
+      <li>
+        <a
+          href="/graphable/sexual-language-index/"
+          class="underline decoration-2 underline-offset-4 hover:decoration-[var(--text-muted)]"
+        >
+          Sexual language across 21 languages
+        </a>
+        <span class="text-[var(--text-muted)] text-sm ml-2">(12,000+ terms, novel concepts, M/F ratios — partial data, still landing)</span>
+      </li>
     </ul>
 
     <hr class="mt-12 border-[var(--border)]" />

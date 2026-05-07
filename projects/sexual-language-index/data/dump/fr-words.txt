@@ -1,0 +1,558 @@
+# French — sexually-charged vocabulary dump
+# Latin script.
+# No definitions. No scoring. Just words, one per line.
+
+## Organs — penis (clinical)
+- pénis
+- verge
+- phallus
+- membre viril
+- gland
+- prépuce
+- corps caverneux
+- urètre
+
+## Organs — penis (slang/crude)
+- bite
+- queue
+- pine
+- zob
+- chibre
+- vit
+- braquemard
+- quéquette
+- zizi
+- kiki
+- nœud
+- outil
+- engin
+- épée
+- dard
+- popaul
+- biloute
+- mandrin
+- manche
+- tromblon
+- lancelot
+- service trois pièces
+- zguègue
+- robinet
+- asperge
+
+## Organs — vagina (clinical)
+- vagin
+- vulve
+- clitoris
+- grandes lèvres
+- petites lèvres
+- mont de Vénus
+- hymen
+- vestibule vaginal
+- muqueuse vaginale
+
+## Organs — vagina (slang/crude)
+- chatte
+- con
+- minou
+- foufoune
+- fente
+- craquette
+- cramouille
+- moule
+- chagatte
+- grotte
+- zézette
+- motte
+- schneck
+- figue
+- frifri
+- popote
+- touffe
+- coquille
+- boîte
+- tirelire
+- fleur
+- chacha
+- quiquette
+
+## Organs — breasts (clinical)
+- seins
+- mamelles
+- glandes mammaires
+- mamelons
+- aréole
+
+## Organs — breasts (slang/crude)
+- nichons
+- nibards
+- roploplots
+- lolos
+- nénés
+- roberts
+- doudounes
+- tétons
+- ballons
+- nénettes
+- flotteurs
+- pare-chocs
+- melons
+- obus
+- rotoplos
+- miches
+- paires
+- boules
+
+## Organs — testicles (clinical)
+- testicules
+- scrotum
+- bourses
+- épididyme
+- gonades
+
+## Organs — testicles (slang/crude)
+- couilles
+- burnes
+- roustons
+- valseuses
+- roupettes
+- balloches
+- joyeuses
+- bonbons
+- claouis
+- noix
+- bijoux de famille
+
+## Organs — anus (clinical)
+- anus
+- rectum
+- sphincter anal
+- périnée
+
+## Organs — anus (slang/crude)
+- cul
+- trou du cul
+- fion
+- rondelle
+- pastille
+- oignon
+- derche
+- troufignard
+- prose
+- rosette
+- trou de balle
+- prose
+
+## Acts — intercourse (clinical)
+- coït
+- copulation
+- rapport sexuel
+- acte sexuel
+- pénétration
+- acte vénérien
+- coïter
+- s'accoupler
+
+## Acts — intercourse (slang/crude)
+- baiser
+- niquer
+- fourrer
+- tringler
+- tirer un coup
+- sauter
+- bourrer
+- ramoner
+- défoncer
+- se taper
+- crosser
+- choper
+- chevaucher
+- culbuter
+- troncher
+- besogner
+- se faire
+- renverser
+- monter
+- gratter
+- pourfendre
+- s'envoyer en l'air
+
+## Acts — oral sex (clinical)
+- fellatio
+- fellation
+- cunnilingus
+- anulingus
+- soixante-neuf
+
+## Acts — oral sex (slang/crude)
+- tailler une pipe
+- sucer
+- lécher
+- brouter le minou
+- lécher la chatte
+- bouffer le cul
+- faire un pompier
+- faire un soixante-neuf
+- gober
+
+## Acts — anal sex (clinical)
+- sodomie
+- pénétration anale
+- coït anal
+
+## Acts — anal sex (slang/crude)
+- enculer
+- sodomiser
+- se faire enculer
+- prendre dans le cul
+- bourrer le cul
+- passer par derrière
+
+## Acts — masturbation (clinical)
+- masturbation
+- onanisme
+- manipulation génitale
+
+## Acts — masturbation (slang/crude)
+- se branler
+- se pogner
+- se doigter
+- astiquer
+- se palucher
+- se toucher
+- se polluer
+- faire une branlette
+- tirer sa crampe
+- se faire plaisir
+- se triturer
+
+## Fluids (clinical)
+- sperme
+- liquide séminal
+- sécrétions vaginales
+- pré-éjaculat
+- lubrification vaginale
+- éjaculat
+
+## Fluids (slang/crude)
+- foutre
+- jus
+- lait
+- crème
+- sauce
+- giclée
+- came
+- cyprine
+
+## Physical states — erection / arousal
+- érection
+- tumescence
+- priapisme
+- bandaison
+- bander
+- mouiller
+- avoir la gaule
+- avoir la trique
+- être en chaleur
+- excitation
+
+## Desire / arousal / descriptors (positive)
+- désir sexuel
+- libido
+- lubricité
+- libidineux
+- lascif
+- sensuel
+- voluptueux
+- lubrique
+- paillard
+- impudique
+- licencieux
+- dévergondé
+- nymphomane
+- satyriasique
+- luxurieux
+- chaud(e)
+- excité(e)
+- allumé(e)
+
+## Desire / arousal / descriptors (repressed/shaming)
+- frigide
+- prude
+- coincé(e)
+- bégueule
+- pudibond(e)
+- puritain(e)
+- chaste
+- refoulé(e)
+
+## Identities / orientations (clinical)
+- homosexuel(le)
+- hétérosexuel(le)
+- bisexuel(le)
+- asexuel(le)
+- lesbienne
+- gay
+- transsexuel(le)
+- transgenre
+- intersexe
+- pansexuel(le)
+- queer
+- non-binaire
+- androgyne
+- hermaphrodite
+- allosexuel(le)
+
+## Identities / orientations (slurs)
+- pédé
+- tapette
+- gouine
+- tante
+- tantouse
+- lopette
+- fiotte
+- tarlouze
+- tarlouse
+- goudou
+- travelo
+- chochotte
+- mignard
+- brindille
+- enculé (identity slur)
+- pédale
+- folle
+
+## Insults built from sexual vocabulary
+- salope
+- pute
+- putain
+- connard
+- connasse
+- fils de pute
+- va te faire foutre
+- branleur
+- nique ta mère
+- chienne
+- garce
+- traînée
+- pouffiasse
+- grognasse
+- gourgandine
+- cocu
+- cornard
+- baiseur
+- baiseuse
+- salopard
+- enculé
+- ordure
+- raclure
+
+## Sex work (clinical / neutral)
+- prostitution
+- proxénétisme
+- proxénète
+- maison close
+- maison de tolérance
+- racolage
+
+## Sex work (slang / crude)
+- prostituée
+- maquereau
+- maquerelle
+- bordel
+- tapin
+- faire le tapin
+- call-girl
+- escort
+- poule
+- péripatéticienne
+- grue
+- micheton
+- julot
+- souteneur
+- passe
+- turbin
+- raccrocheuse
+- putain (sex worker sense)
+
+## Pornography
+- pornographie
+- film X
+- acteur porno
+- actrice porno
+- hardeur
+- hardeuse
+- film érotique
+- site pour adultes
+- érotisme
+
+## Reproductive / contraceptive (sexually charged)
+- préservatif
+- capote
+- capote anglaise
+- pilule
+- avortement
+- IVG
+- stérilet
+- contraception d'urgence
+
+## Kink / fetish / paraphilia
+- BDSM
+- bondage
+- domination
+- soumission
+- sadisme
+- masochisme
+- sadomasochisme
+- fétichisme
+- voyeurisme
+- exhibitionnisme
+- fisting
+- gang bang
+- partouze
+- échangisme
+- troilisme
+- urolagnie
+- coprophilie
+- nécrophilie
+- zoophilie
+- travestissement
+- dominatrice
+- soumis(e)
+- maître
+- maîtresse
+- esclave sexuel(le)
+- flagellation
+- fouet
+- menottes
+- cravache
+- collier
+- laisse
+- godemiché
+- plug anal
+- gode-ceinture
+- candaulisme
+- raphaélisme
+- urolagnie
+- pédophilie
+
+## Euphemisms and idioms
+- faire l'amour
+- coucher avec
+- aller au lit avec
+- dormir avec
+- avoir des relations
+- passer à l'acte
+- la chose
+- les galipettes
+- les ébats
+- consommer
+- fréquenter
+- connaître bibliquement
+- se donner
+- s'offrir
+- la petite mort
+- plaisir charnel
+- les jeux de l'amour
+- partager le lit
+- s'abandonner
+- avoir des rapports
+- avoir (quelqu'un)
+- en avoir
+- faire la bête à deux dos
+
+## Archaic / literary / dated
+- fornication
+- paillardise
+- bougrerie
+- coïtion
+- luxure
+- débauche
+- catamite
+- stupre
+- impudicité
+- turpitude charnelle
+- péché de la chair
+- incontinent
+- sodomite
+- lasciveté
+- priapée
+- grivoiserie
+- gaudriole
+- bougre
+- foutriquet
+- ribaud
+- ribaude
+
+## Internet / subculture
+- sexting
+- nudes
+- dick pic
+- plan cul
+- coup d'un soir
+- fuck buddy
+- amis avec bénéfices
+- polyamorie
+- open relationship
+- TBM
+- teub
+- cam sex
+- OnlyFans
+- no-fap
+- edging
+- éjac faciale
+- squirt
+- financement participatif érotique
+- pawg
+- milf
+- cougar
+- sugar daddy
+- sugar baby
+- entretenue
+
+## Culture-specific — libertinage (French philosophical tradition)
+- libertin(e)
+- libertinage
+- liberté des mœurs
+- hédonisme
+- philosophie des plaisirs
+- les lumières érotiques
+- émancipation sexuelle
+- vie dissolue
+- roué
+- débauché philosophique
+
+## Culture-specific — galanterie and seduction culture
+- marivaudage
+- coquetterie
+- séducteur
+- séductrice
+- Don Juan
+- tombeur
+- coureur de jupons
+- chasseur de jupons
+- drague
+- draguer
+- flirt
+- aguicher
+- allumeuse
+- faire les yeux doux
+- aguicheur(se)
+- badinage
+- papillonner
+- entreprendre (faire des avances)
+- minauder
+
+## Culture-specific — honor / shame vocabulary
+- vertu
+- dévergondage
+- déshonneur
+- souillure
+- impudicité
+- chasteté
+- virginité
+- défloration
+- pudeur
+- honte sexuelle
+- salissure
+- atteinte à la pudeur
+- outrage aux mœurs

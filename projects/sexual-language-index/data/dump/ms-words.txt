@@ -1,0 +1,626 @@
+# Malay — sexually-charged vocabulary dump
+# Latin script.
+# No definitions. No scoring. Just words, one per line.
+
+## Organs — penis (clinical)
+- zakar
+- penis
+- batang zakar
+- alat kelamin lelaki
+- alat sulit
+- kemaluan lelaki
+- organ reproduksi lelaki
+- uretra
+- prostat
+- skrotum
+- epididimis
+
+## Organs — penis (slang/crude)
+- konek
+- batang
+- palat
+- pucuk
+- ayam
+- kontol
+- butoh
+- pelir
+- anu
+- burung
+- tiang
+- bengkung
+- pak long
+- butuh
+- oti
+
+## Organs — vagina (clinical)
+- faraj
+- vagina
+- alat kelamin perempuan
+- kemaluan perempuan
+- bibir faraj
+- labia
+- labia majora
+- labia minora
+- bibir kecil faraj
+- bibir besar faraj
+- saluran kelamin
+- himen
+- selaput dara
+
+## Organs — vagina (slang/crude)
+- puki
+- pepek
+- tembung
+- pundek
+- burit
+- lobang
+- kolom
+- celah
+- tempat
+- kemek
+
+## Organs — breasts (clinical)
+- payudara
+- buah dada
+- puting susu
+- areola
+- kelenjar susu
+
+## Organs — breasts (slang/crude)
+- tetek
+- susu
+- buah
+- tompokan
+- bukit
+- dada
+- bobi
+- bebola dada
+
+## Organs — testicles (clinical)
+- testis
+- buah pelir
+- skrotum
+- zakar dan testis
+
+## Organs — testicles (slang/crude)
+- telur
+- biji
+- pelir
+- bebola
+
+## Organs — clitoris (clinical)
+- klitoris
+- anak kelentit
+
+## Organs — clitoris (slang/crude)
+- kelentit
+
+## Organs — anus (clinical)
+- dubur
+- anus
+- rektum
+- lubang dubur
+- sfinkter anal
+
+## Organs — anus (slang/crude)
+- jubur
+- lubang belakang
+- bontot
+- punggut
+- pintu belakang
+- belakang
+
+## Organs — other / general
+- bahagian sulit
+- organ sulit
+- selangkangan
+- pangkal paha
+- belahan punggung
+- punggung
+- bawah (genitals, euphemism)
+
+## Acts — clinical
+- hubungan seksual
+- persetubuhan
+- senggama
+- koitus
+- penetrasi
+- penetrasi vagina
+- penetrasi anal
+- felasi
+- kunilingus
+- analingus
+- masturbasi
+- onani
+- istimna
+- sodomi
+- tribadisme
+- rangsangan manual
+- stimulasi oral
+- ejakulasi
+- penetrasi oral
+- rangsangan klitoris
+
+## Acts — slang/crude
+- main
+- kongkek
+- jolok
+- henjut
+- tusuk
+- cucuk
+- tumbuk
+- pomen
+- naik
+- buat
+- buat benda
+- lancing
+- lancap
+- kulum
+- jilat
+- goyang
+- pam
+- terjah
+- tekan
+- romen
+- masuk keluar
+- ngetot
+- colok
+- baham
+- kacau
+- raba
+- hisap
+- sedut
+- gigit
+- belai
+- usik
+- fuck
+- rogol
+
+## Acts — formal/literary
+- bersetubuh
+- bersenggama
+- bercinta
+- zina
+- liwat
+- wati
+- jima
+
+## Masturbation
+- melancap
+- pelancapan
+- main tangan
+- layan diri
+- pegang sendiri
+- onani
+- onanism
+- cukur
+- tangan sendiri
+
+## Fluids and physical states — semen
+- air mani
+- mani
+- sperma
+- cecair mani
+- pancut
+- pancutan
+- air putih
+
+## Fluids and physical states — vaginal
+- cecair vagina
+- air kemaluan
+- basah
+- lubrikasi
+
+## Fluids and physical states — erection/arousal states
+- ereksi
+- tegang
+- keras
+- bangun
+- berdiri
+- menegang
+- naik
+- lemah syahwat
+- mati pucuk
+- impoten
+
+## Fluids and physical states — orgasm
+- orgasma
+- orgasme
+- klimaks
+- sampai
+- keluar
+- terpancut
+- kemuncak
+- habis
+
+## Desire / arousal / descriptors
+- terangsang
+- bernafsu
+- birahi
+- syahwat
+- nafsu
+- nafsu syahwat
+- berahi
+- ghairah
+- rangsangan
+- naik darah
+- naik syahwat
+- tergoda
+- teruja
+- menggoda
+- merangsang
+- menggairahkan
+- mengiurkan
+- berkhayal
+- impian basah
+- mimpi basah
+- angan-angan
+- daya tarik seksual
+
+## Desire — low / frigid
+- sejuk
+- tawar
+- tidak bersyahwat
+- disfungsi seksual
+- tidak terangsang
+- dingin
+
+## Desire — promiscuous / lustful descriptors
+- liar
+- jalang
+- cabul
+- lucah
+- mesum
+- kotor
+- gatal
+- murahan
+- bebas
+- nakal
+- sundal
+- jijik seksual
+- tua bangka gatal
+
+## Identities / orientations — clinical
+- homoseksual
+- heteroseksual
+- biseksual
+- aseksual
+- panseksual
+- transgender
+- transeksual
+- interseks
+- orientasi seksual
+- identiti jantina
+
+## Identities / orientations — community / neutral slang
+- gay
+- lesbian
+- bi
+- trans
+- queer
+- straight
+- mak nyah
+- pak nyah
+- pengkid
+- sisterboy
+- tomboy
+- butch
+- femme
+- drag queen
+- drag king
+- non-binary
+- gender fluid
+- kaum mak nyah
+
+## Identities / orientations — slurs
+- pondan
+- bapok
+- bapuk
+- pondang
+- lembik
+- lembut
+- peliwat
+- pemburit
+- kaum Lut
+- bencong
+- waria
+- banci
+- jantan betina
+- mukhannath
+- homo
+- lesbo
+
+## Insults built from sexual vocabulary
+- puki mak
+- puki mak engkau
+- pundek
+- celaka puki
+- mak kau jalang
+- mak kau pelacur
+- anak pelacur
+- anak haram
+- haram jadah
+- lancap kau
+- kepala bapok
+- bangsat
+- keparat
+- bedebah
+- buaya darat
+- bodoh macam pelir
+- muka pelacur
+- puki babi
+- konek busuk
+- tetek buruk
+- perut babi
+- babi jalang
+
+## Sex work and pornography
+- pelacur
+- sundal
+- perempuan jalang
+- rumah pelacuran
+- rumah urut
+- esek-esek
+- jual diri
+- jual badan
+- PSK
+- pekerja seks komersial
+- ayam
+- gigolo
+- mamasan
+- tauke
+- mak ayam
+- perkhidmatan seks
+- pelanggan
+- pornografi
+- lucah
+- bahan lucah
+- video lucah
+- gambar lucah
+- filem biru
+- filem dewasa
+- filem lucah
+- majalah lucah
+- laman lucah
+- industri seks
+- teman wanita
+
+## Reproductive / contraceptive (sexually charged)
+- kondom
+- sarung
+- getah
+- sarung konek
+- pil perancang
+- alat kontraseptif
+- spermasid
+- aborsi
+- gugurkan kandungan
+- bunting luar nikah
+- hamil luar nikah
+- anak luar nikah
+- kandungan
+
+## Kink / fetish / paraphilia
+- BDSM
+- bondej
+- bondage
+- bondej tali
+- dominasi
+- submisi
+- dominatrix
+- sadisme
+- masokisme
+- fetisisme
+- fetis
+- ekshibisionisme
+- voyeurisme
+- roleplay seks
+- seks kumpulan
+- threesome
+- gangbang
+- orgi
+- swinger
+- pedofilia
+- zoofilia
+- nekrofilia
+- inses
+- sumbang muhrim
+- transvestisme
+- merentasi pakaian
+- watersports
+- fisting
+- rimming
+- pegging
+- paraphilia
+
+## Euphemisms and idioms
+- buat benda
+- buat kerja
+- tidur bersama
+- tidur dengan
+- masuk bilik
+- pergi bilik hotel
+- bercumbu
+- bermesra
+- hubungan intim
+- aktiviti ranjang
+- main-main
+- teman istimewa
+- kenalan rapat
+- buat tu
+- nak buat ke
+- naik
+- masuk
+- keluar
+- sentuh
+- rasa
+- cuba
+- pergi jauh sikit
+- goyang bersama
+- dekat
+- malam pertama
+- malam pengantin
+
+## Archaic / literary / dated
+- jimak
+- berahi
+- nafsu berahi
+- gundik
+- selir
+- harem
+- mut'ah
+- perawan
+- dara
+- darah dara
+- kimpoi
+- wati
+- jima
+- musahaqah
+- zina muhsan
+- zina ghairu muhsan
+- amah
+- kemuncak
+- janda muda
+- duda muda
+- perempuan tua gatal
+- perawan suci
+
+## Internet / subculture / modern slang
+- bogel
+- telanjang bulat
+- telanjang
+- separuh bogel
+- nude
+- nudes
+- dick pic
+- NSFW
+- bokep
+- sext
+- sexting
+- jual content
+- seller
+- buyer
+- OnlyFans
+- leaked
+- revenge porn
+- sex tape
+- camgirl
+- camboy
+- ERP
+- pakej
+- buka akaun
+- sugar daddy
+- sugar baby
+- FWB
+- ONS
+- hookup
+- wank
+- playboy
+- playgirl
+- main kayu tiga
+- tele lucah
+- GIF lucah
+- bomba tetek
+- tunjuk badan
+- buka badan
+- telanjangi
+- strip
+
+## Culture-specific — Islamic/religious moral framework
+- zina
+- liwat
+- khalwat
+- mahram
+- bukan mahram
+- aurat
+- menjaga aurat
+- syahwat
+- nafsu
+- nafsu amarah
+- nafsu syahwat
+- istimta
+- istimna
+- musahaqah
+- hadd
+- rajam
+- sebatan
+- hukum syarak
+- hukum zina
+- penzinaan
+- fasad
+- kemungkaran
+- fahisyah
+- mut'ah
+- poligami
+- halalkan
+- haram
+- halal
+- nikah
+- talak
+- iddah
+- muhrim
+- dosa besar
+- dosa zina
+- taubat zina
+
+## Culture-specific — honor/shame economy
+- maruah
+- kehormatan
+- aib
+- malu
+- memalukan
+- hilang maruah
+- cemar maruah
+- rosak maruah
+- perosak maruah
+- jatuh maruah
+- tidak berbudi
+- sumbang
+- ujian keperawanan
+- dara
+- darah dara
+- selaput dara
+- anak luar nikah
+- anak haram
+- hamil luar nikah
+- bunting
+- cerai aib
+- perempuan rosak
+- perempuan murahan
+- perempuan tak terjaga
+
+## Culture-specific — third gender (mak nyah / bapok community)
+- mak nyah
+- pak nyah
+- pondan
+- bapok
+- waria
+- khuntha
+- khuntha mushkil
+- mukhannath
+- banci
+- sisterboy
+- pengkid
+- operasi jantina
+- penghijrahan jantina
+- ubah jantina
+- jantina ketiga
+- kaum mak nyah
+
+## Culture-specific — traditional magic / supernatural sexuality
+- susuk
+- guna-guna
+- pukau
+- ilmu pengasih
+- ilmu pemikat
+- azimat cinta
+- jampi cinta
+- jampi serapah
+- santau
+- khodam
+- pengasihan
+- pontianak
+- penanggalan
+- tarikh lajak
+- saka
+- perempuan sundal

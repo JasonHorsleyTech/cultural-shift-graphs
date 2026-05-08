@@ -424,12 +424,29 @@ const anatomyBarsExpanded = ref(false)
 // M/F RATIO (Q3)
 // ============================================================================
 
+const MALE_SUBCAT_ORDER = ['penis', 'testicles', 'scrotum'] as const
+const FEMALE_SUBCAT_ORDER = ['vagina', 'clitoris', 'vulva', 'labia', 'mons_pubis', 'breasts', 'nipple'] as const
+
+const SUBCAT_COLORS: Record<string, string> = {
+  penis: '#1d4ed8',      // blue-700
+  testicles: '#3b82f6',  // blue-500
+  scrotum: '#93c5fd',    // blue-300
+  vagina: '#9f1239',     // rose-800
+  clitoris: '#be185d',   // pink-700
+  vulva: '#c026d3',      // fuchsia-600
+  labia: '#f43f5e',      // rose-500
+  mons_pubis: '#f472b6', // pink-400
+  breasts: '#fda4af',    // rose-300
+  nipple: '#fbcfe8',     // pink-200
+}
+
 type RatioRow = {
   code: string
   name: string
   male: number
   female: number
   malePct: number
+  bySubcat: Record<string, number>
 }
 
 const ratioRanking = computed<RatioRow[]>(() => {
@@ -437,10 +454,14 @@ const ratioRanking = computed<RatioRow[]>(() => {
   for (const lang of languages) {
     const recs = recordsByLang.value.get(lang.code) ?? []
     let m = 0, f = 0
+    const bySubcat: Record<string, number> = {}
     for (const r of recs) {
       if (r.category !== 'organs' || !r.subcategory) continue
-      if (MALE_SUBCATS.has(r.subcategory)) m += weightOf(r)
-      else if (FEMALE_SUBCATS.has(r.subcategory)) f += weightOf(r)
+      const w = weightOf(r)
+      if (MALE_SUBCATS.has(r.subcategory)) m += w
+      else if (FEMALE_SUBCATS.has(r.subcategory)) f += w
+      else continue
+      bySubcat[r.subcategory] = (bySubcat[r.subcategory] ?? 0) + w
     }
     if (m + f < 5) continue
     out.push({
@@ -449,10 +470,25 @@ const ratioRanking = computed<RatioRow[]>(() => {
       male: m,
       female: f,
       malePct: m / (m + f),
+      bySubcat,
     })
   }
   return out.sort((a, b) => b.malePct - a.malePct)
 })
+
+function ratioSegments(row: RatioRow) {
+  const total = row.male + row.female
+  const segs: Array<{ subcategory: string; pct: number; color: string; count: number }> = []
+  for (const sc of MALE_SUBCAT_ORDER) {
+    const c = row.bySubcat[sc] ?? 0
+    if (c > 0) segs.push({ subcategory: sc, pct: c / total, color: SUBCAT_COLORS[sc], count: c })
+  }
+  for (const sc of FEMALE_SUBCAT_ORDER) {
+    const c = row.bySubcat[sc] ?? 0
+    if (c > 0) segs.push({ subcategory: sc, pct: c / total, color: SUBCAT_COLORS[sc], count: c })
+  }
+  return segs
+}
 
 // ============================================================================
 // CATEGORY MIX (Q4) — pick two languages, compare
@@ -1030,9 +1066,21 @@ function pieSliceArcs(slices: PieSlice[], radius: number) {
     <!-- =================================================================== -->
     <section v-if="activeTab === 'ratio'" class="mt-6">
       <p class="text-sm text-[var(--text-secondary)]">
-        Of all sexual-organ words in each language, what share refer to male vs female anatomy?
-        Sorted most male-skewed (top) to most female-skewed (bottom).
+        Of all sexual-organ words in each language, what share refer to male vs female anatomy — broken down by body part.
+        Sorted most male-skewed (top) to most female-skewed (bottom). Bar is normalized so male + female = 100% (neutral organs excluded).
       </p>
+
+      <!-- Legend -->
+      <div class="mt-4 flex flex-wrap gap-x-4 gap-y-2 text-xs">
+        <span
+          v-for="sc in [...MALE_SUBCAT_ORDER, ...FEMALE_SUBCAT_ORDER]"
+          :key="sc"
+          class="inline-flex items-center gap-1.5"
+        >
+          <span class="inline-block w-3 h-3 rounded-sm" :style="{ background: SUBCAT_COLORS[sc] }"></span>
+          <span class="text-[var(--text-secondary)]">{{ subcatLabel(sc) }}</span>
+        </span>
+      </div>
 
       <div v-if="ratioRanking.length === 0" class="mt-6 text-[var(--text-muted)] text-sm">No data yet.</div>
 
@@ -1046,16 +1094,14 @@ function pieSliceArcs(slices: PieSlice[], radius: number) {
             <div class="text-[var(--text-primary)]">{{ row.name }}</div>
             <div class="text-xs text-[var(--text-muted)] font-mono">{{ row.code }}</div>
           </div>
-          <div class="h-6 bg-pink-500/30 rounded overflow-hidden flex">
+          <div class="h-6 rounded overflow-hidden flex border border-[var(--border)]">
             <div
-              class="h-full bg-blue-500/70 flex items-center justify-end pr-2 text-xs text-white"
-              :style="{ width: (100 * row.malePct) + '%' }"
-            >
-              <span v-if="row.malePct > 0.15">{{ formatCount(row.male) }}</span>
-            </div>
-            <div class="flex-1 flex items-center pl-2 text-xs text-[var(--text-secondary)]">
-              <span v-if="(1 - row.malePct) > 0.15">{{ formatCount(row.female) }}</span>
-            </div>
+              v-for="seg in ratioSegments(row)"
+              :key="seg.subcategory"
+              class="h-full"
+              :style="{ width: (100 * seg.pct) + '%', background: seg.color }"
+              :title="`${subcatLabel(seg.subcategory)}: ${formatCount(seg.count)} (${Math.round(seg.pct * 100)}%)`"
+            ></div>
           </div>
           <div class="text-xs text-[var(--text-muted)] font-mono">
             {{ Math.round(row.malePct * 100) }}% / {{ Math.round((1 - row.malePct) * 100) }}%
@@ -1064,7 +1110,7 @@ function pieSliceArcs(slices: PieSlice[], radius: number) {
       </div>
 
       <p class="mt-4 text-xs text-[var(--text-muted)]">
-        Blue = male organ words (penis, testicles, scrotum). Pink = female (vagina, vulva, clitoris, labia, mons pubis, breasts, nipple).
+        Hover any segment to see the count. Blues = male anatomy (penis → scrotum). Pinks/reds = female anatomy (vagina → nipple).
         Languages with fewer than 5 organ words are excluded.
       </p>
     </section>

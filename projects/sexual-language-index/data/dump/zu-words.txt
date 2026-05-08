@@ -1,0 +1,638 @@
+# Zulu — sexually-charged vocabulary dump
+# Latin script.
+# No definitions. No scoring. Just words, one per line.
+
+## Organs — penis (clinical)
+- umthondo
+- isitho sangasese sowesilisa
+- isitho sobudoda
+- isitho sabesilisa
+- uze
+- amalungu obudoda
+
+## Organs — penis (slang/crude)
+- induku
+- uphondo
+- ujozi
+- unwabu
+- isibhamu
+- iphini
+- inhloko
+- inkwili
+- isigxolo
+- umthanjana
+- injongosi
+- isikhwakhwa
+- ingquzu
+- ushanela
+- umshanelo
+- umuntu
+- intsho
+- umthontho
+
+## Organs — vagina (clinical)
+- ingquza
+- isibumbu
+- isitho sangasese sowesifazane
+- isitho sobufazane
+- isizalo
+- amalungu obufazane
+
+## Organs — vagina (slang/crude)
+- umgodi
+- isikhwama
+- ibhontshisi
+- umbobo
+- isikhwamba
+- isigodi
+- imbokodo
+- isiziba
+- umthombo
+- umlomo
+- ikhishi
+- isigcino
+- impundu
+- ingqoza
+
+## Organs — breasts (clinical)
+- amabele
+- izifuba
+- amalungu amabele
+- izinhlonhlo
+- izinhlandla
+
+## Organs — breasts (slang/crude)
+- amathanga
+- amabhibhi
+- izinsini
+- amankonkoni
+- amapele
+- amakhukhu
+- izintondo
+
+## Organs — testicles (clinical)
+- amabholo
+- izinhlwayi
+- amachweba
+- amalungu obudoda angemuva
+
+## Organs — anus (clinical)
+- inqe
+- isiphundu
+- umgodi wangemuva
+- umbobo wangemuva
+
+## Organs — anus (slang/crude)
+- isinqe
+- isigodi sangemuva
+- umgodi wesinqe
+- isifuba sangemuva
+
+## Organs — clitoris (clinical)
+- ibhontshisi
+- isidlezana
+- ikhona
+- isilingane
+
+## Organs — other body parts (sexually charged)
+- uboya bentombi
+- uboya bezinqe
+- uboya beminye
+- isiphuma-mchilo
+- umlomo wengquza
+- izinhlonhlo zamabele
+- isinqe
+- izinqe
+- umlenze
+- izinqe ezikhulu
+- umlomo womthondo
+- isimo somthondo
+
+## Acts — intercourse (clinical)
+- ucansi
+- ukulala nomuntu
+- ukuhlangana kwabesilisa nabesifazane
+- ukuzalana
+- ukuphinga
+- ukubambana
+- ukuhlangana komzimba
+- ukulana
+- ukwenza ucansi
+- ukuhlangana kwabathandanayo
+
+## Acts — intercourse (slang/crude)
+- ukubhebha
+- ukugwaza
+- ukujova
+- ukuxhuma
+- ukuqhuma
+- ukupheqa
+- ukusebenza
+- ukudlala
+- ukufaka
+- ukungenelela
+- ukungena
+- ukufakana
+- ukushaya
+- ukugxotha
+- ukuhhusha
+- ukuphofoza
+- ukungenya
+- ukuduba
+- ukugxotha
+- ukuqhubeka
+
+## Acts — oral sex (clinical)
+- ukukhotha isitho
+- ukufaka umlomo esikhundleni
+- ukufaka umlomo emthondweni
+- ukulamba isitho
+
+## Acts — oral sex (slang/crude)
+- ukukhotha
+- ukudla umthondo
+- ukufaka emlonyeni
+- ukulamba
+- ukugwinya
+- ukuncela
+
+## Acts — masturbation (clinical)
+- ukuzijabulisa
+- ukuzithanda
+- ukuzipholisa
+- ukuziphilisa
+
+## Acts — masturbation (slang/crude)
+- ukudla ngesandla
+- ukukhalisa induku
+- ukushaya induku
+- ukuzidlalisa
+- ukuphulula
+- ukuzichitha
+- ukuziqhuma
+
+## Acts — anal sex (clinical)
+- ukulala ngesinqe
+- ukuhlangana ngesinqe
+- ukufaka ngesinqe
+
+## Acts — anal sex (slang/crude)
+- ukubhebha ngemuva
+- ukugwaza ngesinqe
+- ukufaka ngemuva
+- ukugeqa ngemuva
+- ukulala ngesinqe
+
+## Acts — traditional Zulu non-penetrative sex
+- ukusoma
+- ukumetsha
+- ukusomana
+- ukumetshana
+- ukuqomana ngesoma
+
+## Acts — rape and sexual assault
+- ukudlwengula
+- ukuphanga ngocansi
+- ukuphatha ngendluzula
+- udlame lwezocansi
+- ukuphoqa ucansi
+- ukushnutha
+- ukuphanga
+- ukubhebha ngenkani
+
+## Acts — foreplay and arousal acts
+- ukugona
+- ukuthinta
+- ukuphulula
+- ukungabaza
+- ukugqama
+- ukuqabula
+- ukuphefumulela
+- ukundlondlobeza
+- ukugqala umzimba
+- ukuxoxa ngocansi
+- ukusondela
+- ukubamba
+- ukwanga
+- ukuheha
+
+## Acts — ejaculation
+- ukuqhuma
+- ukukhipha
+- ukuchitheka
+- ukuphuma
+- ukuchitha inzalo
+- ukukhipha inzalo
+- ukumunceka
+
+## Acts — sexual positions (slang/colloquial)
+- ukuqhelezana
+- ukuqhelezana emva
+- ukulala ngenhla
+- ukugibela
+- ukuma ngemuva
+- isitayela se-doggy
+- ukuphindaphinda
+
+## Fluids and physical states
+- inzalo
+- amanzi amhlophe
+- uchago
+- ukuqhuma
+- ukuphakama komthondo
+- ukuqina komthondo
+- ukusha kocansi
+- amanzi owesifazane
+- ukuvunda
+- ukuphila komthondo
+- isiboshwa socansi
+- ukuvuleka
+- ukuphakama
+- ukuqina
+- ukuncenga
+- amanzi ocansi
+- ukuchichima
+
+## Desire / arousal / descriptors
+- ukukhanuka
+- inkanuko
+- umkhanuko
+- ukuvutha
+- ukufisa
+- ukuphaphama
+- ukulambela
+- ukuqhanyelwa
+- ukufuna ucansi
+- uthando lwenyama
+- ukuphakamela
+- ukusha
+- ukugcwala
+- ukulinda ucansi
+- intokozo yocansi
+- ukujabula ngocansi
+- ukubukelela
+- ukufisa kakhulu
+- ukwethuka
+- ukukhanya ngothando
+- ukuvulwa ucansi
+- ukushesha ukufuna
+- inkanuko enkulu
+- ukuphila ngocansi
+
+## Orgasm
+- ukuqhuma
+- ukufika
+- intokozo enkulu
+- ukuphela kocansi
+- ukukhululeka
+- ukujabula
+- ukubheka phezulu
+- ukufinyelela
+- ukuphumula ngemuva
+- ukubuya emhlabeni
+
+## Frigid / averse / prudish descriptors
+- ukuphola
+- ukubanda
+- ukungafuni ucansi
+- ukugcina ubuyena
+- ukuzibamba
+- ukuzikhipha
+- umuntu obandayo
+- ukungafuni
+- ukuzigcina
+
+## Identities — clinical
+- ingqingili
+- umuntu oshela abesilisa
+- umuntu oshela abesifazane
+- ubulili obuhlukile
+- isitho sobulili esingavamile
+- umuntu webhomosekhuphali
+- ubisekhuphali
+- ubulili obuhlangene
+
+## Identities — slurs
+- isitabane
+- izitatane
+- umtabane
+- isitatane
+- inkonkoni
+- ikheswa
+- isandulo
+- iskhotheni
+- umgodoyi
+- umfana wobufazane
+- indoda eyisifebe
+- iqhude
+- isigqila socansi
+- umphempe
+- igqwirha
+- isitabanyana
+- umkhonto
+
+## Sexual identity descriptors (community/colloquial)
+- umuntu we-gay
+- umuntu we-lesbian
+- umuntu webhayisekhuphali
+- umuntu we-queer
+- ukubulili okungavamile
+- ukwenza izinto zabesilisa
+- ukwenza izinto zabesifazane
+- ukushintsha ubulili
+
+## Insults built from sexual vocabulary
+- isifebe
+- ihure
+- umphingeli
+- indlovukazi yamahure
+- inja yocansi
+- umabhebhana
+- indoda engeyona
+- isoka lamanyala
+- umzimba webhebha
+- impuku yocansi
+- inkosikazi yezigodi
+- isifebe esikhulu
+- ubufebe
+- umlomo webhebha
+- inkawu yocansi
+- isilima socansi
+- umuntu webhebha
+- isigila socansi
+- umuntu ongenasizotha
+- indoda egayayo
+- isisu esihamba njalo
+- umuntu wokuthengisa
+- ihure lamaphepha
+- ingwadla yocansi
+- umdidi wocansi
+
+## Sex work and pornography
+- isifebe
+- ihure
+- ukufeba
+- indawo yokufeba
+- ikhaya lamahure
+- umholi wezifebe
+- ipayipi
+- inkunzi yamahure
+- izithombe zocansi
+- izithombe ezibi
+- i-porn
+- i-pornography
+- itheyipu locansi
+- amavidiyo ocansi
+- amafilimu ocansi
+- i-blue movie
+- amafilimu amabi
+- ukuthengisa ngomzimba
+- ukuthengisa ngocansi
+- umthengisi womzimba
+- indawo yokuxhuma
+- intengo yocansi
+- isikhathi socansi
+- ukuziphilisa ngomzimba
+- umphathi wezifebe
+- isiteshi socansi
+
+## Reproductive / contraceptive (sexually charged)
+- ikhondomu
+- amapilisi okuzithiba
+- isivikelo
+- ukuzivikela
+- isikhwama socansi
+- ukuvimba inzalo
+- ukumitha
+- ukukhulelwa
+- isisu esikhulu
+- ukuzala
+- ingane yocansi
+- inzalo embi
+- ukuphiwa umntwana
+- ukuhlola ngokuqiniseka
+- ukuzivikela ngesikhwama
+
+## Kink / fetish / paraphilia
+- ukuboshwa
+- ukuphathwa kabi ngokuzithandela
+- ukudlaliswa
+- ukubukwa
+- ukubuka abanye becansi
+- izinto zocansi
+- ukufaka izinto
+- ukushaywa ngokuzithandela
+- i-BDSM
+- ukuphathana ngezinhlelo ezikhethekile
+- ukufisa ukukhangwa
+- ukufisa izinto ezikhethekile
+- ukuthanda ukuboshelwa
+- ukuthanda ukushaywa
+- ukubheka abanye becansi
+- ukuphindaphinda
+- ukufisa izinto zamadoda
+- ukufisa izinto zabesifazane
+- ukuthanda ukuphathwa
+- ukuphatha umuntu
+
+## Euphemisms and idioms
+- ukulala
+- ukulala nomuntu
+- ukwenza izinto
+- ukuba nomuntu
+- ukubambana
+- ukuya ebhukwini
+- ukuvakasha
+- ukuhlala ndawonye
+- ukupheka
+- ukuqoqa
+- ubusuku obumnandi
+- ukuya endlini
+- ukungena
+- ukwenana
+- ukuqomana
+- ukuqoma
+- ukudlala
+- ukuya ngaphansi
+- ukuya naye
+- ukuya ndawonye
+- ukwenza umsebenzi
+- ukuphumula ndawonye
+- ukuhlangana
+- ukuya kwakhe
+- ukuya kwake
+- ukuya ngasese
+
+## Archaic / literary / dated
+- ubumhlophe
+- inkosazana
+- isigodi sothando
+- umthombo wothando
+- ihlathi lothando
+- intaba yothando
+- ithemba lothando
+- umlilo wecansi
+- izinhliziyo ezixhumene
+- ukuhlonipheka kwabesifazane
+- izintombi zakwaZulu
+- ukuphila impilo yobuntombi
+- ubuyena
+- ukuhlonipho kwezocansi
+- ukukhetha
+- ukweshela
+- impi yothando
+- izidingo zomzimba
+- ukuziphepha
+- ukuhlanzeka komzimba
+- ubucelibacy
+- ukuzihlonipha komzimba
+
+## Internet / subculture / modern South African
+- ukubhejwa
+- umabhebhana
+- i-sex tape
+- i-hookup
+- i-one night stand
+- ukuswayipha
+- i-Netflix-and-chill
+- inja yocansi
+- ukubhebhana
+- i-situationship
+- i-DM yocansi
+- ukuslayida
+- i-sugar daddy
+- i-blesser
+- i-blessee
+- ukuNSFW
+- i-FWB
+- ukusext
+- ukuthumela izithombe
+- ukuthumela izithombe zocansi
+- i-catfish yocansi
+- ukughosting ngemuva kocansi
+- ukufuna ocansi ku-app
+- i-dating app
+- ukupranga ngocansi
+- i-thirst trap
+- ukuflirta
+- ukuDM
+- i-body count
+- ukucansi nge-app
+
+## Culture-specific — isoka/isifebe gender asymmetry
+- isoka
+- isoka lamanyala
+- isoka lezintombi
+- ukusoka
+- ukuba yisoka
+- ubuisoka
+- isifebe
+- ubufebe
+- ukuba yisifebe
+- intombi engathembekile
+- umfazi ongathembekile
+- ubuphinga
+- ukuphinga
+- umphingeli
+- umphingeli wesifazane
+- ukufeba
+- ubufebe obukhulu
+- ukudansela
+- ukuthekelela
+- inkonzane
+
+## Culture-specific — ukusoma tradition
+- ukusoma
+- ukumetsha
+- ukusomana
+- ukumetshana
+- ukulala ngaphandle
+- ukusoma kocansi
+- ukusoma phakathi kwemilenze
+- intombi yesoma
+- umfana wesoma
+- ukuqoma ngesoma
+- ukwenza ngaphandle
+
+## Culture-specific — ilobolo and marriage sexuality economy
+- ilobolo
+- inkomo zokuloba
+- ukuthatha umfazi
+- ukuthengwa
+- umakoti
+- ubusuku bokuqala
+- ukungena
+- ukwenana
+- isipho sothando
+- inkomo zokuthola intombi
+- ukuhlawulela
+- ukuthola umfazi
+- ubusuku bomtshado
+- ukuqeda ilobolo
+- ukungena komakoti
+- ukukhipha umakoti
+
+## Culture-specific — ukuthomba and coming-of-age
+- ukuthomba
+- umemulo
+- intombi
+- ubuntombi
+- ukuphila kobunsizwa
+- umkhehlo
+- ukuqala kwentombi
+- izintombi
+- ukuhlanzeka kwebantombi
+- ukukhipha intombi
+- ukubhekwa kwentombi
+- ukukhula kwentombi
+- ukuqeqeshwa kwezocansi
+- ukutshela izintombi
+- inkomo yentombi
+
+## Culture-specific — ukuhlonipha (avoidance language and sexuality)
+- ukuhlonipha
+- amagama okuhlonipha
+- ukuzikhipha ekungelungile
+- ukuguqula igama locansi
+- ukugwema ukusho
+- igama lokuhlonipha
+- isihlonipho
+- ukuphephela amazwi ocansi
+- ukugwema amagama
+- ukukhuluma ngokuhlonipha
+
+## Culture-specific — ingculazi/HIV sexual context
+- ingculazi
+- isandulela-ngculazi
+- isifo secansi
+- isifo esidluliswa ngocansi
+- izigulo zezocansi
+- ukufa kocansi
+- ukuhlola igazi
+- ukuhlolwa kocansi
+- amaphilisi e-ARV
+- ukufa ngesifo secansi
+- ukulalana
+- ukuphila nokufa kocansi
+- isifo ugonorea
+- isifo syphilis
+- isifo uHPV
+- isifo uherpes
+- ukugulisana ngocansi
+
+## Culture-specific — blesser economy (modern South African Zulu)
+- i-blesser
+- i-blessee
+- ukubleswa
+- ukufuna i-blesser
+- ucansi ngezimoto
+- ucansi ngezipho
+- ukuthola ngokucansi
+- umuntu ohndiweyo
+- ukuhndiwa
+- i-sponsor
+- ukusponsorwa
+- ucansi ngezimali
+- ukuthenga ucansi
+- ukubhadalwa ngocansi
+- umuntu wezimali

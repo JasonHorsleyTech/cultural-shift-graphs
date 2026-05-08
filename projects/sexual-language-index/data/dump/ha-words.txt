@@ -1,0 +1,656 @@
+# Hausa — sexually-charged vocabulary dump
+# Latin script.
+# No definitions. No scoring. Just words, one per line.
+
+## Organs — penis (clinical)
+- azzakari
+- gaɓar maza
+- al'aura ta maza
+- ɗan adam
+- gaɓar jima'i ta maza
+- jijiyar jima'i
+
+## Organs — penis (slang/crude)
+- bura
+- sandari
+- kara
+- tsuntsu
+- guntun nama
+- burar maza
+- mai tsawo
+- durumi
+- ɓangaren maza
+- ƙarfin maza
+- mai tashi
+- ɗan rafi
+- ƙugu
+
+## Organs — vagina (clinical)
+- farji
+- al'aura ta mace
+- gaɓar mace
+- hanyar haihuwa
+- mahaifa baki
+
+## Organs — vagina (slang/crude)
+- buri
+- ɓarkono
+- ramin sha'awa
+- ramim mace
+- kwaryar mace
+- ɗan ƙasa
+- gintsin mace
+- bukin mace
+- ɗin mace
+- gidi ta mace
+- wuri na mace
+
+## Organs — breasts (clinical)
+- nono
+- nonon mace
+- gaɓar nono
+- ɓangaren ƙirji na mace
+
+## Organs — breasts (slang/crude)
+- ɗan nono
+- gangaro
+- tumatir
+- kwan gaba
+- nonon sha'awa
+- da gaɓa
+- babban nono
+- ƙirjin mace
+- duwatsu (stones — slang)
+- tsautsayi
+
+## Organs — testicles (clinical)
+- gwangwani
+- al'aura ta ƙasa ta maza
+- kwai maza
+- jakar maza
+
+## Organs — testicles (slang/crude)
+- kwai
+- ƙwai
+- guda biyu
+- tarkon maza
+- ɗan bayansa
+- bayan bura
+- tsuntsuwan biyu
+
+## Organs — clitoris
+- ɗan farji
+- ɗan buri
+- kai na farji
+- guntun mace
+- ƙaramin wuri
+- azzalumai
+- ɗan haƙa
+
+## Organs — anus
+- dubura
+- gindi na ciki
+- bayan gindi
+- ramin baya
+- ƙofar baya
+- ɓangaren baya
+- ramin dubura
+
+## Organs — uterus/womb
+- mahaifa
+- gida ta jariri
+- wurin haihuwa
+- ciki na ciki
+
+## Organs — general genitalia
+- al'aura
+- sassan jiki na ɓoye
+- wurin ɓoye
+- tsakiyar jiki
+- gaɓoɓin jima'i
+
+## Acts — intercourse (clinical)
+- jima'i
+- saduwar jiki
+- haɗuwar jiki
+- yin jima'i
+- aikin jima'i
+- saduwa ta maza da mace
+
+## Acts — intercourse (slang/crude)
+- kwana da
+- shiga
+- ɗafe
+- tangarda
+- ɗora
+- fada
+- yin bura
+- yi aiki na jima'i
+- bura-bura
+- yi wasan maza da mata
+- ɗanƙo
+- sanya wa
+- ci farji
+- yi wa aiki
+- raba tare (crude sense)
+- yi shi
+- yi abu na haka
+- ɗaura
+- harba
+- bugawa ta jima'i
+- buge ta
+
+## Acts — oral sex (clinical)
+- cin azzakari
+- cin farji
+- aikin baki na jima'i
+- lasan al'aura
+
+## Acts — oral sex (slang/crude)
+- ci bura
+- ci buri
+- sha azzakari
+- sha bura
+- lasa farji
+- lasa azzakari
+- naɗe da baki
+- aiki da baki
+- sha farji
+- cin da baki
+
+## Acts — anal sex (clinical)
+- saduwa ta dubura
+- jima'i ta baya
+- liwati
+- luwadi (act)
+
+## Acts — anal sex (slang/crude)
+- yi gindi
+- shiga ta baya
+- tangarda ta baya
+- ci gindi
+- yi luwadi
+- shiga ta dubura
+- ɗora ta baya
+
+## Acts — masturbation (clinical)
+- kai-da-kai na jima'i
+- tsokana kai
+- sha'awar kai ga kai
+- aikin hannun kadai
+
+## Acts — masturbation (slang/crude)
+- yin hannun jari
+- ba da kai
+- yi wa kai
+- tsokana bura
+- ci wa kai
+- yi hannun ƙarfi
+- yi wa kansa
+- hannun kai
+
+## Acts — ejaculation
+- fitar da maniyyi
+- zubar da maniyyi
+- zuba maniyyi
+- barka ta maniyyi
+- fitar da ruwa
+
+## Acts — arousal/foreplay (clinical)
+- tsokana jiki
+- sha'awar jiki
+- lokacin sha'awa
+
+## Acts — arousal/foreplay (slang)
+- dumi-dumi
+- ƙuna
+- rura wutar jima'i
+- taɓawa da sha'awa
+- yi zafi
+- kawo sha'awa
+- ɓoɓo (fondling)
+
+## Fluids — semen
+- maniyyi
+- ruwan maza
+- gudun maza
+- mayinar maza
+- man-da-ya-fito
+- ruwan azzakari
+
+## Fluids — vaginal fluid
+- ruwan mace
+- ɗanshin farji
+- ɗanshin mace
+- jika ta mace
+- ruwan farji
+
+## Physical states — erection
+- tashi na azzakari
+- tashiwar bura
+- ƙarfin jiki
+- kai na sama
+- taƙama ta azzakari
+- tashi tsaye
+- ƙarfin azzakari
+
+## Physical states — arousal
+- jiƙewa
+- ɗanshin sha'awa
+- cike da sha'awa
+- sha'awar jiki
+- ɓaci ta sha'awa
+- zafi na jima'i
+
+## Desire — lustful/horny
+- mai sha'awa
+- sha'awace
+- yana sha'awa
+- cike da sha'awa
+- son jima'i
+- son mace (male desire)
+- son maza (female desire)
+- ɗaci na jima'i
+- mugu na sha'awa
+- buƙatar jiki
+- cike da wuta
+- ƙunar jiki
+
+## Desire — promiscuous descriptors
+- matsiyaci (male)
+- matsiyaciya (female)
+- dan iska
+- mai yawo
+- mai neman mata
+- ɗan banza
+- mara kunya
+- rashin kunya
+- fasiki
+- mai sauƙi (easy — slang for promiscuous)
+- mai arha (cheap — slang for promiscuous)
+- mai waje (outside-goer)
+- mai buɗe ƙofa
+- mace ta kowa (everybody's woman)
+- maza ta kowa (everybody's man)
+
+## Desire — frigid/asexual descriptors
+- mara sha'awa
+- mai ƙin jima'i
+- sanyin jiki
+- mara buƙata
+- ɗan sanyi
+- hanci a sama (nose in the air — prudish)
+- mai ɗaga hanci
+
+## Identities — gay male (clinical)
+- dan luwadi
+- luwadi
+- mai yin liwati
+- ɗan daudu
+- mai son maza (man who loves men)
+
+## Identities — gay male (slurs)
+- liwata
+- banzar maza
+- ɗan haɓaka
+- dan kaza
+- kwatance
+- ya-mace (he-woman)
+- ɗan daudu (weaponized)
+- ɗan wawa
+- maza-mace
+- banza ta maza
+
+## Identities — lesbian (clinical)
+- madigo
+- mace mai son mace
+- sihaƙ
+- 'yar luwadi
+
+## Identities — lesbian (slurs)
+- madigan mace
+- 'yar banzanci
+- mace-mace
+- mace mai mace
+- banzar mace
+- 'yar daudu (weaponized)
+- ɗan mace
+
+## Identities — bisexual
+- mai son maza da mata
+- ɗan biyu
+- mai bangarorin biyu
+- mai ɓangarorin
+
+## Identities — gender-nonconforming
+- 'yan daudu (plural)
+- maza-mace
+- mace-maza
+- ɗan canzawa
+- mai sauyin hali
+- mai halayen mace (of a man)
+- mai halayen maza (of a woman)
+- 'yar maza
+- maza-maza (very masculine woman)
+
+## Insults — general sexual shaming
+- 'yar karuwa
+- dan karuwa
+- ɗan iska
+- banza
+- rashin mutunci
+- ɓarna
+- dan lalata
+- lalacce
+- fasiƙa (female)
+- fasiƙanci
+- ɗan haram
+- wulakantacce
+- gurbatacce
+- azumumi
+- haɓaka
+- mummunan mutum
+- mai laifi ta jima'i
+- mara darajar jiki
+- kaza (coward/weak — also sexual insult)
+
+## Insults — slut shaming
+- karuwa (weaponized)
+- mace mai sauƙi
+- mace mai arha
+- mace ba ta kunya
+- mace ta banza
+- mace mai waje
+- mace ta kowa
+- 'yar gari (weaponized)
+- mace mai buɗe ƙofa
+- matsiyaciya (weaponized)
+
+## Insults — fellatio-based
+- ci bura (as insult)
+- sha bura
+- ɗan cin bura
+- mai sha bura
+- bakin bura
+
+## Insults — motherfucker equivalents
+- mai yin wa uwar sa jima'i
+- cin uwa
+- haɓakar uwa
+- mai cin uwarsa
+- ɗan uwanka (weaponized crude)
+- ci uwarka
+
+## Insults — general crude intensifiers
+- ɗan shege (bastard — sexual connotation)
+- shege
+- ɗan hamshin
+- ɗan bura
+- ɗan farji
+- ɗan kwai
+
+## Sex work vocabulary
+- karuwa
+- karuwanci
+- gidan karuwa
+- mai gidan karuwa
+- ɗan gidan karuwa
+- mai kula da karuwa
+- mai kariya ta karuwa
+- kudi na jima'i
+- fatauci na mata
+- cinikin jiki
+- mace mai tallace jiki
+- ashawo (from Yoruba/Pidgin — widely used)
+- runs (transactional sex — from Pidgin)
+- runs girl (Pidgin — used by Hausa youth)
+- aristo (sugar daddy who pays — Nigerian usage)
+- mai sadaka na jima'i
+- tanadi na jima'i
+- mai kallo (male client)
+
+## Pornography
+- batsa
+- hotuna masu batsa
+- fim mai batsa
+- yanar gizo batsa
+- mujallar batsa
+- abubuwan batsa
+- batsa ta intanet
+- hotuna na sirri
+- soyayya mai batsa
+- fim na sirri
+- reel ta batsa
+
+## Reproductive / contraceptive
+- ciki (pregnancy)
+- haihuwa
+- zubar da ciki
+- maganin zubar da ciki
+- hana ciki
+- kaciya (circumcision — general)
+- kaciyar maza (male circumcision)
+- kaciyar mace (female circumcision/FGC)
+- yankan mace (cutting of women — FGC)
+- janaba (ritual sexual impurity)
+- wanka (ritual bath after sex)
+- tsabtace jiki
+- cutar jima'i (STI)
+- cutar kanjamau (HIV/AIDS — carries sexual shame)
+- cutar gonoriya
+- cutar sifilis
+- cutar al'aura
+
+## Contraceptive
+- maganin hana ciki
+- kwaɓi (condom)
+- jaket ta jima'i (condom)
+- fatufatu (rubber — condom slang)
+- allurar hana ciki
+- kwaya ta hana ciki
+- maganin gargajiya na hana ciki
+- igiyar hana ciki (IUD — informal)
+
+## Kink / fetish / paraphilia
+- ɗauri (bondage)
+- azaba ta jima'i
+- bawa ta jima'i (sexual slave)
+- uwargida ta jima'i (dominatrix)
+- bugun sha'awa (pleasure beating)
+- ɗauri da igiya (rope bondage)
+- cin nama da azaba
+- sha'awar azaba
+- sha'awar kafa (foot fetish)
+- sha'awar tufafi (clothing fetish)
+- ɗan tsoro ta sha'awa (fear-arousal)
+- sha'awar ɓoye (voyeurism)
+- kallo ɓoye (secret watching)
+- nuna jiki (exhibitionism)
+- nuna al'aura (genital exposure)
+- sha'awar yara (paedophilia — clinical label)
+- zagi ta sha'awa (sexual humiliation)
+- wutar sha'awa (intense sexual pain play)
+
+## Euphemisms and idioms
+- kwana da (sleep with)
+- yi aiki (do the work)
+- yi wasa (play)
+- haɗu (meet)
+- shiga ɗaki (enter the room)
+- kasancewa tare (be together)
+- ji daɗi (feel pleasure)
+- yi abin duniya (do the worldly thing)
+- yi mu'amala (have dealings)
+- sa lokaci (spend time)
+- yi shi (do it)
+- yi abu (do the thing)
+- yi abin da ake so (do what is desired)
+- dare ɗaya (one night)
+- yin ta (doing it)
+- wasan maza da mata (men and women's game)
+- yi ta kyau (do it nicely)
+- sha'awar dare (desire of the night)
+- zaman tare (sitting together — euphemism)
+- raba dare (share the night)
+- yi ziyara (pay a visit — euphemistic)
+- shiga ta baya da gaba (enter front and back — blunt euphemism)
+- yi abokai da jiki (befriend with the body)
+- raba gado (share a bed)
+
+## Archaic / literary / dated
+- soyayya ta laifi (illicit love — literary)
+- zancen maza da mace (men and women's affairs — literary)
+- cin haram (eating the forbidden — archaic for adultery)
+- zunubi ta jima'i (sin of sex — religious/archaic)
+- aikin al'ada ta ɓoye (hidden traditional act — archaic)
+- ɗan bori (archaic term for effeminate man)
+- liwat (sodomy — Arabic classical form)
+- sihaƙ (tribadism — Arabic classical form)
+- ƙaunar haramun (love of the forbidden — classical)
+- taɓarɓarewa ta jiki (bodily corruption — archaic)
+- fasikancin zamanin da (debauchery of old — literary)
+- mazinacin dà (fornicator of old — archaic form)
+- laifin al'ada (customary sin — archaic)
+- aikin ɓoye (hidden deed — archaic)
+
+## Internet / subculture vocabulary
+- sexy (borrowed)
+- hot (borrowed)
+- thot (borrowed — Nigerian internet slang)
+- freaky (borrowed)
+- nudes (borrowed)
+- hookup (borrowed)
+- fling (borrowed)
+- one night (night stand — shortened)
+- situationship (borrowed)
+- side chick (Nigerian English widely used)
+- side bae (borrowed)
+- sugar daddy (borrowed)
+- sugar mummy (borrowed)
+- akwiya (goat — internet slang for promiscuous woman)
+- yana shirin (he's ready — horny slang)
+- yatsun sha'awa (finger play — internet slang)
+- snaps na sirri (secret Snapchats — nude exchange)
+- DM ta sha'awa (sexual DM)
+- Kannywood scandal (term of art for Hausa film sex scandal)
+- slide into DM (borrowed slang)
+- shoot shot (pursue sexually — borrowed)
+- pepper them (tease sexually — Nigerian internet)
+- toasting (pursuing with sexual intent — Nigerian)
+- chyke/chike (to seduce/woo — Nigerian slang used by Hausa youth)
+- packaging (presenting oneself attractively for sexual pursuit)
+
+## Culture-specific — Islamic sexual ethics (haram/halal framework)
+- zina
+- nikah
+- haram
+- halal
+- mahram
+- haram ta jima'i
+- mace ta haram
+- maza ta haram
+- al'aura
+- tsarewa al'aura
+- gado na halal
+- gado na haram
+- tawuba
+- hadd
+- la'ana ta jima'i
+- fasiki
+- fasiƙa
+- zinance
+- mazinaci
+- mazinaciya
+- sadaki
+- mahr
+- mut'a
+- auren zobe
+- auren misyar
+- auren al'ada
+- ɗaukar mace (taking a wife — with sexual entitlement connotation)
+- haƙƙin mace ta aure (wife's sexual rights)
+- haƙƙin maza ta aure (husband's sexual rights)
+- nushuz (wife's sexual refusal — Arabic term used in Hausa Islamic discourse)
+- jaraba ta shaiɗan (devil's temptation — sexual context)
+
+## Culture-specific — honor/shame economy (kunya/mutunci)
+- kunya
+- mutunci
+- izzah
+- rashin kunya
+- la'anta
+- wulakanci
+- tarnaƙi
+- rashin mutunci
+- ɓata suna
+- suka (gossip — often sexual)
+- zargi (accusation of sexual immorality)
+- jaraba
+- fitinar mace
+- fitina
+- ɓoye (hiding — illicit sex)
+- sirri na jima'i
+- abin kunya
+- mummunan aiki
+- haɓaka
+- mara darajar jiki
+- tsoron ɓata suna
+- irin wannan aiki (that kind of act — euphemistic shaming)
+- cin darajar mace (destroying a woman's honor)
+- ɓata mutuncin mace (ruining a woman's dignity)
+- gidan mutunci (house of honor — antonym of brothel)
+- mace mai daraja (honorable woman — virtue marker)
+
+## Culture-specific — bori spirit possession cult and sexuality
+- bori
+- dan bori
+- 'yan bori
+- magajiya
+- wasan bori
+- iskoƙi
+- iska
+- iskoki na jima'i
+- sarkin bori
+- sarkin ruwa (water spirit — sexuality associations)
+- maye
+- rawan bori
+- magani na bori
+- cikin bori
+- sha'awar iskoki
+- ɗan iskanci
+- bori ta jima'i
+- rikonan bori (possession trance)
+- wuta ta bori
+
+## Culture-specific — 'yan daudu (Hausa feminized-men community)
+- dan daudu
+- 'yan daudu
+- matsayin mace
+- yin mace (acting as a woman)
+- sa hijabi na maza
+- gidan 'yan daudu
+- ɗaukar matan hali
+- launi na 'yan daudu
+- abokan 'yan daudu
+- 'yar daudu (masculine-presenting woman equivalent)
+- karuwancin maza (male prostitution associated with 'yan daudu)
+- aure a tsakanin 'yan daudu (marriage among 'yan daudu)
+
+## Culture-specific — polygamy and marital-sexual vocabulary
+- kishiya
+- kishiyanci
+- kulle
+- mace kulle
+- auren maza fiye da ɗaya
+- mace ta biyu
+- mace ta uku
+- mace ta huɗu
+- ɗakin gida (marital room)
+- zamantakewa (cohabitation — sexual implication)
+- auren ƙarfi (forced marriage)
+- cin amana ta aure (marital infidelity)
+- cin naman haramun (eating forbidden meat — adultery metaphor)
+- lalataccen aure (corrupt marriage)
+- azaba ta kishiya (co-wife torment)
+- dare na kishiya (co-wife's night — scheduled marital sex)
+- rakiyar mace (escorting a woman — sexual implication)

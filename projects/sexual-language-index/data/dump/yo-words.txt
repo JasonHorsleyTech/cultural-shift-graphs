@@ -1,0 +1,467 @@
+# Yoruba — sexually-charged vocabulary dump
+# Latin script with standard Yoruba orthography (tonal diacritics, ẹ/ọ/ṣ).
+# No definitions. No scoring. Just words, one per line.
+
+## Organs — penis (clinical)
+- Ẹ̀yà-ara akọ
+- Ẹ̀yà-ara ìbálòpọ̀ akọ
+- Ọ̀pọlọpọ̀ akọ
+- Ẹ̀yà ìtọ́ akọ
+
+## Organs — penis (slang/crude)
+- Òpó
+- Igi
+- Àgbàdo
+- Ọpẹ
+- Ọ̀pẹ̀lẹ̀
+- Kúukúu
+- Igi nla
+- Mọ́gun
+- Ọ̀tún akọ
+- Adé (euphemistic phallic)
+- Igbó akọ
+
+## Organs — vagina (clinical)
+- Ẹ̀yà-ara obìnrin
+- Ẹ̀yà-ara ìbálòpọ̀ obìnrin
+- Ẹ̀yà ìbálòpọ̀ ìsàlẹ̀
+
+## Organs — vagina (slang/crude)
+- Obì
+- Ọ̀bọ
+- Abe
+- Toto
+- Kpekus
+- Ẹnu ìsàlẹ̀
+- Ibi abé
+- Àpò obìnrin
+- Igbó
+- Àpáta
+- Ẹnu ìdí obìnrin
+
+## Organs — breasts (clinical)
+- Ọmú obìnrin
+- Ẹ̀yà ọmú
+- Àyà obìnrin
+- Ẹ̀yà ara ọmú
+
+## Organs — breasts (slang/crude)
+- Ọmú
+- Ẹran àyà
+- Ọmú nla
+- Àkàrà (mound — breast slang)
+- Bọọ̀ọ̀bì (from "booby" — Naija-English used in Yoruba contexts)
+
+## Organs — testicles (clinical)
+- Ẹyin akọ
+- Àpò ẹyin
+- Ẹ̀yà ẹyin akọ
+
+## Organs — testicles (slang/crude)
+- Ẹyin
+- Àpò
+- Ẹyin méjì
+- Àpò akọ
+- Okùn akọ
+
+## Organs — anus (clinical)
+- Ẹnu ìdí
+- Ibojú ìdí
+- Ìdí inú
+
+## Organs — anus (slang/crude)
+- Ìdí
+- Àpá
+- Ẹnu ẹ̀yìn
+- Ibi ìdí
+
+## Organs — clitoris (clinical)
+- Ẹ̀yà kékeré obìnrin
+- Ibi ìmọ̀rí obìnrin
+- Ẹ̀yà ìmọ̀ ọ̀bọ
+
+## Organs — clitoris (slang/crude)
+- Igi kékeré obìnrin
+- Okùn obìnrin
+- Igi obì
+
+## Organs — pubic area / genitals (general)
+- Abẹ́
+- Ibi abẹ́
+- Àgbègbè ìbálòpọ̀
+- Ẹ̀yà ìsàlẹ̀
+
+## Organs — womb / uterus (when sexually charged)
+- Inú obìnrin
+- Àpò ọmọ
+- Ibi oyún
+
+## Acts — intercourse (clinical)
+- Ìbálòpọ̀
+- Ní ìbálòpọ̀ pẹ̀lú
+- Ìdapo ara
+- Àjọṣe ìbálòpọ̀
+- Ìṣọkan ìbálòpọ̀
+
+## Acts — intercourse (slang/crude)
+- Dọ́
+- Bọ
+- Fọ́
+- Gbàgbó
+- Tẹ
+- Là
+- Gbẹnà
+- Lo
+- Ṣe ọrọ
+- Ìṣẹ́ alẹ́
+- Jẹun (euphemistic)
+- Gbádùn ara
+- Pẹ̀pẹ̀
+- Nack (Naija pidgin used in Yoruba contexts)
+- Wọ inú
+
+## Acts — fellatio (clinical)
+- Ẹnu ṣiṣe lori ẹ̀yà akọ
+- Ìfúnmí ẹnu ìbálòpọ̀ akọ
+
+## Acts — fellatio (slang/crude)
+- Jẹ òpó
+- Mú igi lẹnu
+- Bẹ igi
+- Jẹ igi
+- Mú òpó lẹnu
+
+## Acts — cunnilingus (clinical)
+- Ẹnu ṣiṣe lori ẹ̀yà obìnrin
+- Ìfúnmí ẹnu ìbálòpọ̀ obìnrin
+
+## Acts — cunnilingus (slang/crude)
+- Jẹ obì
+- Jẹ ọ̀bọ
+- Bẹ obìnrin
+- Mú ọ̀bọ lẹnu
+- Jẹ toto
+
+## Acts — masturbation (clinical)
+- Ìfọwọ́bálòpọ̀
+- Ìfẹnukò ara ẹni
+- Ìṣe ara ẹni nínú ìbálòpọ̀
+
+## Acts — masturbation (slang/crude)
+- Fọwọ́ ara rẹ
+- Dọ́ ara rẹ
+- Gbádùn ara rẹ
+- Fọwọ́ igi
+- Fọwọ́ ọ̀bọ
+
+## Acts — anal (clinical)
+- Ìbálòpọ̀ inú ìdí
+- Àjọṣe inú ìdí
+- Ìdapo ìdí
+
+## Acts — anal (slang/crude)
+- Dọ́ ìdí
+- Bọ ìdí
+- Wọ ìdí
+- Ṣiṣe inú àpá
+
+## Acts — ejaculation
+- Jáde omi (to release fluid)
+- Dà omi (to pour fluid)
+- Tú (to release — used for ejaculation)
+- Bọ́gbọ́ (vulgar ejaculation term)
+
+## Acts — stripping / sexual display
+- Tú aṣọ (undress — sexual context)
+- Fi ara hàn (expose the body)
+- Jó ìbálòpọ̀ (sexual dancing)
+- Yípo ìdí (to rotate/shake the buttocks)
+
+## Fluids and physical states — semen
+- Omi akọ
+- Omi ìbálòpọ̀
+- Omi òpó
+- Omi ẹyin
+- Ìtọ́ akọ (vulgar)
+- Omi àfúye
+
+## Fluids and physical states — vaginal fluid
+- Omi obìnrin
+- Omi ọ̀bọ
+- Omi ìbálòpọ̀ obìnrin
+- Omi àfẹ́
+
+## Fluids and physical states — menstruation (when sexually charged / taboo context)
+- Ẹ̀jẹ̀ obìnrin
+- Ọjọ́ obìnrin
+- Àkókò obìnrin
+- Ẹ̀jẹ̀ osù
+
+## Fluids and physical states — erection
+- Dídé òpó
+- Òpó tó dìde
+- Gíra
+- Igi tó dìde
+- Ìlérí (state of readiness — erection euphemism)
+- Dídán (hardness — erection descriptor)
+
+## Fluids and physical states — arousal (physical)
+- Gbígbóná ara
+- Ìmọ̀rí
+- Omi tí ó jáde (secretion during arousal)
+
+## Desire / arousal / descriptors
+- Ìfẹ́ ìbálòpọ̀
+- Ìfẹkúfẹ̀ẹ́
+- Ìmọ̀rán ìbálòpọ̀
+- Wẹ̀rẹ̀ ìbálòpọ̀
+- Gbígbóná (burning/heated with desire)
+- Ìwà ìbálòpọ̀
+- Àìfẹ́ (lack of desire)
+- Ẹni ìdákẹ́jẹ́ẹ́ (sexually cold/reserved person)
+- Olóòyún (one seized by desire)
+- Àṣejù ìbálòpọ̀ (sexual excess)
+- Ọkàn ìbálòpọ̀ (sexual fixation)
+- Ìfẹ́ líle (strong/intense desire)
+- Ìwà àgbàyanu (shameless lust)
+- Èrí ìbálòpọ̀ (sexual craving)
+- Fífẹ́ (state of wanting/desiring)
+- Ẹni tó gbóná (one who burns with desire)
+
+## Identities / orientations — clinical
+- Adófúrọ (sodomite — documented clinical-to-slur shift)
+- Ìfẹ́ àkọkúnrin (attraction to men)
+- Ìfẹ́ àbìnrìn (attraction to women)
+- Aṣèxẹ́ (asexual — neologism)
+- Onírúurú ìfẹ́ ìbálòpọ̀ (bisexual)
+- Ìjọ LGBT (LGBT community — loanword compound)
+- Àkọ tó fẹ́ àkọ (male who desires male)
+- Obìnrin tó fẹ́ obìnrin (female who desires female)
+
+## Identities / orientations — slurs
+- Adófúrọ
+- Aládófúrọ
+- Fẹ́rẹ̀fẹ́rẹ̀
+- Ọkùnrin obìnrin
+- Obìnrin akọ
+- Àbìkẹ́yìn akọ
+- Tiro (Naija internet slang for gay man, used in Yoruba contexts)
+- Àṣìwèrè ìbálòpọ̀
+- Ẹni àbánú
+- Ọkùnrin tó ní ìdí obìnrin
+- Ẹni ìbàjẹ́ ìbálòpọ̀
+- Olùdáràjú (pervert)
+
+## Insults built from sexual vocabulary
+- Ọmọ aṣẹ́wó
+- Ọmọ ìgbẹ́
+- Aṣẹ́wó (deployed as insult beyond sex work)
+- Jẹunjẹun
+- Olójú ìdí
+- Adófúrọ (as general insult)
+- Ọlọ́dọ̀
+- Àgbàyanu
+- Ẹni tó jẹ obì
+- Olólùmọ́
+- Olójijí ìdí
+- Ẹni tó ní ìdí líle
+- Ọmọ ìjókòó
+- Àgbọ̀nrín ìbálòpọ̀
+- Ẹni tó ní ìwà ìkà ìbálòpọ̀
+- Olóòtítọ́ ìbálòpọ̀ (said contemptuously)
+- Ìyá rẹ aṣẹ́wó (your mother is a prostitute — formulaic insult)
+- Ọmọ ìbàlẹ̀ (child of shame — illegitimacy insult)
+- Ọ̀dàlẹ̀ ìbálòpọ̀ (sexual traitor/betrayer)
+
+## Sex work and pornography
+- Aṣẹ́wó
+- Aṣẹ́wó obìnrin
+- Aṣẹ́wó akọ
+- Alábòṣọ
+- Ọkọ aṣẹ́wó
+- Ilé aṣẹ́wó
+- Ìgbẹ́ aṣẹ́wó
+- Ìṣẹ́ aṣẹ́wó
+- Owó ìbálòpọ̀
+- Àwòrán ìbálòpọ̀
+- Fídíò ìbálòpọ̀
+- Aṣẹ́wó aláwọ
+- Ẹni tó ta ara
+- Ọmọ ilé alẹ́
+- Àṣà alẹ́
+- Runs girl (Nigerian English used across Yoruba contexts)
+- Aristo (sugar-daddy sex partner — Nigerian slang)
+- Ọmọ runs
+- Ẹni ìṣẹ́ oru
+- Olùtajà ara
+
+## Reproductive / contraceptive (sexually charged)
+- Kondomu
+- Àpò idè ìbálòpọ̀
+- Idè ìdènà oyún
+- Fíláà
+- Àbòsí oyún
+- Oyún tí a kò fẹ́ (unwanted pregnancy — context-charged phrase)
+- Ẹyin obìnrin
+- Ìmòtótó ìbálòpọ̀
+- Abẹ́rẹ̀ idè oyún (contraceptive injection)
+- Ìdènà oyún (contraception — general)
+
+## Kink / fetish / paraphilia
+- Ìfẹ́ àjèjì ìbálòpọ̀
+- Ìfẹ́ ìrora (masochism)
+- Ìfẹ́ ìrora fifun (sadism)
+- Ìgbóná ìdí (anal pleasure seeking)
+- Ìfẹ́ aṣọ (clothing fetish)
+- Àfẹ́ ara (voyeurism)
+- Ìwo ojú (watching — voyeuristic act)
+- Ìfẹ́ ọmọ tó kéré (attraction to minors — criminal/taboo term)
+- Ìfẹ́ ẹranko (bestiality — taboo term)
+- Ìfẹ́ oku (necrophilia — taboo term)
+- Jíjẹ ìbálòpọ̀ (sexual consumption — BDSM-adjacent)
+- Ìgbóyin (bondage/restraint concept)
+- Olùjẹ ìbálòpọ̀ (sexual glutton — kink-associated)
+
+## Euphemisms and idioms
+- Ṣe ọrọ
+- Ṣiṣe alẹ́
+- Jẹun pọ̀
+- Wọ inú
+- Gbé lọ
+- Lo pẹ̀lú
+- Ní ìbára
+- Dára pọ̀
+- Gbádùn ara
+- Ṣiṣe ohun àkọ́ṣe
+- Ìdùnnú ara
+- Ó lọ sí ibẹ̀
+- Pọ̀ pẹ̀lú
+- Kí àgbàdo tọ (let the corn enter — phallic idiom)
+- Bẹ igi (oral act — also general "beg the tree" pun)
+- Jẹ àgbàdo ẹlòmíràn (eat another's corn — infidelity idiom)
+- Ó ti ṣe ohun rẹ̀ (he/she has done their thing)
+- Ọkọ àti aya ṣiṣe (husband and wife doings — intercourse euphemism)
+- Sunmọ rẹ̀ (draw near — intercourse euphemism)
+- Wọ inu àjà (go inside the house — intercourse metaphor)
+- Ìjókòó pẹ̀lú (sit with — intimacy euphemism)
+- Gbé omi (carry/give water — sex favor euphemism)
+
+## Archaic / literary / dated
+- Ìgbeyàwó (consummation — archaic first-night usage)
+- Ìwà irú (such behavior — old sexual misconduct euphemism)
+- Aṣàálẹ́ (night wanderer — old term for promiscuous person)
+- Àbẹ̀rẹ̀ àti àpò (needle and bag — classical intercourse metaphor)
+- Ìsọkúṣo (sexual frivolity — archaic)
+- Àpọ̀jù ara (bodily excess — old moral term)
+- Ẹni aṣálẹ́ (night person — old term for prostitute)
+- Ìwà-ìbàjẹ́ ìbálòpọ̀ (sexual moral corruption — Christian-era coinage)
+- Ìṣòro ìbálòpọ̀ (sexual disorder — old clinical language)
+- Ọlọ́mọ ẹyẹ (old literary genital metaphor)
+- Ará ìkọ̀kọ̀ (secret body — old modesty euphemism)
+- Ìwà àìjẹ́wọ́ (unwillingto-admit behavior — old shame term for sex)
+- Aṣèwà (archaic for one who does sexual acts)
+- Ẹni ìpẹ̀rọ̀ (one of wandering — archaic for lecher)
+- Ìtọ́jú ìbálòpọ̀ (sexual propriety — old conduct term)
+- Ọba ìbálòpọ̀ (king of sexuality — literary/poetic title for a skilled lover)
+
+## Internet / subculture
+- Kpekus (Naija-wide slang used in Yoruba contexts)
+- Toto
+- Nack
+- Runs girl
+- Aristo
+- Slay queen (sexually available woman — Nigerian English used across Yoruba areas)
+- Ṣe cruise
+- Ṣe hook-up
+- Kini (thing — internet genital euphemism)
+- Tiro
+- Àwòrán ìgbádùn (internet pornography)
+- Fídíò tó dára (internet pornography — "nice video" euphemism)
+- Ẹni bally (slang lover/sexual partner)
+- Ọmọ ìgbádùn (pleasure-seeker — internet slang)
+- Ará ìgboro (one of the streets — promiscuous internet slang)
+- E choke (it's overwhelming — used in sexual appreciation context, Nigerian internet)
+- Ẹni tó level up (one who upgraded — used for transactional sex)
+- Baddie (sexually attractive woman — used in Yoruba internet contexts)
+- Ẹni tó fine (one who is fine/attractive — used with sexual connotation)
+- Toasting (sexual pursuit/courting — Nigerian English used in Yoruba areas)
+- Yellow fever (attraction to light-skinned partners — Naija internet used in Yoruba)
+
+## Culture-specific — sexual honor and shame (ọlá ìbálòpọ̀ àti ìtìjú)
+- Ìbàjẹ́ (sexual defilement)
+- Ìwà àbùkù
+- Ọ̀wọ̀ ara (self-respect — violated by sexual transgression)
+- Ẹni tó bàjẹ́ (defiled person — used of unmarried sexually active women)
+- Ìtìjú ìbálòpọ̀
+- Ọmọ àìní baba (fatherless child — social shame marker)
+- Ìwà obìnrin tó dára (normative sexual constraint on women)
+- Àṣà ìbálòpọ̀ (sexual custom)
+- Ẹni tó ṣubú (fallen woman)
+- Ìya àgbàyanu (shameless/immodest woman)
+- Ẹni àìmọ́ (ritually unclean after sexual transgression)
+- Arọ̀ (sexual taboo state)
+- Ìgbàgbọ́ ìbálòpọ̀ (sexual belief — cultural norm)
+- Ọkàn ẹlẹ́jọ́ (judged heart — one whose sexuality is socially condemned)
+- Ìdálẹ́bi ìbálòpọ̀ (sexual condemnation — community judgment)
+- Obìnrin tó ṣubú (woman who has fallen — shame term for premarital sex)
+- Ẹni tí a sọ̀rọ̀ rẹ̀ (one people talk about — sexual reputation damage)
+
+## Culture-specific — fertility and Yoruba spiritual sexuality (ìbálòpọ̀ àti àṣà ìsìn)
+- Ọṣun (orisha of love, sexuality, fertility)
+- Omi Ọṣun (Oshun's water — feminine sexual/fertility symbol)
+- Ẹbọ ìmọ̀ (fertility ritual)
+- Ẹbọ ìfẹ́ (love/sexual attraction ritual)
+- Àṣà ìwà ìbálòpọ̀ (sexual ritual practice)
+- Ọkùnrin agbára (virile man — spiritual potency concept)
+- Ògún ìfẹ́ (love medicine — Ogun-associated virility)
+- Ṣàngó ìbálòpọ̀ (Shango-associated sexual power)
+- Àṣà ìgbéyàwó (consummation ritual)
+- Ẹbọ obìnrin (women's ritual — fertility-sexual)
+- Ìwọ̀fà ìbálòpọ̀ (ritual sexual obligation)
+- Ọmọ Ọṣun (child of Oshun — one with sexual magnetism by divine gift)
+- Àṣà ilé (household ritual — includes post-sex purity rules)
+- Ewọ ìbálòpọ̀ (sexual taboo — àṣà prescribed)
+- Ìwà ìbálòpọ̀ inú ìsìn (sexual conduct within religious practice)
+- Orí ìbálòpọ̀ (sexual destiny/head — spiritual sexual fate concept)
+
+## Culture-specific — sexual potency and impotence (agbára àti àìlera ìbálòpọ̀)
+- Agbára ìbálòpọ̀
+- Àìlera ìbálòpọ̀
+- Ọkùnrin tó kú (dead man — impotent man euphemism)
+- Arọ̀ (limp — erectile dysfunction)
+- Ọkùnrin aláìlágbára
+- Agbára akọ
+- Ọ̀gùn agbára (virility medicine)
+- Tó dìde (the one who stands — potency reference)
+- Elérò (one with ritual virility power)
+- Àmùrè ìbálòpọ̀ (sexual tonic/charm)
+- Ọkùnrin alákòóbí (man who satisfies sexually)
+- Obìnrin tó gbóná (woman who arouses easily)
+- Àìlera ìdí (anal weakness — impotence variant)
+- Ọkùnrin tó ní ẹsẹ̀ (man with legs/strength — virility metaphor)
+- Ìmú ìdí (sexual grabbing power)
+
+## Culture-specific — promiscuity vocabulary (ìwà àgbọ̀nrín)
+- Àgbọ̀nrín
+- Olójà
+- Aṣòde
+- Ẹlẹ́gbẹ̀
+- Obìnrin ọ̀pọ̀ ọkọ
+- Ọkùnrin ọ̀pọ̀ aya
+- Ẹni tó jẹ ọ̀pọ̀
+- Àgbàdo aláwọ
+- Olúkọ ìbálòpọ̀ (sexual teacher — ironic for promiscuous person)
+- Ẹni tó rin kakiri (one who walks everywhere — promiscuity metaphor)
+- Ọmọ igbó (bush child — used of promiscuous woman)
+- Ẹni gbogbo (everyone's person — promiscuity term)
+- Olóore gbogbo (benefactor of all — ironic promiscuity term)
+- Ẹni tó ṣiṣe pẹ̀lú gbogbo ènìyàn (one who does it with everyone)
+
+## Culture-specific — sexual insult against ancestry and lineage
+- Ìyá rẹ aṣẹ́wó
+- Baba rẹ adófúrọ
+- Ìdílé aṣẹ́wó (prostitute family — lineage insult)
+- Ọmọ ìbàlẹ̀
+- Ọmọ ibẹ̀ (child of that place — implied illegitimacy)
+- Ìran aṣẹ́wó (prostitute lineage — generational insult)
+- Ẹni tí a kò mọ baba rẹ̀ (one whose father is unknown — illegitimacy insult)

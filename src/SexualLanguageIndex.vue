@@ -944,13 +944,12 @@ function pieSliceArcs(slices: PieSlice[], radius: number) {
       <div class="mt-4">
         <div class="text-xs text-[var(--text-muted)] mb-2">
           Language: <strong class="text-[var(--text-primary)]">{{ langName(anatomyLang) }}</strong>
-          <span class="ml-2">(hover any chip to switch)</span>
+          <span class="ml-2">(click any chip to switch)</span>
         </div>
         <div class="flex flex-wrap gap-1">
           <button
             v-for="lang in sortedLanguages"
             :key="lang.code"
-            @mouseenter="anatomyLang = lang.code"
             @click="anatomyLang = lang.code"
             :class="[
               'px-2 py-1 text-xs rounded border cursor-pointer font-mono transition-colors',
@@ -1196,7 +1195,6 @@ function pieSliceArcs(slices: PieSlice[], radius: number) {
           v-for="c in allCategoriesByPopularity"
           :key="c.cat"
           @click="leaderboardCategory = c.cat"
-          @mouseenter="leaderboardCategory = c.cat"
           :class="[
             'px-2.5 py-1 text-xs rounded border cursor-pointer transition-colors',
             leaderboardCategory === c.cat

@@ -26,6 +26,7 @@ export default defineConfig({
         bibleContentBreakdown: resolve(root, 'graphable/bible-content-breakdown/index.html'),
         scienceToActionLag: resolve(root, 'graphable/science-to-action-lag/index.html'),
         sexualLanguageIndex: resolve(root, 'graphable/sexual-language-index/index.html'),
+        churchOrganistDecline: resolve(root, 'graphable/church-organist-decline/index.html'),
       },
     },
   },

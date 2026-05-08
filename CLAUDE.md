@@ -155,11 +155,11 @@ Update `status` as the **last action** of each agent invocation. If the agent di
 
 ## Graph types
 
-There are two kinds of graphs. See `graph-conventions.md` for file templates and the full checklist.
+There are three kinds of graphs. See `graph-conventions.md` for file templates and the full checklist.
 
 ### Research graphs
 
-The main product. Full project lifecycle (explore → plan → research → graph → review → deploy). Data is real, gathered by AI agents. These go through `projects/` and the automated pipeline.
+The main product. Full project lifecycle (explore → plan → research → graph → review → deploy). Data is real, gathered by AI agents across many tickets. These go through `projects/` and the automated pipeline.
 
 Per-graph assets for a slug like `egg-quality-timeline`:
 
@@ -169,9 +169,29 @@ Per-graph assets for a slug like `egg-quality-timeline`:
 - `src/<PascalSlug>.vue` — Graph component. Imports data, does aggregation, renders chart.
 - New entry in `vite.config.js` → `build.rollupOptions.input`.
 
+### One-off graphs
+
+Lightweight real research where the data exists but the question doesn't justify a full project. Jason says something like "this is interesting, can you do a bit of digging and make a chart?" Real numbers, honest about estimation, built in a single conversation — no project directory, no tickets, no orchestrator.
+
+Use cases:
+- Personal questions with thin or scattered data, where the work is triangulating from weak signals rather than collecting from strong ones
+- Spinoffs from a research graph that are interesting but don't merit graduation into a full project
+- Anything where the answer is "it's complicated, here's the best estimate, here's the uncertainty"
+
+The defining feature: **transparent about methodology in the graph itself.** When something is estimated, label it. Show error bands or ranges where appropriate. The honesty is the point — it's the difference between a one-off and a sketch.
+
+Per-graph assets for a slug like `church-organist-decline`:
+
+- `graphable/<slug>/index.html`
+- `src/<slug>.js`
+- `src/<PascalSlug>.vue` — data inline OR in a thin `src/data/<slug>.ts` if there's enough volume to justify separation
+- Entry in `vite.config.js`
+
+Listed under **One-offs** on the landing page.
+
 ### Sketch graphs
 
-Quick, illustrative, one-off graphs where the data is made up but the shape communicates a concept. Think XKCD — the numbers aren't real, but you go "oh yeah, that's right." Jason says "I want a sketch" and you workshop the concept, build it in the same conversation, and deploy.
+Quick, illustrative graphs where the data is made up but the shape communicates a concept. Think XKCD — the numbers aren't real, but you go "oh yeah, that's right." Jason says "I want a sketch" and you workshop the concept, build it in the same conversation, and deploy.
 
 Sketches skip the entire project lifecycle. No `projects/` directory, no data file, no tickets. Just:
 

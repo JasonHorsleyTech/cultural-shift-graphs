@@ -116,9 +116,25 @@
           href="/graphable/sexual-language-index/"
           class="underline decoration-2 underline-offset-4 hover:decoration-[var(--text-muted)]"
         >
-          Sexual language across 21 languages
+          Sexual language across 40 languages
         </a>
-        <span class="text-[var(--text-muted)] text-sm ml-2">(12,000+ terms, novel concepts, M/F ratios — partial data, still landing)</span>
+        <span class="text-[var(--text-muted)] text-sm ml-2">(21,000+ terms, novel concepts, M/F ratios — still landing)</span>
+      </li>
+    </ul>
+
+    <hr class="mt-12 border-[var(--border)]" />
+
+    <h2 class="mt-10 text-xl font-semibold">One-offs</h2>
+    <p class="mt-1 text-sm text-[var(--text-muted)]">Smaller questions that don't justify a full research project but do deserve real numbers. Honest about what's measured and what's estimated.</p>
+    <ul class="mt-4 space-y-2">
+      <li>
+        <a
+          href="/graphable/church-organist-decline/"
+          class="underline decoration-2 underline-offset-4 hover:decoration-[var(--text-muted)]"
+        >
+          Did the church organist die?
+        </a>
+        <span class="text-[var(--text-muted)] text-sm ml-2">(estimated, with uncertainty bands — for my dad)</span>
       </li>
     </ul>
 

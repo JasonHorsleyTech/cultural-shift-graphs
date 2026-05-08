@@ -10,27 +10,46 @@ import {
 } from './data/sexual-language-index'
 
 const LANG_NAMES: Record<string, string> = {
+  am: 'Amharic',
   ar: 'Arabic',
+  bg: 'Bulgarian',
+  bn: 'Bengali',
+  cs: 'Czech',
+  da: 'Danish',
   de: 'German',
   el: 'Greek',
   en: 'English',
   es: 'Spanish',
   fa: 'Persian',
+  fi: 'Finnish',
   fr: 'French',
+  ha: 'Hausa',
   he: 'Hebrew',
   hi: 'Hindi',
+  hu: 'Hungarian',
   id: 'Indonesian',
   it: 'Italian',
   ja: 'Japanese',
   ko: 'Korean',
+  ms: 'Malay',
   nl: 'Dutch',
+  no: 'Norwegian',
   pl: 'Polish',
   'pt-BR': 'Portuguese (BR)',
+  ro: 'Romanian',
   ru: 'Russian',
+  sv: 'Swedish',
+  sw: 'Swahili',
+  ta: 'Tamil',
   th: 'Thai',
+  tl: 'Tagalog',
   tr: 'Turkish',
+  uk: 'Ukrainian',
+  ur: 'Urdu',
   vi: 'Vietnamese',
+  yo: 'Yoruba',
   zh: 'Chinese',
+  zu: 'Zulu',
 }
 const langName = (code: string): string => LANG_NAMES[code] ?? code
 
@@ -745,7 +764,7 @@ function pieSliceArcs(slices: PieSlice[], radius: number) {
 </script>
 
 <template>
-  <GraphWrapper title="Sexual language across 21 languages" maxWidth="6xl">
+  <GraphWrapper :title="`Sexual language across ${languages.length} languages`" maxWidth="6xl">
     <template #subtitle>
       How many words does each language have for each body part, act, identity, or
       desire — and which concepts exist in some languages but not others.

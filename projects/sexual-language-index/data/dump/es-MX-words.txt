@@ -1,0 +1,652 @@
+# Mexican Spanish (regional, focus on Mexico-specific slang) — sexually-charged vocabulary dump
+# Latin script.
+# No definitions. No scoring. Just words, one per line.
+
+## Organs — penis (clinical)
+- pene
+- falo
+- miembro viril
+- órgano genital masculino
+- glande
+- prepucio
+- cuerpo cavernoso
+- uretra peniana
+- gónada masculina
+
+## Organs — penis (slang/crude)
+- verga
+- pito
+- chile
+- pija
+- picha
+- chorizo
+- nabo
+- palo
+- vara
+- tranca
+- garrote
+- tronco
+- manguera
+- instrumento
+- fierro
+- herramienta
+- aparato
+- bicho
+- pirula
+- paloma
+- pájaro
+- pajarito
+- pepino
+- gusano
+- serpiente
+- cipote
+- pepe
+- güevo
+- cheto
+- pirulo
+
+## Organs — vagina (clinical)
+- vagina
+- vulva
+- labios mayores
+- labios menores
+- himen
+- monte de venus
+- vestíbulo vaginal
+- introito
+- perineo femenino
+
+## Organs — vagina (slang/crude)
+- panocha
+- coño
+- concha
+- chocho
+- papaya
+- almeja
+- raja
+- rajita
+- ranura
+- grieta
+- cueva
+- toto
+- totito
+- pepa
+- crica
+- pucha
+- puchi
+- papacha
+- papayota
+- conejo
+- peluda
+- bolsita
+- chochito
+- cosita
+- chucha
+
+## Organs — breasts (clinical)
+- mamas
+- senos
+- glándulas mamarias
+- areola
+- pezón
+- tetilla
+- busto
+
+## Organs — breasts (slang/crude)
+- chichis
+- tetas
+- bubis
+- melones
+- manzanas
+- peras
+- calabazas
+- lolas
+- chichotes
+- globos
+- pelotas
+- nenas
+- fresas
+- pechugas
+
+## Organs — testicles (clinical)
+- testículos
+- escroto
+- epidídimo
+- gónadas
+
+## Organs — testicles (slang/crude)
+- huevos
+- güevos
+- bolas
+- cojones
+- pelotas
+- tanates
+- turmas
+- cataplines
+- blanquillos
+- albóndigas
+- garbanzos
+- bolompos
+
+## Organs — anus (clinical)
+- ano
+- esfínter anal
+- recto
+
+## Organs — anus (slang/crude)
+- ojete
+- fundillo
+- culo
+- siete
+- asterisco
+- anillo
+- hoyito
+- rosquete
+- buche
+- pompas
+
+## Organs — clitoris (clinical)
+- clítoris
+- glande clitoridiano
+- prepucio del clítoris
+
+## Organs — clitoris (slang/crude)
+- botón
+- campanita
+- rosita
+- pepita
+- chícharo
+- frijolito
+- puntita
+
+## Acts — intercourse (clinical)
+- coito
+- cópula
+- cópula carnal
+- relación sexual
+- fornicación
+- penetración
+- ayuntamiento carnal
+- cohabitación carnal
+- contacto sexual
+
+## Acts — intercourse (slang/crude)
+- chingar
+- coger
+- culear
+- clavar
+- templar
+- picar
+- meter
+- dar
+- tirarse
+- jalar
+- cepillar
+- pisar
+- montar
+- cabalgar
+- enchinar
+- singlar
+- rotar
+- encular
+- follar
+- echar un palo
+- echar un polvo
+- echar un quiqui
+- darse un revolcón
+- revolcarse
+- hacer el amor (euphemistic but sexually explicit)
+
+## Acts — oral sex (clinical)
+- felación
+- fellatio
+- cunnilingus
+- sexo oral
+- anilingus
+
+## Acts — oral sex (slang/crude)
+- mamada
+- mamar
+- chupar
+- libar
+- dar cabeza
+- dar oral
+- comer
+- lamer
+- pelar el plátano
+- soplar
+- hacer una francesa
+- chupar el pito
+- comer la panocha
+
+## Acts — masturbation (clinical)
+- masturbación
+- onanismo
+- autoestimulación sexual
+- auto-erotismo
+- estimulación manual
+
+## Acts — masturbation (slang/crude)
+- chaqueta
+- hacerse la chaqueta
+- paja
+- hacerse la paja
+- pajita
+- jalársela
+- cascársela
+- pelársela
+- pajearse
+- chaquetear
+- agarrársela
+- puneta
+- manosearse
+
+## Acts — anal sex (clinical)
+- coito anal
+- penetración anal
+- sexo anal
+
+## Acts — anal sex (slang/crude)
+- encular
+- meterla por atrás
+- romper el siete
+- dar por el fundillo
+- por el culo
+
+## Fluids and physical states
+- semen
+- esperma
+- eyaculación
+- leche
+- lefa
+- melcocha
+- baba
+- moco
+- lubricación vaginal
+- fluido vaginal
+- chorros
+- squirt
+- erección
+- estar parado
+- estar duro
+- estar tieso
+- empalmarse
+- empalmado
+- orgasmo
+- clímax
+- correrse
+- acabar
+- venirse
+- despacharse
+- descargar
+- eyacular
+- mojada
+
+## Desire / arousal / descriptors
+- cachondo
+- cachonda
+- caliente
+- calentura
+- calentón
+- calentona
+- ardiente
+- rijoso
+- rijosa
+- salido
+- salida
+- libidinoso
+- lujurioso
+- lascivo
+- lasciva
+- morboso
+- morbo
+- excitado
+- excitada
+- encachondado
+- antojado
+- antojada
+- arrecho
+- arrechado
+- encabronado
+- pervertido
+- frígida
+- frígido
+- soso
+- aguado
+- mojigato
+- mojigata
+- pacato
+- pacata
+- remilgoso
+- gazmoño
+- reprimido
+- reprimida
+
+## Identities and orientations — clinical
+- homosexual
+- heterosexual
+- bisexual
+- asexual
+- pansexual
+- queer
+- intersexual
+- transexual
+- transgénero
+- no binario
+- lesbiana
+- gay
+- orientación sexual
+- identidad de género
+
+## Identities and orientations — slurs
+- joto
+- jota
+- maricón
+- marica
+- puto
+- putito
+- culero
+- volteado
+- invertido
+- desviado
+- anormal
+- raro
+- rarito
+- loca
+- mariposón
+- mariposa
+- afeminado
+- amanerado
+- floto
+- flota
+- tortillera
+- torta
+- machorra
+- marimacha
+- travelo
+- chichifo
+- chapulín
+
+## Insults built from sexual vocabulary
+- hijo de puta
+- hijo de la chingada
+- chinga tu madre
+- chingada madre
+- ve a la chingada
+- cabrón
+- cabrona
+- pendejo
+- pendeja
+- mamón
+- mamahuevos
+- comehuevos
+- culero
+- ojete
+- pinche cabrón
+- pinche pendejo
+- hijo de su chingada madre
+- tu puta madre
+- chingadera
+- mamadas
+- putazo
+- vergazo
+- zorra
+- puta
+- golfa
+- perra
+- piruja
+- facilona
+- resbalosa
+- regalada
+- putísima
+- ninfómana
+- de cascos ligeros
+- de la vida alegre
+- cómeme el culo
+- chupa mi verga
+
+## Sex work and pornography
+- prostituta
+- meretriz
+- cortesana
+- sexoservidora
+- sexoservidor
+- trabajadora sexual
+- escolta
+- prepago
+- scort
+- chica de compañía
+- taxi boy
+- gigolo
+- chichifo
+- padrote
+- proxeneta
+- lenón
+- macró
+- rufián
+- cafiche
+- putero
+- burdel
+- prostíbulo
+- casa de citas
+- table dance
+- fichera
+- fichero
+- zona de tolerancia
+- la zona
+- pornografía
+- porno
+- material para adultos
+- webcamming
+- OnlyFans
+- OF
+- contenido para adultos
+- creador de contenido adulto
+
+## Reproductive and contraceptive (sexually charged)
+- condón
+- hule
+- gorrito
+- guante
+- impermeable
+- cobertor
+- pastilla anticonceptiva
+- pastilla del día siguiente
+- anticoncepción
+- ligadura de trompas
+- vasectomía
+- aborto
+- embarazo no deseado
+
+## Kink, fetish, paraphilia
+- BDSM
+- bondage
+- dominación
+- sumisión
+- dominante
+- sumiso
+- sumisa
+- ama
+- esclavo sexual
+- fetiche
+- fetichismo
+- voyeurismo
+- exhibicionismo
+- sadomasoquismo
+- masoquismo
+- sadismo
+- juego de roles
+- role-playing
+- pegging
+- fisting
+- dogging
+- orgía
+- trío
+- ménage à trois
+- intercambio de parejas
+- swing
+- swinger
+- cuckold
+- necrofilia
+- zoofilia
+- bestialismo
+- fetiche de pies
+- cosplay sexual
+
+## Euphemisms and idioms
+- echar un palito
+- hacerlo
+- irse a la cama
+- conocerse carnalmente
+- darse un revolcón
+- estar con alguien
+- saltar las trancas
+- brincar las bardas
+- meterse al taller
+- calentar el motor
+- mojar el bizcocho
+- meter el pan al horno
+- regar el jardín
+- sacar el jugo
+- echar el cuete
+- hacer el dos por tres
+- ponerse al tiro
+- poner el dedo
+- tirar la onda
+- tirar los perros
+- levantar
+- levante
+- pelar el diente
+- darse un taco de ojo
+- comer con los ojos
+- nomás ver pa' comer
+
+## Archaic and literary
+- fornicación
+- lujuria
+- concupiscencia
+- carnalidad
+- lascivia
+- impudicia
+- estupro
+- incontinencia carnal
+- solicitación carnal
+- pecado de la carne
+- mancebía
+- amancebamiento
+- barragana
+- concubina
+- concubinato
+- dama de compañía
+- querida
+- galanear
+- requebrar
+- lisonjear
+- desflorar
+- desfloración
+- quitarle la honra
+- ultrajar
+- ultraje
+- recato
+- honra
+- deshonra
+- mancilla
+
+## Internet and subculture
+- sexting
+- sextear
+- nudes
+- pack
+- paquete
+- cibersexo
+- thirst trap
+- simp
+- FWB
+- amigos con derechos
+- con derechos
+- sugar daddy
+- sugar baby
+- hookup
+- ghostear
+- rizz
+- fap
+- hentai
+- doujin
+- lemon
+- ship sexual
+- rule 34
+
+## Culture-specific — albur (Mexican double-entendre tradition)
+- albur
+- alburero
+- alburera
+- echar albures
+- juego de palabras doble sentido
+- doble sentido
+- de pica
+- picante
+- picoso
+- hablar con doble filo
+- cargar el albur
+
+## Culture-specific — honor and shame economy
+- honor
+- honra
+- deshonra
+- mancha
+- vergüenza
+- sinvergüenza
+- descaro
+- cabrón
+- cornudo
+- poner los cuernos
+- cuernos
+- infiel
+- infidelidad
+- lavar la honra
+- defender el honor
+- virginidad
+- virgen
+- machismo
+- macho
+- muy macho
+- chingón
+- chingada
+- la chingada
+- malinchismo
+- ser el mandilón
+- mandilón
+
+## Culture-specific — Mexican sexual archetypes and roles
+- mamacita
+- papacito
+- papá
+- mami
+- papi
+- chula
+- chulo
+- buenota
+- buenote
+- cuero
+- yegua
+- cañón
+- querendona
+- querido
+- querida
+- amante
+- casanova
+- don juan
+- coqueta
+- coqueto
+- ligar
+- liguero
+- galán
+- galanteo
+- piropo
+- piropear
+- nalgón
+- nalgona
+- tetona
+- culona
+- vergazo
+- chichona

@@ -1,0 +1,91 @@
+# Sam Wheat
+
+## Character Summary
+- **Source work:** *Ghost* (1990, film), Paramount Pictures, dir. Jerry Zucker, written by Bruce Joel Rubin. Sam Wheat portrayed by Patrick Swayze; Molly Jensen by Demi Moore; Oda Mae Brown by Whoopi Goldberg; Carl Bruner by Tony Goldwyn.
+- **Audience:** female-targeted
+- **Decade slot:** 1980s (canonical 1990 release; counted in the project's 1980s slot per heartthrobs.md, sitting at the 80s/90s cusp similarly to other early-1990 cultural artifacts)
+- **Cultural reach proxy:** Worldwide gross $505.7M on a ~$22M budget — the **highest-grossing film of 1990 worldwide** (second-highest in US after *Home Alone*) and at release the third-highest-grossing film of all time. Five Academy Award nominations including Best Picture; wins for Best Original Screenplay (Bruce Joel Rubin) and Best Supporting Actress (Whoopi Goldberg). The pottery scene set to "Unchained Melody" is one of the most parodied moments in film history; "ditto" became cultural shorthand for "I love you." The Righteous Brothers' "Unchained Melody" re-charted to #1 on the back of the film. Routinely cited on retrospective rom-com / "great movie boyfriend" lists 35 years later. Also adapted as a stage musical (2011 West End / 2012 Broadway).
+- **Canonical version used:** 1990 theatrical film. The 2011/2012 stage musical preserves the character but is not used as canon.
+
+## Universal-Desirable Traits
+
+| Trait | Threshold/Filter | Base rate | Source |
+|---|---|---|---|
+| Physical fitness | Top quintile (Patrick Swayze was a classically trained ballet dancer — Harkness Ballet School and Joffrey Ballet School — combined with martial-arts training [karate, aikido] and weight-training discipline; visibly lean-muscular athletic physique throughout the film; the character physically carries Molly during the pottery scene, fights off the mugger Willie Lopez in the alley sequence, and is consistently coded as a fit professional rather than a sedentary banker) | 0.20 | base-rates.md → Physical fitness top quintile (adult men) |
+| Age in prime window | 28–38 (Patrick Swayze was 37 during principal photography, 38 at release — 1952 birth year, summer 1989 filming; the character is canonically a young-to-mid-career investment banker living with a long-term girlfriend in a Tribeca loft, plausibly 30–35; sits squarely inside the 28–38 prime window) | 0.094 | base-rates.md → Age 28–38 (US adult men) |
+| Family unencumbered | No spouse, no kids, no canonically depicted family obligations (Sam lives with Molly as her unmarried partner; no children depicted; no parents, siblings, or in-laws appear or are referenced in the film; his only meaningful attachment is Molly herself, and after death even that becomes a unilateral devotion arc rather than a mutual obligation) | 0.05 | base-rates.md → Family unencumbered (US adult men) |
+
+Traits considered and excluded:
+
+- **Height (≥ 6'2")**: Patrick Swayze is canonically 5'10" (178 cm). The character is not depicted or framed as notably tall. Does NOT clear the threshold. Excluded.
+- **Income (≥ $10M/yr)**: Sam is an investment banker at a mid-tier NYC bank with his friend/colleague Carl Bruner. The film depicts an upper-middle-class lifestyle — recently moved into a Tribeca loft (described in canon as a fixer-upper that he and Molly are renovating themselves), shared with girlfriend, no luxury markers (helicopter, jet, penthouse). Investment-banking compensation in 1990 NYC even at the mid-VP level would be in the high six figures, NOT $10M+/yr. The ticket itself notes the income tier as "moderate-to-high." Does NOT clear the project's $10M/yr threshold. Excluded. (Note: project convention does NOT down-tier income to $1M/yr or $500K/yr — the threshold is what it is. A reviewer wanting a finer-grained income trait would land Sam at the top 1–5% of earners, ≈ 0.01–0.05.)
+- **Intelligence (≥ 130 IQ)**: Sam discovers a multi-million-dollar accounting discrepancy in bank-account balances at work and confides it in Carl, which sets the murder plot in motion. This indicates competent professional intelligence but not exceptional (≥130 IQ = top 2%). The character is consistently coded as a smart, kind, hardworking professional — not a coded "genius" in the way Edward Cullen, Christian Grey, or Mr. Darcy are stacked-IQ. Honest reading: Sam's intelligence is "plausible mid-career investment-banker tier," which is above population mean but does NOT clearly clear the 130-IQ bar. Excluded; flagged in Notes for the borderline read.
+- **Musical/artistic skill (professional/virtuoso)**: NOT depicted. The pottery scene is *Molly's* art — Sam is the supportive partner sitting behind her at the wheel. Sam himself is not shown to play music, paint, sculpt, or otherwise practice an art form. Excluded.
+- **Additional expert skills (chef / pilot / surgeon / mechanic / etc.)**: None established. Banking is his profession (does not count per project convention — protagonist's job ≠ stacked side skill). No other skill stacking. Excluded.
+- **Languages beyond English**: No canonical evidence Sam speaks any non-English language. Excluded.
+
+## Personality / Characterization (Excluded from Calc)
+
+- **Devotion beyond the grave / "ditto" arc**: The defining personality trait of the character — Sam refuses to "move on" until Molly is safe, learning to manipulate the physical world from the spirit plane to protect her. This is the romantic-devotion fantasy at its purest, but it is *characterization*, not a universal-desirable slider. Per plan, devotion/loyalty traits do not count toward the joint-probability stack.
+- **Tragic-loss / sacrificial love**: The audience is invited to fall in love with Sam *because* he dies and stays. This is a structural narrative device (the romantic equivalent of dying-young heartthrob mythology), not a quantifiable universal-desirable.
+- **Quiet emotional restraint / "I love you" → "ditto"**: Sam's reluctance to say "I love you" out loud (until it's too late) is a personality coding — emotional understatement read by some audiences as romantic depth, by others as withholding. Preferences split.
+- **Wholesome boyfriend / decent man / moral baseline**: Sam is depicted as kind, faithful, hardworking, honest, supportive of Molly's art career. This wholesomeness is core to the character's cultural appeal (he's a "good man," not a brooding bad-boy). Personality-coded — universal-desirable in the broadest sense, but not a measurable slider in the project's framework.
+- **Gentleness with Molly / supportive partner of artist girlfriend**: Personality coding, not slider.
+- **Loyal-friend-betrayed-by-best-friend backstory**: The Carl-Bruner-as-villain reveal makes Sam a betrayed-innocent character — a sympathy hook, not a universal-desirable trait.
+- **Sense of humor / playful banter**: Personality, not slider.
+
+## Joint Probability
+
+- **Method:** threshold (female-target stack)
+- **Naive product of marginals:**
+  0.20 × 0.094 × 0.05
+  = 0.0188 × 0.05
+  = **9.4e-4**
+  (≈ 1 in 1,064)
+- **Correlation adjustment:**
+  - **Physical fitness ↔ age 28–38 (mild positive correlation, pulls slightly more rare in product, less rare in joint).** Per base-rates.md fitness entry: "Mild positive correlation with younger ages (peak fitness 25–35), so for characters in the 28–38 prime window the marginal slightly understates." Naive product slightly OVERSTATES rarity for the (fitness × prime-age) joint by ~1.1–1.2x. Pulls joint **~1.1x less rare**.
+  - **Fitness ↔ family unencumbered (approximately independent).** No strong joint signal. Family status is largely independent of physical fitness at the population level. No adjustment.
+  - **Age ↔ family unencumbered (mild signal, complex).** Per base-rates.md family-unencumbered entry: "Weakly correlated with age (older = more likely orphan, but also more likely to have own family). For men 28–38 specifically, slightly lower (~4%) than population average; using 5% for simplicity." This means using the marginal 0.05 for a man in the 28–38 window slightly OVERSTATES the conditional probability. Pulls joint **~1.2x more rare** if conditioning. Net: roughly cancels the fitness × age adjustment.
+  - **Net direction:** Sam Wheat's stack is structurally short (3 universal-desirable traits, all demographic/physical, none skill-stacked) and contains NO time-budget-binding mastery traits. Correlations among the three traits are weak and roughly cancel. Net adjustment is approximately neutral — well within the noise floor of the marginals themselves.
+- **Adjusted estimate:** ~**1e-3** (≈ 1 in 1,000). Bracket: [5e-4, 2e-3].
+- **Population implication:** Out of ~127M US adult men (Census 2024), expected matches ≈ **127,000** — roughly *one in a thousand* US adult men matches Sam Wheat's full universal-desirable stack. This is, by an enormous margin, the **least rare female-targeted heartthrob processed in this project so far**. Sam sits at moderate rarity (~1e-3) below Jack Dawson tier (~1.5e-5), Will Turner tier, and orders of magnitude below Christian Grey tier (~2e-24) or Edward Cullen tier (~1e-18). The cultural-staying-power of the character is overwhelmingly explained by personality and narrative archetype (devotion-from-beyond-the-grave + tragic-romance + iconic pottery scene) rather than slider-stacking. Sam Wheat is the project's clearest exemplar of the "wholesome regular guy elevated to romantic immortality by personality and circumstance" mode of female-target heartthrob.
+
+## Confidence Assessment
+- **Overall:** medium-high
+- **Trait identification:** high — Sam's traits are clearly established in canon (banker, ~30s, fit/dancer's build, lives with girlfriend Molly, no other family or kids depicted, no skill-stacking). The character is structurally simple by stack-rarity standards; almost no ambiguity about which traits do or don't apply.
+- **Base rates:** high — all three included base rates (fitness 0.20, age 0.094, family unencumbered 0.05) are well-grounded in NHANES, Census, and composite Pew/Cornell sources, already validated in earlier tickets in this project.
+- **Correlation adjustments:** high — three demographic traits with weak, well-understood correlations that approximately cancel. The net adjustment is small and the direction is well-supported.
+
+## Sources
+
+Character and trait identification:
+- [Ghost (1990 film) — Wikipedia](https://en.wikipedia.org/wiki/Ghost_(1990_film)) — film overview, cast, plot, box office, awards, character framing
+- [Sam Wheat — Ghost Wiki (Fandom)](https://ghost-movie.fandom.com/wiki/Sam_Wheat) — character bio: investment banker, mugged and killed by Willie Lopez, ghost-protector arc
+- [Sam Wheat — Heroes Wiki (Fandom)](https://hero.fandom.com/wiki/Sam_Wheat) — character profile reinforcing banker / boyfriend / wholesome-protagonist framing
+- [Ghost (1990) — IMDb Plot Summary](https://www.imdb.com/title/tt0099653/plotsummary/) — full plot synopsis: Tribeca loft move-in with Molly, accounting-discrepancy discovery, Carl Bruner as betrayer-villain, mugging, ghost-arc with Oda Mae Brown
+- [Patrick Swayze — Wikipedia](https://en.wikipedia.org/wiki/Patrick_Swayze) — DOB August 18, 1952 (age 37 during 1989 principal photography, 38 at July 1990 release); ballet training under his mother Patsy Swayze, Harkness Ballet School, Joffrey Ballet School; martial-arts background (karate, aikido)
+- [Patrick Swayze — CelebHeights](https://www.celebheights.com/s/Patrick-Swayze-1095.html) — Swayze height 5'10" (178 cm), occasionally listed as 5'11"
+- *Ghost* (1990, dir. Jerry Zucker) as primary source work — establishes the pottery scene with "Unchained Melody," the alley mugging, the "ditto" exchange, the Tribeca loft setting, the bank-fraud subplot, the Oda Mae Brown medium arc
+
+Cultural reach:
+- [Ghost — Box Office Mojo](https://www.boxofficemojo.com/title/tt0099653/) — worldwide gross $505.7M; highest-grossing film of 1990 worldwide
+- [Ghost (1990) — Box Office and Financial Information (The Numbers)](https://www.the-numbers.com/movie/Ghost-(1990)) — financial data corroboration
+- [Ghost (1990) — Awards (IMDb)](https://www.imdb.com/title/tt0099653/awards/) — 5 Oscar nominations (Best Picture, Best Original Score, Best Film Editing, Best Supporting Actress, Best Original Screenplay), wins for Goldberg and Rubin; BAFTA and Golden Globe wins for Goldberg
+- [Britannica — Ghost (film)](https://www.britannica.com/topic/Ghost-film-by-Zucker) — third-highest-grossing film of all time at release; cultural-staying-power citations
+
+Base-rate sources (full citations in `base-rates.md`):
+- CDC NHANES 2017–2020 — fitness top-quintile marginal
+- US Census Bureau Population by Age and Sex 2024 — age 28–38 marginal
+- Composite (Pew + Cornell Family Reconciliation + CDC mortality) — family-unencumbered estimate
+
+## Notes / Edge Cases
+
+- **The personality-dominant mode at its purest.** Sam Wheat is the project's most extreme exemplar of the "personality-archetype" sub-mode of female-target heartthrobs (continuing the pattern observed in Jack Dawson, Han Solo, Edward Lewis, and Will Turner, but more extreme). His adjusted joint probability (~1e-3) is **two orders of magnitude less rare than Jack Dawson** (~1.5e-5) and **roughly twenty-one orders of magnitude less rare than Christian Grey** (~2e-24). And yet *Ghost* was the highest-grossing film of 1990 and the character is one of the most-cited movie boyfriends in retrospective rom-com lists. This is direct quantitative evidence that the cultural-power of a heartthrob is not strongly coupled to slider-stacking — devotion, tragedy, and iconic scenes (the pottery sequence + "Unchained Melody") generate enormous cultural weight on their own. The graph annotations should make clear that *Ghost*'s success is essentially uncorrelated with Sam's universal-desirable trait stack.
+- **Investment-banker income is moderate-to-high but not stack-tier.** The ticket explicitly flagged the income reading: "moderate-to-high." A 1990 NYC investment banker at Sam's career stage (apparently mid-VP, sharing office space and projects with peer Carl Bruner) would have earned mid-six to low-seven figures in nominal dollars — comfortably top-1–5% of US earners but well below the $10M/yr threshold the project uses for the income trait. Following the project's strict threshold-method definition, income does NOT count. A reviewer wanting a more granular income trait would land Sam at top-1–5% (≈0.01–0.05), which would shift his joint by 20–100x toward more rare (~1e-5 to 1e-4) — still well above the personality-archetype heartthrob tier but not into slider-maxed territory. The qualitative finding (personality-dominant mode) survives either reading.
+- **Intelligence borderline call.** Sam's discovery of the bank-fraud accounting discrepancy is a moderate-intelligence narrative device, not a coded-genius moment. Investment bankers as a population skew above the IQ mean (selection on quantitative aptitude) but do NOT cluster at ≥130 — the conditional rate of 130+ IQ among investment bankers is plausibly ~10–15%, well above the population 2% but still well below "automatic." The honest read is that Sam is depicted as competent and observant, not as a Christian-Grey-tier prodigy. Excluded from the joint; flagged here for transparency. A reviewer who counts IQ for any white-collar professional would push Sam's joint to ~2e-5, still firmly in personality-archetype territory.
+- **Patrick Swayze's dance background is the strongest fitness case in the project.** Swayze is one of the most physically credentialed actors in the project's character set — classically trained ballet dancer (Harkness, Joffrey), martial artist, weight trainer. The character's body composition reads top-quintile fitness without ambiguity. The fitness marginal (0.20) is conservative for Sam — the conditional rate for "professional ballet-trained dancer + martial artist" is essentially top-decile or higher (~0.05–0.10) — but the project uses the marginal as a bright-line standard, not a fine-grained calibration. No adjustment on this point; flagged for completeness.
+- **The 1980s-vs-1990s slot question.** *Ghost* released July 1990 and is canonically a 1990 film. The project's heartthrobs.md lock placed Sam Wheat in the 1980s slot (likely as the cusp-character closing out the 80s in the female-target stratum). This mapping is a methodological choice rather than a strict-calendar one and does not affect the trait math; flagged for project-level review only.
+- **Tragic-death amplifier.** The character's central narrative beat (he dies in act 1 and persists as a ghost) is a *narrative-structure* trait — it dramatically inflates audience emotional engagement (immortalized-through-loss is one of the strongest romantic templates in fiction), but it does not enter the universal-desirable trait calc. Per plan, "tragic-death" is essentially a personality/circumstance-coded element. Flagged because the unadjusted stack rarity (~1e-3) drastically understates Sam's *cultural* improbability — the cultural standing is dominated by the death-and-devotion narrative engine, which the project's universal-desirable framework deliberately does not measure.
+- **Compared to other female-targeted leads processed so far.** Adjusted joint probability (~1e-3) places Sam Wheat at the **moderate-rarity floor** of the female-targeted distribution processed to date — least rare among the 13 female-target characters processed (decade slots 003, 005, 007, 009, 011, 013, 015, 017, 019, 021, 023, 025, 027, 029, 031, with Sam now joining as 033). His position is driven entirely by demographic/physical traits (fitness, age, family status), with ZERO skill-stacking, ZERO wealth-tier, ZERO height. This makes Sam an essential within-distribution data point for the final graph: he establishes the *low-rarity tail* of the female-target distribution, anchoring the spread that the slider-maxed Christian Grey / Edward Cullen tier extends at the high-rarity end. Without "regular guys" like Sam Wheat in the dataset, the project would systematically overstate the gendered axe-grind framing — Sam is direct evidence that not all female-target heartthrobs are slider-maxed.
+
+<!-- COMPLETE -->

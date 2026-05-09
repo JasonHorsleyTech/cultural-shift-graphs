@@ -22,6 +22,7 @@ const LANG_NAMES: Record<string, string> = {
   el: 'Greek',
   en: 'English',
   es: 'Spanish',
+  'es-MX': 'Mexican Spanish',
   fa: 'Persian',
   fi: 'Finnish',
   fr: 'French',

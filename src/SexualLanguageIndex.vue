@@ -11,7 +11,9 @@ import {
 
 const LANG_NAMES: Record<string, string> = {
   am: 'Amharic',
-  ar: 'Arabic',
+  ar: 'Arabic (MSA)',
+  'ar-EG': 'Egyptian Arabic',
+  'ar-LB': 'Lebanese Arabic',
   bg: 'Bulgarian',
   bn: 'Bengali',
   cs: 'Czech',
@@ -30,8 +32,10 @@ const LANG_NAMES: Record<string, string> = {
   id: 'Indonesian',
   it: 'Italian',
   ja: 'Japanese',
+  km: 'Khmer',
   ko: 'Korean',
   ms: 'Malay',
+  my: 'Burmese',
   nl: 'Dutch',
   no: 'Norwegian',
   pl: 'Polish',

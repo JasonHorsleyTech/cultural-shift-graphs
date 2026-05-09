@@ -1,0 +1,363 @@
+# Khmer — sexually-charged vocabulary dump
+# Romanization in parentheses for non-Latin scripts.
+# No definitions. No scoring. Just words, one per line.
+
+## Organs — penis (clinical)
+- លិង្គ (ling-ga)
+- ផ្នែកភេទប្រុស (phnaek phet bros)
+- ទ្វារភេទប្រុស (tvea phet bros)
+- ស្ពុង (spong)
+- ក្រពេញប្រូស្ទាត (krapoeng prostat)
+
+## Organs — penis (slang/crude)
+- ចុង (chong)
+- ជ (cho)
+- ចំ (cham)
+- ឡំ (lom)
+- ចំណោ (chamno)
+- ជ្រូ (jroo)
+- ចំ​ហ្រ (chamhr)
+- ជួង (chuong)
+
+## Organs — vagina (clinical)
+- យោនី (yo-ni)
+- ទ្វារស្ត្រី (tvea srey)
+- ផ្នែកភេទស្ត្រី (phnaek phet srey)
+- ស្ករ (skar)
+- ស្ត្រីលិង្គ (srey ling-ga)
+
+## Organs — vagina (slang/crude)
+- ចូទ (choot)
+- ចួ (chuo)
+- ក (ko)
+- ខ (kho)
+- ស្ស (ss)
+- ចំ​ស្ត្រី (cham srey)
+
+## Organs — testicles (clinical)
+- ពង (pong)
+- ស្ពុង (spong)
+- ពងតម (pong tom)
+
+## Organs — testicles (slang/crude)
+- ពងស (pongsaa)
+- ពង (pong)
+- ក្រាប (kraab)
+- ១​ (muoy)
+
+## Organs — breasts (clinical)
+- ដោះ (dah)
+- ក្រពេញ​ (krapoeng)
+- ទ្រូង​ (trong)
+
+## Organs — breasts (slang/crude)
+- ដោះ (dah)
+- ថ្ទែ (thdae)
+- ឡ (la)
+- លូ (loo)
+
+## Organs — anus (clinical)
+- ចន្លះ (chanlas)
+- ប្រហោង (prohong)
+- ផ្នែក​ចុងក្រោយ (phnaek chong kraoy)
+- ច្រាំ (chram)
+
+## Organs — anus (slang/crude)
+- ចន្លះ (chanlas)
+- ប្រហោងខ្នង (prohong khnong)
+- ហ្គ (ge)
+- ប្រ (bro)
+
+## Organs — clitoris (clinical)
+- ចំណុចស្ត្រី (chamnoch srey)
+- ប្ញ (pnh)
+- ខ្ទឹម (khteum)
+
+## Organs — clitoris (slang/crude)
+- ចំណោ​ស្ត្រី (chamno srey)
+- ចំ​ស (cham sa)
+
+## Acts — intercourse (clinical)
+- ការរួមភេទ (kar ruom phet)
+- ទំនាក់ទំនងភេទ (tomnak tomneang phet)
+- ការ​ ​ក្នុងភេទ (kar knong phet)
+- ភ្ជាប់​ភេទ (phchoab phet)
+
+## Acts — intercourse (slang/crude)
+- ចូទ (choot)
+- ធ្វើ (thveu)
+- ចូ (choo)
+- ដេករួម (daek ruom)
+- ចូ​ហ្គ (choo ge)
+- ផ្ទួន (phtouon)
+- ចូ​ (choo)
+- ជ (cho)
+
+## Acts — fellatio (clinical)
+- ភេទ​មាត់ (phet moat)
+- ការ​ (kar phet moat)
+- ទំនាក់ភេទ​មាត់ (tomnak phet moat)
+
+## Acts — fellatio (slang/crude)
+- ជ្រក​ (jrak)
+- ចូ​មាត់ (choo moat)
+- ជ​មាត់ (cho moat)
+- ច្រក (chrak)
+
+## Acts — cunnilingus (clinical)
+- ភេទ​មាត់​ស្ត្រី (phet moat srey)
+- ទំនាក់​ភេទ​មាត់​ស្ត្រី (tomnak phet moat srey)
+
+## Acts — cunnilingus (slang/crude)
+- ស​ (sa)
+- ជ​ចូទ (cho choot)
+- ស​ចូទ (sa choot)
+
+## Acts — masturbation (clinical)
+- ការ​ (kar)
+- ដៃ​ (day)
+- ការ​​ ​ (kar phet khnong)
+- ការ​រំ​ (kar rom)
+
+## Acts — masturbation (slang/crude)
+- ច​ (cha)
+- ដៃ​ (day)
+- ខ​ (kho)
+- ត​ (to)
+- ច​ (cha)
+
+## Acts — anal intercourse (clinical)
+- ការ​ (kar chong)
+- ទំនាក់ភេទ​ (tomnak phet chanlas)
+- ចន្លះ (chanlas) [as act]
+
+## Acts — anal intercourse (slang/crude)
+- ចូ​ចន្លះ (choo chanlas)
+- ចូ​ (choo prohong)
+- ជ​ (cho chanlas)
+
+## Acts — rape / sexual assault (clinical)
+- ការរំ​លោភ (kar romplob)
+- ចាប់​រំ​លោភ (chab romplob)
+- ការ​ (kar kab phet)
+- ការ​ (kar blan phet)
+- ឧក្រិដ្ឋ​ (ukkrott phet)
+
+## Acts — rape / sexual assault (slang/crude)
+- ប្លន់​ (plon)
+- ជ​ (cho) [as assault]
+- ចាប់​ (chab)
+
+## Fluids and physical states
+- ទឹករំពេច (teuk rompech)
+- ទឹកផ្ទុំ (teuk phtum)
+- ទឹកស (teuk sa)
+- ទឹក​ (teuk) [generic fluid euphemism]
+- ការ​រឹង (kar reng)
+- រឹង (reng)
+- ចេញ​ (chenh)
+- ឡើង (laeng)
+- ជំរាំ (chumream)
+- ទឹក​ (teuk srey)
+- ការ​ (kar chenh)
+
+## Desire / arousal / descriptors
+- ចំណង់ (chamn-ang)
+- ស្រេក (sraek)
+- ចង់ (chong)
+- ក្ដៅ (k'dav)
+- ចំណង់​ (chamn-ang phet)
+- រំ​ (rom)
+- ស្រ​ (sra)
+- ហ​ (ho)
+- ស្ត្រី​ (srey khet)
+- ស្ពើ (speu)
+- ស្រ​ (sra)
+- សសៃ (sosay)
+- ចិត្ត​ (chet phet)
+- ព្ញ (pnh)
+- ស្ករ (skar) [sweet → sexually appealing]
+- ម្ប​ (mba)
+- ស្ជ​ (sja)
+- ស្ត​ (sta) [frigid, passionless]
+- ត​ (to khet) [emotionally cold in sexual sense]
+
+## Identities / orientations — clinical
+- ភេទ​ (phet)
+- ផ្លូវភេទ (phlov phet)
+- ស​ (somrak ruom phet)
+- ស​ (sapey)
+- ភ​ (phlov phet)
+- ស​ (sompheas phet)
+
+## Identities / orientations — slang / neutral
+- ប្រុស​ (pros pros)
+- ស្រី​ (srey srey)
+- ខ្ទើយ (khteuey)
+- ស្រីក្លែង (srey kleng)
+- ប្រុស​ស្រី (bros srey)
+- ស្រី​ (srey pros)
+- ត្រង់ (trong)
+- ចែ (chae)
+- ស​ (sapey)
+
+## Identities / orientations — slurs
+- ចែ (chae)
+- ស្រីខ្ទើយ (srey khteuey)
+- ជ្រូក (jrook)
+- ចំ​ (cham)
+- ក (ko) [derogatory for effeminate man]
+- ហ្គេ (ge)
+- ឡ (la)
+- ប្រ (bro)
+- ស (sa) [pejorative LGBTQ context]
+
+## Insults built from sexual vocabulary
+- ចូទ (choot) [as expletive]
+- ចូ​ (choo)
+- ជ (cho) [as expletive]
+- ស្រីខូច (srey khoach)
+- ស្រីច្រើន (srey chraen)
+- ពេស្យា (pey-sa) [as insult]
+- ស្រីហ (srey ho)
+- ស្រី (srey) [derogatory for man]
+- ចំ​ (cham) [as slur]
+- ជ​ (cho mae)
+- ស (sa)
+- ខ​ (kho)
+- ជ​ (cho mae khom) [motherfucker-equivalent]
+- ស​ (sa choot)
+- ប​ (bo)
+- ចូទ​ (choot mae)
+- ចំ​ (cham)
+
+## Sex work and pornography
+- ពេស្យា (pey-sa)
+- ស្រ្ត​ីលក់ (srey luk)
+- ស្រ្ត​ីលក់ខ្លួន (srey luk khluon)
+- ស្រ្ត​ីដំណើរ (srey domnaeur)
+- ឈ្មួញ (chhmouanh)
+- ម្ចាស់ (mchah)
+- ផ្ទះក្រហម (phteah krahom)
+- ផ្ទះ​ (phteah phet)
+- ហ្វ្លីម X (flim X)
+- ហ្វ្លីម (flim)
+- ហ្វ្លីម​ (flim srey)
+- ស​ (som luk)
+- ក​ (kar luk)
+- ស​ (sapey luk)
+- ផ្ទះ​ (phteah rompung)
+- ហ​ (ho)
+- ខ​ (kho)
+
+## Reproductive / contraceptive (sexually charged)
+- ស្រោម (sraom)
+- ស្រោម​អនាម័យ (sraom anamey)
+- ថង់ (thong)
+- ទប​ (top)
+- ប​ (bo)
+- ការពារ​ (karpea)
+- ស​ (sraom)
+- ស​ (som pov)
+
+## Kink / fetish / paraphilia
+- ចង (chong) [bind/tie]
+- ចំ​ (cham) [restraint context]
+- ស​ (sa)
+- ហ​ (ho)
+- ជ​ (cho) [dominance context]
+- ម​ (mo)
+- ចំ​ (cham) [BDSM compound]
+- ស​ (sa)
+- ខ​ (kho)
+- ហ​ (ho)
+
+## Euphemisms and idioms
+- ដេករួម (daek ruom)
+- ដេក​ (daek cheamouey)
+- ធ្វើ​ (thveu)
+- ធ្វើការ​ (thveu kar)
+- ចូល​ (chol phteah)
+- ចូល​ (chol)
+- ភ្ជាប់ (phchoab)
+- ស្ងាត់​ (sngate)
+- ក្ញ (knh)
+- សសៃ​ (sosay cheamouey)
+- ផ្អែម (ph'aem)
+- រស់​ (ros nov cheamouey)
+- ស​ (sa)
+- ហ​ (ho)
+- ប​ (bo)
+
+## Archaic / literary / dated
+- ពេស្យា (pey-sa) [Sanskrit classical]
+- យោនី (yo-ni) [Sanskrit classical]
+- លិង្គ (ling-ga) [Sanskrit classical]
+- ព្រហ្ម​ (brahma) [in compound reference to abstinence]
+- សសៃ (sosay) [literary desire]
+- ម​ (mo) [poetic desire term]
+- ស​ (sa) [classical love poetry term]
+- ស​ (sa phet) [classical register for sexuality]
+- ម​ (mo) [archaic verb for desire]
+- ក​ (ka) [archaic]
+- ហ​ (ho) [archaic desire]
+
+## Internet / subculture
+- ហ្គេ (ge)
+- ឡែស (laes)
+- ប (bi)
+- ត្រង់ (trong)
+- ខ្ទើយ (khteuey) [internet reinforced]
+- ហ្វ្លីម X (flim X)
+- ស​ (sapey)
+- ត (to)
+- ចំ​ (cham) [internet slur]
+- ណូ (no)
+- ស​ (sa)
+- ហ (ho)
+- ប (bo)
+- ឡ (la)
+- ស​ (ss)
+- ខ (kho)
+
+## Culture-specific — ខ្ទើយ system (third-gender / kathoey category)
+- ខ្ទើយ (khteuey)
+- ស្រីខ្ទើយ (srey khteuey)
+- ប្រុស​ខ្ទើយ (bros khteuey)
+- ស្រីក្លែង (srey kleng)
+- ប្រុស​ស្រី (bros srey)
+- ចែ (chae)
+- ក (ko) [effeminate derogatory]
+- ស​ (sa) [effeminate derogatory]
+- ខ​ (kho) [third-gender person]
+- ស្ត្រី​ (srey) [applied to a man, derogatory]
+- ស​ (sapey bros srey)
+- ហ​ (ho khteuey)
+
+## Culture-specific — Buddhist moral framework for sexuality
+- ព្រហ្ម​ចរ្យ (brahmacharya)
+- សីល (sil)
+- ខុស​ (khos phet)
+- ស​ (som phet)
+- ការ​ (kar khos phet)
+- ភ​ (pha)
+- ស​ (sa)
+- ស​ (sa) [sexual misconduct, Buddhist third precept context]
+- ករ​ (kar)
+- ហ​ (ho)
+
+## Culture-specific — female sexual honor / shame vocabulary
+- ស្ដីចំ (sdey cham)
+- ស​ (sa)
+- ស​ (srey khoach)
+- ស​ (srey) [dishonored woman]
+- ក​ (kar srey)
+- ស្ត្រីស (srey sa)
+- ហ​ (ho)
+- ខ​ (kho)
+- ការ (kar) [honor-based context]
+- ស​ (sa)
+- ស (sa phet srey)
+- ហ​ (ho phet)
+- ស​ (sa) [euphemism for rape affecting honor]
+- ស​ (srey khluon dey) [woman of the earth — rural derogatory for loose woman]

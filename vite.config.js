@@ -27,6 +27,7 @@ export default defineConfig({
         scienceToActionLag: resolve(root, 'graphable/science-to-action-lag/index.html'),
         sexualLanguageIndex: resolve(root, 'graphable/sexual-language-index/index.html'),
         churchOrganistDecline: resolve(root, 'graphable/church-organist-decline/index.html'),
+        manStack: resolve(root, 'graphable/man-stack/index.html'),
       },
     },
   },

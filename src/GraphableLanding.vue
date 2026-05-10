@@ -120,6 +120,15 @@
         </a>
         <span class="text-[var(--text-muted)] text-sm ml-2">(24,000+ terms, novel concepts, M/F ratios)</span>
       </li>
+      <li>
+        <a
+          href="/graphable/man-stack/"
+          class="underline decoration-2 underline-offset-4 hover:decoration-[var(--text-muted)]"
+        >
+          The Man Stack
+        </a>
+        <span class="text-[var(--text-muted)] text-sm ml-2">(50 cultural heartthrobs, joint-probability rarity, 1980s–2020s)</span>
+      </li>
     </ul>
 
     <hr class="mt-12 border-[var(--border)]" />

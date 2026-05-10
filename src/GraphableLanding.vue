@@ -141,9 +141,9 @@
           href="/graphable/church-organist-decline/"
           class="underline decoration-2 underline-offset-4 hover:decoration-[var(--text-muted)]"
         >
-          Did the church organist die?
+          Did the church organist die? (And the jazz pianist?)
         </a>
-        <span class="text-[var(--text-muted)] text-sm ml-2">(estimated, with uncertainty bands — for my dad)</span>
+        <span class="text-[var(--text-muted)] text-sm ml-2">(two parallel deaths, normalized for comparison — for my dad)</span>
       </li>
     </ul>
 

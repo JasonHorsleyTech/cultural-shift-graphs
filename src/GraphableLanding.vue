@@ -129,6 +129,15 @@
         </a>
         <span class="text-[var(--text-muted)] text-sm ml-2">(50 cultural heartthrobs, joint-probability rarity, 1980s–2020s)</span>
       </li>
+      <li>
+        <a
+          href="/graphable/simultaneous-with-friends/"
+          class="underline decoration-2 underline-offset-4 hover:decoration-[var(--text-muted)]"
+        >
+          Simultaneous with friends
+        </a>
+        <span class="text-[var(--text-muted)] text-sm ml-2">(19 everyday acts — how long until you're doing the same thing as one of your 50 friends?)</span>
+      </li>
     </ul>
 
     <hr class="mt-12 border-[var(--border)]" />

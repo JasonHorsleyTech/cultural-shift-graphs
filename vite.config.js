@@ -28,6 +28,7 @@ export default defineConfig({
         sexualLanguageIndex: resolve(root, 'graphable/sexual-language-index/index.html'),
         churchOrganistDecline: resolve(root, 'graphable/church-organist-decline/index.html'),
         manStack: resolve(root, 'graphable/man-stack/index.html'),
+        simultaneousWithFriends: resolve(root, 'graphable/simultaneous-with-friends/index.html'),
       },
     },
   },

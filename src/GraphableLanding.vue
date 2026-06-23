@@ -163,6 +163,15 @@
         </a>
         <span class="text-[var(--text-muted)] text-sm ml-2">(federal, state/local, and charity vs. % of Americans homeless, 2007–2024)</span>
       </li>
+      <li>
+        <a
+          href="/graphable/status-competence-grid/"
+          class="underline decoration-2 underline-offset-4 hover:decoration-[var(--text-muted)]"
+        >
+          Aragorn vs. Mr. Darcy: the status–competence grid
+        </a>
+        <span class="text-[var(--text-muted)] text-sm ml-2">(29 heartthrobs, an "earned line," and a Jane Austen spotlight — subjective and proud of it)</span>
+      </li>
     </ul>
 
     <hr class="mt-12 border-[var(--border)]" />

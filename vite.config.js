@@ -30,6 +30,7 @@ export default defineConfig({
         manStack: resolve(root, 'graphable/man-stack/index.html'),
         simultaneousWithFriends: resolve(root, 'graphable/simultaneous-with-friends/index.html'),
         homelessnessSpending: resolve(root, 'graphable/homelessness-spending/index.html'),
+        statusCompetenceGrid: resolve(root, 'graphable/status-competence-grid/index.html'),
       },
     },
   },

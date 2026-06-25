@@ -172,6 +172,15 @@
         </a>
         <span class="text-[var(--text-muted)] text-sm ml-2">(29 heartthrobs, an "earned line," and a Jane Austen spotlight — subjective and proud of it)</span>
       </li>
+      <li>
+        <a
+          href="/graphable/richest-man-in-the-world/"
+          class="underline decoration-2 underline-offset-4 hover:decoration-[var(--text-muted)]"
+        >
+          The richest man in the world, in gold and in incomes
+        </a>
+        <span class="text-[var(--text-muted)] text-sm ml-2">(1002–2026, log-spaced — pounds of gold and average incomes controlled, error bars and all)</span>
+      </li>
     </ul>
 
     <hr class="mt-12 border-[var(--border)]" />

@@ -31,6 +31,7 @@ export default defineConfig({
         simultaneousWithFriends: resolve(root, 'graphable/simultaneous-with-friends/index.html'),
         homelessnessSpending: resolve(root, 'graphable/homelessness-spending/index.html'),
         statusCompetenceGrid: resolve(root, 'graphable/status-competence-grid/index.html'),
+        richestManInTheWorld: resolve(root, 'graphable/richest-man-in-the-world/index.html'),
       },
     },
   },

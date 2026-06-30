@@ -32,6 +32,8 @@ export default defineConfig({
         homelessnessSpending: resolve(root, 'graphable/homelessness-spending/index.html'),
         statusCompetenceGrid: resolve(root, 'graphable/status-competence-grid/index.html'),
         richestManInTheWorld: resolve(root, 'graphable/richest-man-in-the-world/index.html'),
+        forAmy: resolve(root, 'graphable/4amy/index.html'),
+        // rule-magnets: parked — sketch kept in src/ but not deployed (Jason wants to rethink the concept, 2026-06-29)
       },
     },
   },
